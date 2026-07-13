@@ -78,6 +78,46 @@ function showInAppBanner() {
   document.getElementById('copyLinkBtn').addEventListener('click', copyLink);
 }
 
+// ---------------- Google 翻譯發音（免設定、自動優先使用） ----------------
+// 用跟 Google 翻譯網站相同的公開語音端點播放，音質接近真人、不需要使用者做任何設定。
+// 如果網路擋掉或播放失敗，會自動退回瀏覽器內建語音（Premium/Samantha 等）。
+let gttsAudioEl = null;
+let usingFallbackNotified = false;
+
+function getGttsAudioEl() {
+  if (!gttsAudioEl) {
+    gttsAudioEl = document.createElement('audio');
+    gttsAudioEl.style.display = 'none';
+    document.body.appendChild(gttsAudioEl);
+  }
+  return gttsAudioEl;
+}
+
+function speakViaGoogle(text) {
+  // 單次請求長度有限，太長的句子直接用瀏覽器語音比較穩定
+  if (text.length > 190) return false;
+  const audio = getGttsAudioEl();
+  const url = 'https://translate.google.com/translate_tts?ie=UTF-8&client=gtx&tl=en&q=' + encodeURIComponent(text);
+  audio.onerror = () => fallbackNotifyOnce(text);
+  audio.src = url;
+  const p = audio.play();
+  if (p && p.catch) p.catch(() => fallbackNotifyOnce(text));
+  return true;
+}
+
+function fallbackNotifyOnce(text) {
+  playViaBrowserTTS(text);
+  if (!usingFallbackNotified) {
+    usingFallbackNotified = true;
+    toast('無法連線發音服務，已改用系統內建語音');
+    const hint = document.getElementById('voiceHint');
+    if (hint) {
+      hint.style.display = 'block';
+      hint.textContent = '目前無法連線到線上發音服務，已改用系統內建語音。若發音較機械，可到系統設定安裝 Premium／Enhanced 等高品質英文語音。';
+    }
+  }
+}
+
 // ---------------- 語音（固定嘗試 Samantha） ----------------
 let allVoices = [];
 let pickedVoice = null;
@@ -95,41 +135,22 @@ function scoreVoice(v) {
   return score;
 }
 
+// 準備好瀏覽器語音當備援（Google 發音服務連不上時才會用到）
 function pickVoice() {
   allVoices = window.speechSynthesis ? window.speechSynthesis.getVoices() : [];
   const english = allVoices.filter(v => v.lang.startsWith('en'));
 
-  // 最優先：Premium / Enhanced / Neural 等高品質語音（比 Samantha 自然很多）
   const premium = english.filter(v => /premium|enhanced|neural/i.test(v.name));
   if (premium.length) {
     pickedVoice = premium.slice().sort((a, b) => scoreVoice(b) - scoreVoice(a))[0];
-    updateVoiceHint();
     return;
   }
 
-  // 其次：Samantha（macOS 內建標準語音，穩定但較機械）
   const samantha = allVoices.find(v => v.name.toLowerCase().includes('samantha'));
-  if (samantha) { pickedVoice = samantha; updateVoiceHint(); return; }
+  if (samantha) { pickedVoice = samantha; return; }
 
-  // 最後：一般評分挑選
   const pool = english.length ? english : allVoices;
   pickedVoice = pool.slice().sort((a, b) => scoreVoice(b) - scoreVoice(a))[0] || null;
-  updateVoiceHint();
-}
-
-function updateVoiceHint() {
-  const hint = document.getElementById('voiceHint');
-  if (!hint) return;
-  const name = pickedVoice ? pickedVoice.name.toLowerCase() : '';
-  const isGood = pickedVoice && (name.includes('samantha') || /premium|enhanced|neural/i.test(name));
-  if (isGood) {
-    hint.style.display = 'none';
-    return;
-  }
-  hint.style.display = 'block';
-  hint.textContent = pickedVoice
-    ? `目前使用「${pickedVoice.name}」，發音較機械。Mac 可到「系統設定 > 輔助使用 > 講述內容 > 系統語音 > 管理語音」下載 Ava／Zoe（Premium）等高品質語音，發音會自然很多。`
-    : '此瀏覽器沒有可用的語音，請改用 Safari 或 Chrome 開啟。';
 }
 
 if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
@@ -146,6 +167,11 @@ function saveRate(r) {
 }
 
 function speak(text) {
+  const started = speakViaGoogle(text);
+  if (!started) playViaBrowserTTS(text);
+}
+
+function playViaBrowserTTS(text) {
   if (!('speechSynthesis' in window)) {
     toast('此瀏覽器不支援語音朗讀');
     return;
@@ -187,7 +213,6 @@ function renderControls() {
     hint.style.display = 'none';
     holder.insertAdjacentElement('afterend', hint);
   }
-  updateVoiceHint();
 }
 
 // ---------------- 導覽列 ----------------
