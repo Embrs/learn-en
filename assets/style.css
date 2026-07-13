@@ -254,19 +254,31 @@ button.star.mini.active { background: #fff3d6; }
 
 /* ---- 歷史列表 ---- */
 .day-list { list-style: none; padding: 0; margin: 0; }
-.day-list li {
+.day-list li { margin-bottom: 12px; }
+.day-list a {
   background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: var(--radius-md);
   padding: 15px 18px;
-  margin-bottom: 12px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   box-shadow: var(--shadow);
+  text-decoration: none;
+  color: var(--text);
+  touch-action: manipulation;
 }
-.day-list a { text-decoration: none; font-weight: 700; font-size: 15px; color: var(--text); }
+.day-list a:active { background: #f4f5f8; transform: scale(0.99); }
+.day-list .day-info {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 0;
+}
+.day-list .date { font-weight: 700; font-size: 15px; }
 .day-list .theme { color: var(--muted); font-size: 13px; margin-left: 12px; white-space: nowrap; }
+.day-list .chevron { color: #c6c9d2; margin-left: 12px; font-size: 18px; flex-shrink: 0; }
 
 /* ---- 收藏頁 ---- */
 .fav-card { position: relative; }

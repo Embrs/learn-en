@@ -326,7 +326,15 @@ function renderArchiveList() {
       if (!days.length) { holder.innerHTML = '<li>尚無資料</li>'; return; }
       days.slice().reverse().forEach(d => {
         const li = document.createElement('li');
-        li.innerHTML = `<a href="${d.file}">${d.date}</a><span class="theme">${d.theme}・${d.count}句</span>`;
+        li.innerHTML = `
+          <a href="${d.file}">
+            <span class="day-info">
+              <span class="date">${d.date}</span>
+              <span class="theme">${d.theme}・${d.count}句</span>
+            </span>
+            <span class="chevron">›</span>
+          </a>
+        `;
         holder.appendChild(li);
       });
     })
