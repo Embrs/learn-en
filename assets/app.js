@@ -78,75 +78,9 @@ function showInAppBanner() {
   document.getElementById('copyLinkBtn').addEventListener('click', copyLink);
 }
 
-// ---------------- Google 翻譯發音（免設定、自動優先使用） ----------------
-// 用跟 Google 翻譯網站相同的公開語音端點播放，音質接近真人、不需要使用者做任何設定。
-// 如果連不上，會在「頁面載入時」先偵測好，之後點擊播放才不會因為非同步失敗而導致瀏覽器語音被靜音擋掉
-// （iOS Safari 等瀏覽器規定 speechSynthesis 必須在使用者點擊的當下同步呼叫，晚一步呼叫會被無聲吃掉）。
-let gttsAudioEl = null;
-let googleTtsAvailable = null; // null=尚未偵測完成（先當作可用），true=可用，false=不可用
-let usingFallbackNotified = false;
-
-function getGttsAudioEl() {
-  if (!gttsAudioEl) {
-    gttsAudioEl = document.createElement('audio');
-    gttsAudioEl.preload = 'none';
-    gttsAudioEl.style.display = 'none';
-    document.body.appendChild(gttsAudioEl);
-  }
-  return gttsAudioEl;
-}
-
-function gttsUrl(text) {
-  return 'https://translate.google.com/translate_tts?ie=UTF-8&client=gtx&tl=en&q=' + encodeURIComponent(text);
-}
-
-function probeGoogleTts() {
-  try {
-    const probe = new Audio();
-    let done = false;
-    const finish = (ok) => {
-      if (done) return;
-      done = true;
-      googleTtsAvailable = ok;
-      if (!ok) notifyFallbackOnce();
-    };
-    probe.oncanplaythrough = () => finish(true);
-    probe.onerror = () => finish(false);
-    probe.src = gttsUrl('hello');
-    probe.load();
-    setTimeout(() => finish(false), 3000);
-  } catch (e) {
-    googleTtsAvailable = false;
-  }
-}
-
-function notifyFallbackOnce() {
-  if (usingFallbackNotified) return;
-  usingFallbackNotified = true;
-  toast('無法連線發音服務，已改用系統內建語音');
-  const hint = document.getElementById('voiceHint');
-  if (hint) {
-    hint.style.display = 'block';
-    hint.textContent = '目前無法連線到線上發音服務，已改用系統內建語音。若發音較機械，可到系統設定安裝 Premium／Enhanced 等高品質英文語音。';
-  }
-}
-
-// 這個函式一定要在使用者點擊的「同一個呼叫堆疊」裡執行到底（不能等非同步結果才決定要不要換語音），
-// 否則部分瀏覽器會把之後才呼叫的 speechSynthesis 視為非使用者操作而靜音擋掉。
-function speakViaGoogle(text) {
-  if (text.length > 190) return false; // 太長的句子直接用瀏覽器語音比較穩定
-  if (googleTtsAvailable === false) return false; // 已知連不上，直接跳過
-  const audio = getGttsAudioEl();
-  audio.onerror = () => { googleTtsAvailable = false; notifyFallbackOnce(); };
-  audio.src = gttsUrl(text);
-  const p = audio.play();
-  if (p && p.catch) {
-    p.catch(() => { googleTtsAvailable = false; notifyFallbackOnce(); });
-  }
-  return true; // 已經在這次點擊裡嘗試播放；就算稍後失敗，下一次點擊會走瀏覽器語音
-}
-
-// ---------------- 語音（固定嘗試 Samantha） ----------------
+// ---------------- 語音（固定嘗試 Samantha／Premium） ----------------
+// 說明：原本想比照 Google 翻譯的線上發音服務，但實測 Google 現在會擋掉來自第三方網站的請求
+// （伺服器直接回應 503），沒辦法穩定使用，所以改回只用瀏覽器內建語音，並優先挑選較自然的語音。
 let allVoices = [];
 let pickedVoice = null;
 
@@ -195,13 +129,7 @@ function saveRate(r) {
 }
 
 function speak(text) {
-  // googleTtsAvailable 在頁面載入時就已經非同步偵測過了，這裡只是讀取結果，
-  // 所以無論走哪條路，都能在使用者點擊的當下「同步」呼叫到正確的播放函式。
-  if (googleTtsAvailable === false || text.length > 190) {
-    playViaBrowserTTS(text);
-    return;
-  }
-  speakViaGoogle(text);
+  playViaBrowserTTS(text);
 }
 
 function playViaBrowserTTS(text) {
@@ -465,5 +393,4 @@ document.addEventListener('DOMContentLoaded', () => {
   renderControls();
   renderArchiveList();
   renderFavoritesPage();
-  probeGoogleTts();
 });
