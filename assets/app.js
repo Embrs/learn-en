@@ -78,41 +78,15 @@ function showInAppBanner() {
   document.getElementById('copyLinkBtn').addEventListener('click', copyLink);
 }
 
-// ---------------- 語音（固定嘗試 Samantha／Premium） ----------------
-// 說明：原本想比照 Google 翻譯的線上發音服務，但實測 Google 現在會擋掉來自第三方網站的請求
-// （伺服器直接回應 503），沒辦法穩定使用，所以改回只用瀏覽器內建語音，並優先挑選較自然的語音。
+// ---------------- 語音（只用 Samantha） ----------------
 let allVoices = [];
 let pickedVoice = null;
 
-function scoreVoice(v) {
-  const name = v.name.toLowerCase();
-  let score = 0;
-  if (v.lang === 'en-US') score += 5;
-  else if (v.lang.startsWith('en')) score += 3;
-  if (/enhanced|premium|natural|neural/.test(name)) score += 10;
-  if (/ava|allison|susan|zoe|nicky|evan|tom|alex/.test(name)) score += 6;
-  if (/google/.test(name)) score += 4;
-  if (v.localService) score += 1;
-  if (/compact|espeak|robot/.test(name)) score -= 8;
-  return score;
-}
-
-// 準備好瀏覽器語音當備援（Google 發音服務連不上時才會用到）
+// 只找 Samantha，找不到就不指定語音（交給瀏覽器用該裝置的預設英文語音）
 function pickVoice() {
   allVoices = window.speechSynthesis ? window.speechSynthesis.getVoices() : [];
-  const english = allVoices.filter(v => v.lang.startsWith('en'));
-
-  const premium = english.filter(v => /premium|enhanced|neural/i.test(v.name));
-  if (premium.length) {
-    pickedVoice = premium.slice().sort((a, b) => scoreVoice(b) - scoreVoice(a))[0];
-    return;
-  }
-
   const samantha = allVoices.find(v => v.name.toLowerCase().includes('samantha'));
-  if (samantha) { pickedVoice = samantha; return; }
-
-  const pool = english.length ? english : allVoices;
-  pickedVoice = pool.slice().sort((a, b) => scoreVoice(b) - scoreVoice(a))[0] || null;
+  pickedVoice = samantha || null;
 }
 
 if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
@@ -137,13 +111,20 @@ function playViaBrowserTTS(text) {
     toast('此瀏覽器不支援語音朗讀');
     return;
   }
+  // Chrome 已知的怪癖：cancel() 之後馬上 speak() 有時會被靜音吞掉，
+  // 用 resume() + 一個極短的 setTimeout 讓瀏覽器先把佇列處理乾淨再講新的一句。
+  window.speechSynthesis.resume();
   window.speechSynthesis.cancel();
-  const u = new SpeechSynthesisUtterance(text);
-  u.lang = pickedVoice ? pickedVoice.lang : 'en-US';
-  if (pickedVoice) u.voice = pickedVoice;
   const rateRange = document.getElementById('rateRange');
-  u.rate = rateRange ? (parseFloat(rateRange.value) || 0.88) : loadRate();
-  window.speechSynthesis.speak(u);
+  const rate = rateRange ? (parseFloat(rateRange.value) || 0.88) : loadRate();
+  setTimeout(() => {
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = pickedVoice ? pickedVoice.lang : 'en-US';
+    if (pickedVoice) u.voice = pickedVoice;
+    u.rate = rate;
+    u.onerror = (e) => toast('播放失敗：' + (e.error || '未知錯誤'));
+    window.speechSynthesis.speak(u);
+  }, 30);
 }
 
 // ---------------- 發音設定列（動態插入） ----------------
