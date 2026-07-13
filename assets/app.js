@@ -113,15 +113,25 @@ function playViaBrowserTTS(text) {
   }
   // Safari 對 speechSynthesis 的規定很嚴格：一定要在使用者點擊的當下「同步」呼叫 speak()，
   // 中間不能有 setTimeout／await 等非同步延遲，否則會被直接靜音擋掉。所以這裡全部同步執行。
+  //
+  // Chrome 則有另一個已知 bug：明明沒有東西在播放，卻呼叫 cancel() 再馬上 speak()，
+  // 新的這句反而會立刻收到 "canceled" 錯誤而放不出聲音。所以只有「真的有東西在播放/排隊」時才 cancel()。
   window.speechSynthesis.resume();
-  window.speechSynthesis.cancel();
+  if (window.speechSynthesis.speaking || window.speechSynthesis.pending) {
+    window.speechSynthesis.cancel();
+  }
   const rateRange = document.getElementById('rateRange');
   const rate = rateRange ? (parseFloat(rateRange.value) || 0.88) : loadRate();
   const u = new SpeechSynthesisUtterance(text);
   u.lang = pickedVoice ? pickedVoice.lang : 'en-US';
   if (pickedVoice) u.voice = pickedVoice;
   u.rate = rate;
-  u.onerror = (e) => toast('播放失敗：' + (e.error || '未知錯誤'));
+  u.onerror = (e) => {
+    // "canceled"/"interrupted" 是使用者快速切換播放時的正常現象，不用跳錯誤提示
+    if (e.error !== 'canceled' && e.error !== 'interrupted') {
+      toast('播放失敗：' + (e.error || '未知錯誤'));
+    }
+  };
   window.speechSynthesis.speak(u);
 }
 
