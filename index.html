@@ -8,31 +8,16 @@
 </head>
 <body>
 
-<h1>每日英文・家庭生活</h1>
-<div class="tip">每天早上自動產生20句新的家庭生活英文例句，附中文翻譯、IPA音標、單字解析，並可點擊播放語音朗讀。每天的例句都會保留在下方歸檔列表。</div>
+<div id="siteHeader" class="site-header"></div>
 
-<h2 style="font-size:16px;margin:20px 0 10px;">歷史例句</h2>
-<ul class="day-list" id="dayList"><li>載入中...</li></ul>
+<div class="page">
+  <h1>每日英文・家庭生活</h1>
+  <div class="tip">每天早上自動產生20句新的家庭生活英文例句，附中文翻譯、IPA音標、單字解析，並可點擊播放語音朗讀。點句子或單字旁的 ☆ 可以收藏，之後在「⭐ 收藏」頁面隨時複習。</div>
 
-<script>
-fetch('archive.json')
-  .then(r => r.json())
-  .then(days => {
-    const list = document.getElementById('dayList');
-    list.innerHTML = '';
-    days.slice().reverse().forEach(d => {
-      const li = document.createElement('li');
-      li.innerHTML = `<a href="${d.file}">${d.date}</a><span class="theme">${d.theme}・${d.count}句</span>`;
-      list.appendChild(li);
-    });
-    if (days.length === 0) {
-      list.innerHTML = '<li>尚無資料</li>';
-    }
-  })
-  .catch(() => {
-    document.getElementById('dayList').innerHTML = '<li>讀取歸檔失敗</li>';
-  });
-</script>
+  <h2 style="font-size:16px;margin:20px 0 10px;">歷史例句</h2>
+  <ul class="day-list" id="dayList"><li>載入中...</li></ul>
+</div>
 
+<script src="assets/app.js"></script>
 </body>
 </html>

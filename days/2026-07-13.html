@@ -8,20 +8,19 @@
 </head>
 <body>
 
-<a class="back-link" href="../index.html">← 回歷史列表</a>
-<h1>2026年7月13日・今日英文 20 句（家庭生活）</h1>
-<div class="tip">點擊「▶ 播放整句」或單字旁的「🔊」即可朗讀（使用瀏覽器內建語音，固定嘗試使用 Samantha）。</div>
-<div class="tip" id="voiceHint" style="display:none"></div>
+<div id="siteHeader" class="site-header"></div>
 
-<div class="controls">
-  <span>🔊 語速：</span>
-  <input type="range" id="rateRange" min="0.6" max="1.2" step="0.05" value="0.88">
-  <span id="rateVal">0.88</span>
-  <button class="play" id="testBtn" style="background:#555">試聽</button>
+<div class="page">
+  <a class="back-link" href="../index.html">← 回歷史列表</a>
+  <h1>2026年7月13日・今日英文 20 句（家庭生活）</h1>
+  <div class="tip">點擊「▶ 播放整句」或單字旁的「🔊」朗讀，點 ☆ 可收藏喜歡的句子或單字。</div>
+
+  <div class="controls" id="controlsBar"></div>
+
+  <div id="list"></div>
 </div>
 
-<div id="list"></div>
-
+<script>window.PAGE_DATE = '2026-07-13';</script>
 <script src="../assets/app.js"></script>
 <script>
 const data = [
