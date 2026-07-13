@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026年7月10日・今日英文 20句（家庭生活）</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<div id="siteHeader" class="site-header"></div>
+
+<div class="page">
+  <a class="back-link" href="../index.html">← 回歷史列表</a>
+  <h1>2026年7月10日・今日英文 20 句（家庭生活）</h1>
+  <div class="tip">點擊「▶ 播放整句」或單字旁的「🔊」朗讀，點 ☆ 可收藏喜歡的句子或單字。</div>
+
+  <div class="controls" id="controlsBar"></div>
+
+  <div id="list"></div>
+</div>
+
+<script>window.PAGE_DATE = '2026-07-10';</script>
+<script src="../assets/app.js"></script>
+<script>
+const data = [
+  { en: "It's okay to feel sad, take a deep breath.", zh: "難過沒關係，深呼吸一下。", ipa: "/ɪts oʊˈkeɪ tuː fiːl sæd teɪk ə diːp breθ/",
+    vocab: [{ w: "breath", pos: "n.", ipa: "/breθ/", zh: "呼吸" }] },
+  { en: "Let's go to the park and get some fresh air.", zh: "我們去公園呼吸新鮮空氣吧。", ipa: "/lets ɡoʊ tuː ðə pɑːrk ənd ɡet sʌm freʃ er/",
+    vocab: [{ w: "fresh air", pos: "n.", ipa: "/freʃ er/", zh: "新鮮空氣" }] },
+  { en: "Be careful climbing on the jungle gym.", zh: "爬攀爬架要小心。", ipa: "/biː ˈkerfəl ˈklaɪmɪŋ ɑːn ðə ˈdʒʌŋɡl dʒɪm/",
+    vocab: [{ w: "jungle gym", pos: "n.", ipa: "/ˈdʒʌŋɡl dʒɪm/", zh: "攀爬架" }] },
+  { en: "Do you want to go down the slide again?", zh: "還想再溜一次滑梯嗎？", ipa: "/duː juː wɑːnt tuː ɡoʊ daʊn ðə slaɪd əˈɡen/",
+    vocab: [{ w: "slide", pos: "n.", ipa: "/slaɪd/", zh: "滑梯" }] },
+  { en: "Watch out for other kids on the swings.", zh: "盪鞦韆的時候要注意其他小朋友。", ipa: "/wɑːtʃ aʊt fɔːr ˈʌðər kɪdz ɑːn ðə swɪŋz/",
+    vocab: [{ w: "watch out", pos: "phr. v.", ipa: "/wɑːtʃ aʊt/", zh: "小心、注意" }] },
+  { en: "Let's calm down before we talk about it.", zh: "我們先冷靜下來再談這件事。", ipa: "/lets kɑːm daʊn bɪˈfɔːr wiː tɔːk əˈbaʊt ɪt/",
+    vocab: [{ w: "calm down", pos: "phr. v.", ipa: "/kɑːm daʊn/", zh: "冷靜下來" }] },
+  { en: "It's time to head home, say bye to your friends.", zh: "該回家了，跟朋友說再見。", ipa: "/ɪts taɪm tuː hed hoʊm seɪ baɪ tuː jʊər frendz/",
+    vocab: [{ w: "head home", pos: "phr.", ipa: "/hed hoʊm/", zh: "回家" }] },
+  { en: "Don't worry, everyone falls sometimes.", zh: "別擔心，每個人偶爾都會跌倒。", ipa: "/doʊnt ˈwɜːri ˈevriwʌn fɔːlz ˈsʌmtaɪmz/",
+    vocab: [{ w: "fall", pos: "v.", ipa: "/fɔːl/", zh: "跌倒" }] },
+  { en: "You can be upset, but no hitting.", zh: "你可以生氣，但不能打人。", ipa: "/juː kæn biː ʌpˈset bʌt noʊ ˈhɪtɪŋ/",
+    vocab: [{ w: "upset", pos: "adj.", ipa: "/ʌpˈset/", zh: "生氣、難過的" }] },
+  { en: "Let's bring your bike to the park today.", zh: "今天帶你的腳踏車去公園吧。", ipa: "/lets brɪŋ jʊər baɪk tuː ðə pɑːrk təˈdeɪ/",
+    vocab: [{ w: "bike", pos: "n.", ipa: "/baɪk/", zh: "腳踏車" }] },
+  { en: "He tends to melt down when he's overtired.", zh: "他太累的時候容易情緒崩潰。", ipa: "/hiː tendz tuː melt daʊn wen hiːz ˌoʊvərˈtaɪərd/",
+    vocab: [{ w: "melt down", pos: "phr. v.", ipa: "/melt daʊn/", zh: "情緒崩潰" }, { w: "overtired", pos: "adj.", ipa: "/ˌoʊvərˈtaɪərd/", zh: "過度疲累的" }] },
+  { en: "Giving him a few minutes to cool off usually helps.", zh: "給他幾分鐘冷靜通常有幫助。", ipa: "/ˈɡɪvɪŋ hɪm ə fjuː ˈmɪnɪts tuː kuːl ɔːf ˈjuːʒuəli helps/",
+    vocab: [{ w: "cool off", pos: "phr. v.", ipa: "/kuːl ɔːf/", zh: "冷靜下來" }] },
+  { en: "He's learning to use his words instead of just crying.", zh: "他正在學習用說的而不是只會哭。", ipa: "/hiːz ˈlɜːrnɪŋ tuː juːz hɪz wɜːrdz ɪnˈsted ʌv dʒʌst ˈkraɪɪŋ/",
+    vocab: [{ w: "instead of", pos: "phr.", ipa: "/ɪnˈsted ʌv/", zh: "而不是" }] },
+  { en: "It's amazing how fast his mood can flip once he's outside.", zh: "只要到戶外，他的心情轉變得超快。", ipa: "/ɪts əˈmeɪzɪŋ haʊ fæst hɪz muːd kæn flɪp wʌns hiːz ˌaʊtˈsaɪd/",
+    vocab: [{ w: "mood", pos: "n.", ipa: "/muːd/", zh: "心情" }, { w: "flip", pos: "v.", ipa: "/flɪp/", zh: "翻轉、轉變" }] },
+  { en: "He gets so competitive when he's racing his friends.", zh: "他跟朋友賽跑的時候超好勝。", ipa: "/hiː ɡets soʊ kəmˈpetətɪv wen hiːz ˈreɪsɪŋ hɪz frendz/",
+    vocab: [{ w: "competitive", pos: "adj.", ipa: "/kəmˈpetətɪv/", zh: "好勝的、有競爭心的" }] },
+  { en: "We try to validate his feelings before jumping to solutions.", zh: "我們會先認同他的感受，再談解決方法。", ipa: "/wiː traɪ tuː ˈvælɪdeɪt hɪz ˈfiːlɪŋz bɪˈfɔːr ˈdʒʌmpɪŋ tuː səˈluːʃənz/",
+    vocab: [{ w: "validate", pos: "v.", ipa: "/ˈvælɪdeɪt/", zh: "認同、肯定" }, { w: "solution", pos: "n.", ipa: "/səˈluːʃən/", zh: "解決方法" }] },
+  { en: "He was inconsolable until we distracted him with the swings.", zh: "他一直哭到我們用盪鞦韆轉移他的注意力才停。", ipa: "/hiː wʌz ˌɪnkənˈsoʊləbl ənˈtɪl wiː dɪˈstræktɪd hɪm wɪð ðə swɪŋz/",
+    vocab: [{ w: "inconsolable", pos: "adj.", ipa: "/ˌɪnkənˈsoʊləbl/", zh: "無法安慰的" }, { w: "distract", pos: "v.", ipa: "/dɪˈstrækt/", zh: "轉移注意力" }] },
+  { en: "Getting some outdoor time really helps burn off his energy.", zh: "讓他到戶外活動真的很能消耗他的精力。", ipa: "/ˈɡetɪŋ sʌm ˈaʊtdɔːr taɪm ˈriːli helps bɜːrn ɔːf hɪz ˈenərdʒi/",
+    vocab: [{ w: "burn off", pos: "phr. v.", ipa: "/bɜːrn ɔːf/", zh: "消耗（精力）" }, { w: "energy", pos: "n.", ipa: "/ˈenərdʒi/", zh: "精力" }] },
+  { en: "He's still working on taking turns without getting frustrated.", zh: "他還在學習輪流玩而不會覺得沮喪。", ipa: "/hiːz stɪl ˈwɜːrkɪŋ ɑːn ˈteɪkɪŋ tɜːrnz wɪˈðaʊt ˈɡetɪŋ ˈfrʌstreɪtɪd/",
+    vocab: [{ w: "frustrated", pos: "adj.", ipa: "/ˈfrʌstreɪtɪd/", zh: "沮喪的、挫折的" }] },
+  { en: "A little sunshine and fresh air can fix almost any mood.", zh: "曬點太陽、吹吹風幾乎能改善任何壞心情。", ipa: "/ə ˈlɪtl ˈsʌnʃaɪn ənd freʃ er kæn fɪks ˈɔːlmoʊst ˈeni muːd/",
+    vocab: [{ w: "sunshine", pos: "n.", ipa: "/ˈsʌnʃaɪn/", zh: "陽光" }, { w: "fix", pos: "v.", ipa: "/fɪks/", zh: "改善、修復" }] }
+];
+renderSentences(data);
+</script>
+
+</body>
+</html>

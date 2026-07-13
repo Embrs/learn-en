@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026年7月9日・今日英文 20句（家庭生活）</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<div id="siteHeader" class="site-header"></div>
+
+<div class="page">
+  <a class="back-link" href="../index.html">← 回歷史列表</a>
+  <h1>2026年7月9日・今日英文 20 句（家庭生活）</h1>
+  <div class="tip">點擊「▶ 播放整句」或單字旁的「🔊」朗讀，點 ☆ 可收藏喜歡的句子或單字。</div>
+
+  <div class="controls" id="controlsBar"></div>
+
+  <div id="list"></div>
+</div>
+
+<script>window.PAGE_DATE = '2026-07-09';</script>
+<script src="../assets/app.js"></script>
+<script>
+const data = [
+  { en: "Whose turn is it to play with that toy?", zh: "現在輪到誰玩那個玩具了？", ipa: "/huːz tɜːrn ɪz ɪt tuː pleɪ wɪð ðæt tɔɪ/",
+    vocab: [{ w: "turn", pos: "n.", ipa: "/tɜːrn/", zh: "輪流" }] },
+  { en: "Say sorry if you push your friend.", zh: "如果你推了朋友要說對不起。", ipa: "/seɪ ˈsɑːri ɪf juː pʊʃ jʊər frend/",
+    vocab: [{ w: "push", pos: "v.", ipa: "/pʊʃ/", zh: "推" }] },
+  { en: "Please put your shoes back in the closet.", zh: "請把鞋子放回鞋櫃。", ipa: "/pliːz pʊt jʊər ʃuːz bæk ɪn ðə ˈklɑːzɪt/",
+    vocab: [{ w: "closet", pos: "n.", ipa: "/ˈklɑːzɪt/", zh: "櫃子" }] },
+  { en: "Can you help me pick up these blocks?", zh: "可以幫我把積木撿起來嗎？", ipa: "/kæn juː help miː pɪk ʌp ðiːz blɑːks/",
+    vocab: [{ w: "block", pos: "n.", ipa: "/blɑːk/", zh: "積木" }] },
+  { en: "It's not nice to grab toys from others.", zh: "從別人手上搶玩具是不禮貌的。", ipa: "/ɪts nɑːt naɪs tuː ɡræb tɔɪz frʌm ˈʌðərz/",
+    vocab: [{ w: "grab", pos: "v.", ipa: "/ɡræb/", zh: "搶、抓" }] },
+  { en: "Let's take turns on the swing.", zh: "我們輪流玩鞦韆吧。", ipa: "/lets teɪk tɜːrnz ɑːn ðə swɪŋ/",
+    vocab: [{ w: "take turns", pos: "phr.", ipa: "/teɪk tɜːrnz/", zh: "輪流" }, { w: "swing", pos: "n.", ipa: "/swɪŋ/", zh: "鞦韆" }] },
+  { en: "Say please when you ask for something.", zh: "要東西的時候要說請。", ipa: "/seɪ pliːz wen juː æsk fɔːr ˈsʌmθɪŋ/",
+    vocab: [{ w: "ask for", pos: "phr. v.", ipa: "/æsk fɔːr/", zh: "要求" }] },
+  { en: "Where does this toy belong?", zh: "這個玩具應該放在哪裡？", ipa: "/wer dʌz ðɪs tɔɪ bɪˈlɔːŋ/",
+    vocab: [{ w: "belong", pos: "v.", ipa: "/bɪˈlɔːŋ/", zh: "屬於（某處）" }] },
+  { en: "Great manners, thank you for waiting patiently.", zh: "真有禮貌，謝謝你耐心等待。", ipa: "/ɡreɪt ˈmænərz θæŋk juː fɔːr ˈweɪtɪŋ ˈpeɪʃəntli/",
+    vocab: [{ w: "manners", pos: "n.", ipa: "/ˈmænərz/", zh: "禮貌、規矩" }, { w: "patiently", pos: "adv.", ipa: "/ˈpeɪʃəntli/", zh: "耐心地" }] },
+  { en: "Let's donate the toys you don't play with anymore.", zh: "我們把你不玩的玩具捐出去吧。", ipa: "/lets ˈdoʊneɪt ðə tɔɪz juː doʊnt pleɪ wɪð ˌeniˈmɔːr/",
+    vocab: [{ w: "donate", pos: "v.", ipa: "/ˈdoʊneɪt/", zh: "捐贈" }] },
+  { en: "He's learning that sharing doesn't mean losing his favorite toy forever.", zh: "他正在學習分享不代表永遠失去他最愛的玩具。", ipa: "/hiːz ˈlɜːrnɪŋ ðæt ˈʃerɪŋ ˈdʌzənt miːn ˈluːzɪŋ hɪz ˈfeɪvərɪt tɔɪ fərˈevər/",
+    vocab: [{ w: "sharing", pos: "n.", ipa: "/ˈʃerɪŋ/", zh: "分享" }, { w: "forever", pos: "adv.", ipa: "/fərˈevər/", zh: "永遠" }] },
+  { en: "It took some convincing, but he finally let his sister borrow it.", zh: "費了一番功夫，他終於願意讓妹妹借玩。", ipa: "/ɪt tʊk sʌm kənˈvɪnsɪŋ bʌt hiː ˈfaɪnəli let hɪz ˈsɪstər ˈbɑːroʊ ɪt/",
+    vocab: [{ w: "convince", pos: "v.", ipa: "/kənˈvɪns/", zh: "說服" }, { w: "borrow", pos: "v.", ipa: "/ˈbɑːroʊ/", zh: "借（入）" }] },
+  { en: "We're trying to teach him to take responsibility for his own mess.", zh: "我們正在教他為自己弄亂的東西負責。", ipa: "/wɪər ˈtraɪɪŋ tuː tiːtʃ hɪm tuː teɪk rɪˌspɑːnsəˈbɪləti fɔːr hɪz oʊn mes/",
+    vocab: [{ w: "responsibility", pos: "n.", ipa: "/rɪˌspɑːnsəˈbɪləti/", zh: "責任" }, { w: "mess", pos: "n.", ipa: "/mes/", zh: "亂七八糟" }] },
+  { en: "He's surprisingly good about cleaning up when there's a reward involved.", zh: "有獎勵的話，他收拾東西其實意外地乾脆。", ipa: "/hiːz sərˈpraɪzɪŋli ɡʊd əˈbaʊt ˈkliːnɪŋ ʌp wen ðerz ə rɪˈwɔːrd ɪnˈvɑːlvd/",
+    vocab: [{ w: "reward", pos: "n.", ipa: "/rɪˈwɔːrd/", zh: "獎勵" }] },
+  { en: "He gets so possessive over his toy cars.", zh: "他對他的玩具車佔有慾特別強。", ipa: "/hiː ɡets soʊ pəˈzesɪv ˈoʊvər hɪz tɔɪ kɑːrz/",
+    vocab: [{ w: "possessive", pos: "adj.", ipa: "/pəˈzesɪv/", zh: "佔有慾強的" }] },
+  { en: "I love watching him negotiate with his friends over toys.", zh: "我很喜歡看他跟朋友為了玩具談判的樣子。", ipa: "/aɪ lʌv ˈwɑːtʃɪŋ hɪm nɪˈɡoʊʃieɪt wɪð hɪz frendz ˈoʊvər tɔɪz/",
+    vocab: [{ w: "negotiate", pos: "v.", ipa: "/nɪˈɡoʊʃieɪt/", zh: "談判、協商" }] },
+  { en: "He's finally learned to ask before taking something.", zh: "他終於學會拿東西前要先問過。", ipa: "/hiːz ˈfaɪnəli lɜːrnd tuː æsk bɪˈfɔːr ˈteɪkɪŋ ˈsʌmθɪŋ/",
+    vocab: [{ w: "learn", pos: "v.", ipa: "/lɜːrn/", zh: "學會" }] },
+  { en: "Let's make cleanup time into a little game.", zh: "我們把收拾時間變成一個小遊戲吧。", ipa: "/lets meɪk ˈkliːnʌp taɪm ˈɪntuː ə ˈlɪtl ɡeɪm/",
+    vocab: [{ w: "cleanup", pos: "n.", ipa: "/ˈkliːnʌp/", zh: "清理、收拾" }] },
+  { en: "He was so proud when he organized his own toy bin.", zh: "他自己整理好玩具箱的時候超驕傲。", ipa: "/hiː wʌz soʊ praʊd wen hiː ˈɔːrɡənaɪzd hɪz oʊn tɔɪ bɪn/",
+    vocab: [{ w: "proud", pos: "adj.", ipa: "/praʊd/", zh: "驕傲的" }, { w: "organize", pos: "v.", ipa: "/ˈɔːrɡənaɪz/", zh: "整理" }] },
+  { en: "Being polite doesn't come naturally, it takes a lot of reminders.", zh: "有禮貌不是天生的，需要一直提醒。", ipa: "/ˈbiːɪŋ pəˈlaɪt ˈdʌzənt kʌm ˈnætʃərəli ɪt teɪks ə lɑːt ʌv rɪˈmaɪndərz/",
+    vocab: [{ w: "polite", pos: "adj.", ipa: "/pəˈlaɪt/", zh: "有禮貌的" }, { w: "reminder", pos: "n.", ipa: "/rɪˈmaɪndər/", zh: "提醒" }] }
+];
+renderSentences(data);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026年7月12日・今日英文 20句（家庭生活）</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<div id="siteHeader" class="site-header"></div>
+
+<div class="page">
+  <a class="back-link" href="../index.html">← 回歷史列表</a>
+  <h1>2026年7月12日・今日英文 20 句（家庭生活）</h1>
+  <div class="tip">點擊「▶ 播放整句」或單字旁的「🔊」朗讀，點 ☆ 可收藏喜歡的句子或單字。</div>
+
+  <div class="controls" id="controlsBar"></div>
+
+  <div id="list"></div>
+</div>
+
+<script>window.PAGE_DATE = '2026-07-12';</script>
+<script src="../assets/app.js"></script>
+<script>
+const data = [
+  { en: "One more episode, then it's time to turn off the TV.", zh: "再看一集，然後就要關電視囉。", ipa: "/wʌn mɔːr ˈepɪsoʊd ðen ɪts taɪm tuː tɜːrn ɔːf ðə ˌtiːˈviː/",
+    vocab: [{ w: "episode", pos: "n.", ipa: "/ˈepɪsoʊd/", zh: "一集" }] },
+  { en: "Let's go outside instead of watching videos.", zh: "我們去外面玩，不要看影片了。", ipa: "/lets ɡoʊ ˌaʊtˈsaɪd ɪnˈsted ʌv ˈwɑːtʃɪŋ ˈvɪdioʊz/",
+    vocab: [{ w: "instead of", pos: "phr.", ipa: "/ɪnˈsted ʌv/", zh: "而不是" }] },
+  { en: "Put the tablet away, it's dinner time.", zh: "把平板收起來，吃飯時間到了。", ipa: "/pʊt ðə ˈtæblət əˈweɪ ɪts ˈdɪnər taɪm/",
+    vocab: [{ w: "tablet", pos: "n.", ipa: "/ˈtæblət/", zh: "平板電腦" }] },
+  { en: "Family movie night starts at seven.", zh: "家庭電影之夜七點開始。", ipa: "/ˈfæməli ˈmuːvi naɪt stɑːrts æt ˈsevən/",
+    vocab: [{ w: "movie", pos: "n.", ipa: "/ˈmuːvi/", zh: "電影" }] },
+  { en: "Let's build a blanket fort in the living room.", zh: "我們在客廳搭個毯子堡壘吧。", ipa: "/lets bɪld ə ˈblæŋkɪt fɔːrt ɪn ðə ˈlɪvɪŋ ruːm/",
+    vocab: [{ w: "blanket", pos: "n.", ipa: "/ˈblæŋkɪt/", zh: "毯子" }, { w: "fort", pos: "n.", ipa: "/fɔːrt/", zh: "堡壘" }] },
+  { en: "Can you help me set the table for dinner?", zh: "可以幫我擺晚餐的餐桌嗎？", ipa: "/kæn juː help miː set ðə ˈteɪbl fɔːr ˈdɪnər/",
+    vocab: [{ w: "set the table", pos: "phr.", ipa: "/set ðə ˈteɪbl/", zh: "擺餐桌" }] },
+  { en: "It's bath time, let's get you cleaned up.", zh: "洗澡時間到了，我們來把你洗乾淨。", ipa: "/ɪts bæθ taɪm lets ɡet juː kliːnd ʌp/",
+    vocab: [{ w: "bath", pos: "n.", ipa: "/bæθ/", zh: "洗澡" }] },
+  { en: "Time for bed, buddy, tomorrow's a big day.", zh: "該睡覺了，小傢伙，明天有重要的事。", ipa: "/taɪm fɔːr bed ˈbʌdi təˈmɑːroʊz ə bɪɡ deɪ/",
+    vocab: [{ w: "bed", pos: "n.", ipa: "/bed/", zh: "床、睡覺" }] },
+  { en: "Let's read together before you fall asleep.", zh: "睡前我們一起讀本書吧。", ipa: "/lets riːd təˈɡeðər bɪˈfɔːr juː fɔːl əˈsliːp/",
+    vocab: [{ w: "fall asleep", pos: "phr.", ipa: "/fɔːl əˈsliːp/", zh: "睡著" }] },
+  { en: "You can watch one show after your homework is done.", zh: "功課做完後可以看一集節目。", ipa: "/juː kæn wɑːtʃ wʌn ʃoʊ ˈæftər jʊər ˈhoʊmwɜːrk ɪz dʌn/",
+    vocab: [{ w: "show", pos: "n.", ipa: "/ʃoʊ/", zh: "節目" }] },
+  { en: "We've been trying to cut back on his screen time on weekends.", zh: "我們最近想減少他週末看螢幕的時間。", ipa: "/wiːv bɪn ˈtraɪɪŋ tuː kʌt bæk ɑːn hɪz skriːn taɪm ɑːn ˈwiːkendz/",
+    vocab: [{ w: "cut back on", pos: "phr. v.", ipa: "/kʌt bæk ɑːn/", zh: "減少" }] },
+  { en: "He'd rather build with Legos than watch cartoons these days.", zh: "他現在比較喜歡玩樂高而不是看卡通。", ipa: "/hiːd ˈræðər bɪld wɪð ˈleɡoʊz ðæn wɑːtʃ kɑːrˈtuːnz ðiːz deɪz/",
+    vocab: [{ w: "would rather", pos: "phr.", ipa: "/wʊd ˈræðər/", zh: "寧願" }, { w: "cartoon", pos: "n.", ipa: "/kɑːrˈtuːn/", zh: "卡通" }] },
+  { en: "It's hard to compete with a tablet when it comes to grabbing his attention.", zh: "要跟平板搶他的注意力真的很難。", ipa: "/ɪts hɑːrd tuː kəmˈpiːt wɪð ə ˈtæblət wen ɪt kʌmz tuː ˈɡræbɪŋ hɪz əˈtenʃən/",
+    vocab: [{ w: "compete", pos: "v.", ipa: "/kəmˈpiːt/", zh: "競爭" }, { w: "attention", pos: "n.", ipa: "/əˈtenʃən/", zh: "注意力" }] },
+  { en: "He surprises us with something new he's learned almost every week.", zh: "他幾乎每個禮拜都會讓我們驚訝於他學到的新東西。", ipa: "/hiː sərˈpraɪzɪz ʌs wɪð ˈsʌmθɪŋ nuː hiːz lɜːrnd ˈɔːlmoʊst ˈevri wiːk/",
+    vocab: [{ w: "surprise", pos: "v.", ipa: "/sərˈpraɪz/", zh: "使驚訝" }] },
+  { en: "I catch myself getting emotional over how much he's changed this year.", zh: "想到他今年變化這麼大，我都會忍不住感動。", ipa: "/aɪ kætʃ maɪˈself ˈɡetɪŋ ɪˈmoʊʃənəl ˈoʊvər haʊ mʌtʃ hiːz tʃeɪndʒd ðɪs jɪr/",
+    vocab: [{ w: "emotional", pos: "adj.", ipa: "/ɪˈmoʊʃənəl/", zh: "感性的、情緒化的" }] },
+  { en: "We try to have at least one screen-free evening a week.", zh: "我們盡量每週至少有一個晚上不看螢幕。", ipa: "/wiː traɪ tuː hæv æt liːst wʌn ˈskriːnfriː ˈiːvnɪŋ ə wiːk/",
+    vocab: [{ w: "screen-free", pos: "adj.", ipa: "/ˈskriːnfriː/", zh: "不用螢幕的" }] },
+  { en: "He's started asking really thoughtful questions lately.", zh: "他最近開始問一些很有深度的問題。", ipa: "/hiːz ˈstɑːrtɪd ˈæskɪŋ ˈriːli ˈθɔːtfəl ˈkwestʃənz ˈleɪtli/",
+    vocab: [{ w: "thoughtful", pos: "adj.", ipa: "/ˈθɔːtfəl/", zh: "深思熟慮的" }] },
+  { en: "Some days it feels like he grew up overnight.", zh: "有些日子感覺他好像一夜之間就長大了。", ipa: "/sʌm deɪz ɪt fiːlz laɪk hiː ɡruː ʌp ˌoʊvərˈnaɪt/",
+    vocab: [{ w: "overnight", pos: "adv.", ipa: "/ˌoʊvərˈnaɪt/", zh: "一夜之間" }] },
+  { en: "We make it a habit to talk about our day at dinner.", zh: "我們習慣在晚餐時聊聊今天發生的事。", ipa: "/wiː meɪk ɪt ə ˈhæbɪt tuː tɔːk əˈbaʊt ˈaʊər deɪ æt ˈdɪnər/",
+    vocab: [{ w: "habit", pos: "n.", ipa: "/ˈhæbɪt/", zh: "習慣" }] },
+  { en: "Watching him become more independent is bittersweet.", zh: "看著他變得越來越獨立，心情有點五味雜陳。", ipa: "/ˈwɑːtʃɪŋ hɪm bɪˈkʌm mɔːr ˌɪndɪˈpendənt ɪz ˈbɪtərswiːt/",
+    vocab: [{ w: "bittersweet", pos: "adj.", ipa: "/ˈbɪtərswiːt/", zh: "苦樂參半的" }] }
+];
+renderSentences(data);
+</script>
+
+</body>
+</html>

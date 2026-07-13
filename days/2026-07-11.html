@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026年7月11日・今日英文 20句（家庭生活）</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<div id="siteHeader" class="site-header"></div>
+
+<div class="page">
+  <a class="back-link" href="../index.html">← 回歷史列表</a>
+  <h1>2026年7月11日・今日英文 20 句（家庭生活）</h1>
+  <div class="tip">點擊「▶ 播放整句」或單字旁的「🔊」朗讀，點 ☆ 可收藏喜歡的句子或單字。</div>
+
+  <div class="controls" id="controlsBar"></div>
+
+  <div id="list"></div>
+</div>
+
+<script>window.PAGE_DATE = '2026-07-11';</script>
+<script src="../assets/app.js"></script>
+<script>
+const data = [
+  { en: "Let me check if you have a fever.", zh: "我來看看你有沒有發燒。", ipa: "/let miː tʃek ɪf juː hæv ə ˈfiːvər/",
+    vocab: [{ w: "fever", pos: "n.", ipa: "/ˈfiːvər/", zh: "發燒" }] },
+  { en: "Open your mouth so the doctor can look.", zh: "張開嘴巴讓醫生看看。", ipa: "/ˈoʊpən jʊər maʊθ soʊ ðə ˈdɑːktər kæn lʊk/",
+    vocab: [{ w: "doctor", pos: "n.", ipa: "/ˈdɑːktər/", zh: "醫生" }] },
+  { en: "It's just a small scratch, you'll be fine.", zh: "只是小擦傷，你會沒事的。", ipa: "/ɪts dʒʌst ə smɔːl skrætʃ juːl biː faɪn/",
+    vocab: [{ w: "scratch", pos: "n.", ipa: "/skrætʃ/", zh: "擦傷" }] },
+  { en: "Don't forget to wash your hands before eating.", zh: "吃飯前別忘了洗手。", ipa: "/doʊnt fərˈɡet tuː wɑːʃ jʊər hændz bɪˈfɔːr ˈiːtɪŋ/",
+    vocab: [{ w: "wash", pos: "v.", ipa: "/wɑːʃ/", zh: "清洗" }] },
+  { en: "Hold my hand when we cross the street.", zh: "過馬路的時候要牽我的手。", ipa: "/hoʊld maɪ hænd wen wiː krɔːs ðə striːt/",
+    vocab: [{ w: "cross", pos: "v.", ipa: "/krɔːs/", zh: "穿越" }] },
+  { en: "Let's put on some sunscreen before we go out.", zh: "出門前先擦一下防曬乳。", ipa: "/lets pʊt ɑːn sʌm ˈsʌnskriːn bɪˈfɔːr wiː ɡoʊ aʊt/",
+    vocab: [{ w: "sunscreen", pos: "n.", ipa: "/ˈsʌnskriːn/", zh: "防曬乳" }] },
+  { en: "You need to wear your helmet when riding your bike.", zh: "騎腳踏車要戴安全帽。", ipa: "/juː niːd tuː wer jʊər ˈhelmɪt wen ˈraɪdɪŋ jʊər baɪk/",
+    vocab: [{ w: "helmet", pos: "n.", ipa: "/ˈhelmɪt/", zh: "安全帽" }] },
+  { en: "It's time for your flu shot this year.", zh: "今年該打流感疫苗了。", ipa: "/ɪts taɪm fɔːr jʊər fluː ʃɑːt ðɪs jɪr/",
+    vocab: [{ w: "flu shot", pos: "n.", ipa: "/fluː ʃɑːt/", zh: "流感疫苗" }] },
+  { en: "Drink plenty of water, it's hot outside.", zh: "外面很熱，要多喝水。", ipa: "/drɪŋk ˈplenti ʌv ˈwɔːtər ɪts hɑːt ˌaʊtˈsaɪd/",
+    vocab: [{ w: "plenty of", pos: "phr.", ipa: "/ˈplenti ʌv/", zh: "大量的" }] },
+  { en: "Let's put a band-aid on that.", zh: "我們貼個OK繃吧。", ipa: "/lets pʊt ə ˈbændeɪd ɑːn ðæt/",
+    vocab: [{ w: "band-aid", pos: "n.", ipa: "/ˈbændeɪd/", zh: "OK繃" }] },
+  { en: "He was really brave during his vaccination today.", zh: "他今天打疫苗的時候真的很勇敢。", ipa: "/hiː wʌz ˈriːli breɪv ˈdʊrɪŋ hɪz ˌvæksɪˈneɪʃən təˈdeɪ/",
+    vocab: [{ w: "brave", pos: "adj.", ipa: "/breɪv/", zh: "勇敢的" }, { w: "vaccination", pos: "n.", ipa: "/ˌvæksɪˈneɪʃən/", zh: "疫苗接種" }] },
+  { en: "The doctor said his growth is right on track.", zh: "醫生說他的發育很正常。", ipa: "/ðə ˈdɑːktər sed hɪz ɡroʊθ ɪz raɪt ɑːn træk/",
+    vocab: [{ w: "growth", pos: "n.", ipa: "/ɡroʊθ/", zh: "成長、發育" }, { w: "on track", pos: "phr.", ipa: "/ɑːn træk/", zh: "步上軌道" }] },
+  { en: "He's been coughing a bit, so we're keeping an eye on it.", zh: "他最近有點咳嗽，我們有在觀察。", ipa: "/hiːz bɪn ˈkɔːfɪŋ ə bɪt soʊ wɪər ˈkiːpɪŋ ən aɪ ɑːn ɪt/",
+    vocab: [{ w: "cough", pos: "v.", ipa: "/kɔːf/", zh: "咳嗽" }, { w: "keep an eye on", pos: "phr.", ipa: "/kiːp ən aɪ ɑːn/", zh: "注意觀察" }] },
+  { en: "We make sure he gets enough sleep to keep his immune system strong.", zh: "我們確保他睡眠充足，維持免疫力。", ipa: "/wiː meɪk ʃʊr hiː ɡets ɪˈnʌf sliːp tuː kiːp hɪz ɪˈmjuːn ˈsɪstəm strɔːŋ/",
+    vocab: [{ w: "immune system", pos: "n.", ipa: "/ɪˈmjuːn ˈsɪstəm/", zh: "免疫系統" }] },
+  { en: "He's terrified of needles, so the appointment was rough.", zh: "他很怕打針，所以這次看診有點折騰。", ipa: "/hiːz ˈterɪfaɪd ʌv ˈniːdlz soʊ ðə əˈpɔɪntmənt wʌz rʌf/",
+    vocab: [{ w: "terrified", pos: "adj.", ipa: "/ˈterɪfaɪd/", zh: "非常害怕的" }, { w: "needle", pos: "n.", ipa: "/ˈniːdl/", zh: "針" }] },
+  { en: "It's just a mild cold, nothing to worry about.", zh: "只是輕微感冒，不用太擔心。", ipa: "/ɪts dʒʌst ə maɪld koʊld ˈnʌθɪŋ tuː ˈwɜːri əˈbaʊt/",
+    vocab: [{ w: "mild", pos: "adj.", ipa: "/maɪld/", zh: "輕微的" }] },
+  { en: "We childproofed the cabinets after he started walking.", zh: "他開始走路後我們就把櫃子做了兒童安全防護。", ipa: "/wiː ˈtʃaɪldpruːft ðə ˈkæbɪnəts ˈæftər hiː ˈstɑːrtɪd ˈwɔːkɪŋ/",
+    vocab: [{ w: "childproof", pos: "v.", ipa: "/ˈtʃaɪldpruːf/", zh: "做兒童安全防護" }, { w: "cabinet", pos: "n.", ipa: "/ˈkæbɪnət/", zh: "櫃子" }] },
+  { en: "Always check the water temperature before his bath.", zh: "洗澡前一定要先確認水溫。", ipa: "/ˈɔːlweɪz tʃek ðə ˈwɔːtər ˈtemprətʃər bɪˈfɔːr hɪz bæθ/",
+    vocab: [{ w: "temperature", pos: "n.", ipa: "/ˈtemprətʃər/", zh: "溫度" }] },
+  { en: "He bounced back quickly after being sick last week.", zh: "他上禮拜生病後很快就恢復了。", ipa: "/hiː baʊnst bæk ˈkwɪkli ˈæftər ˈbiːɪŋ sɪk læst wiːk/",
+    vocab: [{ w: "bounce back", pos: "phr. v.", ipa: "/baʊns bæk/", zh: "恢復" }] },
+  { en: "Better safe than sorry, let's get it checked out.", zh: "小心點總比後悔好，我們還是去檢查一下吧。", ipa: "/ˈbetər seɪf ðæn ˈsɑːri lets ɡet ɪt tʃekt aʊt/",
+    vocab: [{ w: "check out", pos: "phr. v.", ipa: "/tʃek aʊt/", zh: "檢查一下" }] }
+];
+renderSentences(data);
+</script>
+
+</body>
+</html>

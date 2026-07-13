@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026年7月7日・今日英文 20句（家庭生活）</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<div id="siteHeader" class="site-header"></div>
+
+<div class="page">
+  <a class="back-link" href="../index.html">← 回歷史列表</a>
+  <h1>2026年7月7日・今日英文 20 句（家庭生活）</h1>
+  <div class="tip">點擊「▶ 播放整句」或單字旁的「🔊」朗讀，點 ☆ 可收藏喜歡的句子或單字。</div>
+
+  <div class="controls" id="controlsBar"></div>
+
+  <div id="list"></div>
+</div>
+
+<script>window.PAGE_DATE = '2026-07-07';</script>
+<script src="../assets/app.js"></script>
+<script>
+const data = [
+  { en: "Rise and shine, it's a school day!", zh: "起床啦，該上學囉！", ipa: "/raɪz ənd ʃaɪn ɪts ə skuːl deɪ/",
+    vocab: [{ w: "rise and shine", pos: "phr.", ipa: "/raɪz ənd ʃaɪn/", zh: "快起床了（俗語）" }] },
+  { en: "Hurry up, or we'll be late for school.", zh: "快點，不然上學會遲到。", ipa: "/ˈhɜːri ʌp ɔːr wiːl bi leɪt fɔːr skuːl/",
+    vocab: [{ w: "hurry up", pos: "phr. v.", ipa: "/ˈhɜːri ʌp/", zh: "趕快" }, { w: "late", pos: "adj.", ipa: "/leɪt/", zh: "遲到的" }] },
+  { en: "Put your shoes on, we're leaving in five minutes.", zh: "把鞋子穿上，我們五分鐘後要出門了。", ipa: "/pʊt jʊər ʃuːz ɑːn wɪər ˈliːvɪŋ ɪn faɪv ˈmɪnɪts/",
+    vocab: [{ w: "put on", pos: "phr. v.", ipa: "/pʊt ɑːn/", zh: "穿上" }, { w: "leave", pos: "v.", ipa: "/liːv/", zh: "離開、出發" }] },
+  { en: "Did you pack your water bottle?", zh: "你有把水壺裝進去了嗎？", ipa: "/dɪd juː pæk jʊər ˈwɔːtər ˈbɑːtl/",
+    vocab: [{ w: "pack", pos: "v.", ipa: "/pæk/", zh: "打包、裝" }, { w: "water bottle", pos: "n.", ipa: "/ˈwɔːtər ˈbɑːtl/", zh: "水壺" }] },
+  { en: "Let's comb your hair before we go.", zh: "出門前先梳一下頭髮。", ipa: "/lets koʊm jʊər her bɪˈfɔːr wiː ɡoʊ/",
+    vocab: [{ w: "comb", pos: "v.", ipa: "/koʊm/", zh: "梳（頭髮）" }, { w: "hair", pos: "n.", ipa: "/her/", zh: "頭髮" }] },
+  { en: "You look so handsome in that uniform.", zh: "你穿那件制服看起來好帥。", ipa: "/juː lʊk soʊ ˈhænsəm ɪn ðæt ˈjuːnɪfɔːrm/",
+    vocab: [{ w: "handsome", pos: "adj.", ipa: "/ˈhænsəm/", zh: "帥氣的" }, { w: "uniform", pos: "n.", ipa: "/ˈjuːnɪfɔːrm/", zh: "制服" }] },
+  { en: "I'll pick you up right after school.", zh: "我放學後會馬上去接你。", ipa: "/aɪl pɪk juː ʌp raɪt ˈæftər skuːl/",
+    vocab: [{ w: "pick up", pos: "phr. v.", ipa: "/pɪk ʌp/", zh: "接送" }] },
+  { en: "Give me a big hug before you go.", zh: "出門前給我一個大大的擁抱。", ipa: "/ɡɪv miː ə bɪɡ hʌɡ bɪˈfɔːr juː ɡoʊ/",
+    vocab: [{ w: "hug", pos: "n.", ipa: "/hʌɡ/", zh: "擁抱" }] },
+  { en: "Remember to raise your hand in class.", zh: "記得上課要舉手。", ipa: "/rɪˈmembər tuː reɪz jʊər hænd ɪn klæs/",
+    vocab: [{ w: "raise", pos: "v.", ipa: "/reɪz/", zh: "舉起" }, { w: "in class", pos: "phr.", ipa: "/ɪn klæs/", zh: "在課堂上" }] },
+  { en: "Be nice to your classmates today.", zh: "今天要對同學好一點喔。", ipa: "/biː naɪs tuː jʊər ˈklæsmeɪts təˈdeɪ/",
+    vocab: [{ w: "classmate", pos: "n.", ipa: "/ˈklæsmeɪt/", zh: "同學" }] },
+  { en: "He's a bit nervous about his first day at the new school.", zh: "他對在新學校的第一天有點緊張。", ipa: "/hiːz ə bɪt ˈnɜːrvəs əˈbaʊt hɪz fɜːrst deɪ æt ðə nuː skuːl/",
+    vocab: [{ w: "nervous", pos: "adj.", ipa: "/ˈnɜːrvəs/", zh: "緊張的" }] },
+  { en: "Try not to rush him too much in the morning, it just makes things worse.", zh: "早上盡量別太催他，只會讓情況更糟。", ipa: "/traɪ nɑːt tuː rʌʃ hɪm tuː mʌtʃ ɪn ðə ˈmɔːrnɪŋ ɪt dʒʌst meɪks θɪŋz wɜːrs/",
+    vocab: [{ w: "rush", pos: "v.", ipa: "/rʌʃ/", zh: "催促、匆忙" }, { w: "worse", pos: "adj.", ipa: "/wɜːrs/", zh: "更糟的" }] },
+  { en: "We've got into a pretty good morning routine lately.", zh: "我們最近早上的作息已經上軌道了。", ipa: "/wiːv ɡɑːt ˈɪntuː ə ˈprɪti ɡʊd ˈmɔːrnɪŋ ruːˈtiːn ˈleɪtli/",
+    vocab: [{ w: "routine", pos: "n.", ipa: "/ruːˈtiːn/", zh: "例行作息" }] },
+  { en: "He insists on picking out his own clothes every morning.", zh: "他每天早上堅持要自己挑衣服。", ipa: "/hiː ɪnˈsɪsts ɑːn ˈpɪkɪŋ aʊt hɪz oʊn kloʊðz ˈevri ˈmɔːrnɪŋ/",
+    vocab: [{ w: "insist", pos: "v.", ipa: "/ɪnˈsɪst/", zh: "堅持" }, { w: "pick out", pos: "phr. v.", ipa: "/pɪk aʊt/", zh: "挑選" }] },
+  { en: "I laid out his clothes the night before to save time.", zh: "我前一晚就把他的衣服準備好省時間。", ipa: "/aɪ leɪd aʊt hɪz kloʊðz ðə naɪt bɪˈfɔːr tuː seɪv taɪm/",
+    vocab: [{ w: "lay out", pos: "phr. v.", ipa: "/leɪ aʊt/", zh: "準備好、擺放好" }] },
+  { en: "He's finally old enough to tie his own shoelaces.", zh: "他終於大到可以自己綁鞋帶了。", ipa: "/hiːz ˈfaɪnəli oʊld ɪˈnʌf tuː taɪ hɪz oʊn ˈʃuːleɪsɪz/",
+    vocab: [{ w: "tie", pos: "v.", ipa: "/taɪ/", zh: "綁" }, { w: "shoelace", pos: "n.", ipa: "/ˈʃuːleɪs/", zh: "鞋帶" }] },
+  { en: "Let's leave a little earlier so we're not rushing.", zh: "我們早點出門，才不用趕。", ipa: "/lets liːv ə ˈlɪtl ˈɜːrliər soʊ wɪər nɑːt ˈrʌʃɪŋ/",
+    vocab: [{ w: "earlier", pos: "adv.", ipa: "/ˈɜːrliər/", zh: "更早" }] },
+  { en: "He gets cranky if he doesn't get enough sleep.", zh: "他睡不夠就會鬧脾氣。", ipa: "/hiː ɡets ˈkræŋki ɪf hiː ˈdʌzənt ɡet ɪˈnʌf sliːp/",
+    vocab: [{ w: "cranky", pos: "adj.", ipa: "/ˈkræŋki/", zh: "易怒的、鬧脾氣的" }] },
+  { en: "Make sure you say good morning to your teacher.", zh: "記得跟老師說早安。", ipa: "/meɪk ʃʊr juː seɪ ɡʊd ˈmɔːrnɪŋ tuː jʊər ˈtiːtʃər/",
+    vocab: [{ w: "make sure", pos: "phr.", ipa: "/meɪk ʃʊr/", zh: "確保" }] },
+  { en: "I can't believe how independent he's become getting ready.", zh: "真不敢相信他準備出門變得這麼獨立了。", ipa: "/aɪ kænt bɪˈliːv haʊ ˌɪndɪˈpendənt hiːz bɪˈkʌm ˈɡetɪŋ ˈredi/",
+    vocab: [{ w: "independent", pos: "adj.", ipa: "/ˌɪndɪˈpendənt/", zh: "獨立的" }] }
+];
+renderSentences(data);
+</script>
+
+</body>
+</html>
