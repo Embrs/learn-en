@@ -97,9 +97,21 @@ function scoreVoice(v) {
 
 function pickVoice() {
   allVoices = window.speechSynthesis ? window.speechSynthesis.getVoices() : [];
+  const english = allVoices.filter(v => v.lang.startsWith('en'));
+
+  // 最優先：Premium / Enhanced / Neural 等高品質語音（比 Samantha 自然很多）
+  const premium = english.filter(v => /premium|enhanced|neural/i.test(v.name));
+  if (premium.length) {
+    pickedVoice = premium.slice().sort((a, b) => scoreVoice(b) - scoreVoice(a))[0];
+    updateVoiceHint();
+    return;
+  }
+
+  // 其次：Samantha（macOS 內建標準語音，穩定但較機械）
   const samantha = allVoices.find(v => v.name.toLowerCase().includes('samantha'));
   if (samantha) { pickedVoice = samantha; updateVoiceHint(); return; }
-  const english = allVoices.filter(v => v.lang.startsWith('en'));
+
+  // 最後：一般評分挑選
   const pool = english.length ? english : allVoices;
   pickedVoice = pool.slice().sort((a, b) => scoreVoice(b) - scoreVoice(a))[0] || null;
   updateVoiceHint();
@@ -108,13 +120,15 @@ function pickVoice() {
 function updateVoiceHint() {
   const hint = document.getElementById('voiceHint');
   if (!hint) return;
-  if (pickedVoice && pickedVoice.name.toLowerCase().includes('samantha')) {
+  const name = pickedVoice ? pickedVoice.name.toLowerCase() : '';
+  const isGood = pickedVoice && (name.includes('samantha') || /premium|enhanced|neural/i.test(name));
+  if (isGood) {
     hint.style.display = 'none';
     return;
   }
   hint.style.display = 'block';
   hint.textContent = pickedVoice
-    ? `找不到 Samantha，暫時改用「${pickedVoice.name}」。Mac 可到「系統設定 > 輔助使用 > 講述內容 > 系統語音 > 管理語音」安裝 Samantha。`
+    ? `目前使用「${pickedVoice.name}」，發音較機械。Mac 可到「系統設定 > 輔助使用 > 講述內容 > 系統語音 > 管理語音」下載 Ava／Zoe（Premium）等高品質語音，發音會自然很多。`
     : '此瀏覽器沒有可用的語音，請改用 Safari 或 Chrome 開啟。';
 }
 
