@@ -106,11 +106,18 @@ function speak(text) {
   playViaBrowserTTS(text);
 }
 
-function playViaBrowserTTS(text) {
+// Chrome 有個知名 bug：SpeechSynthesisUtterance 如果只存在函式內的區域變數，
+// 講到一半就可能被瀏覽器記憶體回收（GC），導致「API 顯示 speaking=true 但完全沒聲音」。
+// 解法是把目前正在講的 utterance 存在外層變數，保持強引用，播完才釋放。
+let currentUtterance = null;
+let speakWatchdogTimer = null;
+
+function playViaBrowserTTS(text, _isRetry) {
   if (!('speechSynthesis' in window)) {
     toast('此瀏覽器不支援語音朗讀');
     return;
   }
+  clearTimeout(speakWatchdogTimer);
   // Safari 對 speechSynthesis 的規定很嚴格：一定要在使用者點擊的當下「同步」呼叫 speak()，
   // 中間不能有 setTimeout／await 等非同步延遲，否則會被直接靜音擋掉。所以這裡全部同步執行。
   //
@@ -126,13 +133,29 @@ function playViaBrowserTTS(text) {
   u.lang = pickedVoice ? pickedVoice.lang : 'en-US';
   if (pickedVoice) u.voice = pickedVoice;
   u.rate = rate;
+  let started = false;
+  u.onstart = () => { started = true; };
   u.onerror = (e) => {
     // "canceled"/"interrupted" 是使用者快速切換播放時的正常現象，不用跳錯誤提示
     if (e.error !== 'canceled' && e.error !== 'interrupted') {
       toast('播放失敗：' + (e.error || '未知錯誤'));
     }
+    currentUtterance = null;
   };
+  u.onend = () => { currentUtterance = null; };
+  currentUtterance = u; // 保持強引用，避免 Chrome 中途把物件回收掉
   window.speechSynthesis.speak(u);
+
+  // Chrome 偶爾會出現 speak() 呼叫後完全沒反應（API 顯示 speaking=true 但沒有聲音、
+  // 也不會觸發 onstart）的怪異狀況。這裡加一個保險：350ms 內沒開始播放，就強制重來一次。
+  if (!_isRetry) {
+    speakWatchdogTimer = setTimeout(() => {
+      if (!started) {
+        window.speechSynthesis.cancel();
+        setTimeout(() => playViaBrowserTTS(text, true), 50);
+      }
+    }, 350);
+  }
 }
 
 // ---------------- 發音設定列（動態插入） ----------------
