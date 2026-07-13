@@ -181,11 +181,15 @@ function renderHeader() {
   const holder = document.getElementById('siteHeader');
   if (!holder) return;
   const prefix = relPrefix();
+  const isFavPage = location.pathname.endsWith('favorites.html');
   holder.innerHTML = `
     <div class="nav-inner">
-      <a href="${prefix}index.html" class="nav-title">每日英文・家庭生活</a>
-      <a href="${prefix}favorites.html" class="nav-fav">⭐ 收藏 <span id="favCount" class="fav-badge"></span></a>
+      <div class="brand">📚 每日英文<span class="brand-sub">・家庭生活</span></div>
     </div>
+    <nav class="tabs">
+      <a href="${prefix}index.html" class="tab-link${isFavPage ? '' : ' active'}">🏠 首頁</a>
+      <a href="${prefix}favorites.html" class="tab-link${isFavPage ? ' active' : ''}">⭐ 收藏<span id="favCount" class="fav-badge"></span></a>
+    </nav>
   `;
   updateFavCountBadge();
 }
@@ -277,10 +281,16 @@ function renderSentences(data) {
       row.className = 'vocab-item';
       row.innerHTML = `
         <button class="mini play-mini">🔊</button>
-        <span class="vocab-word">${v.w}</span>
-        <span class="vocab-pos">${v.pos}</span>
-        <span class="vocab-ipa">${v.ipa}</span>
-        <span class="vocab-zh">${v.zh}</span>
+        <div class="vocab-text">
+          <div class="vocab-word-row">
+            <span class="vocab-word">${v.w}</span>
+            <span class="vocab-pos">${v.pos}</span>
+          </div>
+          <div class="vocab-meta-row">
+            <span class="vocab-ipa">${v.ipa}</span>
+            <span class="vocab-zh">${v.zh}</span>
+          </div>
+        </div>
       `;
       row.querySelector('.play-mini').addEventListener('click', () => speak(v.w));
 
