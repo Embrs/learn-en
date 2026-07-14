@@ -1,0 +1,17 @@
+{
+  "name": "每日英文・家庭生活",
+  "short_name": "每日英文",
+  "description": "每天20句家庭生活英文例句，含中文翻譯、發音、分類與收藏",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f4f7",
+  "theme_color": "#1d4ed8",
+  "orientation": "portrait-primary",
+  "lang": "zh-Hant",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

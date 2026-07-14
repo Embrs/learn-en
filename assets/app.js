@@ -6,6 +6,84 @@ function relPrefix() {
   return location.pathname.includes('/days/') ? '../' : '';
 }
 
+// ---------------- Service Worker（讓「加入主畫面／安裝」可以運作） ----------------
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register(relPrefix() + 'sw.js').catch(() => {});
+  });
+}
+
+// ---------------- 加入主畫面／安裝提示 ----------------
+const INSTALL_DISMISS_KEY = 'installBannerDismissed';
+let deferredInstallPrompt = null;
+
+function isStandaloneApp() {
+  return (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) || window.navigator.standalone === true;
+}
+function isIOSDevice() {
+  return /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+}
+
+window.addEventListener('beforeinstallprompt', (e) => {
+  e.preventDefault();
+  deferredInstallPrompt = e;
+  showInstallBanner();
+});
+window.addEventListener('appinstalled', () => {
+  try { localStorage.setItem(INSTALL_DISMISS_KEY, '1'); } catch (e) {}
+  const b = document.getElementById('installBanner');
+  if (b) b.remove();
+});
+
+function showInstallBanner() {
+  if (isStandaloneApp()) return;
+  if (detectInApp()) return; // 內建瀏覽器已經有自己的提示了，避免疊加
+  if (document.getElementById('installBanner')) return;
+  let dismissed = false;
+  try { dismissed = localStorage.getItem(INSTALL_DISMISS_KEY) === '1'; } catch (e) {}
+  if (dismissed) return;
+
+  const canPrompt = !!deferredInstallPrompt;
+  const ios = isIOSDevice();
+  if (!canPrompt && !ios) return; // 其他瀏覽器沒有明確的安裝路徑，不特別提示避免誤導
+
+  const banner = document.createElement('div');
+  banner.id = 'installBanner';
+  banner.className = 'install-banner';
+  banner.innerHTML = canPrompt
+    ? `
+      <div class="install-text">📲 把「每日英文」加到主畫面，像 App 一樣一鍵開啟</div>
+      <div class="install-actions">
+        <button class="primary" id="installNowBtn">加入主畫面</button>
+        <button class="secondary" id="installDismissBtn">之後再說</button>
+      </div>
+    `
+    : `
+      <div class="install-text">📲 把「每日英文」加到主畫面：點分享鈕 <span class="install-icon">⬆️</span> → 「加入主畫面」</div>
+      <div class="install-actions">
+        <button class="secondary" id="installDismissBtn">知道了</button>
+      </div>
+    `;
+  document.body.appendChild(banner);
+
+  const dismiss = () => {
+    banner.remove();
+    try { localStorage.setItem(INSTALL_DISMISS_KEY, '1'); } catch (e) {}
+  };
+  const dismissBtn = document.getElementById('installDismissBtn');
+  if (dismissBtn) dismissBtn.addEventListener('click', dismiss);
+  const installBtn = document.getElementById('installNowBtn');
+  if (installBtn) {
+    installBtn.addEventListener('click', async () => {
+      if (!deferredInstallPrompt) return;
+      deferredInstallPrompt.prompt();
+      try { await deferredInstallPrompt.userChoice; } catch (e) {}
+      deferredInstallPrompt = null;
+      dismiss();
+    });
+  }
+}
+
 // ---------------- Toast ----------------
 function toast(msg) {
   let t = document.getElementById('toast');
@@ -529,6 +607,7 @@ function renderCategoriesPage() {
 // ---------------- 初始化 ----------------
 document.addEventListener('DOMContentLoaded', () => {
   showInAppBanner();
+  showInstallBanner();
   renderHeader();
   renderControls();
   renderArchiveList();
