@@ -53,16 +53,19 @@ a { color: var(--accent); }
 .inapp-actions .primary { background: var(--accent); color: #fff; }
 .inapp-actions .secondary { background: #fff; border: 1px solid #d8c273; color: #5c4a00; }
 
-/* ---- 加入主畫面／安裝提示 banner ---- */
+/* ---- 加入主畫面／安裝提示 banner（懸浮在畫面底部，不用捲動就看得到） ---- */
 .install-banner {
   background: #eef2ff;
-  border-bottom: 1px solid #c9d6fb;
-  padding: 12px 16px;
+  border-top: 1px solid #c9d6fb;
+  padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
   font-size: 13px;
   color: #1f2c66;
-  position: sticky;
-  top: 0;
-  z-index: 29;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 40;
+  box-shadow: 0 -4px 16px rgba(20,20,40,0.12);
 }
 .install-text { margin-bottom: 10px; }
 .install-icon { font-size: 13px; }

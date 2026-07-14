@@ -14,7 +14,12 @@ if ('serviceWorker' in navigator) {
 }
 
 // ---------------- 加入主畫面／安裝提示 ----------------
-const INSTALL_DISMISS_KEY = 'installBannerDismissed';
+// 「之後再說／知道了」只記住 14 天（避免每次都跳出來，但也不會永久消失）。
+// 注意：瀏覽器沒有「使用者解除安裝了 PWA」這種事件可以監聽，所以「已安裝」這件事
+// 完全不寫進 localStorage，只靠 isStandaloneApp() 每次即時判斷——這樣如果之後把
+// App 從主畫面刪除，下次用一般瀏覽器打開網站時會自動再顯示提示，不會被卡住。
+const INSTALL_DISMISS_KEY = 'installBannerDismissedAt';
+const INSTALL_DISMISS_DAYS = 14;
 let deferredInstallPrompt = null;
 
 function isStandaloneApp() {
@@ -29,19 +34,23 @@ window.addEventListener('beforeinstallprompt', (e) => {
   deferredInstallPrompt = e;
   showInstallBanner();
 });
-window.addEventListener('appinstalled', () => {
-  try { localStorage.setItem(INSTALL_DISMISS_KEY, '1'); } catch (e) {}
+window.addEventListener('appinstalled', hideInstallBanner);
+
+function hideInstallBanner() {
   const b = document.getElementById('installBanner');
   if (b) b.remove();
-});
+  document.body.style.paddingBottom = '';
+}
 
 function showInstallBanner() {
   if (isStandaloneApp()) return;
   if (detectInApp()) return; // 內建瀏覽器已經有自己的提示了，避免疊加
   if (document.getElementById('installBanner')) return;
-  let dismissed = false;
-  try { dismissed = localStorage.getItem(INSTALL_DISMISS_KEY) === '1'; } catch (e) {}
-  if (dismissed) return;
+
+  let dismissedAt = 0;
+  try { dismissedAt = parseInt(localStorage.getItem(INSTALL_DISMISS_KEY) || '0', 10) || 0; } catch (e) {}
+  const daysSinceDismiss = (Date.now() - dismissedAt) / (1000 * 60 * 60 * 24);
+  if (dismissedAt && daysSinceDismiss < INSTALL_DISMISS_DAYS) return;
 
   const canPrompt = !!deferredInstallPrompt;
   const ios = isIOSDevice();
@@ -65,13 +74,14 @@ function showInstallBanner() {
       </div>
     `;
   document.body.appendChild(banner);
+  document.body.style.paddingBottom = banner.offsetHeight + 'px';
 
-  const dismiss = () => {
-    banner.remove();
-    try { localStorage.setItem(INSTALL_DISMISS_KEY, '1'); } catch (e) {}
+  const dismissForNow = () => {
+    try { localStorage.setItem(INSTALL_DISMISS_KEY, String(Date.now())); } catch (e) {}
+    hideInstallBanner();
   };
   const dismissBtn = document.getElementById('installDismissBtn');
-  if (dismissBtn) dismissBtn.addEventListener('click', dismiss);
+  if (dismissBtn) dismissBtn.addEventListener('click', dismissForNow);
   const installBtn = document.getElementById('installNowBtn');
   if (installBtn) {
     installBtn.addEventListener('click', async () => {
@@ -79,7 +89,9 @@ function showInstallBanner() {
       deferredInstallPrompt.prompt();
       try { await deferredInstallPrompt.userChoice; } catch (e) {}
       deferredInstallPrompt = null;
-      dismiss();
+      // 不記錄「之後再說」的冷卻時間：如果使用者按了安裝，appinstalled 會自動把 banner
+      // 收掉；如果使用者在系統彈窗裡取消，也直接收掉這次的 banner 就好，不用額外懲罰。
+      hideInstallBanner();
     });
   }
 }
