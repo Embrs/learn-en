@@ -330,7 +330,9 @@ button.star.mini.active { background: #fff3d6; }
 .day-list .chevron { color: #c6c9d2; margin-left: 12px; font-size: 18px; flex-shrink: 0; }
 
 /* ---- 分類頁 ---- */
-/* 貼在導覽列正下方（sticky），捲動看例句時分類選單不會跑掉，切換分類不用捲回最上面 */
+/* 貼在導覽列正下方（sticky），捲動看例句時分類選單不會跑掉，切換分類不用捲回最上面。
+   還沒選分類時是完整格狀（可以看到每類的數量，方便瀏覽選擇）；
+   選了分類、開始看內容之後，改成一整排可以左右滑的小藥丸，把畫面還給例句內容。 */
 .cat-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
@@ -342,6 +344,30 @@ button.star.mini.active { background: #fff3d6; }
   background: var(--bg);
   padding: 14px 0 12px;
   border-bottom: 1px solid var(--border);
+}
+.cat-grid.compact {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  -webkit-overflow-scrolling: touch;
+  gap: 8px;
+  padding: 10px 2px;
+  margin: 0 0 18px;
+  scrollbar-width: thin;
+}
+.cat-grid.compact .cat-chip {
+  flex: 0 0 auto;
+  padding: 7px 12px;
+  border-radius: 999px;
+  gap: 6px;
+}
+.cat-grid.compact .cat-chip-label { font-size: 12.5px; white-space: nowrap; }
+.cat-grid.compact .cat-chip-icon { font-size: 14px; }
+.cat-grid.compact .cat-chip-count {
+  font-size: 10px;
+  min-width: 16px;
+  padding: 1px 5px;
 }
 .load-more-sentinel { height: 1px; }
 .cat-chip {

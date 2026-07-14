@@ -587,9 +587,17 @@ function renderCategoriesPage() {
 
     function showCategory(catId) {
       if (catLoadObserver) { catLoadObserver.disconnect(); catLoadObserver = null; }
+      let activeChip = null;
       Array.from(grid.querySelectorAll('.cat-chip')).forEach(b => {
-        b.classList.toggle('active', b.dataset.cat === catId);
+        const isActive = b.dataset.cat === catId;
+        b.classList.toggle('active', isActive);
+        if (isActive) activeChip = b;
       });
+      // 還沒選分類：完整格狀方便瀏覽＋比較數量。已選分類：收成一排小藥丸，把畫面讓給例句內容。
+      grid.classList.toggle('compact', !!catId);
+      if (activeChip) {
+        activeChip.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+      }
       results.innerHTML = '';
       if (!catId) {
         results.innerHTML = '<div class="tip">👆 點選上方任一分類，就能看到目前所有天數中屬於該分類的例句。</div>';
