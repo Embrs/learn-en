@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026年7月2日・今日英文 20句（家庭生活）</title>
+<link rel="manifest" href="../manifest.json">
+<link rel="icon" href="../assets/icons/favicon-32.png">
+<link rel="apple-touch-icon" href="../assets/icons/apple-touch-icon.png">
+<meta name="theme-color" content="#1d4ed8">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="每日英文">
+<link rel="stylesheet" href="../assets/style.css?v=18">
+</head>
+<body>
+
+<div id="siteHeader" class="site-header"></div>
+
+<div class="page">
+  <a class="back-link" href="../index.html">← 回歷史列表</a>
+  <h1>2026年7月2日・今日英文 20 句（家庭生活）</h1>
+  <div class="tip">點擊「▶ 播放整句」或單字旁的「🔊」朗讀，點 ☆ 可收藏喜歡的句子或單字。每句都標有分類，也可以到「🗂 分類」分頁依主題複習。</div>
+
+  <div class="controls" id="controlsBar"></div>
+
+  <div id="list"></div>
+</div>
+
+<script>window.PAGE_DATE = '2026-07-02';</script>
+<script src="../assets/app.js?v=18"></script>
+<script>
+const data = [
+  {
+    "en": "Put your shoes on, we need to hurry.",
+    "zh": "穿上鞋子，我們得快一點了。",
+    "ipa": "/pʊt jʊər ʃuːz ɑːn wiː niːd tuː ˈhɜːri/",
+    "vocab": [
+      {
+        "w": "hurry",
+        "pos": "v.",
+        "ipa": "/ˈhɜːri/",
+        "zh": "趕快"
+      }
+    ],
+    "category": "daily-routine"
+  },
+  {
+    "en": "Can you use your fork instead of your fingers?",
+    "zh": "可以用叉子而不是用手指嗎？",
+    "ipa": "/kæn juː juːz jʊər fɔːrk ɪnˈsted ʌv jʊər ˈfɪŋɡərz/",
+    "vocab": [
+      {
+        "w": "fork",
+        "pos": "n.",
+        "ipa": "/fɔːrk/",
+        "zh": "叉子"
+      }
+    ],
+    "category": "meals"
+  },
+  {
+    "en": "Rinse the soap out of your eyes carefully.",
+    "zh": "小心把眼睛裡的肥皂沖乾淨。",
+    "ipa": "/rɪns ðə soʊp aʊt ʌv jʊər aɪz ˈkerfəli/",
+    "vocab": [
+      {
+        "w": "rinse",
+        "pos": "v.",
+        "ipa": "/rɪns/",
+        "zh": "沖洗"
+      }
+    ],
+    "category": "bath-bedtime"
+  },
+  {
+    "en": "Stay close to me in the crowd.",
+    "zh": "在人群裡要靠近我。",
+    "ipa": "/steɪ kloʊs tuː miː ɪn ðə kraʊd/",
+    "vocab": [
+      {
+        "w": "crowd",
+        "pos": "n.",
+        "ipa": "/kraʊd/",
+        "zh": "人群"
+      }
+    ],
+    "category": "outings"
+  },
+  {
+    "en": "Hold onto the bars tightly.",
+    "zh": "緊緊抓住單槓。",
+    "ipa": "/hoʊld ˈɑːntuː ðə bɑːrz ˈtaɪtli/",
+    "vocab": [
+      {
+        "w": "bars",
+        "pos": "n.",
+        "ipa": "/bɑːrz/",
+        "zh": "單槓"
+      }
+    ],
+    "category": "playground"
+  },
+  {
+    "en": "Let's put your homework in your folder.",
+    "zh": "把功課放進資料夾裡吧。",
+    "ipa": "/lets pʊt jʊər ˈhoʊmwɜːrk ɪn jʊər ˈfoʊldər/",
+    "vocab": [
+      {
+        "w": "folder",
+        "pos": "n.",
+        "ipa": "/ˈfoʊldər/",
+        "zh": "資料夾"
+      }
+    ],
+    "category": "school"
+  },
+  {
+    "en": "Read the question again, slowly this time.",
+    "zh": "再讀一次題目，這次慢慢讀。",
+    "ipa": "/riːd ðə ˈkwestʃən əˈɡen ˈsloʊli ðɪs taɪm/",
+    "vocab": [
+      {
+        "w": "question",
+        "pos": "n.",
+        "ipa": "/ˈkwestʃən/",
+        "zh": "題目"
+      }
+    ],
+    "category": "homework"
+  },
+  {
+    "en": "You can trade toys if you both agree.",
+    "zh": "如果你們都同意，可以交換玩具。",
+    "ipa": "/juː kæn treɪd tɔɪz ɪf juː boʊθ əˈɡriː/",
+    "vocab": [
+      {
+        "w": "trade",
+        "pos": "v.",
+        "ipa": "/treɪd/",
+        "zh": "交換"
+      }
+    ],
+    "category": "toys-sharing"
+  },
+  {
+    "en": "Let's count to ten together to feel better.",
+    "zh": "我們一起數到十，會感覺好一點。",
+    "ipa": "/lets kaʊnt tuː ten təˈɡeðər tuː fiːl ˈbetər/",
+    "vocab": [
+      {
+        "w": "count",
+        "pos": "v.",
+        "ipa": "/kaʊnt/",
+        "zh": "數數"
+      }
+    ],
+    "category": "emotions"
+  },
+  {
+    "en": "We agreed on no snacks before dinner.",
+    "zh": "我們說好晚餐前不吃零食。",
+    "ipa": "/wiː əˈɡriːd ɑːn noʊ snæks bɪˈfɔːr ˈdɪnər/",
+    "vocab": [
+      {
+        "w": "agree",
+        "pos": "v.",
+        "ipa": "/əˈɡriː/",
+        "zh": "同意"
+      }
+    ],
+    "category": "discipline"
+  },
+  {
+    "en": "What a creative idea, I love it!",
+    "zh": "好有創意的點子，我好喜歡！",
+    "ipa": "/wʌt ə kriˈeɪtɪv aɪˈdiə aɪ lʌv ɪt/",
+    "vocab": [
+      {
+        "w": "creative",
+        "pos": "adj.",
+        "ipa": "/kriˈeɪtɪv/",
+        "zh": "有創意的"
+      }
+    ],
+    "category": "praise"
+  },
+  {
+    "en": "Keep sharp objects away from your little sister.",
+    "zh": "尖銳的東西要遠離妹妹。",
+    "ipa": "/kiːp ʃɑːrp ˈɑːbdʒekts əˈweɪ frʌm jʊər ˈlɪtl ˈsɪstər/",
+    "vocab": [
+      {
+        "w": "sharp",
+        "pos": "adj.",
+        "ipa": "/ʃɑːrp/",
+        "zh": "尖銳的"
+      }
+    ],
+    "category": "safety"
+  },
+  {
+    "en": "Let's put on a cool compress for that bump.",
+    "zh": "我們幫這個腫包敷冰袋吧。",
+    "ipa": "/lets pʊt ɑːn ə kuːl ˈkɑːmpres fɔːr ðæt bʌmp/",
+    "vocab": [
+      {
+        "w": "compress",
+        "pos": "n.",
+        "ipa": "/ˈkɑːmpres/",
+        "zh": "敷料、冰袋"
+      }
+    ],
+    "category": "health"
+  },
+  {
+    "en": "Your cousin brought her new puppy today.",
+    "zh": "表姊今天帶了她的新小狗來。",
+    "ipa": "/jʊər ˈkʌzən brɔːt hɜːr nuː ˈpʌpi təˈdeɪ/",
+    "vocab": [
+      {
+        "w": "cousin",
+        "pos": "n.",
+        "ipa": "/ˈkʌzən/",
+        "zh": "表親、堂親"
+      }
+    ],
+    "category": "relatives"
+  },
+  {
+    "en": "Let's write a card for your friend's birthday.",
+    "zh": "我們幫朋友的生日寫張卡片吧。",
+    "ipa": "/lets raɪt ə kɑːrd fɔːr jʊər frendz ˈbɜːrθdeɪ/",
+    "vocab": [
+      {
+        "w": "card",
+        "pos": "n.",
+        "ipa": "/kɑːrd/",
+        "zh": "卡片"
+      }
+    ],
+    "category": "friends"
+  },
+  {
+    "en": "Chew with your mouth closed, please.",
+    "zh": "請閉著嘴巴咀嚼。",
+    "ipa": "/tʃuː wɪð jʊər maʊθ kloʊzd pliːz/",
+    "vocab": [
+      {
+        "w": "chew",
+        "pos": "v.",
+        "ipa": "/tʃuː/",
+        "zh": "咀嚼"
+      }
+    ],
+    "category": "manners"
+  },
+  {
+    "en": "It's foggy this morning, stay close to me.",
+    "zh": "今天早上有霧，要靠近我。",
+    "ipa": "/ɪts ˈfɔːɡi ðɪs ˈmɔːrnɪŋ steɪ kloʊs tuː miː/",
+    "vocab": [
+      {
+        "w": "foggy",
+        "pos": "adj.",
+        "ipa": "/ˈfɔːɡi/",
+        "zh": "有霧的"
+      }
+    ],
+    "category": "weather"
+  },
+  {
+    "en": "That's enough YouTube for now.",
+    "zh": "現在YouTube看得夠久了。",
+    "ipa": "/ðæts ɪˈnʌf ˈjuːtjuːb fɔːr naʊ/",
+    "vocab": [
+      {
+        "w": "enough",
+        "pos": "adj.",
+        "ipa": "/ɪˈnʌf/",
+        "zh": "足夠的"
+      }
+    ],
+    "category": "screen-time"
+  },
+  {
+    "en": "Let's wrap this gift for your cousin.",
+    "zh": "我們幫表哥包這個禮物吧。",
+    "ipa": "/lets ræp ðɪs ɡɪft fɔːr jʊər ˈkʌzən/",
+    "vocab": [
+      {
+        "w": "wrap",
+        "pos": "v.",
+        "ipa": "/ræp/",
+        "zh": "包裝"
+      }
+    ],
+    "category": "celebrations"
+  },
+  {
+    "en": "Can you guess what happens on the next page?",
+    "zh": "你能猜猜下一頁會發生什麼事嗎？",
+    "ipa": "/kæn juː ɡes wʌt ˈhæpənz ɑːn ðə nekst peɪdʒ/",
+    "vocab": [
+      {
+        "w": "guess",
+        "pos": "v.",
+        "ipa": "/ɡes/",
+        "zh": "猜測"
+      }
+    ],
+    "category": "reading"
+  }
+];
+renderSentences(data);
+</script>
+
+</body>
+</html>

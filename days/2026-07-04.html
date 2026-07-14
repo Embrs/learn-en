@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026年7月4日・今日英文 20句（家庭生活）</title>
+<link rel="manifest" href="../manifest.json">
+<link rel="icon" href="../assets/icons/favicon-32.png">
+<link rel="apple-touch-icon" href="../assets/icons/apple-touch-icon.png">
+<meta name="theme-color" content="#1d4ed8">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="每日英文">
+<link rel="stylesheet" href="../assets/style.css?v=18">
+</head>
+<body>
+
+<div id="siteHeader" class="site-header"></div>
+
+<div class="page">
+  <a class="back-link" href="../index.html">← 回歷史列表</a>
+  <h1>2026年7月4日・今日英文 20 句（家庭生活）</h1>
+  <div class="tip">點擊「▶ 播放整句」或單字旁的「🔊」朗讀，點 ☆ 可收藏喜歡的句子或單字。每句都標有分類，也可以到「🗂 分類」分頁依主題複習。</div>
+
+  <div class="controls" id="controlsBar"></div>
+
+  <div id="list"></div>
+</div>
+
+<script>window.PAGE_DATE = '2026-07-04';</script>
+<script src="../assets/app.js?v=18"></script>
+<script>
+const data = [
+  {
+    "en": "Let's check the mirror, is your shirt on straight?",
+    "zh": "照一下鏡子，你的衣服穿正了嗎？",
+    "ipa": "/lets tʃek ðə ˈmɪrər ɪz jʊər ʃɜːrt ɑːn streɪt/",
+    "vocab": [
+      {
+        "w": "mirror",
+        "pos": "n.",
+        "ipa": "/ˈmɪrər/",
+        "zh": "鏡子"
+      }
+    ],
+    "category": "daily-routine"
+  },
+  {
+    "en": "Take small bites so you don't choke.",
+    "zh": "小口小口吃，才不會噎到。",
+    "ipa": "/teɪk smɔːl baɪts soʊ juː doʊnt tʃoʊk/",
+    "vocab": [
+      {
+        "w": "choke",
+        "pos": "v.",
+        "ipa": "/tʃoʊk/",
+        "zh": "噎到"
+      }
+    ],
+    "category": "meals"
+  },
+  {
+    "en": "Let's turn off the lights and get cozy.",
+    "zh": "我們關燈，舒服地窩著吧。",
+    "ipa": "/lets tɜːrn ɔːf ðə laɪts ənd ɡet ˈkoʊzi/",
+    "vocab": [
+      {
+        "w": "cozy",
+        "pos": "adj.",
+        "ipa": "/ˈkoʊzi/",
+        "zh": "舒適的"
+      }
+    ],
+    "category": "bath-bedtime"
+  },
+  {
+    "en": "Let's find a good spot for a picnic.",
+    "zh": "我們找個好地方野餐吧。",
+    "ipa": "/lets faɪnd ə ɡʊd spɑːt fɔːr ə ˈpɪknɪk/",
+    "vocab": [
+      {
+        "w": "picnic",
+        "pos": "n.",
+        "ipa": "/ˈpɪknɪk/",
+        "zh": "野餐"
+      }
+    ],
+    "category": "outings"
+  },
+  {
+    "en": "Be gentle, that's a smaller kid than you.",
+    "zh": "溫柔一點，那個小朋友比你小。",
+    "ipa": "/biː ˈdʒentl ðæts ə ˈsmɔːlər kɪd ðæn juː/",
+    "vocab": [
+      {
+        "w": "gentle",
+        "pos": "adj.",
+        "ipa": "/ˈdʒentl/",
+        "zh": "溫柔的"
+      }
+    ],
+    "category": "playground"
+  },
+  {
+    "en": "Who's your teacher this semester?",
+    "zh": "這學期你的老師是誰？",
+    "ipa": "/huːz jʊər ˈtiːtʃər ðɪs sɪˈmestər/",
+    "vocab": [
+      {
+        "w": "semester",
+        "pos": "n.",
+        "ipa": "/sɪˈmestər/",
+        "zh": "學期"
+      }
+    ],
+    "category": "school"
+  },
+  {
+    "en": "Can you explain that answer in your own words?",
+    "zh": "你可以用自己的話解釋這個答案嗎？",
+    "ipa": "/kæn juː ɪkˈspleɪn ðæt ˈænsər ɪn jʊər oʊn wɜːrdz/",
+    "vocab": [
+      {
+        "w": "explain",
+        "pos": "v.",
+        "ipa": "/ɪkˈspleɪn/",
+        "zh": "解釋"
+      }
+    ],
+    "category": "homework"
+  },
+  {
+    "en": "Let's donate the toys you don't play with.",
+    "zh": "我們把不玩的玩具捐出去吧。",
+    "ipa": "/lets doʊˈneɪt ðə tɔɪz juː doʊnt pleɪ wɪð/",
+    "vocab": [
+      {
+        "w": "donate",
+        "pos": "v.",
+        "ipa": "/doʊˈneɪt/",
+        "zh": "捐贈"
+      }
+    ],
+    "category": "toys-sharing"
+  },
+  {
+    "en": "It's normal to feel nervous before something new.",
+    "zh": "面對新事物感到緊張是正常的。",
+    "ipa": "/ɪts ˈnɔːrməl tuː fiːl ˈnɜːrvəs bɪˈfɔːr ˈsʌmθɪŋ nuː/",
+    "vocab": [
+      {
+        "w": "nervous",
+        "pos": "adj.",
+        "ipa": "/ˈnɜːrvəs/",
+        "zh": "緊張的"
+      }
+    ],
+    "category": "emotions"
+  },
+  {
+    "en": "Let's try that again, more calmly this time.",
+    "zh": "我們再試一次，這次要冷靜一點。",
+    "ipa": "/lets traɪ ðæt əˈɡen mɔːr ˈkɑːmli ðɪs taɪm/",
+    "vocab": [
+      {
+        "w": "calmly",
+        "pos": "adv.",
+        "ipa": "/ˈkɑːmli/",
+        "zh": "冷靜地"
+      }
+    ],
+    "category": "discipline"
+  },
+  {
+    "en": "I noticed you helped your friend, that's so kind.",
+    "zh": "我注意到你幫了朋友，真貼心。",
+    "ipa": "/aɪ ˈnoʊtɪst juː helpt jʊər frend ðæts soʊ kaɪnd/",
+    "vocab": [
+      {
+        "w": "notice",
+        "pos": "v.",
+        "ipa": "/ˈnoʊtɪs/",
+        "zh": "注意到"
+      }
+    ],
+    "category": "praise"
+  },
+  {
+    "en": "Always ask an adult before you go swimming.",
+    "zh": "去游泳前一定要先問大人。",
+    "ipa": "/ˈɔːlweɪz æsk ən əˈdʌlt bɪˈfɔːr juː ɡoʊ ˈswɪmɪŋ/",
+    "vocab": [
+      {
+        "w": "adult",
+        "pos": "n.",
+        "ipa": "/əˈdʌlt/",
+        "zh": "大人"
+      }
+    ],
+    "category": "safety"
+  },
+  {
+    "en": "Let's rest at home today since you're coughing.",
+    "zh": "你在咳嗽，今天在家休息吧。",
+    "ipa": "/lets rest æt hoʊm təˈdeɪ sɪns jʊər ˈkɔːfɪŋ/",
+    "vocab": [
+      {
+        "w": "cough",
+        "pos": "v.",
+        "ipa": "/kɔːf/",
+        "zh": "咳嗽"
+      }
+    ],
+    "category": "health"
+  },
+  {
+    "en": "Show Grandma the picture you drew.",
+    "zh": "把你畫的畫拿給奶奶看。",
+    "ipa": "/ʃoʊ ˈɡrænmɑː ðə ˈpɪktʃər juː druː/",
+    "vocab": [
+      {
+        "w": "drew",
+        "pos": "v.",
+        "ipa": "/druː/",
+        "zh": "畫（過去式）"
+      }
+    ],
+    "category": "relatives"
+  },
+  {
+    "en": "Let's invite your classmate for a playdate.",
+    "zh": "我們邀請你的同學來玩吧。",
+    "ipa": "/lets ɪnˈvaɪt jʊər ˈklæsmeɪt fɔːr ə ˈpleɪdeɪt/",
+    "vocab": [
+      {
+        "w": "playdate",
+        "pos": "n.",
+        "ipa": "/ˈpleɪdeɪt/",
+        "zh": "約玩、玩伴聚會"
+      }
+    ],
+    "category": "friends"
+  },
+  {
+    "en": "Say 'you're welcome' when someone thanks you.",
+    "zh": "有人謝謝你的時候要說「不客氣」。",
+    "ipa": "/seɪ jʊr ˈwelkəm wen ˈsʌmwʌn θæŋks juː/",
+    "vocab": [
+      {
+        "w": "welcome",
+        "pos": "int.",
+        "ipa": "/ˈwelkəm/",
+        "zh": "不客氣"
+      }
+    ],
+    "category": "manners"
+  },
+  {
+    "en": "Roll up your sleeves, it's getting warm.",
+    "zh": "把袖子捲起來，天氣變暖了。",
+    "ipa": "/roʊl ʌp jʊər sliːvz ɪts ˈɡetɪŋ wɔːrm/",
+    "vocab": [
+      {
+        "w": "sleeves",
+        "pos": "n.",
+        "ipa": "/sliːvz/",
+        "zh": "袖子"
+      }
+    ],
+    "category": "weather"
+  },
+  {
+    "en": "No screens thirty minutes before bedtime.",
+    "zh": "睡前三十分鐘不能用螢幕。",
+    "ipa": "/noʊ skriːnz ˈθɜːrti ˈmɪnəts bɪˈfɔːr ˈbedtaɪm/",
+    "vocab": [
+      {
+        "w": "bedtime",
+        "pos": "n.",
+        "ipa": "/ˈbedtaɪm/",
+        "zh": "睡覺時間"
+      }
+    ],
+    "category": "screen-time"
+  },
+  {
+    "en": "Let's bake cookies for the holiday together.",
+    "zh": "我們一起烤節慶餅乾吧。",
+    "ipa": "/lets beɪk ˈkʊkiz fɔːr ðə ˈhɑːlɪdeɪ təˈɡeðər/",
+    "vocab": [
+      {
+        "w": "bake",
+        "pos": "v.",
+        "ipa": "/beɪk/",
+        "zh": "烘烤"
+      }
+    ],
+    "category": "celebrations"
+  },
+  {
+    "en": "Who's your favorite character in this book?",
+    "zh": "這本書裡你最喜歡誰？",
+    "ipa": "/huːz jʊər ˈfeɪvərɪt ˈkerəktər ɪn ðɪs bʊk/",
+    "vocab": [
+      {
+        "w": "character",
+        "pos": "n.",
+        "ipa": "/ˈkerəktər/",
+        "zh": "角色"
+      }
+    ],
+    "category": "reading"
+  }
+];
+renderSentences(data);
+</script>
+
+</body>
+</html>
