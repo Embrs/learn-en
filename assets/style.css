@@ -390,4 +390,15 @@ button.star.mini.active { background: #fff3d6; }
   .sentence { font-size: 18px; }
   .brand { font-size: 15px; }
   .card { padding: 18px 16px; }
+
+  .cat-grid { grid-template-columns: repeat(auto-fill, minmax(96px, 1fr)); gap: 7px; }
+  .cat-chip { padding: 7px 8px; gap: 4px; border-radius: 8px; }
+  .cat-chip-icon { font-size: 14px; }
+  .cat-chip-label { font-size: 11px; line-height: 1.25; }
+  .cat-chip-count {
+    font-size: 9px;
+    min-width: 15px;
+    padding: 1px 4px;
+    border-radius: 8px;
+  }
 }
