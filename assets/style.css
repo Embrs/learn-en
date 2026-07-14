@@ -57,7 +57,7 @@ a { color: var(--accent); }
 .install-banner {
   background: #eef2ff;
   border-top: 1px solid #c9d6fb;
-  padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+  padding: 14px 16px calc(14px + env(safe-area-inset-bottom));
   font-size: 13px;
   color: #1f2c66;
   position: fixed;
@@ -67,9 +67,18 @@ a { color: var(--accent); }
   z-index: 40;
   box-shadow: 0 -4px 16px rgba(20,20,40,0.12);
 }
-.install-text { margin-bottom: 10px; }
+.install-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px 16px;
+}
+.install-text { flex: 1 1 260px; min-width: 0; }
 .install-icon { font-size: 13px; }
-.install-actions { display: flex; flex-wrap: wrap; }
+.install-actions { display: flex; flex-wrap: wrap; gap: 10px; flex-shrink: 0; }
 .install-actions button {
   border: none;
   border-radius: 8px;
@@ -77,8 +86,8 @@ a { color: var(--accent); }
   font-size: 13px;
   font-weight: 600;
   cursor: pointer;
+  white-space: nowrap;
 }
-.install-actions button + button { margin-left: 10px; }
 .install-actions .primary { background: var(--accent); color: #fff; }
 .install-actions .secondary { background: #fff; border: 1px solid #c9d6fb; color: #1f2c66; }
 

@@ -61,16 +61,20 @@ function showInstallBanner() {
   banner.className = 'install-banner';
   banner.innerHTML = canPrompt
     ? `
-      <div class="install-text">📲 把「每日英文」加到主畫面，像 App 一樣一鍵開啟</div>
-      <div class="install-actions">
-        <button class="primary" id="installNowBtn">加入主畫面</button>
-        <button class="secondary" id="installDismissBtn">之後再說</button>
+      <div class="install-inner">
+        <div class="install-text">📲 把「每日英文」加到主畫面，像 App 一樣一鍵開啟</div>
+        <div class="install-actions">
+          <button class="primary" id="installNowBtn">加入主畫面</button>
+          <button class="secondary" id="installDismissBtn">之後再說</button>
+        </div>
       </div>
     `
     : `
-      <div class="install-text">📲 把「每日英文」加到主畫面：點分享鈕 <span class="install-icon">⬆️</span> → 「加入主畫面」</div>
-      <div class="install-actions">
-        <button class="secondary" id="installDismissBtn">知道了</button>
+      <div class="install-inner">
+        <div class="install-text">📲 把「每日英文」加到主畫面：點分享鈕 <span class="install-icon">⬆️</span> → 「加入主畫面」</div>
+        <div class="install-actions">
+          <button class="secondary" id="installDismissBtn">知道了</button>
+        </div>
       </div>
     `;
   document.body.appendChild(banner);
