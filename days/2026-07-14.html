@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026年7月14日・今日英文 20句（家庭生活）</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<div id="siteHeader" class="site-header"></div>
+
+<div class="page">
+  <a class="back-link" href="../index.html">← 回歷史列表</a>
+  <h1>2026年7月14日・今日英文 20 句（家庭生活）</h1>
+  <div class="tip">點擊「▶ 播放整句」或單字旁的「🔊」朗讀，點 ☆ 可收藏喜歡的句子或單字。</div>
+
+  <div class="controls" id="controlsBar"></div>
+
+  <div id="list"></div>
+</div>
+
+<script>window.PAGE_DATE = '2026-07-14';</script>
+<script src="../assets/app.js"></script>
+<script>
+const data = [
+  {
+    en: "Stay close to me in the store.",
+    zh: "在店裡要跟緊我。",
+    ipa: "/steɪ kloʊs tə mi ɪn ðə stɔːr/",
+    vocab: [
+      { w: "stay", pos: "v.", ipa: "/steɪ/", zh: "保持、待著" },
+      { w: "close", pos: "adj.", ipa: "/kloʊs/", zh: "靠近的" },
+      { w: "store", pos: "n.", ipa: "/stɔːr/", zh: "商店" }
+    ]
+  },
+  {
+    en: "Buckle up before we drive off.",
+    zh: "我們開車之前先繫好安全帶。",
+    ipa: "/ˈbʌkəl ʌp bɪˈfɔːr wi draɪv ɔːf/",
+    vocab: [
+      { w: "buckle up", pos: "phr. v.", ipa: "/ˈbʌkəl ʌp/", zh: "繫上安全帶" },
+      { w: "drive off", pos: "phr. v.", ipa: "/draɪv ɔːf/", zh: "開車離開" }
+    ]
+  },
+  {
+    en: "Put your dirty clothes in the laundry basket.",
+    zh: "把你的髒衣服放進洗衣籃。",
+    ipa: "/pʊt jɔːr ˈdɜːrti kloʊðz ɪn ðə ˈlɔːndri ˈbæskɪt/",
+    vocab: [
+      { w: "dirty", pos: "adj.", ipa: "/ˈdɜːrti/", zh: "髒的" },
+      { w: "laundry", pos: "n.", ipa: "/ˈlɔːndri/", zh: "待洗衣物、洗衣" },
+      { w: "basket", pos: "n.", ipa: "/ˈbæskɪt/", zh: "籃子" }
+    ]
+  },
+  {
+    en: "Grab your umbrella, it's raining outside.",
+    zh: "拿一下你的雨傘，外面在下雨。",
+    ipa: "/ɡræb jɔːr ʌmˈbrelə ɪts ˈreɪnɪŋ ˌaʊtˈsaɪd/",
+    vocab: [
+      { w: "grab", pos: "v.", ipa: "/ɡræb/", zh: "順手拿、抓" },
+      { w: "umbrella", pos: "n.", ipa: "/ʌmˈbrelə/", zh: "雨傘" },
+      { w: "outside", pos: "adv.", ipa: "/ˌaʊtˈsaɪd/", zh: "外面" }
+    ]
+  },
+  {
+    en: "Sit still while I cut your nails.",
+    zh: "我幫你剪指甲的時候坐著別動。",
+    ipa: "/sɪt stɪl waɪl aɪ kʌt jɔːr neɪlz/",
+    vocab: [
+      { w: "still", pos: "adj.", ipa: "/stɪl/", zh: "靜止不動的" },
+      { w: "while", pos: "conj.", ipa: "/waɪl/", zh: "當…的時候" },
+      { w: "nail", pos: "n.", ipa: "/neɪl/", zh: "指甲" }
+    ]
+  },
+  {
+    en: "Blow out the candles and make a wish!",
+    zh: "把蠟燭吹熄，然後許個願！",
+    ipa: "/bloʊ aʊt ðə ˈkændəlz ənd meɪk ə wɪʃ/",
+    vocab: [
+      { w: "blow out", pos: "phr. v.", ipa: "/bloʊ aʊt/", zh: "吹熄" },
+      { w: "candle", pos: "n.", ipa: "/ˈkændəl/", zh: "蠟燭" },
+      { w: "wish", pos: "n.", ipa: "/wɪʃ/", zh: "願望" }
+    ]
+  },
+  {
+    en: "Say hi to Grandma on the phone.",
+    zh: "跟電話裡的奶奶說聲嗨。",
+    ipa: "/seɪ haɪ tə ˈɡrænmɑː ɑːn ðə foʊn/",
+    vocab: [
+      { w: "grandma", pos: "n.", ipa: "/ˈɡrænmɑː/", zh: "奶奶、外婆" },
+      { w: "on the phone", pos: "phr.", ipa: "/ɑːn ðə foʊn/", zh: "在電話上" }
+    ]
+  },
+  {
+    en: "Let's draw a picture together.",
+    zh: "我們一起畫張圖吧。",
+    ipa: "/lets drɔː ə ˈpɪktʃər təˈɡeðər/",
+    vocab: [
+      { w: "draw", pos: "v.", ipa: "/drɔː/", zh: "畫（圖）" },
+      { w: "picture", pos: "n.", ipa: "/ˈpɪktʃər/", zh: "圖畫" },
+      { w: "together", pos: "adv.", ipa: "/təˈɡeðər/", zh: "一起" }
+    ]
+  },
+  {
+    en: "Do you need to use the potty before we leave?",
+    zh: "我們出門前你要不要先上廁所？",
+    ipa: "/duː juː niːd tə juːz ðə ˈpɑːti bɪˈfɔːr wi liːv/",
+    vocab: [
+      { w: "potty", pos: "n.", ipa: "/ˈpɑːti/", zh: "（兒語）小馬桶、廁所" },
+      { w: "leave", pos: "v.", ipa: "/liːv/", zh: "離開、出發" }
+    ]
+  },
+  {
+    en: "Turn off the light and close your eyes.",
+    zh: "把燈關掉，閉上眼睛。",
+    ipa: "/tɜːrn ɔːf ðə laɪt ənd kloʊz jɔːr aɪz/",
+    vocab: [
+      { w: "turn off", pos: "phr. v.", ipa: "/tɜːrn ɔːf/", zh: "關掉（電器、燈）" },
+      { w: "close", pos: "v.", ipa: "/kloʊz/", zh: "閉上、關上" }
+    ]
+  },
+  {
+    en: "He begged me for candy at the checkout counter again.",
+    zh: "他又在結帳櫃檯前吵著跟我要糖果。",
+    ipa: "/hi beɡd mi fər ˈkændi æt ðə ˈtʃekaʊt ˈkaʊntər əˈɡen/",
+    vocab: [
+      { w: "beg", pos: "v.", ipa: "/beɡ/", zh: "央求、苦苦哀求" },
+      { w: "candy", pos: "n.", ipa: "/ˈkændi/", zh: "糖果" },
+      { w: "checkout counter", pos: "n.", ipa: "/ˈtʃekaʊt ˈkaʊntər/", zh: "結帳櫃檯" }
+    ]
+  },
+  {
+    en: "He's finally starting to enjoy riding his bike without training wheels.",
+    zh: "他終於開始享受騎沒有輔助輪的腳踏車了。",
+    ipa: "/hiz ˈfaɪnəli ˈstɑːrtɪŋ tə ɪnˈdʒɔɪ ˈraɪdɪŋ hɪz baɪk wɪˈðaʊt ˈtreɪnɪŋ wiːlz/",
+    vocab: [
+      { w: "finally", pos: "adv.", ipa: "/ˈfaɪnəli/", zh: "終於" },
+      { w: "enjoy", pos: "v.", ipa: "/ɪnˈdʒɔɪ/", zh: "享受、樂在其中" },
+      { w: "training wheels", pos: "n.", ipa: "/ˈtreɪnɪŋ wiːlz/", zh: "（腳踏車）輔助輪" }
+    ]
+  },
+  {
+    en: "He talks nonstop the whole car ride home from daycare.",
+    zh: "從托兒所開車回家的一路上他講個不停。",
+    ipa: "/hi tɔːks ˈnɑːnstɑːp ðə hoʊl kɑːr raɪd hoʊm frəm ˈdeɪker/",
+    vocab: [
+      { w: "nonstop", pos: "adv.", ipa: "/ˈnɑːnstɑːp/", zh: "不停地" },
+      { w: "whole", pos: "adj.", ipa: "/hoʊl/", zh: "整個的" },
+      { w: "daycare", pos: "n.", ipa: "/ˈdeɪker/", zh: "托兒所、日間托育" }
+    ]
+  },
+  {
+    en: "We let him pick out one book at the library every week.",
+    zh: "我們每週讓他在圖書館自己挑一本書。",
+    ipa: "/wi let hɪm pɪk aʊt wʌn bʊk æt ðə ˈlaɪbreri ˈevri wiːk/",
+    vocab: [
+      { w: "pick out", pos: "phr. v.", ipa: "/pɪk aʊt/", zh: "挑選出" },
+      { w: "library", pos: "n.", ipa: "/ˈlaɪbreri/", zh: "圖書館" }
+    ]
+  },
+  {
+    en: "He's at the age where he wants to do everything by himself.",
+    zh: "他正處在什麼都想自己來的年紀。",
+    ipa: "/hiz æt ði eɪdʒ wer hi wɑːnts tə duː ˈevriθɪŋ baɪ hɪmˈself/",
+    vocab: [
+      { w: "age", pos: "n.", ipa: "/eɪdʒ/", zh: "年紀、階段" },
+      { w: "by himself", pos: "phr.", ipa: "/baɪ hɪmˈself/", zh: "他自己（獨力）" }
+    ]
+  },
+  {
+    en: "It took three stories and two glasses of water before he finally fell asleep.",
+    zh: "講了三個故事、喝了兩杯水，他才終於睡著。",
+    ipa: "/ɪt tʊk θriː ˈstɔːriz ənd tuː ˈɡlæsɪz əv ˈwɔːtər bɪˈfɔːr hi ˈfaɪnəli fel əˈsliːp/",
+    vocab: [
+      { w: "story", pos: "n.", ipa: "/ˈstɔːri/", zh: "故事" },
+      { w: "fall asleep", pos: "phr.", ipa: "/fɔːl əˈsliːp/", zh: "睡著" }
+    ]
+  },
+  {
+    en: "He copies everything his older cousin does.",
+    zh: "他表哥做什麼他就學什麼。",
+    ipa: "/hi ˈkɑːpiz ˈevriθɪŋ hɪz ˈoʊldər ˈkʌzən dʌz/",
+    vocab: [
+      { w: "copy", pos: "v.", ipa: "/ˈkɑːpi/", zh: "模仿、照做" },
+      { w: "cousin", pos: "n.", ipa: "/ˈkʌzən/", zh: "堂／表兄弟姊妹" }
+    ]
+  },
+  {
+    en: "I try to catch him being good instead of only correcting him.",
+    zh: "我盡量在他表現好的時候稱讚他，而不是只會糾正他。",
+    ipa: "/aɪ traɪ tə kætʃ hɪm ˈbiːɪŋ ɡʊd ɪnˈsted əv ˈoʊnli kəˈrektɪŋ hɪm/",
+    vocab: [
+      { w: "catch", pos: "v.", ipa: "/kætʃ/", zh: "（正好）發現、逮到" },
+      { w: "instead of", pos: "phr.", ipa: "/ɪnˈsted əv/", zh: "而不是" },
+      { w: "correct", pos: "v.", ipa: "/kəˈrekt/", zh: "糾正" }
+    ]
+  },
+  {
+    en: "He's obsessed with dinosaurs at the moment.",
+    zh: "他現在超級迷恐龍。",
+    ipa: "/hiz əbˈsest wɪð ˈdaɪnəsɔːrz æt ðə ˈmoʊmənt/",
+    vocab: [
+      { w: "obsessed", pos: "adj.", ipa: "/əbˈsest/", zh: "著迷的、入迷的" },
+      { w: "dinosaur", pos: "n.", ipa: "/ˈdaɪnəsɔːr/", zh: "恐龍" },
+      { w: "at the moment", pos: "phr.", ipa: "/æt ðə ˈmoʊmənt/", zh: "目前、現階段" }
+    ]
+  },
+  {
+    en: "Bath time is the only thing that reliably calms him down.",
+    zh: "洗澡時間是唯一每次都能讓他冷靜下來的事。",
+    ipa: "/bæθ taɪm ɪz ði ˈoʊnli θɪŋ ðæt rɪˈlaɪəbli kɑːmz hɪm daʊn/",
+    vocab: [
+      { w: "reliably", pos: "adv.", ipa: "/rɪˈlaɪəbli/", zh: "可靠地、每次都有效地" },
+      { w: "calm down", pos: "phr. v.", ipa: "/kɑːm daʊn/", zh: "使冷靜下來" }
+    ]
+  }
+];
+renderSentences(data);
+</script>
+
+</body>
+</html>
