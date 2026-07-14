@@ -330,12 +330,20 @@ button.star.mini.active { background: #fff3d6; }
 .day-list .chevron { color: #c6c9d2; margin-left: 12px; font-size: 18px; flex-shrink: 0; }
 
 /* ---- 分類頁 ---- */
+/* 貼在導覽列正下方（sticky），捲動看例句時分類選單不會跑掉，切換分類不用捲回最上面 */
 .cat-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
   gap: 10px;
-  margin: 18px 0 24px;
+  margin: 0 0 24px;
+  position: sticky;
+  top: var(--header-h, 84px);
+  z-index: 15;
+  background: var(--bg);
+  padding: 14px 0 12px;
+  border-bottom: 1px solid var(--border);
 }
+.load-more-sentinel { height: 1px; }
 .cat-chip {
   display: flex;
   align-items: center;

@@ -328,6 +328,8 @@ function renderHeader() {
     </nav>
   `;
   updateFavCountBadge();
+  // 記錄導覽列實際高度，讓分類頁的分類選單可以貼齊在它正下方（sticky）
+  document.documentElement.style.setProperty('--header-h', holder.offsetHeight + 'px');
 }
 
 // ---------------- 收藏功能 ----------------
@@ -554,6 +556,9 @@ function fetchAllSentences() {
     .then(list => { __sentencesCache = list; return list; });
 }
 
+const CAT_PAGE_SIZE = 20; // 每批次渲染幾句，避免分類句數變多時一次塞進大量 DOM 造成卡頓
+let catLoadObserver = null;
+
 function renderCategoriesPage() {
   const grid = document.getElementById('catGrid');
   const results = document.getElementById('catResults');
@@ -581,6 +586,7 @@ function renderCategoriesPage() {
     });
 
     function showCategory(catId) {
+      if (catLoadObserver) { catLoadObserver.disconnect(); catLoadObserver = null; }
       Array.from(grid.querySelectorAll('.cat-chip')).forEach(b => {
         b.classList.toggle('active', b.dataset.cat === catId);
       });
@@ -602,11 +608,36 @@ function renderCategoriesPage() {
         results.appendChild(tip);
         return;
       }
-      matches.forEach(item => {
-        const idx = parseInt(item.id.split('-').pop(), 10) - 1;
-        const card = buildSentenceCard(item, item.date, idx, { label: item.date, showCategory: false });
-        results.appendChild(card);
-      });
+
+      const list = document.createElement('div');
+      results.appendChild(list);
+      const sentinel = document.createElement('div');
+      sentinel.className = 'load-more-sentinel';
+      results.appendChild(sentinel);
+
+      let renderedCount = 0;
+      function loadMoreBatch() {
+        const next = matches.slice(renderedCount, renderedCount + CAT_PAGE_SIZE);
+        next.forEach(item => {
+          const idx = parseInt(item.id.split('-').pop(), 10) - 1;
+          const card = buildSentenceCard(item, item.date, idx, { label: item.date, showCategory: false });
+          list.appendChild(card);
+        });
+        renderedCount += next.length;
+        if (renderedCount >= matches.length && catLoadObserver) {
+          catLoadObserver.disconnect();
+          catLoadObserver = null;
+          sentinel.remove();
+        }
+      }
+
+      loadMoreBatch(); // 先渲染第一批，不用等捲動
+      if (renderedCount < matches.length) {
+        catLoadObserver = new IntersectionObserver((entries) => {
+          if (entries.some(e => e.isIntersecting)) loadMoreBatch();
+        }, { rootMargin: '400px' });
+        catLoadObserver.observe(sentinel);
+      }
     }
 
     function onHashChange() {
