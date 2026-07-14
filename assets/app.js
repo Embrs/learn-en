@@ -596,7 +596,11 @@ function renderCategoriesPage() {
       // 還沒選分類：完整格狀方便瀏覽＋比較數量。已選分類：收成一排小藥丸，把畫面讓給例句內容。
       grid.classList.toggle('compact', !!catId);
       if (activeChip) {
-        activeChip.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+        // 切成一排橫向捲動的版面需要先讓瀏覽器完成排版，才能算出正確的捲動位置，
+        // 不然選到後面的分類時，選到的藥丸可能還在看不到的地方。
+        requestAnimationFrame(() => {
+          activeChip.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+        });
       }
       results.innerHTML = '';
       if (!catId) {
