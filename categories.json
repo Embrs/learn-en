@@ -1,0 +1,102 @@
+[
+  {
+    "id": "daily-routine",
+    "zh": "生活起居",
+    "icon": "🌅"
+  },
+  {
+    "id": "meals",
+    "zh": "用餐時間",
+    "icon": "🍽️"
+  },
+  {
+    "id": "bath-bedtime",
+    "zh": "洗澡睡前",
+    "icon": "🛁"
+  },
+  {
+    "id": "outings",
+    "zh": "出遊活動",
+    "icon": "🚗"
+  },
+  {
+    "id": "playground",
+    "zh": "公園玩耍",
+    "icon": "🛝"
+  },
+  {
+    "id": "school",
+    "zh": "上學／學校",
+    "icon": "🎒"
+  },
+  {
+    "id": "homework",
+    "zh": "功課學習",
+    "icon": "📝"
+  },
+  {
+    "id": "toys-sharing",
+    "zh": "玩具分享",
+    "icon": "🧸"
+  },
+  {
+    "id": "emotions",
+    "zh": "情緒安撫",
+    "icon": "🤗"
+  },
+  {
+    "id": "discipline",
+    "zh": "管教規矩",
+    "icon": "📏"
+  },
+  {
+    "id": "praise",
+    "zh": "讚美鼓勵",
+    "icon": "🌟"
+  },
+  {
+    "id": "safety",
+    "zh": "安全提醒",
+    "icon": "⚠️"
+  },
+  {
+    "id": "health",
+    "zh": "健康就醫",
+    "icon": "🏥"
+  },
+  {
+    "id": "relatives",
+    "zh": "親戚拜訪",
+    "icon": "👵"
+  },
+  {
+    "id": "friends",
+    "zh": "朋友社交",
+    "icon": "👫"
+  },
+  {
+    "id": "manners",
+    "zh": "禮貌用語",
+    "icon": "🙏"
+  },
+  {
+    "id": "weather",
+    "zh": "天氣穿著",
+    "icon": "🧥"
+  },
+  {
+    "id": "screen-time",
+    "zh": "3C螢幕時間",
+    "icon": "📱"
+  },
+  {
+    "id": "celebrations",
+    "zh": "節慶慶祝",
+    "icon": "🎉"
+  },
+  {
+    "id": "reading",
+    "zh": "睡前故事",
+    "icon": "📖"
+  }
+]
