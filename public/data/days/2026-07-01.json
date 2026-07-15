@@ -9,12 +9,12 @@
       "category": "daily-routine",
       "en": "Let's set your alarm for seven o'clock.",
       "zh": "我們把鬧鐘設定在七點吧。",
-      "ipa": "/lets set jʊər əˈlɑːrm fɔːr ˈsevən əˈklɑːk/",
+      "ipa": "/lets set jʊɚ əˈlɑrm fɔr ˈsevən əˈklɑk/",
       "vocab": [
         {
           "w": "alarm",
           "pos": "n.",
-          "ipa": "/əˈlɑːrm/",
+          "ipa": "/əˈlɑrm/",
           "zh": "鬧鐘"
         }
       ]
@@ -25,12 +25,12 @@
       "category": "meals",
       "en": "Let's wash our hands before we eat.",
       "zh": "吃飯前我們先洗手。",
-      "ipa": "/lets wɑːʃ ˈaʊər hændz bɪˈfɔːr wiː iːt/",
+      "ipa": "/lets wɑʃ ˈaʊɚ hændz bɪˈfɔr wi it/",
       "vocab": [
         {
           "w": "wash",
           "pos": "v.",
-          "ipa": "/wɑːʃ/",
+          "ipa": "/wɑʃ/",
           "zh": "洗"
         }
       ]
@@ -41,12 +41,12 @@
       "category": "bath-bedtime",
       "en": "Let's check the water temperature first.",
       "zh": "我們先試試水溫吧。",
-      "ipa": "/lets tʃek ðə ˈwɔːtər ˈtemprətʃər fɜːrst/",
+      "ipa": "/lets tʃek ðə ˈwɔtɚ ˈtemprətʃɚ fɝst/",
       "vocab": [
         {
           "w": "temperature",
           "pos": "n.",
-          "ipa": "/ˈtemprətʃər/",
+          "ipa": "/ˈtemprətʃɚ/",
           "zh": "溫度"
         }
       ]
@@ -57,12 +57,12 @@
       "category": "outings",
       "en": "Let's check the weather before we head out.",
       "zh": "出門前我們看一下天氣吧。",
-      "ipa": "/lets tʃek ðə ˈweðər bɪˈfɔːr wiː hed aʊt/",
+      "ipa": "/lets tʃek ðə ˈweðɚ bɪˈfɔr wi hed aʊt/",
       "vocab": [
         {
           "w": "weather",
           "pos": "n.",
-          "ipa": "/ˈweðər/",
+          "ipa": "/ˈweðɚ/",
           "zh": "天氣"
         }
       ]
@@ -73,7 +73,7 @@
       "category": "playground",
       "en": "Let's play tag, I'll count to ten.",
       "zh": "我們來玩鬼抓人，我數到十。",
-      "ipa": "/lets pleɪ tæɡ aɪl kaʊnt tuː ten/",
+      "ipa": "/lets ple tæɡ aɪl kaʊnt tu ten/",
       "vocab": [
         {
           "w": "tag",
@@ -89,12 +89,12 @@
       "category": "school",
       "en": "Don't forget your water bottle for school.",
       "zh": "別忘了帶水壺去上學。",
-      "ipa": "/doʊnt fərˈɡet jʊər ˈwɔːtər ˈbɑːtl fɔːr skuːl/",
+      "ipa": "/dont fɚˈɡet jʊɚ ˈwɔtɚ ˈbɑtl fɔr skul/",
       "vocab": [
         {
           "w": "water bottle",
           "pos": "n.",
-          "ipa": "/ˈwɔːtər ˈbɑːtl/",
+          "ipa": "/ˈwɔtɚ ˈbɑtl/",
           "zh": "水壺"
         }
       ]
@@ -105,12 +105,12 @@
       "category": "homework",
       "en": "Let's sharpen your pencil before we start.",
       "zh": "開始前先削好鉛筆吧。",
-      "ipa": "/lets ˈʃɑːrpən jʊər ˈpensəl bɪˈfɔːr wiː stɑːrt/",
+      "ipa": "/lets ˈʃɑrpən jʊɚ ˈpensəl bɪˈfɔr wi stɑrt/",
       "vocab": [
         {
           "w": "sharpen",
           "pos": "v.",
-          "ipa": "/ˈʃɑːrpən/",
+          "ipa": "/ˈʃɑrpən/",
           "zh": "削（尖）"
         }
       ]
@@ -121,12 +121,12 @@
       "category": "toys-sharing",
       "en": "Let's sort your toys by color.",
       "zh": "我們把玩具依顏色分類吧。",
-      "ipa": "/lets sɔːrt jʊər tɔɪz baɪ ˈkʌlər/",
+      "ipa": "/lets sɔrt jʊɚ tɔɪz baɪ ˈkʌlɚ/",
       "vocab": [
         {
           "w": "sort",
           "pos": "v.",
-          "ipa": "/sɔːrt/",
+          "ipa": "/sɔrt/",
           "zh": "分類"
         }
       ]
@@ -137,7 +137,7 @@
       "category": "emotions",
       "en": "It's okay to be scared, I'm here with you.",
       "zh": "害怕沒關係，我在你身邊。",
-      "ipa": "/ɪts oʊˈkeɪ tuː biː skerd aɪm hɪr wɪð juː/",
+      "ipa": "/ɪts oˈke tu bi skerd aɪm hɪr wɪð ju/",
       "vocab": [
         {
           "w": "scared",
@@ -153,7 +153,7 @@
       "category": "discipline",
       "en": "Shouting won't get you what you want.",
       "zh": "大叫沒辦法讓你得到想要的東西。",
-      "ipa": "/ˈʃaʊtɪŋ woʊnt ɡet juː wʌt juː wɑːnt/",
+      "ipa": "/ˈʃaʊtɪŋ wont ɡet ju wʌt ju wɑnt/",
       "vocab": [
         {
           "w": "shout",
@@ -169,12 +169,12 @@
       "category": "praise",
       "en": "You did that all on your own, amazing!",
       "zh": "你完全靠自己做到的，太棒了！",
-      "ipa": "/juː dɪd ðæt ɔːl ɑːn jʊər oʊn əˈmeɪzɪŋ/",
+      "ipa": "/ju dɪd ðæt ɔl ɑn jʊɚ on əˈmezɪŋ/",
       "vocab": [
         {
           "w": "amazing",
           "pos": "adj.",
-          "ipa": "/əˈmeɪzɪŋ/",
+          "ipa": "/əˈmezɪŋ/",
           "zh": "令人驚艷的"
         }
       ]
@@ -185,12 +185,12 @@
       "category": "safety",
       "en": "Don't run near the swimming pool.",
       "zh": "泳池旁邊不要用跑的。",
-      "ipa": "/doʊnt rʌn nɪr ðə ˈswɪmɪŋ puːl/",
+      "ipa": "/dont rʌn nɪr ðə ˈswɪmɪŋ pul/",
       "vocab": [
         {
           "w": "swimming pool",
           "pos": "n.",
-          "ipa": "/ˈswɪmɪŋ puːl/",
+          "ipa": "/ˈswɪmɪŋ pul/",
           "zh": "游泳池"
         }
       ]
@@ -201,7 +201,7 @@
       "category": "health",
       "en": "Does your tummy still hurt?",
       "zh": "你的肚子還在痛嗎？",
-      "ipa": "/dʌz jʊər ˈtʌmi stɪl hɜːrt/",
+      "ipa": "/dʌz jʊɚ ˈtʌmi stɪl hɝt/",
       "vocab": [
         {
           "w": "tummy",
@@ -217,7 +217,7 @@
       "category": "relatives",
       "en": "Let's bring a snack to share at Grandma's.",
       "zh": "我們帶點心去奶奶家分享吧。",
-      "ipa": "/lets brɪŋ ə snæk tuː ʃer æt ˈɡrænmɑːz/",
+      "ipa": "/lets brɪŋ ə snæk tu ʃer æt ˈɡrænmɑz/",
       "vocab": [
         {
           "w": "snack",
@@ -233,12 +233,12 @@
       "category": "friends",
       "en": "Who did you play with at the park today?",
       "zh": "你今天在公園跟誰一起玩？",
-      "ipa": "/huː dɪd juː pleɪ wɪð æt ðə pɑːrk təˈdeɪ/",
+      "ipa": "/hu dɪd ju ple wɪð æt ðə pɑrk təˈde/",
       "vocab": [
         {
           "w": "play with",
           "pos": "v. phr.",
-          "ipa": "/pleɪ wɪð/",
+          "ipa": "/ple wɪð/",
           "zh": "和…一起玩"
         }
       ]
@@ -249,7 +249,7 @@
       "category": "manners",
       "en": "Say excuse me before you interrupt.",
       "zh": "打斷別人之前要先說不好意思。",
-      "ipa": "/seɪ ɪkˈskjuːz miː bɪˈfɔːr juː ˌɪntəˈrʌpt/",
+      "ipa": "/se ɪkˈskjuz mi bɪˈfɔr ju ˌɪntəˈrʌpt/",
       "vocab": [
         {
           "w": "interrupt",
@@ -265,12 +265,12 @@
       "category": "weather",
       "en": "Grab a raincoat, it's pouring outside.",
       "zh": "拿件雨衣，外面下大雨了。",
-      "ipa": "/ɡræb ə ˈreɪnkoʊt ɪts ˈpɔːrɪŋ ˈaʊtˌsaɪd/",
+      "ipa": "/ɡræb ə ˈrenkot ɪts ˈpɔrɪŋ ˈaʊtˌsaɪd/",
       "vocab": [
         {
           "w": "raincoat",
           "pos": "n.",
-          "ipa": "/ˈreɪnkoʊt/",
+          "ipa": "/ˈrenkot/",
           "zh": "雨衣"
         }
       ]
@@ -281,12 +281,12 @@
       "category": "screen-time",
       "en": "Let's set a timer for your game time.",
       "zh": "我們設定計時器來玩遊戲時間吧。",
-      "ipa": "/lets set ə ˈtaɪmər fɔːr jʊər ɡeɪm taɪm/",
+      "ipa": "/lets set ə ˈtaɪmɚ fɔr jʊɚ ɡem taɪm/",
       "vocab": [
         {
           "w": "timer",
           "pos": "n.",
-          "ipa": "/ˈtaɪmər/",
+          "ipa": "/ˈtaɪmɚ/",
           "zh": "計時器"
         }
       ]
@@ -297,12 +297,12 @@
       "category": "celebrations",
       "en": "Let's hang balloons for the party tomorrow.",
       "zh": "我們掛氣球佈置明天的派對吧。",
-      "ipa": "/lets hæŋ bəˈluːnz fɔːr ðə ˈpɑːrti təˈmɑːroʊ/",
+      "ipa": "/lets hæŋ bəˈlunz fɔr ðə ˈpɑrti təˈmɑro/",
       "vocab": [
         {
           "w": "balloons",
           "pos": "n.",
-          "ipa": "/bəˈluːnz/",
+          "ipa": "/bəˈlunz/",
           "zh": "氣球"
         }
       ]
@@ -313,12 +313,12 @@
       "category": "reading",
       "en": "Let's read about dinosaurs tonight.",
       "zh": "我們今晚來讀恐龍的故事吧。",
-      "ipa": "/lets riːd əˈbaʊt ˈdaɪnəsɔːrz təˈnaɪt/",
+      "ipa": "/lets rid əˈbaʊt ˈdaɪnəsɔrz təˈnaɪt/",
       "vocab": [
         {
           "w": "dinosaur",
           "pos": "n.",
-          "ipa": "/ˈdaɪnəsɔːr/",
+          "ipa": "/ˈdaɪnəsɔr/",
           "zh": "恐龍"
         }
       ]

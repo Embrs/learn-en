@@ -9,12 +9,12 @@
       "category": "daily-routine",
       "en": "Put your shoes on, we need to hurry.",
       "zh": "穿上鞋子，我們得快一點了。",
-      "ipa": "/pʊt jʊər ʃuːz ɑːn wiː niːd tuː ˈhɜːri/",
+      "ipa": "/pʊt jʊɚ ʃuz ɑn wi nid tu ˈhɝi/",
       "vocab": [
         {
           "w": "hurry",
           "pos": "v.",
-          "ipa": "/ˈhɜːri/",
+          "ipa": "/ˈhɝi/",
           "zh": "趕快"
         }
       ]
@@ -25,12 +25,12 @@
       "category": "meals",
       "en": "Can you use your fork instead of your fingers?",
       "zh": "可以用叉子而不是用手指嗎？",
-      "ipa": "/kæn juː juːz jʊər fɔːrk ɪnˈsted ʌv jʊər ˈfɪŋɡərz/",
+      "ipa": "/kæn ju juz jʊɚ fɔrk ɪnˈsted ʌv jʊɚ ˈfɪŋɡɚz/",
       "vocab": [
         {
           "w": "fork",
           "pos": "n.",
-          "ipa": "/fɔːrk/",
+          "ipa": "/fɔrk/",
           "zh": "叉子"
         }
       ]
@@ -41,7 +41,7 @@
       "category": "bath-bedtime",
       "en": "Rinse the soap out of your eyes carefully.",
       "zh": "小心把眼睛裡的肥皂沖乾淨。",
-      "ipa": "/rɪns ðə soʊp aʊt ʌv jʊər aɪz ˈkerfəli/",
+      "ipa": "/rɪns ðə sop aʊt ʌv jʊɚ aɪz ˈkerfəli/",
       "vocab": [
         {
           "w": "rinse",
@@ -57,7 +57,7 @@
       "category": "outings",
       "en": "Stay close to me in the crowd.",
       "zh": "在人群裡要靠近我。",
-      "ipa": "/steɪ kloʊs tuː miː ɪn ðə kraʊd/",
+      "ipa": "/ste klos tu mi ɪn ðə kraʊd/",
       "vocab": [
         {
           "w": "crowd",
@@ -73,12 +73,12 @@
       "category": "playground",
       "en": "Hold onto the bars tightly.",
       "zh": "緊緊抓住單槓。",
-      "ipa": "/hoʊld ˈɑːntuː ðə bɑːrz ˈtaɪtli/",
+      "ipa": "/hold ˈɑntu ðə bɑrz ˈtaɪtli/",
       "vocab": [
         {
           "w": "bars",
           "pos": "n.",
-          "ipa": "/bɑːrz/",
+          "ipa": "/bɑrz/",
           "zh": "單槓"
         }
       ]
@@ -89,12 +89,12 @@
       "category": "school",
       "en": "Let's put your homework in your folder.",
       "zh": "把功課放進資料夾裡吧。",
-      "ipa": "/lets pʊt jʊər ˈhoʊmwɜːrk ɪn jʊər ˈfoʊldər/",
+      "ipa": "/lets pʊt jʊɚ ˈhomwɝk ɪn jʊɚ ˈfoldɚ/",
       "vocab": [
         {
           "w": "folder",
           "pos": "n.",
-          "ipa": "/ˈfoʊldər/",
+          "ipa": "/ˈfoldɚ/",
           "zh": "資料夾"
         }
       ]
@@ -105,7 +105,7 @@
       "category": "homework",
       "en": "Read the question again, slowly this time.",
       "zh": "再讀一次題目，這次慢慢讀。",
-      "ipa": "/riːd ðə ˈkwestʃən əˈɡen ˈsloʊli ðɪs taɪm/",
+      "ipa": "/rid ðə ˈkwestʃən əˈɡen ˈsloli ðɪs taɪm/",
       "vocab": [
         {
           "w": "question",
@@ -121,12 +121,12 @@
       "category": "toys-sharing",
       "en": "You can trade toys if you both agree.",
       "zh": "如果你們都同意，可以交換玩具。",
-      "ipa": "/juː kæn treɪd tɔɪz ɪf juː boʊθ əˈɡriː/",
+      "ipa": "/ju kæn tred tɔɪz ɪf ju boθ əˈɡri/",
       "vocab": [
         {
           "w": "trade",
           "pos": "v.",
-          "ipa": "/treɪd/",
+          "ipa": "/tred/",
           "zh": "交換"
         }
       ]
@@ -137,7 +137,7 @@
       "category": "emotions",
       "en": "Let's count to ten together to feel better.",
       "zh": "我們一起數到十，會感覺好一點。",
-      "ipa": "/lets kaʊnt tuː ten təˈɡeðər tuː fiːl ˈbetər/",
+      "ipa": "/lets kaʊnt tu ten təˈɡeðɚ tu fil ˈbetɚ/",
       "vocab": [
         {
           "w": "count",
@@ -153,12 +153,12 @@
       "category": "discipline",
       "en": "We agreed on no snacks before dinner.",
       "zh": "我們說好晚餐前不吃零食。",
-      "ipa": "/wiː əˈɡriːd ɑːn noʊ snæks bɪˈfɔːr ˈdɪnər/",
+      "ipa": "/wi əˈɡrid ɑn no snæks bɪˈfɔr ˈdɪnɚ/",
       "vocab": [
         {
           "w": "agree",
           "pos": "v.",
-          "ipa": "/əˈɡriː/",
+          "ipa": "/əˈɡri/",
           "zh": "同意"
         }
       ]
@@ -169,12 +169,12 @@
       "category": "praise",
       "en": "What a creative idea, I love it!",
       "zh": "好有創意的點子，我好喜歡！",
-      "ipa": "/wʌt ə kriˈeɪtɪv aɪˈdiə aɪ lʌv ɪt/",
+      "ipa": "/wʌt ə kriˈetɪv aɪˈdiə aɪ lʌv ɪt/",
       "vocab": [
         {
           "w": "creative",
           "pos": "adj.",
-          "ipa": "/kriˈeɪtɪv/",
+          "ipa": "/kriˈetɪv/",
           "zh": "有創意的"
         }
       ]
@@ -185,12 +185,12 @@
       "category": "safety",
       "en": "Keep sharp objects away from your little sister.",
       "zh": "尖銳的東西要遠離妹妹。",
-      "ipa": "/kiːp ʃɑːrp ˈɑːbdʒekts əˈweɪ frʌm jʊər ˈlɪtl ˈsɪstər/",
+      "ipa": "/kip ʃɑrp ˈɑbdʒekts əˈwe frʌm jʊɚ ˈlɪtl ˈsɪstɚ/",
       "vocab": [
         {
           "w": "sharp",
           "pos": "adj.",
-          "ipa": "/ʃɑːrp/",
+          "ipa": "/ʃɑrp/",
           "zh": "尖銳的"
         }
       ]
@@ -201,12 +201,12 @@
       "category": "health",
       "en": "Let's put on a cool compress for that bump.",
       "zh": "我們幫這個腫包敷冰袋吧。",
-      "ipa": "/lets pʊt ɑːn ə kuːl ˈkɑːmpres fɔːr ðæt bʌmp/",
+      "ipa": "/lets pʊt ɑn ə kul ˈkɑmpres fɔr ðæt bʌmp/",
       "vocab": [
         {
           "w": "compress",
           "pos": "n.",
-          "ipa": "/ˈkɑːmpres/",
+          "ipa": "/ˈkɑmpres/",
           "zh": "敷料、冰袋"
         }
       ]
@@ -217,7 +217,7 @@
       "category": "relatives",
       "en": "Your cousin brought her new puppy today.",
       "zh": "表姊今天帶了她的新小狗來。",
-      "ipa": "/jʊər ˈkʌzən brɔːt hɜːr nuː ˈpʌpi təˈdeɪ/",
+      "ipa": "/jʊɚ ˈkʌzən brɔt hɝ nu ˈpʌpi təˈde/",
       "vocab": [
         {
           "w": "cousin",
@@ -233,12 +233,12 @@
       "category": "friends",
       "en": "Let's write a card for your friend's birthday.",
       "zh": "我們幫朋友的生日寫張卡片吧。",
-      "ipa": "/lets raɪt ə kɑːrd fɔːr jʊər frendz ˈbɜːrθdeɪ/",
+      "ipa": "/lets raɪt ə kɑrd fɔr jʊɚ frendz ˈbɝθde/",
       "vocab": [
         {
           "w": "card",
           "pos": "n.",
-          "ipa": "/kɑːrd/",
+          "ipa": "/kɑrd/",
           "zh": "卡片"
         }
       ]
@@ -249,12 +249,12 @@
       "category": "manners",
       "en": "Chew with your mouth closed, please.",
       "zh": "請閉著嘴巴咀嚼。",
-      "ipa": "/tʃuː wɪð jʊər maʊθ kloʊzd pliːz/",
+      "ipa": "/tʃu wɪð jʊɚ maʊθ klozd pliz/",
       "vocab": [
         {
           "w": "chew",
           "pos": "v.",
-          "ipa": "/tʃuː/",
+          "ipa": "/tʃu/",
           "zh": "咀嚼"
         }
       ]
@@ -265,12 +265,12 @@
       "category": "weather",
       "en": "It's foggy this morning, stay close to me.",
       "zh": "今天早上有霧，要靠近我。",
-      "ipa": "/ɪts ˈfɔːɡi ðɪs ˈmɔːrnɪŋ steɪ kloʊs tuː miː/",
+      "ipa": "/ɪts ˈfɔɡi ðɪs ˈmɔrnɪŋ ste klos tu mi/",
       "vocab": [
         {
           "w": "foggy",
           "pos": "adj.",
-          "ipa": "/ˈfɔːɡi/",
+          "ipa": "/ˈfɔɡi/",
           "zh": "有霧的"
         }
       ]
@@ -281,7 +281,7 @@
       "category": "screen-time",
       "en": "That's enough YouTube for now.",
       "zh": "現在YouTube看得夠久了。",
-      "ipa": "/ðæts ɪˈnʌf ˈjuːtjuːb fɔːr naʊ/",
+      "ipa": "/ðæts ɪˈnʌf ˈjutjub fɔr naʊ/",
       "vocab": [
         {
           "w": "enough",
@@ -297,7 +297,7 @@
       "category": "celebrations",
       "en": "Let's wrap this gift for your cousin.",
       "zh": "我們幫表哥包這個禮物吧。",
-      "ipa": "/lets ræp ðɪs ɡɪft fɔːr jʊər ˈkʌzən/",
+      "ipa": "/lets ræp ðɪs ɡɪft fɔr jʊɚ ˈkʌzən/",
       "vocab": [
         {
           "w": "wrap",
@@ -313,7 +313,7 @@
       "category": "reading",
       "en": "Can you guess what happens on the next page?",
       "zh": "你能猜猜下一頁會發生什麼事嗎？",
-      "ipa": "/kæn juː ɡes wʌt ˈhæpənz ɑːn ðə nekst peɪdʒ/",
+      "ipa": "/kæn ju ɡes wʌt ˈhæpənz ɑn ðə nekst pedʒ/",
       "vocab": [
         {
           "w": "guess",

@@ -9,10 +9,20 @@
       "category": "daily-routine",
       "en": "Stretch your arms up high and start the day.",
       "zh": "把手臂往上伸展，開始新的一天吧。",
-      "ipa": "/strɛtʃ jɔːr ɑːrmz ʌp haɪ ænd stɑːrt ðə deɪ/",
+      "ipa": "/strɛtʃ jɔr ɑrmz ʌp haɪ ænd stɑrt ðə de/",
       "vocab": [
-        { "w": "stretch", "pos": "v.", "ipa": "/strɛtʃ/", "zh": "伸展" },
-        { "w": "arms", "pos": "n.", "ipa": "/ɑːrmz/", "zh": "手臂" }
+        {
+          "w": "stretch",
+          "pos": "v.",
+          "ipa": "/strɛtʃ/",
+          "zh": "伸展"
+        },
+        {
+          "w": "arms",
+          "pos": "n.",
+          "ipa": "/ɑrmz/",
+          "zh": "手臂"
+        }
       ]
     },
     {
@@ -21,10 +31,20 @@
       "category": "meals",
       "en": "Let's set the table with forks and spoons.",
       "zh": "我們用叉子和湯匙來擺餐具吧。",
-      "ipa": "/lɛts sɛt ðə ˈteɪbəl wɪð fɔːrks ænd spuːnz/",
+      "ipa": "/lɛts sɛt ðə ˈtebəl wɪð fɔrks ænd spunz/",
       "vocab": [
-        { "w": "set the table", "pos": "phr.", "ipa": "/sɛt ðə ˈteɪbəl/", "zh": "擺放餐具" },
-        { "w": "spoons", "pos": "n.", "ipa": "/spuːnz/", "zh": "湯匙" }
+        {
+          "w": "set the table",
+          "pos": "phr.",
+          "ipa": "/sɛt ðə ˈtebəl/",
+          "zh": "擺放餐具"
+        },
+        {
+          "w": "spoons",
+          "pos": "n.",
+          "ipa": "/spunz/",
+          "zh": "湯匙"
+        }
       ]
     },
     {
@@ -33,10 +53,20 @@
       "category": "bath-bedtime",
       "en": "Squeeze the sponge and scrub your knees.",
       "zh": "擠一擠海綿，把膝蓋刷乾淨。",
-      "ipa": "/skwiːz ðə spʌndʒ ænd skrʌb jɔːr niːz/",
+      "ipa": "/skwiz ðə spʌndʒ ænd skrʌb jɔr niz/",
       "vocab": [
-        { "w": "sponge", "pos": "n.", "ipa": "/spʌndʒ/", "zh": "海綿" },
-        { "w": "scrub", "pos": "v.", "ipa": "/skrʌb/", "zh": "刷洗" }
+        {
+          "w": "sponge",
+          "pos": "n.",
+          "ipa": "/spʌndʒ/",
+          "zh": "海綿"
+        },
+        {
+          "w": "scrub",
+          "pos": "v.",
+          "ipa": "/skrʌb/",
+          "zh": "刷洗"
+        }
       ]
     },
     {
@@ -45,10 +75,20 @@
       "category": "outings",
       "en": "Let's catch the train to the aquarium.",
       "zh": "我們搭火車去水族館吧。",
-      "ipa": "/lɛts kætʃ ðə treɪn tə ðə əˈkwɛriəm/",
+      "ipa": "/lɛts kætʃ ðə tren tə ðə əˈkwɛriəm/",
       "vocab": [
-        { "w": "catch", "pos": "v.", "ipa": "/kætʃ/", "zh": "趕上、搭乘" },
-        { "w": "aquarium", "pos": "n.", "ipa": "/əˈkwɛriəm/", "zh": "水族館" }
+        {
+          "w": "catch",
+          "pos": "v.",
+          "ipa": "/kætʃ/",
+          "zh": "趕上、搭乘"
+        },
+        {
+          "w": "aquarium",
+          "pos": "n.",
+          "ipa": "/əˈkwɛriəm/",
+          "zh": "水族館"
+        }
       ]
     },
     {
@@ -57,10 +97,20 @@
       "category": "playground",
       "en": "Grab the rope and climb up carefully.",
       "zh": "抓住繩子，小心地往上爬。",
-      "ipa": "/ɡræb ðə roʊp ænd klaɪm ʌp ˈkɛrfəli/",
+      "ipa": "/ɡræb ðə rop ænd klaɪm ʌp ˈkɛrfəli/",
       "vocab": [
-        { "w": "rope", "pos": "n.", "ipa": "/roʊp/", "zh": "繩子" },
-        { "w": "climb", "pos": "v.", "ipa": "/klaɪm/", "zh": "攀爬" }
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "攀爬"
+        }
       ]
     },
     {
@@ -69,10 +119,20 @@
       "category": "school",
       "en": "Pack your crayons in your pencil case.",
       "zh": "把你的蠟筆收進鉛筆盒裡。",
-      "ipa": "/pæk jɔːr ˈkreɪɑːnz ɪn jɔːr ˈpɛnsəl keɪs/",
+      "ipa": "/pæk jɔr ˈkreɑnz ɪn jɔr ˈpɛnsəl kes/",
       "vocab": [
-        { "w": "crayons", "pos": "n.", "ipa": "/ˈkreɪɑːnz/", "zh": "蠟筆" },
-        { "w": "pencil case", "pos": "n.", "ipa": "/ˈpɛnsəl keɪs/", "zh": "鉛筆盒" }
+        {
+          "w": "crayons",
+          "pos": "n.",
+          "ipa": "/ˈkreɑnz/",
+          "zh": "蠟筆"
+        },
+        {
+          "w": "pencil case",
+          "pos": "n.",
+          "ipa": "/ˈpɛnsəl kes/",
+          "zh": "鉛筆盒"
+        }
       ]
     },
     {
@@ -81,10 +141,20 @@
       "category": "homework",
       "en": "Write each spelling word three times.",
       "zh": "每個拼字單字寫三遍。",
-      "ipa": "/raɪt iːtʃ ˈspɛlɪŋ wɜːrd θriː taɪmz/",
+      "ipa": "/raɪt itʃ ˈspɛlɪŋ wɝd θri taɪmz/",
       "vocab": [
-        { "w": "spelling", "pos": "n.", "ipa": "/ˈspɛlɪŋ/", "zh": "拼字" },
-        { "w": "word", "pos": "n.", "ipa": "/wɜːrd/", "zh": "單字" }
+        {
+          "w": "spelling",
+          "pos": "n.",
+          "ipa": "/ˈspɛlɪŋ/",
+          "zh": "拼字"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "單字"
+        }
       ]
     },
     {
@@ -93,10 +163,20 @@
       "category": "toys-sharing",
       "en": "Let your friend have a turn with the blocks.",
       "zh": "讓你的朋友也玩一下積木吧。",
-      "ipa": "/lɛt jɔːr frɛnd hæv ə tɜːrn wɪð ðə blɑːks/",
+      "ipa": "/lɛt jɔr frɛnd hæv ə tɝn wɪð ðə blɑks/",
       "vocab": [
-        { "w": "turn", "pos": "n.", "ipa": "/tɜːrn/", "zh": "輪到的機會" },
-        { "w": "blocks", "pos": "n.", "ipa": "/blɑːks/", "zh": "積木" }
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪到的機會"
+        },
+        {
+          "w": "blocks",
+          "pos": "n.",
+          "ipa": "/blɑks/",
+          "zh": "積木"
+        }
       ]
     },
     {
@@ -105,10 +185,20 @@
       "category": "emotions",
       "en": "Squeeze my hand if you feel scared.",
       "zh": "如果你覺得害怕，就握緊我的手。",
-      "ipa": "/skwiːz maɪ hænd ɪf juː fiːl skɛrd/",
+      "ipa": "/skwiz maɪ hænd ɪf ju fil skɛrd/",
       "vocab": [
-        { "w": "squeeze", "pos": "v.", "ipa": "/skwiːz/", "zh": "握緊、擠壓" },
-        { "w": "scared", "pos": "adj.", "ipa": "/skɛrd/", "zh": "害怕的" }
+        {
+          "w": "squeeze",
+          "pos": "v.",
+          "ipa": "/skwiz/",
+          "zh": "握緊、擠壓"
+        },
+        {
+          "w": "scared",
+          "pos": "adj.",
+          "ipa": "/skɛrd/",
+          "zh": "害怕的"
+        }
       ]
     },
     {
@@ -117,10 +207,20 @@
       "category": "discipline",
       "en": "We clean up first, then we can play.",
       "zh": "我們先收拾好，才可以玩。",
-      "ipa": "/wiː kliːn ʌp fɜːrst ðɛn wiː kæn pleɪ/",
+      "ipa": "/wi klin ʌp fɝst ðɛn wi kæn ple/",
       "vocab": [
-        { "w": "clean up", "pos": "phr.", "ipa": "/kliːn ʌp/", "zh": "收拾、清理" },
-        { "w": "first", "pos": "adv.", "ipa": "/fɜːrst/", "zh": "先、首先" }
+        {
+          "w": "clean up",
+          "pos": "phr.",
+          "ipa": "/klin ʌp/",
+          "zh": "收拾、清理"
+        },
+        {
+          "w": "first",
+          "pos": "adv.",
+          "ipa": "/fɝst/",
+          "zh": "先、首先"
+        }
       ]
     },
     {
@@ -129,10 +229,20 @@
       "category": "praise",
       "en": "You shared without being asked, wonderful!",
       "zh": "你不用別人提醒就主動分享，太棒了！",
-      "ipa": "/juː ʃɛrd wɪˈðaʊt ˈbiːɪŋ æskt ˈwʌndərfəl/",
+      "ipa": "/ju ʃɛrd wɪˈðaʊt ˈbiɪŋ æskt ˈwʌndɚfəl/",
       "vocab": [
-        { "w": "shared", "pos": "v.", "ipa": "/ʃɛrd/", "zh": "分享" },
-        { "w": "wonderful", "pos": "adj.", "ipa": "/ˈwʌndərfəl/", "zh": "很棒的" }
+        {
+          "w": "shared",
+          "pos": "v.",
+          "ipa": "/ʃɛrd/",
+          "zh": "分享"
+        },
+        {
+          "w": "wonderful",
+          "pos": "adj.",
+          "ipa": "/ˈwʌndɚfəl/",
+          "zh": "很棒的"
+        }
       ]
     },
     {
@@ -141,10 +251,20 @@
       "category": "safety",
       "en": "Hold the railing as you walk downstairs.",
       "zh": "下樓梯的時候要扶著扶手。",
-      "ipa": "/hoʊld ðə ˈreɪlɪŋ æz juː wɔːk ˌdaʊnˈstɛrz/",
+      "ipa": "/hold ðə ˈrelɪŋ æz ju wɔk ˌdaʊnˈstɛrz/",
       "vocab": [
-        { "w": "railing", "pos": "n.", "ipa": "/ˈreɪlɪŋ/", "zh": "扶手" },
-        { "w": "downstairs", "pos": "adv.", "ipa": "/ˌdaʊnˈstɛrz/", "zh": "往樓下" }
+        {
+          "w": "railing",
+          "pos": "n.",
+          "ipa": "/ˈrelɪŋ/",
+          "zh": "扶手"
+        },
+        {
+          "w": "downstairs",
+          "pos": "adv.",
+          "ipa": "/ˌdaʊnˈstɛrz/",
+          "zh": "往樓下"
+        }
       ]
     },
     {
@@ -153,10 +273,20 @@
       "category": "health",
       "en": "Let the nurse check your temperature.",
       "zh": "讓護理師幫你量體溫。",
-      "ipa": "/lɛt ðə nɜːrs tʃɛk jɔːr ˈtɛmpərətʃər/",
+      "ipa": "/lɛt ðə nɝs tʃɛk jɔr ˈtɛmpɚətʃɚ/",
       "vocab": [
-        { "w": "nurse", "pos": "n.", "ipa": "/nɜːrs/", "zh": "護理師" },
-        { "w": "temperature", "pos": "n.", "ipa": "/ˈtɛmpərətʃər/", "zh": "體溫" }
+        {
+          "w": "nurse",
+          "pos": "n.",
+          "ipa": "/nɝs/",
+          "zh": "護理師"
+        },
+        {
+          "w": "temperature",
+          "pos": "n.",
+          "ipa": "/ˈtɛmpɚətʃɚ/",
+          "zh": "體溫"
+        }
       ]
     },
     {
@@ -165,10 +295,20 @@
       "category": "relatives",
       "en": "Give your cousin a warm welcome.",
       "zh": "給你的表親一個熱情的歡迎吧。",
-      "ipa": "/ɡɪv jɔːr ˈkʌzən ə wɔːrm ˈwɛlkəm/",
+      "ipa": "/ɡɪv jɔr ˈkʌzən ə wɔrm ˈwɛlkəm/",
       "vocab": [
-        { "w": "cousin", "pos": "n.", "ipa": "/ˈkʌzən/", "zh": "表（堂）兄弟姊妹" },
-        { "w": "welcome", "pos": "n.", "ipa": "/ˈwɛlkəm/", "zh": "歡迎" }
+        {
+          "w": "cousin",
+          "pos": "n.",
+          "ipa": "/ˈkʌzən/",
+          "zh": "表（堂）兄弟姊妹"
+        },
+        {
+          "w": "welcome",
+          "pos": "n.",
+          "ipa": "/ˈwɛlkəm/",
+          "zh": "歡迎"
+        }
       ]
     },
     {
@@ -177,10 +317,20 @@
       "category": "friends",
       "en": "Ask your friend how his day was.",
       "zh": "問問你的朋友今天過得怎麼樣。",
-      "ipa": "/æsk jɔːr frɛnd haʊ hɪz deɪ wʌz/",
+      "ipa": "/æsk jɔr frɛnd haʊ hɪz de wʌz/",
       "vocab": [
-        { "w": "ask", "pos": "v.", "ipa": "/æsk/", "zh": "詢問" },
-        { "w": "friend", "pos": "n.", "ipa": "/frɛnd/", "zh": "朋友" }
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "詢問"
+        },
+        {
+          "w": "friend",
+          "pos": "n.",
+          "ipa": "/frɛnd/",
+          "zh": "朋友"
+        }
       ]
     },
     {
@@ -189,10 +339,20 @@
       "category": "manners",
       "en": "Cover your mouth when you yawn.",
       "zh": "打哈欠的時候要摀住嘴巴。",
-      "ipa": "/ˈkʌvər jɔːr maʊθ wɛn juː jɔːn/",
+      "ipa": "/ˈkʌvɚ jɔr maʊθ wɛn ju jɔn/",
       "vocab": [
-        { "w": "cover", "pos": "v.", "ipa": "/ˈkʌvər/", "zh": "遮住、摀住" },
-        { "w": "yawn", "pos": "v.", "ipa": "/jɔːn/", "zh": "打哈欠" }
+        {
+          "w": "cover",
+          "pos": "v.",
+          "ipa": "/ˈkʌvɚ/",
+          "zh": "遮住、摀住"
+        },
+        {
+          "w": "yawn",
+          "pos": "v.",
+          "ipa": "/jɔn/",
+          "zh": "打哈欠"
+        }
       ]
     },
     {
@@ -203,8 +363,18 @@
       "zh": "外面下著毛毛雨，帶件薄外套吧。",
       "ipa": "/ɪts ˈdrɪzəlɪŋ brɪŋ ə laɪt ˈdʒækɪt/",
       "vocab": [
-        { "w": "drizzling", "pos": "v.", "ipa": "/ˈdrɪzəlɪŋ/", "zh": "下毛毛雨" },
-        { "w": "jacket", "pos": "n.", "ipa": "/ˈdʒækɪt/", "zh": "外套" }
+        {
+          "w": "drizzling",
+          "pos": "v.",
+          "ipa": "/ˈdrɪzəlɪŋ/",
+          "zh": "下毛毛雨"
+        },
+        {
+          "w": "jacket",
+          "pos": "n.",
+          "ipa": "/ˈdʒækɪt/",
+          "zh": "外套"
+        }
       ]
     },
     {
@@ -213,10 +383,20 @@
       "category": "screen-time",
       "en": "One more level, then the game goes off.",
       "zh": "再玩一關，然後就要關掉遊戲囉。",
-      "ipa": "/wʌn mɔːr ˈlɛvəl ðɛn ðə ɡeɪm ɡoʊz ɔːf/",
+      "ipa": "/wʌn mɔr ˈlɛvəl ðɛn ðə ɡem ɡoz ɔf/",
       "vocab": [
-        { "w": "level", "pos": "n.", "ipa": "/ˈlɛvəl/", "zh": "（遊戲）關卡" },
-        { "w": "goes off", "pos": "phr.", "ipa": "/ɡoʊz ɔːf/", "zh": "關掉、停止" }
+        {
+          "w": "level",
+          "pos": "n.",
+          "ipa": "/ˈlɛvəl/",
+          "zh": "（遊戲）關卡"
+        },
+        {
+          "w": "goes off",
+          "pos": "phr.",
+          "ipa": "/ɡoz ɔf/",
+          "zh": "關掉、停止"
+        }
       ]
     },
     {
@@ -225,10 +405,20 @@
       "category": "celebrations",
       "en": "Let's light the candles on the cake.",
       "zh": "我們來點蛋糕上的蠟燭吧。",
-      "ipa": "/lɛts laɪt ðə ˈkændəlz ɑːn ðə keɪk/",
+      "ipa": "/lɛts laɪt ðə ˈkændəlz ɑn ðə kek/",
       "vocab": [
-        { "w": "light", "pos": "v.", "ipa": "/laɪt/", "zh": "點燃" },
-        { "w": "candles", "pos": "n.", "ipa": "/ˈkændəlz/", "zh": "蠟燭" }
+        {
+          "w": "light",
+          "pos": "v.",
+          "ipa": "/laɪt/",
+          "zh": "點燃"
+        },
+        {
+          "w": "candles",
+          "pos": "n.",
+          "ipa": "/ˈkændəlz/",
+          "zh": "蠟燭"
+        }
       ]
     },
     {
@@ -237,10 +427,20 @@
       "category": "reading",
       "en": "Let's read a bedtime story under the blanket.",
       "zh": "我們躲在被子裡讀一個睡前故事吧。",
-      "ipa": "/lɛts riːd ə ˈbɛdtaɪm ˈstɔːri ˈʌndər ðə ˈblæŋkɪt/",
+      "ipa": "/lɛts rid ə ˈbɛdtaɪm ˈstɔri ˈʌndɚ ðə ˈblæŋkɪt/",
       "vocab": [
-        { "w": "bedtime", "pos": "n.", "ipa": "/ˈbɛdtaɪm/", "zh": "睡覺時間" },
-        { "w": "blanket", "pos": "n.", "ipa": "/ˈblæŋkɪt/", "zh": "毯子、被子" }
+        {
+          "w": "bedtime",
+          "pos": "n.",
+          "ipa": "/ˈbɛdtaɪm/",
+          "zh": "睡覺時間"
+        },
+        {
+          "w": "blanket",
+          "pos": "n.",
+          "ipa": "/ˈblæŋkɪt/",
+          "zh": "毯子、被子"
+        }
       ]
     }
   ]

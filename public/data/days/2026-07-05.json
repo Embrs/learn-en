@@ -9,12 +9,12 @@
       "category": "daily-routine",
       "en": "You tied your own shoelaces, well done!",
       "zh": "你自己綁好鞋帶了，做得好！",
-      "ipa": "/juː taɪd jʊər oʊn ˈʃuːleɪsɪz wel dʌn/",
+      "ipa": "/ju taɪd jʊɚ on ˈʃulesɪz wel dʌn/",
       "vocab": [
         {
           "w": "shoelace",
           "pos": "n.",
-          "ipa": "/ˈʃuːleɪs/",
+          "ipa": "/ˈʃules/",
           "zh": "鞋帶"
         }
       ]
@@ -25,7 +25,7 @@
       "category": "meals",
       "en": "Do you want seconds, or are you full?",
       "zh": "你還要再一份，還是已經吃飽了？",
-      "ipa": "/duː juː wɑːnt ˈsekəndz ɔːr ɑːr juː fʊl/",
+      "ipa": "/du ju wɑnt ˈsekəndz ɔr ɑr ju fʊl/",
       "vocab": [
         {
           "w": "seconds",
@@ -41,12 +41,12 @@
       "category": "bath-bedtime",
       "en": "No more toys in bed, it's sleep time.",
       "zh": "床上不放玩具了，該睡覺了。",
-      "ipa": "/noʊ mɔːr tɔɪz ɪn bed ɪts sliːp taɪm/",
+      "ipa": "/no mɔr tɔɪz ɪn bed ɪts slip taɪm/",
       "vocab": [
         {
           "w": "sleep time",
           "pos": "n. phr.",
-          "ipa": "/sliːp taɪm/",
+          "ipa": "/slip taɪm/",
           "zh": "睡覺時間"
         }
       ]
@@ -57,12 +57,12 @@
       "category": "outings",
       "en": "Don't wander off, stay where I can see you.",
       "zh": "不要亂跑，待在我看得到的地方。",
-      "ipa": "/doʊnt ˈwɑːndər ɔːf steɪ wer aɪ kæn siː juː/",
+      "ipa": "/dont ˈwɑndɚ ɔf ste wer aɪ kæn si ju/",
       "vocab": [
         {
           "w": "wander off",
           "pos": "v. phr.",
-          "ipa": "/ˈwɑːndər ɔːf/",
+          "ipa": "/ˈwɑndɚ ɔf/",
           "zh": "走失、亂逛"
         }
       ]
@@ -73,12 +73,12 @@
       "category": "playground",
       "en": "You can go on the seesaw with your friend.",
       "zh": "你可以跟朋友一起玩蹺蹺板。",
-      "ipa": "/juː kæn ɡoʊ ɑːn ðə ˈsiːsɔː wɪð jʊər frend/",
+      "ipa": "/ju kæn ɡo ɑn ðə ˈsisɔ wɪð jʊɚ frend/",
       "vocab": [
         {
           "w": "seesaw",
           "pos": "n.",
-          "ipa": "/ˈsiːsɔː/",
+          "ipa": "/ˈsisɔ/",
           "zh": "蹺蹺板"
         }
       ]
@@ -89,12 +89,12 @@
       "category": "school",
       "en": "Let's practice your class presentation tonight.",
       "zh": "今晚我們來練習你的課堂報告吧。",
-      "ipa": "/lets ˈpræktɪs jʊər klæs ˌprezənˈteɪʃən təˈnaɪt/",
+      "ipa": "/lets ˈpræktɪs jʊɚ klæs ˌprezənˈteʃən təˈnaɪt/",
       "vocab": [
         {
           "w": "presentation",
           "pos": "n.",
-          "ipa": "/ˌprezənˈteɪʃən/",
+          "ipa": "/ˌprezənˈteʃən/",
           "zh": "報告"
         }
       ]
@@ -105,7 +105,7 @@
       "category": "homework",
       "en": "Double-check your math before you turn it in.",
       "zh": "交出去之前再檢查一次數學。",
-      "ipa": "/ˈdʌbəl tʃek jʊər mæθ bɪˈfɔːr juː tɜːrn ɪt ɪn/",
+      "ipa": "/ˈdʌbəl tʃek jʊɚ mæθ bɪˈfɔr ju tɝn ɪt ɪn/",
       "vocab": [
         {
           "w": "double-check",
@@ -121,7 +121,7 @@
       "category": "toys-sharing",
       "en": "It made your friend happy when you shared.",
       "zh": "你分享的時候讓朋友很開心。",
-      "ipa": "/ɪt meɪd jʊər frend ˈhæpi wen juː ʃerd/",
+      "ipa": "/ɪt med jʊɚ frend ˈhæpi wen ju ʃerd/",
       "vocab": [
         {
           "w": "shared",
@@ -137,12 +137,12 @@
       "category": "emotions",
       "en": "Let's squeeze this pillow when we're mad.",
       "zh": "生氣的時候我們來捏這個枕頭。",
-      "ipa": "/lets skwiːz ðɪs ˈpɪloʊ wen wɪər mæd/",
+      "ipa": "/lets skwiz ðɪs ˈpɪlo wen wɪɚ mæd/",
       "vocab": [
         {
           "w": "squeeze",
           "pos": "v.",
-          "ipa": "/skwiːz/",
+          "ipa": "/skwiz/",
           "zh": "擠壓"
         }
       ]
@@ -153,12 +153,12 @@
       "category": "discipline",
       "en": "I mean it, put your shoes away now.",
       "zh": "我是認真的，現在把鞋子收好。",
-      "ipa": "/aɪ miːn ɪt pʊt jʊər ʃuːz əˈweɪ naʊ/",
+      "ipa": "/aɪ min ɪt pʊt jʊɚ ʃuz əˈwe naʊ/",
       "vocab": [
         {
           "w": "mean it",
           "pos": "v. phr.",
-          "ipa": "/miːn ɪt/",
+          "ipa": "/min ɪt/",
           "zh": "是認真的"
         }
       ]
@@ -169,12 +169,12 @@
       "category": "praise",
       "en": "That took courage, I'm impressed.",
       "zh": "那需要勇氣，我很佩服你。",
-      "ipa": "/ðæt tʊk ˈkɜːrɪdʒ aɪm ɪmˈprest/",
+      "ipa": "/ðæt tʊk ˈkɝɪdʒ aɪm ɪmˈprest/",
       "vocab": [
         {
           "w": "courage",
           "pos": "n.",
-          "ipa": "/ˈkɜːrɪdʒ/",
+          "ipa": "/ˈkɝɪdʒ/",
           "zh": "勇氣"
         }
       ]
@@ -185,7 +185,7 @@
       "category": "safety",
       "en": "Wear your life jacket on the boat.",
       "zh": "在船上要穿救生衣。",
-      "ipa": "/wer jʊər laɪf ˈdʒækɪt ɑːn ðə boʊt/",
+      "ipa": "/wer jʊɚ laɪf ˈdʒækɪt ɑn ðə bot/",
       "vocab": [
         {
           "w": "life jacket",
@@ -201,7 +201,7 @@
       "category": "health",
       "en": "The doctor said you're healthy and strong.",
       "zh": "醫生說你很健康又強壯。",
-      "ipa": "/ðə ˈdɑːktər sed jʊər ˈhelθi ənd strɔːŋ/",
+      "ipa": "/ðə ˈdɑktɚ sed jʊɚ ˈhelθi ənd strɔŋ/",
       "vocab": [
         {
           "w": "healthy",
@@ -217,7 +217,7 @@
       "category": "relatives",
       "en": "It's polite to ask before you leave the table.",
       "zh": "離開餐桌前先問一下比較有禮貌。",
-      "ipa": "/ɪts pəˈlaɪt tuː æsk bɪˈfɔːr juː liːv ðə ˈteɪbl/",
+      "ipa": "/ɪts pəˈlaɪt tu æsk bɪˈfɔr ju liv ðə ˈtebl/",
       "vocab": [
         {
           "w": "polite",
@@ -233,7 +233,7 @@
       "category": "friends",
       "en": "Being a good friend means listening too.",
       "zh": "當好朋友也要懂得傾聽。",
-      "ipa": "/ˈbiːɪŋ ə ɡʊd frend miːnz ˈlɪsənɪŋ tuː/",
+      "ipa": "/ˈbiɪŋ ə ɡʊd frend minz ˈlɪsənɪŋ tu/",
       "vocab": [
         {
           "w": "listening",
@@ -249,12 +249,12 @@
       "category": "manners",
       "en": "It's rude to point at people, remember?",
       "zh": "用手指著別人是不禮貌的，記得嗎？",
-      "ipa": "/ɪts ruːd tuː pɔɪnt æt ˈpiːpl rɪˈmembər/",
+      "ipa": "/ɪts rud tu pɔɪnt æt ˈpipl rɪˈmembɚ/",
       "vocab": [
         {
           "w": "rude",
           "pos": "adj.",
-          "ipa": "/ruːd/",
+          "ipa": "/rud/",
           "zh": "不禮貌的"
         }
       ]
@@ -265,7 +265,7 @@
       "category": "weather",
       "en": "Put on gloves, your hands will get cold.",
       "zh": "戴上手套，不然手會冷。",
-      "ipa": "/pʊt ɑːn ɡlʌvz jʊər hændz wɪl ɡet koʊld/",
+      "ipa": "/pʊt ɑn ɡlʌvz jʊɚ hændz wɪl ɡet kold/",
       "vocab": [
         {
           "w": "gloves",
@@ -281,12 +281,12 @@
       "category": "screen-time",
       "en": "Let's video chat with Grandma instead of watching cartoons.",
       "zh": "我們跟奶奶視訊聊天，不要看卡通了。",
-      "ipa": "/lets ˈvɪdioʊ tʃæt wɪð ˈɡrænmɑː ɪnˈsted ʌv ˈwɑːtʃɪŋ ˈkɑːrtuːnz/",
+      "ipa": "/lets ˈvɪdio tʃæt wɪð ˈɡrænmɑ ɪnˈsted ʌv ˈwɑtʃɪŋ ˈkɑrtunz/",
       "vocab": [
         {
           "w": "video chat",
           "pos": "n.",
-          "ipa": "/ˈvɪdioʊ tʃæt/",
+          "ipa": "/ˈvɪdio tʃæt/",
           "zh": "視訊聊天"
         }
       ]
@@ -297,12 +297,12 @@
       "category": "celebrations",
       "en": "Everyone put on their costumes, let's take a photo.",
       "zh": "大家都穿上裝扮了，我們來拍照吧。",
-      "ipa": "/ˈevriwʌn pʊt ɑːn ðer ˈkɑːstjuːmz lets teɪk ə ˈfoʊtoʊ/",
+      "ipa": "/ˈevriwʌn pʊt ɑn ðer ˈkɑstjumz lets tek ə ˈfoto/",
       "vocab": [
         {
           "w": "costume",
           "pos": "n.",
-          "ipa": "/ˈkɑːstjuːm/",
+          "ipa": "/ˈkɑstjum/",
           "zh": "服裝、裝扮"
         }
       ]
@@ -313,7 +313,7 @@
       "category": "reading",
       "en": "Let's return this book to the library tomorrow.",
       "zh": "我們明天把這本書還給圖書館吧。",
-      "ipa": "/lets rɪˈtɜːrn ðɪs bʊk tuː ðə ˈlaɪbreri təˈmɑːroʊ/",
+      "ipa": "/lets rɪˈtɝn ðɪs bʊk tu ðə ˈlaɪbreri təˈmɑro/",
       "vocab": [
         {
           "w": "library",

@@ -9,12 +9,12 @@
       "category": "daily-routine",
       "en": "Wash your face, then come eat.",
       "zh": "洗把臉，然後來吃飯。",
-      "ipa": "/wɑːʃ jʊər feɪs ðen kʌm iːt/",
+      "ipa": "/wɑʃ jʊɚ fes ðen kʌm it/",
       "vocab": [
         {
           "w": "wash",
           "pos": "v.",
-          "ipa": "/wɑːʃ/",
+          "ipa": "/wɑʃ/",
           "zh": "清洗"
         }
       ]
@@ -25,12 +25,12 @@
       "category": "meals",
       "en": "Let's say thank you for the meal.",
       "zh": "我們來說謝謝這頓飯吧。",
-      "ipa": "/lets seɪ θæŋk juː fɔːr ðə miːl/",
+      "ipa": "/lets se θæŋk ju fɔr ðə mil/",
       "vocab": [
         {
           "w": "meal",
           "pos": "n.",
-          "ipa": "/miːl/",
+          "ipa": "/mil/",
           "zh": "一餐"
         }
       ]
@@ -41,7 +41,7 @@
       "category": "bath-bedtime",
       "en": "Give me a goodnight hug and kiss.",
       "zh": "給我一個晚安擁抱和親親。",
-      "ipa": "/ɡɪv miː ə ɡʊdˈnaɪt hʌɡ ənd kɪs/",
+      "ipa": "/ɡɪv mi ə ɡʊdˈnaɪt hʌɡ ənd kɪs/",
       "vocab": [
         {
           "w": "goodnight",
@@ -57,12 +57,12 @@
       "category": "outings",
       "en": "Do you need to use the restroom before we go?",
       "zh": "出發前你需要上廁所嗎？",
-      "ipa": "/duː juː niːd tuː juːz ðə ˈrestruːm bɪˈfɔːr wiː ɡoʊ/",
+      "ipa": "/du ju nid tu juz ðə ˈrestrum bɪˈfɔr wi ɡo/",
       "vocab": [
         {
           "w": "restroom",
           "pos": "n.",
-          "ipa": "/ˈrestruːm/",
+          "ipa": "/ˈrestrum/",
           "zh": "洗手間"
         }
       ]
@@ -73,12 +73,12 @@
       "category": "playground",
       "en": "Watch your step on the sand.",
       "zh": "走在沙地上要小心腳步。",
-      "ipa": "/wɑːtʃ jʊər step ɑːn ðə sænd/",
+      "ipa": "/wɑtʃ jʊɚ step ɑn ðə sænd/",
       "vocab": [
         {
           "w": "watch your step",
           "pos": "phr.",
-          "ipa": "/wɑːtʃ jʊər step/",
+          "ipa": "/wɑtʃ jʊɚ step/",
           "zh": "小心腳步"
         }
       ]
@@ -105,7 +105,7 @@
       "category": "homework",
       "en": "Which subject do you like best?",
       "zh": "你最喜歡哪一科？",
-      "ipa": "/wɪtʃ ˈsʌbdʒɪkt duː juː laɪk best/",
+      "ipa": "/wɪtʃ ˈsʌbdʒɪkt du ju laɪk best/",
       "vocab": [
         {
           "w": "subject",
@@ -121,12 +121,12 @@
       "category": "toys-sharing",
       "en": "Ask before you borrow someone's toy.",
       "zh": "借別人的玩具前要先問過。",
-      "ipa": "/æsk bɪˈfɔːr juː ˈbɑːroʊ ˈsʌmwʌnz tɔɪ/",
+      "ipa": "/æsk bɪˈfɔr ju ˈbɑro ˈsʌmwʌnz tɔɪ/",
       "vocab": [
         {
           "w": "borrow",
           "pos": "v.",
-          "ipa": "/ˈbɑːroʊ/",
+          "ipa": "/ˈbɑro/",
           "zh": "借（入）"
         }
       ]
@@ -137,7 +137,7 @@
       "category": "emotions",
       "en": "I understand why that made you angry.",
       "zh": "我懂為什麼那件事讓你生氣。",
-      "ipa": "/aɪ ˌʌndərˈstænd waɪ ðæt meɪd juː ˈæŋɡri/",
+      "ipa": "/aɪ ˌʌndɚˈstænd waɪ ðæt med ju ˈæŋɡri/",
       "vocab": [
         {
           "w": "angry",
@@ -153,12 +153,12 @@
       "category": "discipline",
       "en": "I need you to listen the first time.",
       "zh": "我需要你第一次就聽話。",
-      "ipa": "/aɪ niːd juː tuː ˈlɪsən ðə fɜːrst taɪm/",
+      "ipa": "/aɪ nid ju tu ˈlɪsən ðə fɝst taɪm/",
       "vocab": [
         {
           "w": "the first time",
           "pos": "phr.",
-          "ipa": "/ðə fɜːrst taɪm/",
+          "ipa": "/ðə fɝst taɪm/",
           "zh": "第一次"
         }
       ]
@@ -169,7 +169,7 @@
       "category": "praise",
       "en": "You never gave up, I love that.",
       "zh": "你從未放棄，我很欣賞這點。",
-      "ipa": "/juː ˈnevər ɡeɪv ʌp aɪ lʌv ðæt/",
+      "ipa": "/ju ˈnevɚ ɡev ʌp aɪ lʌv ðæt/",
       "vocab": [
         {
           "w": "give up",
@@ -185,12 +185,12 @@
       "category": "safety",
       "en": "Keep your seatbelt on the whole ride.",
       "zh": "整趟車程都要繫好安全帶。",
-      "ipa": "/kiːp jʊər ˈsiːtbelt ɑːn ðə hoʊl raɪd/",
+      "ipa": "/kip jʊɚ ˈsitbelt ɑn ðə hol raɪd/",
       "vocab": [
         {
           "w": "seatbelt",
           "pos": "n.",
-          "ipa": "/ˈsiːtbelt/",
+          "ipa": "/ˈsitbelt/",
           "zh": "安全帶"
         }
       ]
@@ -201,7 +201,7 @@
       "category": "health",
       "en": "Let's put a bandage on that scrape.",
       "zh": "我們幫那個擦傷貼個OK繃吧。",
-      "ipa": "/lets pʊt ə ˈbændɪdʒ ɑːn ðæt skreɪp/",
+      "ipa": "/lets pʊt ə ˈbændɪdʒ ɑn ðæt skrep/",
       "vocab": [
         {
           "w": "bandage",
@@ -217,12 +217,12 @@
       "category": "relatives",
       "en": "Everyone is so happy to see you.",
       "zh": "大家看到你都好開心。",
-      "ipa": "/ˈevriwʌn ɪz soʊ ˈhæpi tuː siː juː/",
+      "ipa": "/ˈevriwʌn ɪz so ˈhæpi tu si ju/",
       "vocab": [
         {
           "w": "happy to see",
           "pos": "phr.",
-          "ipa": "/ˈhæpi tuː siː/",
+          "ipa": "/ˈhæpi tu si/",
           "zh": "很高興見到"
         }
       ]
@@ -233,7 +233,7 @@
       "category": "friends",
       "en": "Let's say goodbye to your friends now.",
       "zh": "我們現在跟朋友們說再見吧。",
-      "ipa": "/lets seɪ ɡʊdˈbaɪ tuː jʊər frendz naʊ/",
+      "ipa": "/lets se ɡʊdˈbaɪ tu jʊɚ frendz naʊ/",
       "vocab": [
         {
           "w": "friends",
@@ -249,12 +249,12 @@
       "category": "manners",
       "en": "Don't forget to greet people politely.",
       "zh": "別忘了有禮貌地跟人打招呼。",
-      "ipa": "/doʊnt fərˈɡet tuː ɡriːt ˈpiːpl pəˈlaɪtli/",
+      "ipa": "/dont fɚˈɡet tu ɡrit ˈpipl pəˈlaɪtli/",
       "vocab": [
         {
           "w": "greet",
           "pos": "v.",
-          "ipa": "/ɡriːt/",
+          "ipa": "/ɡrit/",
           "zh": "打招呼"
         }
       ]
@@ -265,7 +265,7 @@
       "category": "weather",
       "en": "Wear something warm, it's chilly this morning.",
       "zh": "穿暖一點，今天早上有點冷。",
-      "ipa": "/wer ˈsʌmθɪŋ wɔːrm ɪts ˈtʃɪli ðɪs ˈmɔːrnɪŋ/",
+      "ipa": "/wer ˈsʌmθɪŋ wɔrm ɪts ˈtʃɪli ðɪs ˈmɔrnɪŋ/",
       "vocab": [
         {
           "w": "chilly",
@@ -281,7 +281,7 @@
       "category": "screen-time",
       "en": "You can play games after you finish reading.",
       "zh": "讀完書之後可以玩遊戲。",
-      "ipa": "/juː kæn pleɪ ɡeɪmz ˈæftər juː ˈfɪnɪʃ ˈriːdɪŋ/",
+      "ipa": "/ju kæn ple ɡemz ˈæftɚ ju ˈfɪnɪʃ ˈridɪŋ/",
       "vocab": [
         {
           "w": "finish",
@@ -297,12 +297,12 @@
       "category": "celebrations",
       "en": "This holiday is my favorite time of year.",
       "zh": "這個節日是我一年中最喜歡的時候。",
-      "ipa": "/ðɪs ˈhɑːlədeɪ ɪz maɪ ˈfeɪvərɪt taɪm ʌv jɪr/",
+      "ipa": "/ðɪs ˈhɑləde ɪz maɪ ˈfevɚɪt taɪm ʌv jɪr/",
       "vocab": [
         {
           "w": "holiday",
           "pos": "n.",
-          "ipa": "/ˈhɑːlədeɪ/",
+          "ipa": "/ˈhɑləde/",
           "zh": "節日"
         }
       ]
@@ -313,12 +313,12 @@
       "category": "reading",
       "en": "This is one of my favorite stories too.",
       "zh": "這也是我最喜歡的故事之一。",
-      "ipa": "/ðɪs ɪz wʌn ʌv maɪ ˈfeɪvərɪt ˈstɔːriz tuː/",
+      "ipa": "/ðɪs ɪz wʌn ʌv maɪ ˈfevɚɪt ˈstɔriz tu/",
       "vocab": [
         {
           "w": "favorite",
           "pos": "adj.",
-          "ipa": "/ˈfeɪvərɪt/",
+          "ipa": "/ˈfevɚɪt/",
           "zh": "最喜歡的"
         }
       ]

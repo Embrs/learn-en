@@ -9,7 +9,7 @@
       "category": "daily-routine",
       "en": "Let's brush our teeth together.",
       "zh": "我們一起刷牙吧。",
-      "ipa": "/lets brʌʃ ˈaʊər tiːθ təˈɡeðər/",
+      "ipa": "/lets brʌʃ ˈaʊɚ tiθ təˈɡeðɚ/",
       "vocab": [
         {
           "w": "brush",
@@ -25,7 +25,7 @@
       "category": "meals",
       "en": "Try one more bite of carrots.",
       "zh": "再吃一口紅蘿蔔試試看。",
-      "ipa": "/traɪ wʌn mɔːr baɪt ʌv ˈkerəts/",
+      "ipa": "/traɪ wʌn mɔr baɪt ʌv ˈkerəts/",
       "vocab": [
         {
           "w": "bite",
@@ -41,12 +41,12 @@
       "category": "bath-bedtime",
       "en": "Let's wash your hair with shampoo.",
       "zh": "我們用洗髮精洗頭髮吧。",
-      "ipa": "/lets wɑːʃ jʊər her wɪð ʃæmˈpuː/",
+      "ipa": "/lets wɑʃ jʊɚ her wɪð ʃæmˈpu/",
       "vocab": [
         {
           "w": "shampoo",
           "pos": "n.",
-          "ipa": "/ʃæmˈpuː/",
+          "ipa": "/ʃæmˈpu/",
           "zh": "洗髮精"
         }
       ]
@@ -57,7 +57,7 @@
       "category": "outings",
       "en": "Buckle up, we're heading to the zoo.",
       "zh": "繫上安全帶，我們要去動物園囉。",
-      "ipa": "/ˈbʌkl ʌp wɪər ˈhedɪŋ tuː ðə zuː/",
+      "ipa": "/ˈbʌkl ʌp wɪɚ ˈhedɪŋ tu ðə zu/",
       "vocab": [
         {
           "w": "buckle up",
@@ -73,12 +73,12 @@
       "category": "playground",
       "en": "Wait your turn for the swing.",
       "zh": "盪鞦韆要等輪到你。",
-      "ipa": "/weɪt jʊər tɜːrn fɔːr ðə swɪŋ/",
+      "ipa": "/wet jʊɚ tɝn fɔr ðə swɪŋ/",
       "vocab": [
         {
           "w": "turn",
           "pos": "n.",
-          "ipa": "/tɜːrn/",
+          "ipa": "/tɝn/",
           "zh": "輪流"
         }
       ]
@@ -89,12 +89,12 @@
       "category": "school",
       "en": "What did you learn at school today?",
       "zh": "你今天在學校學了什麼？",
-      "ipa": "/wʌt dɪd juː lɜːrn æt skuːl təˈdeɪ/",
+      "ipa": "/wʌt dɪd ju lɝn æt skul təˈde/",
       "vocab": [
         {
           "w": "learn",
           "pos": "v.",
-          "ipa": "/lɜːrn/",
+          "ipa": "/lɝn/",
           "zh": "學習"
         }
       ]
@@ -105,7 +105,7 @@
       "category": "homework",
       "en": "Can you spell this word for me?",
       "zh": "你可以拼出這個單字給我聽嗎？",
-      "ipa": "/kæn juː spel ðɪs wɜːrd fɔːr miː/",
+      "ipa": "/kæn ju spel ðɪs wɝd fɔr mi/",
       "vocab": [
         {
           "w": "spell",
@@ -121,12 +121,12 @@
       "category": "toys-sharing",
       "en": "It's your brother's turn to play now.",
       "zh": "現在輪到哥哥玩了。",
-      "ipa": "/ɪts jʊər ˈbrʌðərz tɜːrn tuː pleɪ naʊ/",
+      "ipa": "/ɪts jʊɚ ˈbrʌðɚz tɝn tu ple naʊ/",
       "vocab": [
         {
           "w": "turn",
           "pos": "n.",
-          "ipa": "/tɜːrn/",
+          "ipa": "/tɝn/",
           "zh": "輪流"
         }
       ]
@@ -137,12 +137,12 @@
       "category": "emotions",
       "en": "Take a deep breath and calm down.",
       "zh": "深呼吸，冷靜下來。",
-      "ipa": "/teɪk ə diːp breθ ənd kɑːm daʊn/",
+      "ipa": "/tek ə dip breθ ənd kɑm daʊn/",
       "vocab": [
         {
           "w": "calm down",
           "pos": "phr. v.",
-          "ipa": "/kɑːm daʊn/",
+          "ipa": "/kɑm daʊn/",
           "zh": "冷靜下來"
         }
       ]
@@ -153,12 +153,12 @@
       "category": "discipline",
       "en": "If you throw toys, they'll be put away.",
       "zh": "如果你亂丟玩具，它們就會被收起來。",
-      "ipa": "/ɪf juː θroʊ tɔɪz ðeɪl biː pʊt əˈweɪ/",
+      "ipa": "/ɪf ju θro tɔɪz ðel bi pʊt əˈwe/",
       "vocab": [
         {
           "w": "throw",
           "pos": "v.",
-          "ipa": "/θroʊ/",
+          "ipa": "/θro/",
           "zh": "丟"
         }
       ]
@@ -169,12 +169,12 @@
       "category": "praise",
       "en": "You worked so hard on that.",
       "zh": "你在那件事上很努力。",
-      "ipa": "/juː wɜːrkt soʊ hɑːrd ɑːn ðæt/",
+      "ipa": "/ju wɝkt so hɑrd ɑn ðæt/",
       "vocab": [
         {
           "w": "work hard",
           "pos": "phr.",
-          "ipa": "/wɜːrk hɑːrd/",
+          "ipa": "/wɝk hɑrd/",
           "zh": "努力"
         }
       ]
@@ -185,7 +185,7 @@
       "category": "safety",
       "en": "Always wear your helmet when biking.",
       "zh": "騎腳踏車一定要戴安全帽。",
-      "ipa": "/ˈɔːlweɪz wer jʊər ˈhelmɪt wen ˈbaɪkɪŋ/",
+      "ipa": "/ˈɔlwez wer jʊɚ ˈhelmɪt wen ˈbaɪkɪŋ/",
       "vocab": [
         {
           "w": "helmet",
@@ -201,12 +201,12 @@
       "category": "health",
       "en": "Open your mouth so the doctor can look.",
       "zh": "張開嘴巴讓醫生看看。",
-      "ipa": "/ˈoʊpən jʊər maʊθ soʊ ðə ˈdɑːktər kæn lʊk/",
+      "ipa": "/ˈopən jʊɚ maʊθ so ðə ˈdɑktɚ kæn lʊk/",
       "vocab": [
         {
           "w": "doctor",
           "pos": "n.",
-          "ipa": "/ˈdɑːktər/",
+          "ipa": "/ˈdɑktɚ/",
           "zh": "醫生"
         }
       ]
@@ -217,7 +217,7 @@
       "category": "relatives",
       "en": "Give Auntie a big hug hello.",
       "zh": "給阿姨一個大大的擁抱打招呼。",
-      "ipa": "/ɡɪv ˈænti ə bɪɡ hʌɡ heˈloʊ/",
+      "ipa": "/ɡɪv ˈænti ə bɪɡ hʌɡ heˈlo/",
       "vocab": [
         {
           "w": "auntie",
@@ -233,12 +233,12 @@
       "category": "friends",
       "en": "It's nice to make new friends.",
       "zh": "交新朋友是件好事。",
-      "ipa": "/ɪts naɪs tuː meɪk nuː frendz/",
+      "ipa": "/ɪts naɪs tu mek nu frendz/",
       "vocab": [
         {
           "w": "make friends",
           "pos": "phr.",
-          "ipa": "/meɪk frendz/",
+          "ipa": "/mek frendz/",
           "zh": "交朋友"
         }
       ]
@@ -249,12 +249,12 @@
       "category": "manners",
       "en": "Cover your mouth when you cough.",
       "zh": "咳嗽時要摀住嘴巴。",
-      "ipa": "/ˈkʌvər jʊər maʊθ wen juː kɔːf/",
+      "ipa": "/ˈkʌvɚ jʊɚ maʊθ wen ju kɔf/",
       "vocab": [
         {
           "w": "cover",
           "pos": "v.",
-          "ipa": "/ˈkʌvər/",
+          "ipa": "/ˈkʌvɚ/",
           "zh": "遮住"
         }
       ]
@@ -265,7 +265,7 @@
       "category": "weather",
       "en": "Don't forget your umbrella, it might rain.",
       "zh": "別忘了帶傘，可能會下雨。",
-      "ipa": "/doʊnt fərˈɡet jʊər ʌmˈbrelə ɪt maɪt reɪn/",
+      "ipa": "/dont fɚˈɡet jʊɚ ʌmˈbrelə ɪt maɪt ren/",
       "vocab": [
         {
           "w": "umbrella",
@@ -281,7 +281,7 @@
       "category": "screen-time",
       "en": "Time to put the tablet away now.",
       "zh": "現在該把平板收起來了。",
-      "ipa": "/taɪm tuː pʊt ðə ˈtæblət əˈweɪ naʊ/",
+      "ipa": "/taɪm tu pʊt ðə ˈtæblət əˈwe naʊ/",
       "vocab": [
         {
           "w": "tablet",
@@ -297,12 +297,12 @@
       "category": "celebrations",
       "en": "Let's decorate the house for the party.",
       "zh": "我們來裝飾房子準備派對吧。",
-      "ipa": "/lets ˈdekəreɪt ðə haʊs fɔːr ðə ˈpɑːrti/",
+      "ipa": "/lets ˈdekɚet ðə haʊs fɔr ðə ˈpɑrti/",
       "vocab": [
         {
           "w": "decorate",
           "pos": "v.",
-          "ipa": "/ˈdekəreɪt/",
+          "ipa": "/ˈdekɚet/",
           "zh": "裝飾"
         }
       ]
@@ -313,12 +313,12 @@
       "category": "reading",
       "en": "Let's read one more page before bed.",
       "zh": "睡前我們再讀一頁吧。",
-      "ipa": "/lets riːd wʌn mɔːr peɪdʒ bɪˈfɔːr bed/",
+      "ipa": "/lets rid wʌn mɔr pedʒ bɪˈfɔr bed/",
       "vocab": [
         {
           "w": "page",
           "pos": "n.",
-          "ipa": "/peɪdʒ/",
+          "ipa": "/pedʒ/",
           "zh": "頁"
         }
       ]

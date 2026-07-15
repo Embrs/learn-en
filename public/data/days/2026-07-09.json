@@ -9,7 +9,7 @@
       "category": "daily-routine",
       "en": "Time to get dressed for the day.",
       "zh": "該換衣服準備出門了。",
-      "ipa": "/taɪm tuː ɡet drest fɔːr ðə deɪ/",
+      "ipa": "/taɪm tu ɡet drest fɔr ðə de/",
       "vocab": [
         {
           "w": "get dressed",
@@ -25,12 +25,12 @@
       "category": "meals",
       "en": "Chew slowly and swallow before you talk.",
       "zh": "慢慢咀嚼，吞下去再說話。",
-      "ipa": "/tʃuː ˈsloʊli ənd ˈswɑːloʊ bɪˈfɔːr juː tɔːk/",
+      "ipa": "/tʃu ˈsloli ənd ˈswɑlo bɪˈfɔr ju tɔk/",
       "vocab": [
         {
           "w": "swallow",
           "pos": "v.",
-          "ipa": "/ˈswɑːloʊ/",
+          "ipa": "/ˈswɑlo/",
           "zh": "吞嚥"
         }
       ]
@@ -41,12 +41,12 @@
       "category": "bath-bedtime",
       "en": "Dry off and put on your pajamas.",
       "zh": "擦乾身體，穿上睡衣。",
-      "ipa": "/draɪ ɔːf ənd pʊt ɑːn jʊər pəˈdʒɑːməz/",
+      "ipa": "/draɪ ɔf ənd pʊt ɑn jʊɚ pəˈdʒɑməz/",
       "vocab": [
         {
           "w": "dry off",
           "pos": "phr. v.",
-          "ipa": "/draɪ ɔːf/",
+          "ipa": "/draɪ ɔf/",
           "zh": "擦乾"
         }
       ]
@@ -57,12 +57,12 @@
       "category": "outings",
       "en": "Look out the window, we're almost there.",
       "zh": "看看窗外，我們快到了。",
-      "ipa": "/lʊk aʊt ðə ˈwɪndoʊ wɪər ˈɔːlmoʊst ðer/",
+      "ipa": "/lʊk aʊt ðə ˈwɪndo wɪɚ ˈɔlmost ðer/",
       "vocab": [
         {
           "w": "almost there",
           "pos": "phr.",
-          "ipa": "/ˈɔːlmoʊst ðer/",
+          "ipa": "/ˈɔlmost ðer/",
           "zh": "快到了"
         }
       ]
@@ -73,12 +73,12 @@
       "category": "playground",
       "en": "Be careful climbing up the ladder.",
       "zh": "爬梯子要小心。",
-      "ipa": "/biː ˈkerfəl ˈklaɪmɪŋ ʌp ðə ˈlædər/",
+      "ipa": "/bi ˈkerfəl ˈklaɪmɪŋ ʌp ðə ˈlædɚ/",
       "vocab": [
         {
           "w": "ladder",
           "pos": "n.",
-          "ipa": "/ˈlædər/",
+          "ipa": "/ˈlædɚ/",
           "zh": "梯子"
         }
       ]
@@ -89,12 +89,12 @@
       "category": "school",
       "en": "Remember to listen to your teacher.",
       "zh": "記得要聽老師的話。",
-      "ipa": "/rɪˈmembər tuː ˈlɪsən tuː jʊər ˈtiːtʃər/",
+      "ipa": "/rɪˈmembɚ tu ˈlɪsən tu jʊɚ ˈtitʃɚ/",
       "vocab": [
         {
           "w": "listen to",
           "pos": "phr. v.",
-          "ipa": "/ˈlɪsən tuː/",
+          "ipa": "/ˈlɪsən tu/",
           "zh": "聽從"
         }
       ]
@@ -105,12 +105,12 @@
       "category": "homework",
       "en": "Show me how you solved this problem.",
       "zh": "給我看看你怎麼解這題的。",
-      "ipa": "/ʃoʊ miː haʊ juː sɑːlvd ðɪs ˈprɑːbləm/",
+      "ipa": "/ʃo mi haʊ ju sɑlvd ðɪs ˈprɑbləm/",
       "vocab": [
         {
           "w": "solve",
           "pos": "v.",
-          "ipa": "/sɑːlv/",
+          "ipa": "/sɑlv/",
           "zh": "解決"
         }
       ]
@@ -121,7 +121,7 @@
       "category": "toys-sharing",
       "en": "Please don't grab toys from others.",
       "zh": "請不要從別人手上搶玩具。",
-      "ipa": "/pliːz doʊnt ɡræb tɔɪz frʌm ˈʌðərz/",
+      "ipa": "/pliz dont ɡræb tɔɪz frʌm ˈʌðɚz/",
       "vocab": [
         {
           "w": "grab",
@@ -137,12 +137,12 @@
       "category": "emotions",
       "en": "I know you're frustrated, let's talk about it.",
       "zh": "我知道你很挫折，我們來聊聊吧。",
-      "ipa": "/aɪ noʊ jʊər ˈfrʌstreɪtɪd lets tɔːk əˈbaʊt ɪt/",
+      "ipa": "/aɪ no jʊɚ ˈfrʌstretɪd lets tɔk əˈbaʊt ɪt/",
       "vocab": [
         {
           "w": "frustrated",
           "pos": "adj.",
-          "ipa": "/ˈfrʌstreɪtɪd/",
+          "ipa": "/ˈfrʌstretɪd/",
           "zh": "挫折的"
         }
       ]
@@ -153,12 +153,12 @@
       "category": "discipline",
       "en": "You need to say sorry to your friend.",
       "zh": "你需要跟朋友道歉。",
-      "ipa": "/juː niːd tuː seɪ ˈsɑːri tuː jʊər frend/",
+      "ipa": "/ju nid tu se ˈsɑri tu jʊɚ frend/",
       "vocab": [
         {
           "w": "sorry",
           "pos": "adj.",
-          "ipa": "/ˈsɑːri/",
+          "ipa": "/ˈsɑri/",
           "zh": "抱歉的"
         }
       ]
@@ -169,12 +169,12 @@
       "category": "praise",
       "en": "Great job cleaning up your room!",
       "zh": "把房間整理好，做得很棒！",
-      "ipa": "/ɡreɪt dʒɑːb ˈkliːnɪŋ ʌp jʊər ruːm/",
+      "ipa": "/ɡret dʒɑb ˈklinɪŋ ʌp jʊɚ rum/",
       "vocab": [
         {
           "w": "clean up",
           "pos": "phr. v.",
-          "ipa": "/kliːn ʌp/",
+          "ipa": "/klin ʌp/",
           "zh": "整理"
         }
       ]
@@ -185,12 +185,12 @@
       "category": "safety",
       "en": "Don't touch the stove, it's hot.",
       "zh": "不要碰爐子，很燙。",
-      "ipa": "/doʊnt tʌtʃ ðə stoʊv ɪts hɑːt/",
+      "ipa": "/dont tʌtʃ ðə stov ɪts hɑt/",
       "vocab": [
         {
           "w": "stove",
           "pos": "n.",
-          "ipa": "/stoʊv/",
+          "ipa": "/stov/",
           "zh": "爐子"
         }
       ]
@@ -201,7 +201,7 @@
       "category": "health",
       "en": "It's time for your check-up.",
       "zh": "該做健康檢查了。",
-      "ipa": "/ɪts taɪm fɔːr jʊər ˈtʃekʌp/",
+      "ipa": "/ɪts taɪm fɔr jʊɚ ˈtʃekʌp/",
       "vocab": [
         {
           "w": "check-up",
@@ -217,7 +217,7 @@
       "category": "relatives",
       "en": "Say thank you for the gift, Uncle gave you.",
       "zh": "要謝謝叔叔給你的禮物。",
-      "ipa": "/seɪ θæŋk juː fɔːr ðə ɡɪft ˈʌŋkl ɡeɪv juː/",
+      "ipa": "/se θæŋk ju fɔr ðə ɡɪft ˈʌŋkl ɡev ju/",
       "vocab": [
         {
           "w": "gift",
@@ -233,7 +233,7 @@
       "category": "friends",
       "en": "Let's ask your friend if he wants to join.",
       "zh": "我們問問你朋友要不要一起加入吧。",
-      "ipa": "/lets æsk jʊər frend ɪf hiː wɑːnts tuː dʒɔɪn/",
+      "ipa": "/lets æsk jʊɚ frend ɪf hi wɑnts tu dʒɔɪn/",
       "vocab": [
         {
           "w": "join",
@@ -249,12 +249,12 @@
       "category": "manners",
       "en": "Wait for others to finish speaking.",
       "zh": "要等別人說完話。",
-      "ipa": "/weɪt fɔːr ˈʌðərz tuː ˈfɪnɪʃ ˈspiːkɪŋ/",
+      "ipa": "/wet fɔr ˈʌðɚz tu ˈfɪnɪʃ ˈspikɪŋ/",
       "vocab": [
         {
           "w": "finish speaking",
           "pos": "phr.",
-          "ipa": "/ˈfɪnɪʃ ˈspiːkɪŋ/",
+          "ipa": "/ˈfɪnɪʃ ˈspikɪŋ/",
           "zh": "說完話"
         }
       ]
@@ -265,7 +265,7 @@
       "category": "weather",
       "en": "It's sunny today, let's wear a hat.",
       "zh": "今天出太陽，我們戴頂帽子吧。",
-      "ipa": "/ɪts ˈsʌni təˈdeɪ lets wer ə hæt/",
+      "ipa": "/ɪts ˈsʌni təˈde lets wer ə hæt/",
       "vocab": [
         {
           "w": "sunny",
@@ -281,12 +281,12 @@
       "category": "screen-time",
       "en": "Let's take a break from the screen.",
       "zh": "我們先休息一下不看螢幕吧。",
-      "ipa": "/lets teɪk ə breɪk frʌm ðə skriːn/",
+      "ipa": "/lets tek ə brek frʌm ðə skrin/",
       "vocab": [
         {
           "w": "screen",
           "pos": "n.",
-          "ipa": "/skriːn/",
+          "ipa": "/skrin/",
           "zh": "螢幕"
         }
       ]
@@ -297,12 +297,12 @@
       "category": "celebrations",
       "en": "Who should we invite to the celebration?",
       "zh": "我們應該邀請誰來慶祝呢？",
-      "ipa": "/huː ʃʊd wiː ɪnˈvaɪt tuː ðə ˌselɪˈbreɪʃən/",
+      "ipa": "/hu ʃʊd wi ɪnˈvaɪt tu ðə ˌselɪˈbreʃən/",
       "vocab": [
         {
           "w": "celebration",
           "pos": "n.",
-          "ipa": "/ˌselɪˈbreɪʃən/",
+          "ipa": "/ˌselɪˈbreʃən/",
           "zh": "慶祝活動"
         }
       ]
@@ -313,12 +313,12 @@
       "category": "reading",
       "en": "You can pick the bedtime story tonight.",
       "zh": "今晚你可以挑選睡前故事。",
-      "ipa": "/juː kæn pɪk ðə ˈbedtaɪm ˈstɔːri təˈnaɪt/",
+      "ipa": "/ju kæn pɪk ðə ˈbedtaɪm ˈstɔri təˈnaɪt/",
       "vocab": [
         {
           "w": "bedtime story",
           "pos": "n.",
-          "ipa": "/ˈbedtaɪm ˈstɔːri/",
+          "ipa": "/ˈbedtaɪm ˈstɔri/",
           "zh": "睡前故事"
         }
       ]

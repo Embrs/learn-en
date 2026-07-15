@@ -9,12 +9,12 @@
       "category": "daily-routine",
       "en": "Don't forget to put on clean socks.",
       "zh": "別忘了穿上乾淨的襪子。",
-      "ipa": "/doʊnt fərˈɡet tuː pʊt ɑːn kliːn sɑːks/",
+      "ipa": "/dont fɚˈɡet tu pʊt ɑn klin sɑks/",
       "vocab": [
         {
           "w": "socks",
           "pos": "n.",
-          "ipa": "/sɑːks/",
+          "ipa": "/sɑks/",
           "zh": "襪子"
         }
       ]
@@ -25,7 +25,7 @@
       "category": "meals",
       "en": "Let's clear the table together when we're done.",
       "zh": "吃完後我們一起收拾餐桌。",
-      "ipa": "/lets klɪr ðə ˈteɪbl təˈɡeðər wen wɪər dʌn/",
+      "ipa": "/lets klɪr ðə ˈtebl təˈɡeðɚ wen wɪɚ dʌn/",
       "vocab": [
         {
           "w": "clear",
@@ -41,12 +41,12 @@
       "category": "bath-bedtime",
       "en": "Close your eyes and think of something happy.",
       "zh": "閉上眼睛，想一些開心的事。",
-      "ipa": "/kloʊz jʊər aɪz ənd θɪŋk ʌv ˈsʌmθɪŋ ˈhæpi/",
+      "ipa": "/kloz jʊɚ aɪz ənd θɪŋk ʌv ˈsʌmθɪŋ ˈhæpi/",
       "vocab": [
         {
           "w": "close",
           "pos": "v.",
-          "ipa": "/kloʊz/",
+          "ipa": "/kloz/",
           "zh": "閉上"
         }
       ]
@@ -57,12 +57,12 @@
       "category": "outings",
       "en": "What was your favorite part of the trip?",
       "zh": "這趟旅行你最喜歡哪個部分？",
-      "ipa": "/wʌt wɑz jʊər ˈfeɪvərɪt pɑːrt ʌv ðə trɪp/",
+      "ipa": "/wʌt wɑz jʊɚ ˈfevɚɪt pɑrt ʌv ðə trɪp/",
       "vocab": [
         {
           "w": "favorite",
           "pos": "adj.",
-          "ipa": "/ˈfeɪvərɪt/",
+          "ipa": "/ˈfevɚɪt/",
           "zh": "最喜歡的"
         }
       ]
@@ -73,7 +73,7 @@
       "category": "playground",
       "en": "Let's drink some water before we keep playing.",
       "zh": "我們先喝點水再繼續玩。",
-      "ipa": "/lets drɪŋk sʌm ˈwɔːtər bɪˈfɔːr wiː kiːp ˈpleɪɪŋ/",
+      "ipa": "/lets drɪŋk sʌm ˈwɔtɚ bɪˈfɔr wi kip ˈpleɪŋ/",
       "vocab": [
         {
           "w": "drink",
@@ -89,7 +89,7 @@
       "category": "school",
       "en": "I'll pick you up right after school.",
       "zh": "放學後我馬上去接你。",
-      "ipa": "/aɪl pɪk juː ʌp raɪt ˈæftər skuːl/",
+      "ipa": "/aɪl pɪk ju ʌp raɪt ˈæftɚ skul/",
       "vocab": [
         {
           "w": "pick up",
@@ -105,12 +105,12 @@
       "category": "homework",
       "en": "You figured that out all by yourself!",
       "zh": "你自己就想出來了！",
-      "ipa": "/juː ˈfɪɡjərd ðæt aʊt ɔːl baɪ jʊərˈself/",
+      "ipa": "/ju ˈfɪɡjɚd ðæt aʊt ɔl baɪ jʊɚˈself/",
       "vocab": [
         {
           "w": "figure out",
           "pos": "v. phr.",
-          "ipa": "/ˈfɪɡjər aʊt/",
+          "ipa": "/ˈfɪɡjɚ aʊt/",
           "zh": "想出、解決"
         }
       ]
@@ -121,7 +121,7 @@
       "category": "toys-sharing",
       "en": "Let's build something together with your blocks.",
       "zh": "我們用積木一起蓋東西吧。",
-      "ipa": "/lets bɪld ˈsʌmθɪŋ təˈɡeðər wɪð jʊər blɑːks/",
+      "ipa": "/lets bɪld ˈsʌmθɪŋ təˈɡeðɚ wɪð jʊɚ blɑks/",
       "vocab": [
         {
           "w": "build",
@@ -137,12 +137,12 @@
       "category": "emotions",
       "en": "Your feelings matter, and I'm listening.",
       "zh": "你的感受很重要，我在聽。",
-      "ipa": "/jʊər ˈfiːlɪŋz ˈmætər ənd aɪm ˈlɪsənɪŋ/",
+      "ipa": "/jʊɚ ˈfilɪŋz ˈmætɚ ənd aɪm ˈlɪsənɪŋ/",
       "vocab": [
         {
           "w": "matter",
           "pos": "v.",
-          "ipa": "/ˈmætər/",
+          "ipa": "/ˈmætɚ/",
           "zh": "重要、要緊"
         }
       ]
@@ -153,7 +153,7 @@
       "category": "discipline",
       "en": "You made the right choice, thank you.",
       "zh": "你做了正確的選擇，謝謝你。",
-      "ipa": "/juː meɪd ðə raɪt tʃɔɪs θæŋk juː/",
+      "ipa": "/ju med ðə raɪt tʃɔɪs θæŋk ju/",
       "vocab": [
         {
           "w": "choice",
@@ -169,12 +169,12 @@
       "category": "praise",
       "en": "You should feel really good about that.",
       "zh": "你應該為這件事感到很驕傲。",
-      "ipa": "/juː ʃʊd fiːl ˈrɪli ɡʊd əˈbaʊt ðæt/",
+      "ipa": "/ju ʃʊd fil ˈrɪli ɡʊd əˈbaʊt ðæt/",
       "vocab": [
         {
           "w": "feel good",
           "pos": "v. phr.",
-          "ipa": "/fiːl ɡʊd/",
+          "ipa": "/fil ɡʊd/",
           "zh": "感覺良好"
         }
       ]
@@ -185,12 +185,12 @@
       "category": "safety",
       "en": "If you get lost, stay right where you are.",
       "zh": "如果走失了，就待在原地。",
-      "ipa": "/ɪf juː ɡet lɔːst steɪ raɪt wer juː ɑːr/",
+      "ipa": "/ɪf ju ɡet lɔst ste raɪt wer ju ɑr/",
       "vocab": [
         {
           "w": "lost",
           "pos": "adj.",
-          "ipa": "/lɔːst/",
+          "ipa": "/lɔst/",
           "zh": "走失的"
         }
       ]
@@ -201,7 +201,7 @@
       "category": "health",
       "en": "Let's wash this cut and cover it up.",
       "zh": "我們把傷口洗乾淨並包起來吧。",
-      "ipa": "/lets wɑːʃ ðɪs kʌt ənd ˈkʌvər ɪt ʌp/",
+      "ipa": "/lets wɑʃ ðɪs kʌt ənd ˈkʌvɚ ɪt ʌp/",
       "vocab": [
         {
           "w": "cut",
@@ -217,7 +217,7 @@
       "category": "relatives",
       "en": "We don't see your uncle often, let's enjoy today.",
       "zh": "我們不常見到叔叔，今天要好好珍惜。",
-      "ipa": "/wiː doʊnt siː jʊər ˈʌŋkl ˈɔːfən lets ɪnˈdʒɔɪ təˈdeɪ/",
+      "ipa": "/wi dont si jʊɚ ˈʌŋkl ˈɔfən lets ɪnˈdʒɔɪ təˈde/",
       "vocab": [
         {
           "w": "enjoy",
@@ -233,7 +233,7 @@
       "category": "friends",
       "en": "You made your friend laugh, that was sweet.",
       "zh": "你把朋友逗笑了，真貼心。",
-      "ipa": "/juː meɪd jʊər frend læf ðæt wɑz swiːt/",
+      "ipa": "/ju med jʊɚ frend læf ðæt wɑz swit/",
       "vocab": [
         {
           "w": "laugh",
@@ -249,12 +249,12 @@
       "category": "manners",
       "en": "Let's shake hands and introduce yourself.",
       "zh": "我們握手並自我介紹一下吧。",
-      "ipa": "/lets ʃeɪk hændz ənd ˌɪntrəˈduːs jʊərˈself/",
+      "ipa": "/lets ʃek hændz ənd ˌɪntrəˈdus jʊɚˈself/",
       "vocab": [
         {
           "w": "introduce",
           "pos": "v.",
-          "ipa": "/ˌɪntrəˈduːs/",
+          "ipa": "/ˌɪntrəˈdus/",
           "zh": "介紹"
         }
       ]
@@ -265,12 +265,12 @@
       "category": "weather",
       "en": "The storm should pass by tonight.",
       "zh": "這場暴風雨今晚應該就會過去。",
-      "ipa": "/ðə stɔːrm ʃʊd pæs baɪ təˈnaɪt/",
+      "ipa": "/ðə stɔrm ʃʊd pæs baɪ təˈnaɪt/",
       "vocab": [
         {
           "w": "storm",
           "pos": "n.",
-          "ipa": "/stɔːrm/",
+          "ipa": "/stɔrm/",
           "zh": "暴風雨"
         }
       ]
@@ -281,12 +281,12 @@
       "category": "screen-time",
       "en": "You chose a book over the tablet, nice job.",
       "zh": "你選了書而不是平板，做得好。",
-      "ipa": "/juː tʃoʊz ə bʊk ˈoʊvər ðə ˈtæblət naɪs dʒɑːb/",
+      "ipa": "/ju tʃoz ə bʊk ˈovɚ ðə ˈtæblət naɪs dʒɑb/",
       "vocab": [
         {
           "w": "chose",
           "pos": "v.",
-          "ipa": "/tʃoʊz/",
+          "ipa": "/tʃoz/",
           "zh": "選擇（過去式）"
         }
       ]
@@ -297,12 +297,12 @@
       "category": "celebrations",
       "en": "Thank everyone for coming to your party.",
       "zh": "謝謝大家來參加你的派對。",
-      "ipa": "/θæŋk ˈevriwʌn fɔːr ˈkʌmɪŋ tuː jʊər ˈpɑːrti/",
+      "ipa": "/θæŋk ˈevriwʌn fɔr ˈkʌmɪŋ tu jʊɚ ˈpɑrti/",
       "vocab": [
         {
           "w": "party",
           "pos": "n.",
-          "ipa": "/ˈpɑːrti/",
+          "ipa": "/ˈpɑrti/",
           "zh": "派對"
         }
       ]
@@ -313,7 +313,7 @@
       "category": "reading",
       "en": "One more story, then it's really lights out.",
       "zh": "再一個故事，然後就真的要關燈了。",
-      "ipa": "/wʌn mɔːr ˈstɔːri ðen ɪts ˈrɪli laɪts aʊt/",
+      "ipa": "/wʌn mɔr ˈstɔri ðen ɪts ˈrɪli laɪts aʊt/",
       "vocab": [
         {
           "w": "lights out",

@@ -9,12 +9,12 @@
       "category": "daily-routine",
       "en": "Let's comb your hair before breakfast.",
       "zh": "吃早餐前先梳頭髮。",
-      "ipa": "/lets koʊm jʊər her bɪˈfɔːr ˈbrekfəst/",
+      "ipa": "/lets kom jʊɚ her bɪˈfɔr ˈbrekfəst/",
       "vocab": [
         {
           "w": "comb",
           "pos": "v.",
-          "ipa": "/koʊm/",
+          "ipa": "/kom/",
           "zh": "梳"
         }
       ]
@@ -25,12 +25,12 @@
       "category": "meals",
       "en": "Please don't play with your food.",
       "zh": "請不要玩你的食物。",
-      "ipa": "/pliːz doʊnt pleɪ wɪð jʊər fuːd/",
+      "ipa": "/pliz dont ple wɪð jʊɚ fud/",
       "vocab": [
         {
           "w": "play with",
           "pos": "phr. v.",
-          "ipa": "/pleɪ wɪð/",
+          "ipa": "/ple wɪð/",
           "zh": "玩弄"
         }
       ]
@@ -41,7 +41,7 @@
       "category": "bath-bedtime",
       "en": "Which stuffed animal do you want tonight?",
       "zh": "你今晚想要哪隻填充玩偶？",
-      "ipa": "/wɪtʃ stʌft ˈænɪməl duː juː wɑːnt təˈnaɪt/",
+      "ipa": "/wɪtʃ stʌft ˈænɪməl du ju wɑnt təˈnaɪt/",
       "vocab": [
         {
           "w": "stuffed animal",
@@ -57,12 +57,12 @@
       "category": "outings",
       "en": "What do you want to see first?",
       "zh": "你想先看什麼？",
-      "ipa": "/wʌt duː juː wɑːnt tuː siː fɜːrst/",
+      "ipa": "/wʌt du ju wɑnt tu si fɝst/",
       "vocab": [
         {
           "w": "first",
           "pos": "adv.",
-          "ipa": "/fɜːrst/",
+          "ipa": "/fɝst/",
           "zh": "首先"
         }
       ]
@@ -73,7 +73,7 @@
       "category": "playground",
       "en": "Let's find some friends to play with.",
       "zh": "我們去找些朋友一起玩吧。",
-      "ipa": "/lets faɪnd sʌm frendz tuː pleɪ wɪð/",
+      "ipa": "/lets faɪnd sʌm frendz tu ple wɪð/",
       "vocab": [
         {
           "w": "friends",
@@ -89,12 +89,12 @@
       "category": "school",
       "en": "Let's sign your permission slip tonight.",
       "zh": "我們今晚來簽你的同意書。",
-      "ipa": "/lets saɪn jʊər pərˈmɪʃən slɪp təˈnaɪt/",
+      "ipa": "/lets saɪn jʊɚ pɚˈmɪʃən slɪp təˈnaɪt/",
       "vocab": [
         {
           "w": "permission slip",
           "pos": "n.",
-          "ipa": "/pərˈmɪʃən slɪp/",
+          "ipa": "/pɚˈmɪʃən slɪp/",
           "zh": "同意書"
         }
       ]
@@ -105,7 +105,7 @@
       "category": "homework",
       "en": "Let's check your homework together.",
       "zh": "我們一起檢查你的功課吧。",
-      "ipa": "/lets tʃek jʊər ˈhoʊmwɜːrk təˈɡeðər/",
+      "ipa": "/lets tʃek jʊɚ ˈhomwɝk təˈɡeðɚ/",
       "vocab": [
         {
           "w": "check",
@@ -121,7 +121,7 @@
       "category": "toys-sharing",
       "en": "That was very kind of you to share.",
       "zh": "你願意分享真的很貼心。",
-      "ipa": "/ðæt wʌz ˈveri kaɪnd ʌv juː tuː ʃer/",
+      "ipa": "/ðæt wʌz ˈveri kaɪnd ʌv ju tu ʃer/",
       "vocab": [
         {
           "w": "kind",
@@ -137,7 +137,7 @@
       "category": "emotions",
       "en": "It's alright to cry, I'm right here.",
       "zh": "哭出來沒關係，我就在這裡。",
-      "ipa": "/ɪts ɔːlˈraɪt tuː kraɪ aɪm raɪt hɪr/",
+      "ipa": "/ɪts ɔlˈraɪt tu kraɪ aɪm raɪt hɪr/",
       "vocab": [
         {
           "w": "cry",
@@ -153,12 +153,12 @@
       "category": "discipline",
       "en": "Rules keep everyone safe, that's why we have them.",
       "zh": "規矩讓大家都安全，這就是為什麼我們要有規矩。",
-      "ipa": "/ruːlz kiːp ˈevriwʌn seɪf ðæts waɪ wiː hæv ðəm/",
+      "ipa": "/rulz kip ˈevriwʌn sef ðæts waɪ wi hæv ðəm/",
       "vocab": [
         {
           "w": "rule",
           "pos": "n.",
-          "ipa": "/ruːl/",
+          "ipa": "/rul/",
           "zh": "規矩"
         }
       ]
@@ -169,12 +169,12 @@
       "category": "praise",
       "en": "Look how much you've improved!",
       "zh": "你看你進步了多少！",
-      "ipa": "/lʊk haʊ mʌtʃ juːv ɪmˈpruːvd/",
+      "ipa": "/lʊk haʊ mʌtʃ juv ɪmˈpruvd/",
       "vocab": [
         {
           "w": "improve",
           "pos": "v.",
-          "ipa": "/ɪmˈpruːv/",
+          "ipa": "/ɪmˈpruv/",
           "zh": "進步"
         }
       ]
@@ -185,12 +185,12 @@
       "category": "safety",
       "en": "Look both ways before you cross.",
       "zh": "過馬路前要看左右兩邊。",
-      "ipa": "/lʊk boʊθ weɪz bɪˈfɔːr juː krɔːs/",
+      "ipa": "/lʊk boθ wez bɪˈfɔr ju krɔs/",
       "vocab": [
         {
           "w": "both ways",
           "pos": "phr.",
-          "ipa": "/boʊθ weɪz/",
+          "ipa": "/boθ wez/",
           "zh": "兩邊"
         }
       ]
@@ -201,7 +201,7 @@
       "category": "health",
       "en": "Take your medicine, then you'll feel better.",
       "zh": "吃藥後你就會好一點了。",
-      "ipa": "/teɪk jʊər ˈmedɪsən ðen juːl fiːl ˈbetər/",
+      "ipa": "/tek jʊɚ ˈmedɪsən ðen jul fil ˈbetɚ/",
       "vocab": [
         {
           "w": "medicine",
@@ -217,7 +217,7 @@
       "category": "relatives",
       "en": "Remember to be polite at Grandma's house.",
       "zh": "在奶奶家要記得有禮貌。",
-      "ipa": "/rɪˈmembər tuː biː pəˈlaɪt æt ˈɡrænmɑːz haʊs/",
+      "ipa": "/rɪˈmembɚ tu bi pəˈlaɪt æt ˈɡrænmɑz haʊs/",
       "vocab": [
         {
           "w": "polite",
@@ -233,12 +233,12 @@
       "category": "friends",
       "en": "It's kind to include everyone in the game.",
       "zh": "讓大家都能加入遊戲是很貼心的。",
-      "ipa": "/ɪts kaɪnd tuː ɪnˈkluːd ˈevriwʌn ɪn ðə ɡeɪm/",
+      "ipa": "/ɪts kaɪnd tu ɪnˈklud ˈevriwʌn ɪn ðə ɡem/",
       "vocab": [
         {
           "w": "include",
           "pos": "v.",
-          "ipa": "/ɪnˈkluːd/",
+          "ipa": "/ɪnˈklud/",
           "zh": "包含"
         }
       ]
@@ -249,12 +249,12 @@
       "category": "manners",
       "en": "It's polite to knock before entering.",
       "zh": "進去前先敲門是有禮貌的。",
-      "ipa": "/ɪts pəˈlaɪt tuː nɑːk bɪˈfɔːr ˈentərɪŋ/",
+      "ipa": "/ɪts pəˈlaɪt tu nɑk bɪˈfɔr ˈentɚɪŋ/",
       "vocab": [
         {
           "w": "knock",
           "pos": "v.",
-          "ipa": "/nɑːk/",
+          "ipa": "/nɑk/",
           "zh": "敲門"
         }
       ]
@@ -265,7 +265,7 @@
       "category": "weather",
       "en": "It's windy, hold onto your hat.",
       "zh": "風很大，抓緊你的帽子。",
-      "ipa": "/ɪts ˈwɪndi hoʊld ˈɑːntuː jʊər hæt/",
+      "ipa": "/ɪts ˈwɪndi hold ˈɑntu jʊɚ hæt/",
       "vocab": [
         {
           "w": "windy",
@@ -281,12 +281,12 @@
       "category": "screen-time",
       "en": "Your screen time is up for today.",
       "zh": "你今天的螢幕時間用完了。",
-      "ipa": "/jʊər skriːn taɪm ɪz ʌp fɔːr təˈdeɪ/",
+      "ipa": "/jʊɚ skrin taɪm ɪz ʌp fɔr təˈde/",
       "vocab": [
         {
           "w": "screen time",
           "pos": "n.",
-          "ipa": "/skriːn taɪm/",
+          "ipa": "/skrin taɪm/",
           "zh": "螢幕時間"
         }
       ]
@@ -297,7 +297,7 @@
       "category": "celebrations",
       "en": "It's time to open your presents!",
       "zh": "該打開你的禮物囉！",
-      "ipa": "/ɪts taɪm tuː ˈoʊpən jʊər ˈprezənts/",
+      "ipa": "/ɪts taɪm tu ˈopən jʊɚ ˈprezənts/",
       "vocab": [
         {
           "w": "present",
@@ -313,12 +313,12 @@
       "category": "reading",
       "en": "Let's turn the page and find out.",
       "zh": "我們翻頁看看接下來怎樣吧。",
-      "ipa": "/lets tɜːrn ðə peɪdʒ ənd faɪnd aʊt/",
+      "ipa": "/lets tɝn ðə pedʒ ənd faɪnd aʊt/",
       "vocab": [
         {
           "w": "turn the page",
           "pos": "phr.",
-          "ipa": "/tɜːrn ðə peɪdʒ/",
+          "ipa": "/tɝn ðə pedʒ/",
           "zh": "翻頁"
         }
       ]

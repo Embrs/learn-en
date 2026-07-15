@@ -9,12 +9,12 @@
       "category": "daily-routine",
       "en": "Put your pajamas in the laundry basket.",
       "zh": "把睡衣放進洗衣籃。",
-      "ipa": "/pʊt jʊər pəˈdʒɑːməz ɪn ðə ˈlɔːndri ˈbæskɪt/",
+      "ipa": "/pʊt jʊɚ pəˈdʒɑməz ɪn ðə ˈlɔndri ˈbæskɪt/",
       "vocab": [
         {
           "w": "laundry basket",
           "pos": "n.",
-          "ipa": "/ˈlɔːndri ˈbæskɪt/",
+          "ipa": "/ˈlɔndri ˈbæskɪt/",
           "zh": "洗衣籃"
         }
       ]
@@ -25,12 +25,12 @@
       "category": "meals",
       "en": "You can have dessert after dinner.",
       "zh": "晚餐後可以吃甜點。",
-      "ipa": "/juː kæn hæv dɪˈzɜːrt ˈæftər ˈdɪnər/",
+      "ipa": "/ju kæn hæv dɪˈzɝt ˈæftɚ ˈdɪnɚ/",
       "vocab": [
         {
           "w": "dessert",
           "pos": "n.",
-          "ipa": "/dɪˈzɜːrt/",
+          "ipa": "/dɪˈzɝt/",
           "zh": "甜點"
         }
       ]
@@ -41,7 +41,7 @@
       "category": "bath-bedtime",
       "en": "Lights out in five minutes, okay?",
       "zh": "五分鐘後要關燈囉，好嗎？",
-      "ipa": "/laɪts aʊt ɪn faɪv ˈmɪnɪts oʊˈkeɪ/",
+      "ipa": "/laɪts aʊt ɪn faɪv ˈmɪnɪts oˈke/",
       "vocab": [
         {
           "w": "lights out",
@@ -57,12 +57,12 @@
       "category": "outings",
       "en": "Let's take a picture together here.",
       "zh": "我們在這裡一起拍張照吧。",
-      "ipa": "/lets teɪk ə ˈpɪktʃər təˈɡeðər hɪr/",
+      "ipa": "/lets tek ə ˈpɪktʃɚ təˈɡeðɚ hɪr/",
       "vocab": [
         {
           "w": "take a picture",
           "pos": "phr.",
-          "ipa": "/teɪk ə ˈpɪktʃər/",
+          "ipa": "/tek ə ˈpɪktʃɚ/",
           "zh": "拍照"
         }
       ]
@@ -73,12 +73,12 @@
       "category": "playground",
       "en": "Time to leave the playground now.",
       "zh": "現在該離開遊樂場了。",
-      "ipa": "/taɪm tuː liːv ðə ˈpleɪɡraʊnd naʊ/",
+      "ipa": "/taɪm tu liv ðə ˈpleɡraʊnd naʊ/",
       "vocab": [
         {
           "w": "playground",
           "pos": "n.",
-          "ipa": "/ˈpleɪɡraʊnd/",
+          "ipa": "/ˈpleɡraʊnd/",
           "zh": "遊樂場"
         }
       ]
@@ -89,7 +89,7 @@
       "category": "school",
       "en": "Are you excited for the school trip?",
       "zh": "你期待學校的校外教學嗎？",
-      "ipa": "/ɑːr juː ɪkˈsaɪtɪd fɔːr ðə skuːl trɪp/",
+      "ipa": "/ɑr ju ɪkˈsaɪtɪd fɔr ðə skul trɪp/",
       "vocab": [
         {
           "w": "excited",
@@ -105,12 +105,12 @@
       "category": "homework",
       "en": "Take your time, there's no rush.",
       "zh": "慢慢來，不用趕。",
-      "ipa": "/teɪk jʊər taɪm ðerz noʊ rʌʃ/",
+      "ipa": "/tek jʊɚ taɪm ðerz no rʌʃ/",
       "vocab": [
         {
           "w": "take your time",
           "pos": "phr.",
-          "ipa": "/teɪk jʊər taɪm/",
+          "ipa": "/tek jʊɚ taɪm/",
           "zh": "慢慢來"
         }
       ]
@@ -121,12 +121,12 @@
       "category": "toys-sharing",
       "en": "You can take turns with the toy car.",
       "zh": "你們可以輪流玩玩具車。",
-      "ipa": "/juː kæn teɪk tɜːrnz wɪð ðə tɔɪ kɑːr/",
+      "ipa": "/ju kæn tek tɝnz wɪð ðə tɔɪ kɑr/",
       "vocab": [
         {
           "w": "take turns",
           "pos": "phr.",
-          "ipa": "/teɪk tɜːrnz/",
+          "ipa": "/tek tɝnz/",
           "zh": "輪流"
         }
       ]
@@ -137,7 +137,7 @@
       "category": "emotions",
       "en": "Let's use our words instead of hitting.",
       "zh": "我們用說的，不要動手。",
-      "ipa": "/lets juːz ˈaʊər wɜːrdz ɪnˈsted ʌv ˈhɪtɪŋ/",
+      "ipa": "/lets juz ˈaʊɚ wɝdz ɪnˈsted ʌv ˈhɪtɪŋ/",
       "vocab": [
         {
           "w": "instead of",
@@ -153,7 +153,7 @@
       "category": "discipline",
       "en": "You can't watch TV until your room is clean.",
       "zh": "房間整理好之前不能看電視。",
-      "ipa": "/juː kænt wɑːtʃ ˌtiːˈviː ənˈtɪl jʊər ruːm ɪz kliːn/",
+      "ipa": "/ju kænt wɑtʃ ˌtiˈvi ənˈtɪl jʊɚ rum ɪz klin/",
       "vocab": [
         {
           "w": "until",
@@ -169,12 +169,12 @@
       "category": "praise",
       "en": "That was very brave of you.",
       "zh": "你剛剛真的很勇敢。",
-      "ipa": "/ðæt wʌz ˈveri breɪv ʌv juː/",
+      "ipa": "/ðæt wʌz ˈveri brev ʌv ju/",
       "vocab": [
         {
           "w": "brave",
           "pos": "adj.",
-          "ipa": "/breɪv/",
+          "ipa": "/brev/",
           "zh": "勇敢的"
         }
       ]
@@ -185,12 +185,12 @@
       "category": "safety",
       "en": "Never talk to strangers alone.",
       "zh": "絕對不要獨自跟陌生人說話。",
-      "ipa": "/ˈnevər tɔːk tuː ˈstreɪndʒərz əˈloʊn/",
+      "ipa": "/ˈnevɚ tɔk tu ˈstrendʒɚz əˈlon/",
       "vocab": [
         {
           "w": "stranger",
           "pos": "n.",
-          "ipa": "/ˈstreɪndʒər/",
+          "ipa": "/ˈstrendʒɚ/",
           "zh": "陌生人"
         }
       ]
@@ -201,7 +201,7 @@
       "category": "health",
       "en": "Drink plenty of water when you're sick.",
       "zh": "生病的時候要多喝水。",
-      "ipa": "/drɪŋk ˈplenti ʌv ˈwɔːtər wen jʊər sɪk/",
+      "ipa": "/drɪŋk ˈplenti ʌv ˈwɔtɚ wen jʊɚ sɪk/",
       "vocab": [
         {
           "w": "plenty of",
@@ -217,7 +217,7 @@
       "category": "relatives",
       "en": "Let's call Grandpa and wish him happy birthday.",
       "zh": "我們打給爺爺祝他生日快樂吧。",
-      "ipa": "/lets kɔːl ˈɡrænpɑː ənd wɪʃ hɪm ˈhæpi ˈbɜːrθdeɪ/",
+      "ipa": "/lets kɔl ˈɡrænpɑ ənd wɪʃ hɪm ˈhæpi ˈbɝθde/",
       "vocab": [
         {
           "w": "wish",
@@ -233,7 +233,7 @@
       "category": "friends",
       "en": "Did you have fun at your friend's house?",
       "zh": "你在朋友家玩得開心嗎？",
-      "ipa": "/dɪd juː hæv fʌn æt jʊər frendz haʊs/",
+      "ipa": "/dɪd ju hæv fʌn æt jʊɚ frendz haʊs/",
       "vocab": [
         {
           "w": "have fun",
@@ -249,7 +249,7 @@
       "category": "manners",
       "en": "Use your inside voice, please.",
       "zh": "請用室內音量說話。",
-      "ipa": "/juːz jʊər ˈɪnsaɪd vɔɪs pliːz/",
+      "ipa": "/juz jʊɚ ˈɪnsaɪd vɔɪs pliz/",
       "vocab": [
         {
           "w": "inside voice",
@@ -265,12 +265,12 @@
       "category": "weather",
       "en": "Let's put on sunscreen before we go out.",
       "zh": "出門前先擦防曬乳吧。",
-      "ipa": "/lets pʊt ɑːn ˈsʌnskriːn bɪˈfɔːr wiː ɡoʊ aʊt/",
+      "ipa": "/lets pʊt ɑn ˈsʌnskrin bɪˈfɔr wi ɡo aʊt/",
       "vocab": [
         {
           "w": "sunscreen",
           "pos": "n.",
-          "ipa": "/ˈsʌnskriːn/",
+          "ipa": "/ˈsʌnskrin/",
           "zh": "防曬乳"
         }
       ]
@@ -281,7 +281,7 @@
       "category": "screen-time",
       "en": "Let's do something outside instead of watching videos.",
       "zh": "我們去外面做點事，不要看影片了。",
-      "ipa": "/lets duː ˈsʌmθɪŋ ˌaʊtˈsaɪd ɪnˈsted ʌv ˈwɑːtʃɪŋ ˈvɪdioʊz/",
+      "ipa": "/lets du ˈsʌmθɪŋ ˌaʊtˈsaɪd ɪnˈsted ʌv ˈwɑtʃɪŋ ˈvɪdioz/",
       "vocab": [
         {
           "w": "instead of",
@@ -297,7 +297,7 @@
       "category": "celebrations",
       "en": "Let's sing happy birthday together.",
       "zh": "我們一起唱生日快樂歌吧。",
-      "ipa": "/lets sɪŋ ˈhæpi ˈbɜːrθdeɪ təˈɡeðər/",
+      "ipa": "/lets sɪŋ ˈhæpi ˈbɝθde təˈɡeðɚ/",
       "vocab": [
         {
           "w": "sing",
@@ -313,7 +313,7 @@
       "category": "reading",
       "en": "You're getting so good at reading!",
       "zh": "你的閱讀能力進步好多喔！",
-      "ipa": "/jʊər ˈɡetɪŋ soʊ ɡʊd æt ˈriːdɪŋ/",
+      "ipa": "/jʊɚ ˈɡetɪŋ so ɡʊd æt ˈridɪŋ/",
       "vocab": [
         {
           "w": "get good at",

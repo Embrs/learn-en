@@ -9,7 +9,7 @@
       "category": "daily-routine",
       "en": "Rise and shine, sleepyhead!",
       "zh": "起床啦，小懶蟲！",
-      "ipa": "/raɪz ənd ʃaɪn ˈsliːpihed/",
+      "ipa": "/raɪz ənd ʃaɪn ˈslipihed/",
       "vocab": [
         {
           "w": "rise and shine",
@@ -20,7 +20,7 @@
         {
           "w": "sleepyhead",
           "pos": "n.",
-          "ipa": "/ˈsliːpihed/",
+          "ipa": "/ˈslipihed/",
           "zh": "貪睡的人"
         }
       ]
@@ -31,12 +31,12 @@
       "category": "meals",
       "en": "Come to the table, dinner's ready.",
       "zh": "過來餐桌，晚餐好了。",
-      "ipa": "/kʌm tuː ðə ˈteɪbl ˈdɪnərz ˈredi/",
+      "ipa": "/kʌm tu ðə ˈtebl ˈdɪnɚz ˈredi/",
       "vocab": [
         {
           "w": "table",
           "pos": "n.",
-          "ipa": "/ˈteɪbl/",
+          "ipa": "/ˈtebl/",
           "zh": "餐桌"
         }
       ]
@@ -47,7 +47,7 @@
       "category": "bath-bedtime",
       "en": "It's bath time, hop in the tub.",
       "zh": "洗澡時間到了，進去浴缸吧。",
-      "ipa": "/ɪts bæθ taɪm hɑːp ɪn ðə tʌb/",
+      "ipa": "/ɪts bæθ taɪm hɑp ɪn ðə tʌb/",
       "vocab": [
         {
           "w": "tub",
@@ -63,7 +63,7 @@
       "category": "outings",
       "en": "Let's pack a bag for our trip.",
       "zh": "我們來打包一個出遊要用的包包吧。",
-      "ipa": "/lets pæk ə bæɡ fɔːr ˈaʊər trɪp/",
+      "ipa": "/lets pæk ə bæɡ fɔr ˈaʊɚ trɪp/",
       "vocab": [
         {
           "w": "pack",
@@ -79,7 +79,7 @@
       "category": "playground",
       "en": "Let's go down the slide together.",
       "zh": "我們一起去溜滑梯吧。",
-      "ipa": "/lets ɡoʊ daʊn ðə slaɪd təˈɡeðər/",
+      "ipa": "/lets ɡo daʊn ðə slaɪd təˈɡeðɚ/",
       "vocab": [
         {
           "w": "slide",
@@ -95,7 +95,7 @@
       "category": "school",
       "en": "Grab your backpack, the bus is coming.",
       "zh": "拿好你的書包，公車要來了。",
-      "ipa": "/ɡræb jʊər ˈbækpæk ðə bʌs ɪz ˈkʌmɪŋ/",
+      "ipa": "/ɡræb jʊɚ ˈbækpæk ðə bʌs ɪz ˈkʌmɪŋ/",
       "vocab": [
         {
           "w": "backpack",
@@ -111,12 +111,12 @@
       "category": "homework",
       "en": "Let's finish your homework before playtime.",
       "zh": "我們先把功課寫完再玩。",
-      "ipa": "/lets ˈfɪnɪʃ jʊər ˈhoʊmwɜːrk bɪˈfɔːr ˈpleɪtaɪm/",
+      "ipa": "/lets ˈfɪnɪʃ jʊɚ ˈhomwɝk bɪˈfɔr ˈpletaɪm/",
       "vocab": [
         {
           "w": "homework",
           "pos": "n.",
-          "ipa": "/ˈhoʊmwɜːrk/",
+          "ipa": "/ˈhomwɝk/",
           "zh": "功課"
         }
       ]
@@ -127,7 +127,7 @@
       "category": "toys-sharing",
       "en": "Can you share your blocks with your sister?",
       "zh": "可以把積木分享給妹妹嗎？",
-      "ipa": "/kæn juː ʃer jʊər blɑːks wɪð jʊər ˈsɪstər/",
+      "ipa": "/kæn ju ʃer jʊɚ blɑks wɪð jʊɚ ˈsɪstɚ/",
       "vocab": [
         {
           "w": "share",
@@ -143,7 +143,7 @@
       "category": "emotions",
       "en": "It's okay to feel upset sometimes.",
       "zh": "有時候感到難過是沒關係的。",
-      "ipa": "/ɪts oʊˈkeɪ tuː fiːl ʌpˈset ˈsʌmtaɪmz/",
+      "ipa": "/ɪts oˈke tu fil ʌpˈset ˈsʌmtaɪmz/",
       "vocab": [
         {
           "w": "upset",
@@ -159,7 +159,7 @@
       "category": "discipline",
       "en": "We don't hit, we use gentle hands.",
       "zh": "我們不打人，要溫柔對待。",
-      "ipa": "/wiː doʊnt hɪt wiː juːz ˈdʒentl hændz/",
+      "ipa": "/wi dont hɪt wi juz ˈdʒentl hændz/",
       "vocab": [
         {
           "w": "gentle",
@@ -175,7 +175,7 @@
       "category": "praise",
       "en": "I'm so proud of you!",
       "zh": "我真為你感到驕傲！",
-      "ipa": "/aɪm soʊ praʊd ʌv juː/",
+      "ipa": "/aɪm so praʊd ʌv ju/",
       "vocab": [
         {
           "w": "proud",
@@ -191,12 +191,12 @@
       "category": "safety",
       "en": "Hold my hand when we cross the street.",
       "zh": "過馬路要牽我的手。",
-      "ipa": "/hoʊld maɪ hænd wen wiː krɔːs ðə striːt/",
+      "ipa": "/hold maɪ hænd wen wi krɔs ðə strit/",
       "vocab": [
         {
           "w": "cross",
           "pos": "v.",
-          "ipa": "/krɔːs/",
+          "ipa": "/krɔs/",
           "zh": "穿越"
         }
       ]
@@ -207,12 +207,12 @@
       "category": "health",
       "en": "Let's check if you have a fever.",
       "zh": "我們來看看你有沒有發燒。",
-      "ipa": "/lets tʃek ɪf juː hæv ə ˈfiːvər/",
+      "ipa": "/lets tʃek ɪf ju hæv ə ˈfivɚ/",
       "vocab": [
         {
           "w": "fever",
           "pos": "n.",
-          "ipa": "/ˈfiːvər/",
+          "ipa": "/ˈfivɚ/",
           "zh": "發燒"
         }
       ]
@@ -223,7 +223,7 @@
       "category": "relatives",
       "en": "Let's go visit Grandma and Grandpa today.",
       "zh": "我們今天去拜訪爺爺奶奶吧。",
-      "ipa": "/lets ɡoʊ ˈvɪzɪt ˈɡrænmɑː ənd ˈɡrænpɑː təˈdeɪ/",
+      "ipa": "/lets ɡo ˈvɪzɪt ˈɡrænmɑ ənd ˈɡrænpɑ təˈde/",
       "vocab": [
         {
           "w": "visit",
@@ -239,7 +239,7 @@
       "category": "friends",
       "en": "Can I invite my friend over to play?",
       "zh": "我可以邀朋友來家裡玩嗎？",
-      "ipa": "/kæn aɪ ɪnˈvaɪt maɪ frend ˈoʊvər tuː pleɪ/",
+      "ipa": "/kæn aɪ ɪnˈvaɪt maɪ frend ˈovɚ tu ple/",
       "vocab": [
         {
           "w": "invite",
@@ -255,12 +255,12 @@
       "category": "manners",
       "en": "Remember to say please and thank you.",
       "zh": "記得要說請和謝謝。",
-      "ipa": "/rɪˈmembər tuː seɪ pliːz ənd θæŋk juː/",
+      "ipa": "/rɪˈmembɚ tu se pliz ənd θæŋk ju/",
       "vocab": [
         {
           "w": "please",
           "pos": "int.",
-          "ipa": "/pliːz/",
+          "ipa": "/pliz/",
           "zh": "請"
         }
       ]
@@ -271,7 +271,7 @@
       "category": "weather",
       "en": "It's cold outside, put on your jacket.",
       "zh": "外面很冷，穿上你的外套。",
-      "ipa": "/ɪts koʊld ˌaʊtˈsaɪd pʊt ɑːn jʊər ˈdʒækɪt/",
+      "ipa": "/ɪts kold ˌaʊtˈsaɪd pʊt ɑn jʊɚ ˈdʒækɪt/",
       "vocab": [
         {
           "w": "jacket",
@@ -287,12 +287,12 @@
       "category": "screen-time",
       "en": "You can watch one show after homework.",
       "zh": "功課寫完可以看一集節目。",
-      "ipa": "/juː kæn wɑːtʃ wʌn ʃoʊ ˈæftər ˈhoʊmwɜːrk/",
+      "ipa": "/ju kæn wɑtʃ wʌn ʃo ˈæftɚ ˈhomwɝk/",
       "vocab": [
         {
           "w": "show",
           "pos": "n.",
-          "ipa": "/ʃoʊ/",
+          "ipa": "/ʃo/",
           "zh": "節目"
         }
       ]
@@ -303,12 +303,12 @@
       "category": "celebrations",
       "en": "Happy birthday! Let's blow out the candles.",
       "zh": "生日快樂！我們來吹蠟燭吧。",
-      "ipa": "/ˈhæpi ˈbɜːrθdeɪ lets bloʊ aʊt ðə ˈkændlz/",
+      "ipa": "/ˈhæpi ˈbɝθde lets blo aʊt ðə ˈkændlz/",
       "vocab": [
         {
           "w": "blow out",
           "pos": "phr. v.",
-          "ipa": "/bloʊ aʊt/",
+          "ipa": "/blo aʊt/",
           "zh": "吹熄"
         }
       ]
@@ -319,7 +319,7 @@
       "category": "reading",
       "en": "Which book do you want to read tonight?",
       "zh": "你今晚想讀哪本書？",
-      "ipa": "/wɪtʃ bʊk duː juː wɑːnt tuː riːd təˈnaɪt/",
+      "ipa": "/wɪtʃ bʊk du ju wɑnt tu rid təˈnaɪt/",
       "vocab": [
         {
           "w": "book",

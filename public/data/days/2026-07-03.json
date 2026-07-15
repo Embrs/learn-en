@@ -9,12 +9,12 @@
       "category": "daily-routine",
       "en": "Fold your blanket before you leave your room.",
       "zh": "離開房間前把毯子摺好。",
-      "ipa": "/foʊld jʊər ˈblæŋkɪt bɪˈfɔːr juː liːv jʊər ruːm/",
+      "ipa": "/fold jʊɚ ˈblæŋkɪt bɪˈfɔr ju liv jʊɚ rum/",
       "vocab": [
         {
           "w": "fold",
           "pos": "v.",
-          "ipa": "/foʊld/",
+          "ipa": "/fold/",
           "zh": "摺疊"
         }
       ]
@@ -25,12 +25,12 @@
       "category": "meals",
       "en": "This soup is hot, blow on it first.",
       "zh": "這湯很燙，先吹一吹。",
-      "ipa": "/ðɪs suːp ɪz hɑːt bloʊ ɑːn ɪt fɜːrst/",
+      "ipa": "/ðɪs sup ɪz hɑt blo ɑn ɪt fɝst/",
       "vocab": [
         {
           "w": "blow",
           "pos": "v.",
-          "ipa": "/bloʊ/",
+          "ipa": "/blo/",
           "zh": "吹"
         }
       ]
@@ -41,12 +41,12 @@
       "category": "bath-bedtime",
       "en": "Put your dirty clothes in the hamper.",
       "zh": "把髒衣服放進洗衣籃。",
-      "ipa": "/pʊt jʊər ˈdɜːrti kloʊðz ɪn ðə ˈhæmpər/",
+      "ipa": "/pʊt jʊɚ ˈdɝti kloðz ɪn ðə ˈhæmpɚ/",
       "vocab": [
         {
           "w": "hamper",
           "pos": "n.",
-          "ipa": "/ˈhæmpər/",
+          "ipa": "/ˈhæmpɚ/",
           "zh": "洗衣籃"
         }
       ]
@@ -57,12 +57,12 @@
       "category": "outings",
       "en": "We're almost at the museum, are you excited?",
       "zh": "我們快到博物館了，你興奮嗎？",
-      "ipa": "/wɪər ɔːlˈmoʊst æt ðə mjuːˈziːəm ɑːr juː ɪkˈsaɪtɪd/",
+      "ipa": "/wɪɚ ɔlˈmost æt ðə mjuˈziəm ɑr ju ɪkˈsaɪtɪd/",
       "vocab": [
         {
           "w": "museum",
           "pos": "n.",
-          "ipa": "/mjuːˈziːəm/",
+          "ipa": "/mjuˈziəm/",
           "zh": "博物館"
         }
       ]
@@ -73,7 +73,7 @@
       "category": "playground",
       "en": "Let's build a sandcastle over there.",
       "zh": "我們去那邊蓋沙堡吧。",
-      "ipa": "/lets bɪld ə ˈsændkæsl ˈoʊvər ðer/",
+      "ipa": "/lets bɪld ə ˈsændkæsl ˈovɚ ðer/",
       "vocab": [
         {
           "w": "sandcastle",
@@ -89,12 +89,12 @@
       "category": "school",
       "en": "Raise your hand if you have a question.",
       "zh": "有問題就舉手。",
-      "ipa": "/reɪz jʊər hænd ɪf juː hæv ə ˈkwestʃən/",
+      "ipa": "/rez jʊɚ hænd ɪf ju hæv ə ˈkwestʃən/",
       "vocab": [
         {
           "w": "raise",
           "pos": "v.",
-          "ipa": "/reɪz/",
+          "ipa": "/rez/",
           "zh": "舉起"
         }
       ]
@@ -105,12 +105,12 @@
       "category": "homework",
       "en": "Let's take a five-minute break, then continue.",
       "zh": "我們休息五分鐘，再繼續。",
-      "ipa": "/lets teɪk ə ˈfaɪv ˈmɪnɪt breɪk ðen kənˈtɪnjuː/",
+      "ipa": "/lets tek ə ˈfaɪv ˈmɪnɪt brek ðen kənˈtɪnju/",
       "vocab": [
         {
           "w": "break",
           "pos": "n.",
-          "ipa": "/breɪk/",
+          "ipa": "/brek/",
           "zh": "休息"
         }
       ]
@@ -121,12 +121,12 @@
       "category": "toys-sharing",
       "en": "Two players, one toy, let's take turns.",
       "zh": "兩個人一個玩具，我們輪流吧。",
-      "ipa": "/tuː ˈpleɪərz wʌn tɔɪ lets teɪk tɜːrnz/",
+      "ipa": "/tu ˈpleɚz wʌn tɔɪ lets tek tɝnz/",
       "vocab": [
         {
           "w": "take turns",
           "pos": "v. phr.",
-          "ipa": "/teɪk tɜːrnz/",
+          "ipa": "/tek tɝnz/",
           "zh": "輪流"
         }
       ]
@@ -137,7 +137,7 @@
       "category": "emotions",
       "en": "You seem disappointed, want to tell me why?",
       "zh": "你看起來很失望，想告訴我為什麼嗎？",
-      "ipa": "/juː siːm ˌdɪsəˈpɔɪntɪd wɑːnt tuː tel miː waɪ/",
+      "ipa": "/ju sim ˌdɪsəˈpɔɪntɪd wɑnt tu tel mi waɪ/",
       "vocab": [
         {
           "w": "disappointed",
@@ -153,12 +153,12 @@
       "category": "discipline",
       "en": "If you break the rule, there's a consequence.",
       "zh": "如果你違反規則，就會有後果。",
-      "ipa": "/ɪf juː breɪk ðə ruːl ðerz ə ˈkɑːnsəkwens/",
+      "ipa": "/ɪf ju brek ðə rul ðerz ə ˈkɑnsəkwens/",
       "vocab": [
         {
           "w": "consequence",
           "pos": "n.",
-          "ipa": "/ˈkɑːnsəkwens/",
+          "ipa": "/ˈkɑnsəkwens/",
           "zh": "後果"
         }
       ]
@@ -169,12 +169,12 @@
       "category": "praise",
       "en": "You waited so patiently, thank you.",
       "zh": "你等得好有耐心，謝謝你。",
-      "ipa": "/juː ˈweɪtɪd soʊ ˈpeɪʃəntli θæŋk juː/",
+      "ipa": "/ju ˈwetɪd so ˈpeʃəntli θæŋk ju/",
       "vocab": [
         {
           "w": "patiently",
           "pos": "adv.",
-          "ipa": "/ˈpeɪʃəntli/",
+          "ipa": "/ˈpeʃəntli/",
           "zh": "有耐心地"
         }
       ]
@@ -185,7 +185,7 @@
       "category": "safety",
       "en": "Let's test the ice before you step on it.",
       "zh": "踩上去之前我們先測試冰面吧。",
-      "ipa": "/lets test ðə aɪs bɪˈfɔːr juː step ɑːn ɪt/",
+      "ipa": "/lets test ðə aɪs bɪˈfɔr ju step ɑn ɪt/",
       "vocab": [
         {
           "w": "test",
@@ -201,7 +201,7 @@
       "category": "health",
       "en": "Time for your vitamins before school.",
       "zh": "上學前該吃維他命了。",
-      "ipa": "/taɪm fɔːr jʊər ˈvaɪtəmɪnz bɪˈfɔːr skuːl/",
+      "ipa": "/taɪm fɔr jʊɚ ˈvaɪtəmɪnz bɪˈfɔr skul/",
       "vocab": [
         {
           "w": "vitamin",
@@ -217,12 +217,12 @@
       "category": "relatives",
       "en": "Let's video call Grandpa since he's far away.",
       "zh": "爺爺住得遠，我們視訊他吧。",
-      "ipa": "/lets ˈvɪdioʊ kɔːl ˈɡrænpɑː sɪns hiːz fɑːr əˈweɪ/",
+      "ipa": "/lets ˈvɪdio kɔl ˈɡrænpɑ sɪns hiz fɑr əˈwe/",
       "vocab": [
         {
           "w": "video call",
           "pos": "n.",
-          "ipa": "/ˈvɪdioʊ kɔːl/",
+          "ipa": "/ˈvɪdio kɔl/",
           "zh": "視訊通話"
         }
       ]
@@ -233,7 +233,7 @@
       "category": "friends",
       "en": "It's okay if you don't want to share that toy.",
       "zh": "如果你不想分享那個玩具也沒關係。",
-      "ipa": "/ɪts oʊˈkeɪ ɪf juː doʊnt wɑːnt tuː ʃer ðæt tɔɪ/",
+      "ipa": "/ɪts oˈke ɪf ju dont wɑnt tu ʃer ðæt tɔɪ/",
       "vocab": [
         {
           "w": "share",
@@ -249,12 +249,12 @@
       "category": "manners",
       "en": "Let's hold the door for the person behind us.",
       "zh": "我們幫後面的人扶著門吧。",
-      "ipa": "/lets hoʊld ðə dɔːr fɔːr ðə ˈpɜːrsən bɪˈhaɪnd ʌs/",
+      "ipa": "/lets hold ðə dɔr fɔr ðə ˈpɝsən bɪˈhaɪnd ʌs/",
       "vocab": [
         {
           "w": "hold the door",
           "pos": "v. phr.",
-          "ipa": "/hoʊld ðə dɔːr/",
+          "ipa": "/hold ðə dɔr/",
           "zh": "扶著門"
         }
       ]
@@ -265,12 +265,12 @@
       "category": "weather",
       "en": "Let's check the forecast before we plan our day.",
       "zh": "我們先看天氣預報再安排今天吧。",
-      "ipa": "/lets tʃek ðə ˈfɔːrkæst bɪˈfɔːr wiː plæn ˈaʊər deɪ/",
+      "ipa": "/lets tʃek ðə ˈfɔrkæst bɪˈfɔr wi plæn ˈaʊɚ de/",
       "vocab": [
         {
           "w": "forecast",
           "pos": "n.",
-          "ipa": "/ˈfɔːrkæst/",
+          "ipa": "/ˈfɔrkæst/",
           "zh": "預報"
         }
       ]
@@ -281,12 +281,12 @@
       "category": "screen-time",
       "en": "Let's charge the tablet so it's ready tomorrow.",
       "zh": "我們幫平板充電，明天才有電可用。",
-      "ipa": "/lets tʃɑːrdʒ ðə ˈtæblət soʊ ɪts ˈredi təˈmɑːroʊ/",
+      "ipa": "/lets tʃɑrdʒ ðə ˈtæblət so ɪts ˈredi təˈmɑro/",
       "vocab": [
         {
           "w": "charge",
           "pos": "v.",
-          "ipa": "/tʃɑːrdʒ/",
+          "ipa": "/tʃɑrdʒ/",
           "zh": "充電"
         }
       ]
@@ -297,12 +297,12 @@
       "category": "celebrations",
       "en": "The fireworks start right after dinner.",
       "zh": "晚餐後煙火就要開始了。",
-      "ipa": "/ðə ˈfaɪərwɜːrks stɑːrt raɪt ˈæftər ˈdɪnər/",
+      "ipa": "/ðə ˈfaɪɚwɝks stɑrt raɪt ˈæftɚ ˈdɪnɚ/",
       "vocab": [
         {
           "w": "fireworks",
           "pos": "n.",
-          "ipa": "/ˈfaɪərwɜːrks/",
+          "ipa": "/ˈfaɪɚwɝks/",
           "zh": "煙火"
         }
       ]
@@ -313,7 +313,7 @@
       "category": "reading",
       "en": "Let's read this story in funny voices.",
       "zh": "我們用好笑的聲音來讀這個故事吧。",
-      "ipa": "/lets riːd ðɪs ˈstɔːri ɪn ˈfʌni vɔɪsɪz/",
+      "ipa": "/lets rid ðɪs ˈstɔri ɪn ˈfʌni vɔɪsɪz/",
       "vocab": [
         {
           "w": "voices",
