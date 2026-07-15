@@ -10,8 +10,8 @@ dist/
 public/data/index.json
 public/data/by-category/
 
-# 排程任務用 `rsync -a --delete` 把整個資料夾同步進乾淨的 clone 再 git add -A，
-# 而 rsync 不理會 .gitignore——上面的 node_modules/ 與 dist/ 是擋住它們被 commit 的最後一道防線。
-
 # Playwright MCP 測試產生的暫存檔
 .playwright-mcp/
+
+# macOS Finder
+.DS_Store

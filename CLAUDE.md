@@ -57,9 +57,11 @@ GitHub Pages 沒有伺服器端 rewrite，所以 `vite.config.js` 的 `spaFallba
 每日例句由**桌面版 Claude** 的排程任務（08:30）產生，定義在 repo 之外：
 `~/Documents/Claude/Scheduled/daily-english-sentences/SKILL.md`
 
-改動資料結構、檔案位置或 JSON 形狀時，**必須同步更新那份 SKILL.md**，否則排程隔天會寫入已不存在的檔案，網站靜默停止更新（它曾寫死 `assets/app.js`、`sentences.json`、`archive.json`）。直接編輯 SKILL.md 即可生效，不需要重新註冊。
+改動資料結構、檔案位置或 JSON 形狀時，**必須同步更新那份 SKILL.md**，否則排程隔天會寫入已不存在的檔案，網站靜默停止更新（它曾寫死 `assets/app.js`、`sentences.json`、`archive.json`）。**搬動整個專案資料夾也算**——SKILL.md 裡的絕對路徑是寫死的。直接編輯 SKILL.md 即可生效，不需要重新註冊。
 
-排程用 `rsync -a --delete` 同步整個資料夾後 `git add -A`，而 **rsync 不理會 .gitignore**——`node_modules`／`dist` 必須同時在 rsync 的 `--exclude` 和 .gitignore 裡。
+排程的存取權**不是常駐的**：`scheduled-tasks.json` 裡這個任務的 `userSelectedFolders` 是空陣列，所以它每天早上都要靠 `mcp__cowork__request_cowork_directory` 現場請求授權、等使用者按核准（曾等過 8 分鐘）。人不在電腦前那天就會卡住。要讓它無人值守，得在桌面版把專案資料夾加進**該排程任務**的資料夾清單——注意 `claude_desktop_config.json` 的 `localAgentModeTrustedFolders` 是 local agent mode 用的另一套機制，改它沒有用。
+
+排程只複製當天日檔進乾淨 clone（`cp` 單檔，不是 `rsync` 整包）。這是刻意的：整包同步會把任何未進版控的檔案（`.DS_Store`、openspec 草稿）一起 commit，而 `$SRC` 抓錯時 `--delete` 會清空整個 repo。所以**在專案根目錄新增未進版控的檔案是安全的**，不會干擾排程。
 
 ### GitHub Pages 必須維持 build_type=workflow
 
