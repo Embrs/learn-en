@@ -1,0 +1,247 @@
+{
+  "date": "2026-06-29",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-06-29-1",
+      "date": "2026-06-29",
+      "category": "daily-routine",
+      "en": "Splash some water on your face to wake up.",
+      "zh": "用水拍拍臉，讓自己清醒過來。",
+      "ipa": "/splæʃ sʌm ˈwɔːtər ɑːn jɔːr feɪs tə weɪk ʌp/",
+      "vocab": [
+        { "w": "splash", "pos": "v.", "ipa": "/splæʃ/", "zh": "潑、拍（水）" },
+        { "w": "wake up", "pos": "phr.", "ipa": "/weɪk ʌp/", "zh": "醒來" }
+      ]
+    },
+    {
+      "id": "2026-06-29-2",
+      "date": "2026-06-29",
+      "category": "meals",
+      "en": "Please don't slurp your soup so loudly.",
+      "zh": "喝湯請不要發出這麼大的聲音。",
+      "ipa": "/pliːz doʊnt slɜːrp jɔːr suːp soʊ ˈlaʊdli/",
+      "vocab": [
+        { "w": "slurp", "pos": "v.", "ipa": "/slɜːrp/", "zh": "出聲地喝" },
+        { "w": "loudly", "pos": "adv.", "ipa": "/ˈlaʊdli/", "zh": "大聲地" }
+      ]
+    },
+    {
+      "id": "2026-06-29-3",
+      "date": "2026-06-29",
+      "category": "bath-bedtime",
+      "en": "Time to towel off and get dry.",
+      "zh": "該用毛巾把身體擦乾了。",
+      "ipa": "/taɪm tə ˈtaʊəl ɔːf ænd ɡɛt draɪ/",
+      "vocab": [
+        { "w": "towel off", "pos": "phr.", "ipa": "/ˈtaʊəl ɔːf/", "zh": "用毛巾擦乾" },
+        { "w": "dry", "pos": "adj.", "ipa": "/draɪ/", "zh": "乾的" }
+      ]
+    },
+    {
+      "id": "2026-06-29-4",
+      "date": "2026-06-29",
+      "category": "outings",
+      "en": "Let's feed the ducks by the pond.",
+      "zh": "我們去池塘邊餵鴨子吧。",
+      "ipa": "/lɛts fiːd ðə dʌks baɪ ðə pɑːnd/",
+      "vocab": [
+        { "w": "feed", "pos": "v.", "ipa": "/fiːd/", "zh": "餵食" },
+        { "w": "pond", "pos": "n.", "ipa": "/pɑːnd/", "zh": "池塘" }
+      ]
+    },
+    {
+      "id": "2026-06-29-5",
+      "date": "2026-06-29",
+      "category": "playground",
+      "en": "Take turns on the monkey bars.",
+      "zh": "玩攀爬架要輪流喔。",
+      "ipa": "/teɪk tɜːrnz ɑːn ðə ˈmʌŋki bɑːrz/",
+      "vocab": [
+        { "w": "take turns", "pos": "phr.", "ipa": "/teɪk tɜːrnz/", "zh": "輪流" },
+        { "w": "monkey bars", "pos": "n.", "ipa": "/ˈmʌŋki bɑːrz/", "zh": "攀爬架" }
+      ]
+    },
+    {
+      "id": "2026-06-29-6",
+      "date": "2026-06-29",
+      "category": "school",
+      "en": "Don't forget to hand in your homework.",
+      "zh": "別忘了交作業。",
+      "ipa": "/doʊnt fərˈɡɛt tə hænd ɪn jɔːr ˈhoʊmwɜːrk/",
+      "vocab": [
+        { "w": "hand in", "pos": "phr.", "ipa": "/hænd ɪn/", "zh": "繳交" },
+        { "w": "homework", "pos": "n.", "ipa": "/ˈhoʊmwɜːrk/", "zh": "作業" }
+      ]
+    },
+    {
+      "id": "2026-06-29-7",
+      "date": "2026-06-29",
+      "category": "homework",
+      "en": "Show your work step by step.",
+      "zh": "把計算過程一步一步寫出來。",
+      "ipa": "/ʃoʊ jɔːr wɜːrk stɛp baɪ stɛp/",
+      "vocab": [
+        { "w": "show your work", "pos": "phr.", "ipa": "/ʃoʊ jɔːr wɜːrk/", "zh": "寫出計算過程" },
+        { "w": "step by step", "pos": "phr.", "ipa": "/stɛp baɪ stɛp/", "zh": "一步一步地" }
+      ]
+    },
+    {
+      "id": "2026-06-29-8",
+      "date": "2026-06-29",
+      "category": "toys-sharing",
+      "en": "Trade the red car for the blue one.",
+      "zh": "用紅色車子跟他換藍色的吧。",
+      "ipa": "/treɪd ðə rɛd kɑːr fɔːr ðə bluː wʌn/",
+      "vocab": [
+        { "w": "trade", "pos": "v.", "ipa": "/treɪd/", "zh": "交換" },
+        { "w": "car", "pos": "n.", "ipa": "/kɑːr/", "zh": "車子" }
+      ]
+    },
+    {
+      "id": "2026-06-29-9",
+      "date": "2026-06-29",
+      "category": "emotions",
+      "en": "It's okay to ask for a hug.",
+      "zh": "想要抱抱是可以說出來的。",
+      "ipa": "/ɪts oʊˈkeɪ tə æsk fɔːr ə hʌɡ/",
+      "vocab": [
+        { "w": "ask for", "pos": "phr.", "ipa": "/æsk fɔːr/", "zh": "要求、請求" },
+        { "w": "hug", "pos": "n.", "ipa": "/hʌɡ/", "zh": "擁抱" }
+      ]
+    },
+    {
+      "id": "2026-06-29-10",
+      "date": "2026-06-29",
+      "category": "discipline",
+      "en": "You lose a sticker if you don't listen.",
+      "zh": "不聽話的話就會少一張貼紙喔。",
+      "ipa": "/juː luːz ə ˈstɪkər ɪf juː doʊnt ˈlɪsən/",
+      "vocab": [
+        { "w": "lose", "pos": "v.", "ipa": "/luːz/", "zh": "失去" },
+        { "w": "sticker", "pos": "n.", "ipa": "/ˈstɪkər/", "zh": "貼紙" }
+      ]
+    },
+    {
+      "id": "2026-06-29-11",
+      "date": "2026-06-29",
+      "category": "praise",
+      "en": "What a thoughtful thing to do!",
+      "zh": "你做的這件事真體貼！",
+      "ipa": "/wʌt ə ˈθɔːtfəl θɪŋ tə duː/",
+      "vocab": [
+        { "w": "thoughtful", "pos": "adj.", "ipa": "/ˈθɔːtfəl/", "zh": "體貼的" },
+        { "w": "do", "pos": "v.", "ipa": "/duː/", "zh": "做" }
+      ]
+    },
+    {
+      "id": "2026-06-29-12",
+      "date": "2026-06-29",
+      "category": "safety",
+      "en": "Wait for the green light to cross.",
+      "zh": "要等綠燈才能過馬路。",
+      "ipa": "/weɪt fɔːr ðə ɡriːn laɪt tə krɔːs/",
+      "vocab": [
+        { "w": "green light", "pos": "n.", "ipa": "/ɡriːn laɪt/", "zh": "綠燈" },
+        { "w": "cross", "pos": "v.", "ipa": "/krɔːs/", "zh": "穿越、過（馬路）" }
+      ]
+    },
+    {
+      "id": "2026-06-29-13",
+      "date": "2026-06-29",
+      "category": "health",
+      "en": "Rest in bed until your fever goes down.",
+      "zh": "好好躺床休息，等退燒了再說。",
+      "ipa": "/rɛst ɪn bɛd ənˈtɪl jɔːr ˈfiːvər ɡoʊz daʊn/",
+      "vocab": [
+        { "w": "rest", "pos": "v.", "ipa": "/rɛst/", "zh": "休息" },
+        { "w": "fever", "pos": "n.", "ipa": "/ˈfiːvər/", "zh": "發燒" }
+      ]
+    },
+    {
+      "id": "2026-06-29-14",
+      "date": "2026-06-29",
+      "category": "relatives",
+      "en": "Let's bring flowers for Grandpa today.",
+      "zh": "我們今天帶花去給爺爺吧。",
+      "ipa": "/lɛts brɪŋ ˈflaʊərz fɔːr ˈɡrænpɑː təˈdeɪ/",
+      "vocab": [
+        { "w": "bring", "pos": "v.", "ipa": "/brɪŋ/", "zh": "帶來" },
+        { "w": "flowers", "pos": "n.", "ipa": "/ˈflaʊərz/", "zh": "花" }
+      ]
+    },
+    {
+      "id": "2026-06-29-15",
+      "date": "2026-06-29",
+      "category": "friends",
+      "en": "Invite your friend to sit with you.",
+      "zh": "邀你的朋友坐在你旁邊吧。",
+      "ipa": "/ɪnˈvaɪt jɔːr frɛnd tə sɪt wɪð juː/",
+      "vocab": [
+        { "w": "invite", "pos": "v.", "ipa": "/ɪnˈvaɪt/", "zh": "邀請" },
+        { "w": "sit", "pos": "v.", "ipa": "/sɪt/", "zh": "坐" }
+      ]
+    },
+    {
+      "id": "2026-06-29-16",
+      "date": "2026-06-29",
+      "category": "manners",
+      "en": "Push in your chair when you leave the table.",
+      "zh": "離開餐桌時把椅子推回去。",
+      "ipa": "/pʊʃ ɪn jɔːr tʃɛr wɛn juː liːv ðə ˈteɪbəl/",
+      "vocab": [
+        { "w": "push in", "pos": "phr.", "ipa": "/pʊʃ ɪn/", "zh": "推進去" },
+        { "w": "chair", "pos": "n.", "ipa": "/tʃɛr/", "zh": "椅子" }
+      ]
+    },
+    {
+      "id": "2026-06-29-17",
+      "date": "2026-06-29",
+      "category": "weather",
+      "en": "It's snowing, let's build a snowman.",
+      "zh": "下雪了，我們來堆雪人吧。",
+      "ipa": "/ɪts ˈsnoʊɪŋ lɛts bɪld ə ˈsnoʊmæn/",
+      "vocab": [
+        { "w": "snowing", "pos": "v.", "ipa": "/ˈsnoʊɪŋ/", "zh": "下雪" },
+        { "w": "snowman", "pos": "n.", "ipa": "/ˈsnoʊmæn/", "zh": "雪人" }
+      ]
+    },
+    {
+      "id": "2026-06-29-18",
+      "date": "2026-06-29",
+      "category": "screen-time",
+      "en": "Only one video, then we turn it off.",
+      "zh": "只能看一支影片，然後就要關掉。",
+      "ipa": "/ˈoʊnli wʌn ˈvɪdioʊ ðɛn wiː tɜːrn ɪt ɔːf/",
+      "vocab": [
+        { "w": "video", "pos": "n.", "ipa": "/ˈvɪdioʊ/", "zh": "影片" },
+        { "w": "turn off", "pos": "phr.", "ipa": "/tɜːrn ɔːf/", "zh": "關掉" }
+      ]
+    },
+    {
+      "id": "2026-06-29-19",
+      "date": "2026-06-29",
+      "category": "celebrations",
+      "en": "Let's hang up the birthday banner.",
+      "zh": "我們把生日布條掛起來吧。",
+      "ipa": "/lɛts hæŋ ʌp ðə ˈbɜːrθdeɪ ˈbænər/",
+      "vocab": [
+        { "w": "hang up", "pos": "phr.", "ipa": "/hæŋ ʌp/", "zh": "掛起來" },
+        { "w": "banner", "pos": "n.", "ipa": "/ˈbænər/", "zh": "橫幅、布條" }
+      ]
+    },
+    {
+      "id": "2026-06-29-20",
+      "date": "2026-06-29",
+      "category": "reading",
+      "en": "Turn the page gently so it doesn't tear.",
+      "zh": "輕輕翻頁，才不會把書撕破。",
+      "ipa": "/tɜːrn ðə peɪdʒ ˈdʒɛntli soʊ ɪt ˈdʌzənt tɛr/",
+      "vocab": [
+        { "w": "page", "pos": "n.", "ipa": "/peɪdʒ/", "zh": "書頁" },
+        { "w": "tear", "pos": "v.", "ipa": "/tɛr/", "zh": "撕破" }
+      ]
+    }
+  ]
+}
