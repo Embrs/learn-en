@@ -476,6 +476,50 @@ function renderSentences(data) {
   });
 }
 
+// ---------------- 單日例句頁（共用 days/day.html，用 ?date=YYYY-MM-DD 帶日期） ----------------
+// 不再每天產生獨立 html：資料只存在 sentences.json 一個地方，這裡即時抓取＋篩選＋渲染。
+function renderDayPage() {
+  if (!location.pathname.endsWith('/days/day.html') && !location.pathname.endsWith('days/day.html')) return;
+  const list = document.getElementById('list');
+  if (!list) return;
+  const titleEl = document.getElementById('dayTitle');
+
+  const params = new URLSearchParams(location.search);
+  const date = params.get('date');
+  if (!date) {
+    list.innerHTML = '<div class="tip">網址缺少日期參數，請從首頁的歷史例句列表點選要看的日期。</div>';
+    return;
+  }
+  window.PAGE_DATE = date;
+
+  const parts = date.split('-').map(n => parseInt(n, 10));
+  const dateLabel = (parts.length === 3 && parts.every(n => !isNaN(n)))
+    ? `${parts[0]}年${parts[1]}月${parts[2]}日`
+    : date;
+  const fullTitle = `${dateLabel}・今日英文 20 句（家庭生活）`;
+  if (titleEl) titleEl.textContent = fullTitle;
+  document.title = fullTitle;
+
+  fetchAllSentences().then(all => {
+    const items = all
+      .filter(item => item.date === date)
+      .slice()
+      .sort((a, b) => {
+        const na = parseInt(String(a.id).split('-').pop(), 10) || 0;
+        const nb = parseInt(String(b.id).split('-').pop(), 10) || 0;
+        return na - nb;
+      });
+    if (!items.length) {
+      list.innerHTML = '<div class="tip">找不到這一天的例句，可能日期輸入有誤。</div>';
+      return;
+    }
+    list.innerHTML = '';
+    renderSentences(items);
+  }).catch(() => {
+    list.innerHTML = '<div class="tip">讀取例句資料失敗，請重新整理頁面再試一次。</div>';
+  });
+}
+
 // ---------------- 首頁：歷史例句列表 ----------------
 function renderArchiveList() {
   const holder = document.getElementById('dayList');
@@ -672,4 +716,5 @@ document.addEventListener('DOMContentLoaded', () => {
   renderArchiveList();
   renderFavoritesPage();
   renderCategoriesPage();
+  renderDayPage();
 });

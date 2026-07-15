@@ -15,7 +15,7 @@
 
 ## 內容如何更新
 
-內容由排程任務每天自動產生：讀取 `history.json` 避免重複句子，寫入新的 `days/YYYY-MM-DD.html` 與更新 `archive.json`，再推送到 `main` 分支，GitHub Pages 會自動部署最新版本。
+內容由排程任務每天自動產生：讀取 `sentences.json` 避免重複句子，把新的 20 句附加進 `sentences.json` 並更新 `archive.json`，再推送到 `main` 分支，GitHub Pages 會自動部署最新版本。**每日例句只有一份共用頁面** `days/day.html`，用網址參數 `?date=YYYY-MM-DD` 決定要顯示哪一天，內容即時從 `sentences.json` 篩選渲染，不會再逐日產生獨立 html 檔案。
 
 ## 專案結構
 
@@ -23,14 +23,15 @@
 index.html           首頁，列出歷史例句
 categories.html       分類瀏覽頁
 favorites.html        收藏頁
-days/YYYY-MM-DD.html  各日例句內容（20分類各一句）
+days/day.html         單日例句共用頁面（?date=YYYY-MM-DD 決定顯示哪一天）
 assets/style.css      樣式
-assets/app.js         共用邏輯（語音、收藏、分類、導覽列）
-archive.json          歷史日期索引
-sentences.json        所有例句彙總（含分類），供分類頁跨日期篩選用
+assets/app.js         共用邏輯（語音、收藏、分類、導覽列、單日頁渲染）
+archive.json          歷史日期索引（file 欄位指向 days/day.html?date=...）
+sentences.json        所有例句彙總（含分類），單一資料來源：首頁連結、單日頁、分類頁都從這裡讀
 categories.json       20個分類的定義（id / 中文 / icon）
-history.json          已出現過的句子，用於去重
 ```
+
+例句資料只存在 `sentences.json` 一個地方（不會像過去一樣同時內嵌在每日 html 裡又重複存一份），避免多處資料不同步。
 
 ## 技術
 
