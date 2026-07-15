@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026年7月15日・今日英文 20句（家庭生活）</title>
+<link rel="manifest" href="../manifest.json">
+<link rel="icon" href="../assets/icons/favicon-32.png">
+<link rel="apple-touch-icon" href="../assets/icons/apple-touch-icon.png">
+<meta name="theme-color" content="#1d4ed8">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="每日英文">
+<link rel="stylesheet" href="../assets/style.css?v=18">
+</head>
+<body>
+
+<div id="siteHeader" class="site-header"></div>
+
+<div class="page">
+  <a class="back-link" href="../index.html">← 回歷史列表</a>
+  <h1>2026年7月15日・今日英文 20 句（家庭生活）</h1>
+  <div class="tip">點擊「▶ 播放整句」或單字旁的「🔊」朗讀，點 ☆ 可收藏喜歡的句子或單字。每句都標有分類，也可以到「🗂 分類」分頁依主題複習。</div>
+
+  <div class="controls" id="controlsBar"></div>
+
+  <div id="list"></div>
+</div>
+
+<script>window.PAGE_DATE = '2026-07-15';</script>
+<script src="../assets/app.js?v=18"></script>
+<script>
+const data = [
+  {
+    "en": "Let's stretch a little before we start the day.",
+    "zh": "我們今天開始前先伸展一下吧。",
+    "ipa": "/lets stretʃ ə ˈlɪtl bɪˈfɔːr wiː stɑːrt ðə deɪ/",
+    "category": "daily-routine",
+    "vocab": [
+      {
+        "w": "stretch",
+        "pos": "v.",
+        "ipa": "/stretʃ/",
+        "zh": "伸展"
+      }
+    ]
+  },
+  {
+    "en": "Let's set the table before Daddy gets home.",
+    "zh": "我們在爸爸回家前把餐桌擺好吧。",
+    "ipa": "/lets set ðə ˈteɪbl bɪˈfɔːr ˈdædi ɡets hoʊm/",
+    "category": "meals",
+    "vocab": [
+      {
+        "w": "set the table",
+        "pos": "v. phr.",
+        "ipa": "/set ðə ˈteɪbl/",
+        "zh": "擺放餐桌"
+      }
+    ]
+  },
+  {
+    "en": "Let's pick out your pajamas for tonight.",
+    "zh": "我們來挑今晚要穿的睡衣吧。",
+    "ipa": "/lets pɪk aʊt jʊər pəˈdʒɑːməz fɔːr təˈnaɪt/",
+    "category": "bath-bedtime",
+    "vocab": [
+      {
+        "w": "pajamas",
+        "pos": "n.",
+        "ipa": "/pəˈdʒɑːməz/",
+        "zh": "睡衣"
+      }
+    ]
+  },
+  {
+    "en": "Let's leave a little earlier to beat the traffic.",
+    "zh": "我們早點出發，避開塞車吧。",
+    "ipa": "/lets liːv ə ˈlɪtl ˈɜːrliər tuː biːt ðə ˈtræfɪk/",
+    "category": "outings",
+    "vocab": [
+      {
+        "w": "traffic",
+        "pos": "n.",
+        "ipa": "/ˈtræfɪk/",
+        "zh": "交通、車潮"
+      }
+    ]
+  },
+  {
+    "en": "Let's race to the swings, ready set go!",
+    "zh": "我們來比賽跑到鞦韆那，預備開始！",
+    "ipa": "/lets reɪs tuː ðə swɪŋz ˈredi set ɡoʊ/",
+    "category": "playground",
+    "vocab": [
+      {
+        "w": "race",
+        "pos": "v.",
+        "ipa": "/reɪs/",
+        "zh": "賽跑"
+      }
+    ]
+  },
+  {
+    "en": "Let's lay out your uniform for tomorrow.",
+    "zh": "我們把明天的制服準備好吧。",
+    "ipa": "/lets leɪ aʊt jʊər ˈjuːnəfɔːrm fɔːr təˈmɑːroʊ/",
+    "category": "school",
+    "vocab": [
+      {
+        "w": "uniform",
+        "pos": "n.",
+        "ipa": "/ˈjuːnəfɔːrm/",
+        "zh": "制服"
+      }
+    ]
+  },
+  {
+    "en": "Let's circle the words you're not sure about.",
+    "zh": "我們把你不確定的單字圈起來吧。",
+    "ipa": "/lets ˈsɜːrkl ðə wɜːrdz jʊr nɑːt ʃʊr əˈbaʊt/",
+    "category": "homework",
+    "vocab": [
+      {
+        "w": "circle",
+        "pos": "v.",
+        "ipa": "/ˈsɜːrkl/",
+        "zh": "圈出"
+      }
+    ]
+  },
+  {
+    "en": "Let's make room so everyone can play together.",
+    "zh": "我們騰出空間讓大家可以一起玩吧。",
+    "ipa": "/lets meɪk ruːm soʊ ˈevriwʌn kæn pleɪ təˈɡeðər/",
+    "category": "toys-sharing",
+    "vocab": [
+      {
+        "w": "make room",
+        "pos": "v. phr.",
+        "ipa": "/meɪk ruːm/",
+        "zh": "騰出空間"
+      }
+    ]
+  },
+  {
+    "en": "It's okay to change your mind, that happens.",
+    "zh": "改變主意沒關係，這很正常。",
+    "ipa": "/ɪts oʊˈkeɪ tuː tʃeɪndʒ jʊər maɪnd ðæt ˈhæpənz/",
+    "category": "emotions",
+    "vocab": [
+      {
+        "w": "change your mind",
+        "pos": "v. phr.",
+        "ipa": "/tʃeɪndʒ jʊər maɪnd/",
+        "zh": "改變主意"
+      }
+    ]
+  },
+  {
+    "en": "Let's think of a better way to ask for that.",
+    "zh": "我們想個更好的方式來要求那個吧。",
+    "ipa": "/lets θɪŋk ʌv ə ˈbetər weɪ tuː æsk fɔːr ðæt/",
+    "category": "discipline",
+    "vocab": [
+      {
+        "w": "better",
+        "pos": "adj.",
+        "ipa": "/ˈbetər/",
+        "zh": "更好的"
+      }
+    ]
+  },
+  {
+    "en": "You handled that so well, I'm impressed.",
+    "zh": "你處理得真好，我很佩服。",
+    "ipa": "/juː ˈhændld ðæt soʊ wel aɪm ɪmˈprest/",
+    "category": "praise",
+    "vocab": [
+      {
+        "w": "handle",
+        "pos": "v.",
+        "ipa": "/ˈhændl/",
+        "zh": "處理"
+      }
+    ]
+  },
+  {
+    "en": "Let's check that your car seat is buckled right.",
+    "zh": "我們檢查一下你的安全座椅有沒有扣好。",
+    "ipa": "/lets tʃek ðæt jʊər kɑːr siːt ɪz ˈbʌkəld raɪt/",
+    "category": "safety",
+    "vocab": [
+      {
+        "w": "car seat",
+        "pos": "n.",
+        "ipa": "/kɑːr siːt/",
+        "zh": "汽車安全座椅"
+      }
+    ]
+  },
+  {
+    "en": "Let's measure how tall you've grown this year.",
+    "zh": "我們來量量你今年長高了多少吧。",
+    "ipa": "/lets ˈmeʒər haʊ tɔːl juːv ɡroʊn ðɪs jɪr/",
+    "category": "health",
+    "vocab": [
+      {
+        "w": "measure",
+        "pos": "v.",
+        "ipa": "/ˈmeʒər/",
+        "zh": "測量"
+      }
+    ]
+  },
+  {
+    "en": "Grandpa loves hearing about your day, call him.",
+    "zh": "爺爺喜歡聽你分享今天的事，打給他吧。",
+    "ipa": "/ˈɡrænpɑː lʌvz ˈhɪrɪŋ əˈbaʊt jʊər deɪ kɔːl hɪm/",
+    "category": "relatives",
+    "vocab": [
+      {
+        "w": "hearing",
+        "pos": "n.",
+        "ipa": "/ˈhɪrɪŋ/",
+        "zh": "聽（動名詞）"
+      }
+    ]
+  },
+  {
+    "en": "It's kind to check on a friend who's sad.",
+    "zh": "關心難過的朋友是很貼心的。",
+    "ipa": "/ɪts kaɪnd tuː tʃek ɑːn ə frend huːz sæd/",
+    "category": "friends",
+    "vocab": [
+      {
+        "w": "check on",
+        "pos": "v. phr.",
+        "ipa": "/tʃek ɑːn/",
+        "zh": "關心、查看"
+      }
+    ]
+  },
+  {
+    "en": "Let's practice saying 'may I' before you take something.",
+    "zh": "我們來練習拿東西前先說「我可以嗎」。",
+    "ipa": "/lets ˈpræktɪs ˈseɪɪŋ meɪ aɪ bɪˈfɔːr juː teɪk ˈsʌmθɪŋ/",
+    "category": "manners",
+    "vocab": [
+      {
+        "w": "may I",
+        "pos": "phr.",
+        "ipa": "/meɪ aɪ/",
+        "zh": "我可以（嗎）"
+      }
+    ]
+  },
+  {
+    "en": "Let's see if there's a rainbow after this rain.",
+    "zh": "我們來看看這場雨後會不會有彩虹。",
+    "ipa": "/lets siː ɪf ðerz ə ˈreɪnboʊ ˈæftər ðɪs reɪn/",
+    "category": "weather",
+    "vocab": [
+      {
+        "w": "rainbow",
+        "pos": "n.",
+        "ipa": "/ˈreɪnboʊ/",
+        "zh": "彩虹"
+      }
+    ]
+  },
+  {
+    "en": "Let's leave the tablet in the other room tonight.",
+    "zh": "我們今晚把平板留在別的房間吧。",
+    "ipa": "/lets liːv ðə ˈtæblət ɪn ði ˈʌðər ruːm təˈnaɪt/",
+    "category": "screen-time",
+    "vocab": [
+      {
+        "w": "tablet",
+        "pos": "n.",
+        "ipa": "/ˈtæblət/",
+        "zh": "平板"
+      }
+    ]
+  },
+  {
+    "en": "Let's pick out balloons for your party.",
+    "zh": "我們來挑派對要用的氣球吧。",
+    "ipa": "/lets pɪk aʊt bəˈluːnz fɔːr jʊər ˈpɑːrti/",
+    "category": "celebrations",
+    "vocab": [
+      {
+        "w": "pick out",
+        "pos": "v. phr.",
+        "ipa": "/pɪk aʊt/",
+        "zh": "挑選"
+      }
+    ]
+  },
+  {
+    "en": "Let's find a new book at the bookstore.",
+    "zh": "我們去書店找本新書吧。",
+    "ipa": "/lets faɪnd ə nuː bʊk æt ðə ˈbʊkstɔːr/",
+    "category": "reading",
+    "vocab": [
+      {
+        "w": "bookstore",
+        "pos": "n.",
+        "ipa": "/ˈbʊkstɔːr/",
+        "zh": "書店"
+      }
+    ]
+  }
+];
+renderSentences(data);
+</script>
+
+</body>
+</html>
