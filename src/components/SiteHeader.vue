@@ -11,8 +11,9 @@ const route = useRoute()
 // 不能用 RouterLink 的 active-class：它比對的是路由記錄，/day/:date 與 / 是平行路由，
 // 在單日頁時三個分頁會全部沒有高亮。
 const isCat = computed(() => route.path.startsWith('/categories'))
+const isSearch = computed(() => route.path.startsWith('/search'))
 const isFav = computed(() => route.path.startsWith('/favorites'))
-const isHome = computed(() => !isCat.value && !isFav.value)
+const isHome = computed(() => !isCat.value && !isSearch.value && !isFav.value)
 
 // 分類頁的分類選單要 sticky 貼齊在導覽列正下方，靠 CSS 變數 --header-h 定位。
 // ⚠️ 量測對象必須是「真正 sticky 在 top:0 的那個元素」，也就是這個元件的根節點。
@@ -39,6 +40,7 @@ onUnmounted(() => window.removeEventListener('resize', measure))
     <nav class="tabs">
       <RouterLink to="/" class="tab-link" :class="{ active: isHome }">🏠 首頁</RouterLink>
       <RouterLink to="/categories" class="tab-link" :class="{ active: isCat }">🗂 分類</RouterLink>
+      <RouterLink to="/search" class="tab-link" :class="{ active: isSearch }">🔍 搜尋</RouterLink>
       <RouterLink to="/favorites" class="tab-link" :class="{ active: isFav }">
         ⭐ 收藏<!--
         ⚠️ 徽章必須留在 <a> 內部：.tab-link 是 flex + justify-content:center，

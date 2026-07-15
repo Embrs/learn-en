@@ -3,11 +3,13 @@ import HomePage from './pages/HomePage.vue'
 import CategoriesPage from './pages/CategoriesPage.vue'
 import FavoritesPage from './pages/FavoritesPage.vue'
 import DayPage from './pages/DayPage.vue'
+import SearchPage from './pages/SearchPage.vue'
 
 const routes = [
   { path: '/', name: 'home', component: HomePage },
   // 分類選擇沿用 hash（/categories#daily-routine），與舊版 categories.html#daily-routine 的網址語意一致
   { path: '/categories', name: 'categories', component: CategoriesPage },
+  { path: '/search', name: 'search', component: SearchPage },
   { path: '/favorites', name: 'favorites', component: FavoritesPage },
   { path: '/day/:date', name: 'day', component: DayPage, props: true },
 

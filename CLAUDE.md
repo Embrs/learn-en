@@ -25,15 +25,18 @@ public/data/days/YYYY-MM-DD.json   ← 唯一真實來源（進版控）
         ↓  scripts/build-data-index.mjs（dev/build 前自動執行）
 public/data/index.json             ← 衍生：日期清單 + 每分類總數
 public/data/by-category/<id>.json  ← 衍生：某分類跨所有日期的例句
+public/data/search.json            ← 衍生：全部例句彙整成一份（新到舊），供搜尋頁
         ↓  原樣複製到 dist（不進 bundle）
 src/lib/data.js                    ← runtime fetch
 ```
 
-`index.json` 與 `by-category/` 是**建置產生的衍生檔，列在 .gitignore**。不要手動編輯，也不要加進版控——每次 `data:index` 會整個重建（`by-category/` 是先 `rmSync` 再重寫）。
+`index.json`、`by-category/` 與 `search.json` 都是**建置產生的衍生檔，列在 .gitignore**。不要手動編輯，也不要加進版控——每次 `data:index` 會整個重建（`by-category/` 是先 `rmSync` 再重寫）。
 
 例句資料是 **runtime fetch 的靜態 JSON，不會被打包**（`vite.config.js` 的 `assetsInlineLimit: 0`、資料放 `public/`）。這是「排程任務只丟一個 JSON 就能更新內容、不需裝 node 也不需 build」的關鍵前提，改動時別破壞它。
 
-`by-category/` 是刻意的空間換時間：日檔讓單日頁只載 12 KB，但分類頁要跨所有天數看同一分類，沒有這份索引就得抓下每一個日檔（現在 15 個、一年後 365 個）。例句在 dist 裡存兩份是已知取捨。
+`by-category/` 是刻意的空間換時間：日檔讓單日頁只載 12 KB，但分類頁要跨所有天數看同一分類，沒有這份索引就得抓下每一個日檔（現在 15 個、一年後 365 個）。例句在 dist 裡存多份是已知取捨。
+
+`search.json` 同理：搜尋頁要跨所有天數、所有分類做中文模糊搜尋，不可能即時抓下每個日檔，所以彙整成一份、搜尋頁只發一次請求，其餘比對都在瀏覽器端完成。為壓低傳輸與解析成本，這份刻意 **compact 輸出（不縮排）**，與 `index`／`by-category` 的可讀性排版不同。搜尋頁（`src/pages/SearchPage.vue`）載入後把每句正規化成一份可搜尋字串（中文整句＋單字中文解釋＋英文），輸入去抖後做多關鍵字 AND 比對，並沿用分類頁的 `IntersectionObserver` 分批渲染，避免大量結果一次塞爆 DOM。這份會隨天數線性成長（一年約 7300 句、~2 MB 未壓縮），若日後嫌大，可改成只放搜尋所需的精簡欄位、點結果再跳日檔看完整內容。
 
 ### Vue 3.6 Vapor beta
 

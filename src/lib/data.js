@@ -50,3 +50,9 @@ export function fetchDay(date) {
 export function fetchCategorySentences(catId) {
   return fetchJson(`data/by-category/${catId}.json`)
 }
+
+// 全部例句彙整（新到舊，由建置產生），供搜尋頁做中文模糊搜尋。
+// 只抓這一份、其餘比對都在瀏覽器端完成，避免搜尋時逐一抓下每個日檔。
+export function fetchSearchIndex() {
+  return fetchJson('data/search.json')
+}

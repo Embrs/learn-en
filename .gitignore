@@ -9,6 +9,7 @@ dist/
 # 不進版控以免每天產生 commit 雜訊；dev / build 前會自動重新產生。
 public/data/index.json
 public/data/by-category/
+public/data/search.json
 
 # Playwright MCP 測試產生的暫存檔
 .playwright-mcp/
