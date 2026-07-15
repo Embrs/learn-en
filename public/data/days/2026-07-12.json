@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-12",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-12-1",
+      "date": "2026-07-12",
+      "category": "daily-routine",
+      "en": "Put your pajamas in the laundry basket.",
+      "zh": "把睡衣放進洗衣籃。",
+      "ipa": "/pʊt jʊər pəˈdʒɑːməz ɪn ðə ˈlɔːndri ˈbæskɪt/",
+      "vocab": [
+        {
+          "w": "laundry basket",
+          "pos": "n.",
+          "ipa": "/ˈlɔːndri ˈbæskɪt/",
+          "zh": "洗衣籃"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-2",
+      "date": "2026-07-12",
+      "category": "meals",
+      "en": "You can have dessert after dinner.",
+      "zh": "晚餐後可以吃甜點。",
+      "ipa": "/juː kæn hæv dɪˈzɜːrt ˈæftər ˈdɪnər/",
+      "vocab": [
+        {
+          "w": "dessert",
+          "pos": "n.",
+          "ipa": "/dɪˈzɜːrt/",
+          "zh": "甜點"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-3",
+      "date": "2026-07-12",
+      "category": "bath-bedtime",
+      "en": "Lights out in five minutes, okay?",
+      "zh": "五分鐘後要關燈囉，好嗎？",
+      "ipa": "/laɪts aʊt ɪn faɪv ˈmɪnɪts oʊˈkeɪ/",
+      "vocab": [
+        {
+          "w": "lights out",
+          "pos": "phr.",
+          "ipa": "/laɪts aʊt/",
+          "zh": "關燈"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-4",
+      "date": "2026-07-12",
+      "category": "outings",
+      "en": "Let's take a picture together here.",
+      "zh": "我們在這裡一起拍張照吧。",
+      "ipa": "/lets teɪk ə ˈpɪktʃər təˈɡeðər hɪr/",
+      "vocab": [
+        {
+          "w": "take a picture",
+          "pos": "phr.",
+          "ipa": "/teɪk ə ˈpɪktʃər/",
+          "zh": "拍照"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-5",
+      "date": "2026-07-12",
+      "category": "playground",
+      "en": "Time to leave the playground now.",
+      "zh": "現在該離開遊樂場了。",
+      "ipa": "/taɪm tuː liːv ðə ˈpleɪɡraʊnd naʊ/",
+      "vocab": [
+        {
+          "w": "playground",
+          "pos": "n.",
+          "ipa": "/ˈpleɪɡraʊnd/",
+          "zh": "遊樂場"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-6",
+      "date": "2026-07-12",
+      "category": "school",
+      "en": "Are you excited for the school trip?",
+      "zh": "你期待學校的校外教學嗎？",
+      "ipa": "/ɑːr juː ɪkˈsaɪtɪd fɔːr ðə skuːl trɪp/",
+      "vocab": [
+        {
+          "w": "excited",
+          "pos": "adj.",
+          "ipa": "/ɪkˈsaɪtɪd/",
+          "zh": "興奮的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-7",
+      "date": "2026-07-12",
+      "category": "homework",
+      "en": "Take your time, there's no rush.",
+      "zh": "慢慢來，不用趕。",
+      "ipa": "/teɪk jʊər taɪm ðerz noʊ rʌʃ/",
+      "vocab": [
+        {
+          "w": "take your time",
+          "pos": "phr.",
+          "ipa": "/teɪk jʊər taɪm/",
+          "zh": "慢慢來"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-8",
+      "date": "2026-07-12",
+      "category": "toys-sharing",
+      "en": "You can take turns with the toy car.",
+      "zh": "你們可以輪流玩玩具車。",
+      "ipa": "/juː kæn teɪk tɜːrnz wɪð ðə tɔɪ kɑːr/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "phr.",
+          "ipa": "/teɪk tɜːrnz/",
+          "zh": "輪流"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-9",
+      "date": "2026-07-12",
+      "category": "emotions",
+      "en": "Let's use our words instead of hitting.",
+      "zh": "我們用說的，不要動手。",
+      "ipa": "/lets juːz ˈaʊər wɜːrdz ɪnˈsted ʌv ˈhɪtɪŋ/",
+      "vocab": [
+        {
+          "w": "instead of",
+          "pos": "phr.",
+          "ipa": "/ɪnˈsted ʌv/",
+          "zh": "而不是"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-10",
+      "date": "2026-07-12",
+      "category": "discipline",
+      "en": "You can't watch TV until your room is clean.",
+      "zh": "房間整理好之前不能看電視。",
+      "ipa": "/juː kænt wɑːtʃ ˌtiːˈviː ənˈtɪl jʊər ruːm ɪz kliːn/",
+      "vocab": [
+        {
+          "w": "until",
+          "pos": "conj.",
+          "ipa": "/ənˈtɪl/",
+          "zh": "直到"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-11",
+      "date": "2026-07-12",
+      "category": "praise",
+      "en": "That was very brave of you.",
+      "zh": "你剛剛真的很勇敢。",
+      "ipa": "/ðæt wʌz ˈveri breɪv ʌv juː/",
+      "vocab": [
+        {
+          "w": "brave",
+          "pos": "adj.",
+          "ipa": "/breɪv/",
+          "zh": "勇敢的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-12",
+      "date": "2026-07-12",
+      "category": "safety",
+      "en": "Never talk to strangers alone.",
+      "zh": "絕對不要獨自跟陌生人說話。",
+      "ipa": "/ˈnevər tɔːk tuː ˈstreɪndʒərz əˈloʊn/",
+      "vocab": [
+        {
+          "w": "stranger",
+          "pos": "n.",
+          "ipa": "/ˈstreɪndʒər/",
+          "zh": "陌生人"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-13",
+      "date": "2026-07-12",
+      "category": "health",
+      "en": "Drink plenty of water when you're sick.",
+      "zh": "生病的時候要多喝水。",
+      "ipa": "/drɪŋk ˈplenti ʌv ˈwɔːtər wen jʊər sɪk/",
+      "vocab": [
+        {
+          "w": "plenty of",
+          "pos": "phr.",
+          "ipa": "/ˈplenti ʌv/",
+          "zh": "大量的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-14",
+      "date": "2026-07-12",
+      "category": "relatives",
+      "en": "Let's call Grandpa and wish him happy birthday.",
+      "zh": "我們打給爺爺祝他生日快樂吧。",
+      "ipa": "/lets kɔːl ˈɡrænpɑː ənd wɪʃ hɪm ˈhæpi ˈbɜːrθdeɪ/",
+      "vocab": [
+        {
+          "w": "wish",
+          "pos": "v.",
+          "ipa": "/wɪʃ/",
+          "zh": "祝福"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-15",
+      "date": "2026-07-12",
+      "category": "friends",
+      "en": "Did you have fun at your friend's house?",
+      "zh": "你在朋友家玩得開心嗎？",
+      "ipa": "/dɪd juː hæv fʌn æt jʊər frendz haʊs/",
+      "vocab": [
+        {
+          "w": "have fun",
+          "pos": "phr.",
+          "ipa": "/hæv fʌn/",
+          "zh": "玩得開心"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-16",
+      "date": "2026-07-12",
+      "category": "manners",
+      "en": "Use your inside voice, please.",
+      "zh": "請用室內音量說話。",
+      "ipa": "/juːz jʊər ˈɪnsaɪd vɔɪs pliːz/",
+      "vocab": [
+        {
+          "w": "inside voice",
+          "pos": "n.",
+          "ipa": "/ˈɪnsaɪd vɔɪs/",
+          "zh": "室內音量"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-17",
+      "date": "2026-07-12",
+      "category": "weather",
+      "en": "Let's put on sunscreen before we go out.",
+      "zh": "出門前先擦防曬乳吧。",
+      "ipa": "/lets pʊt ɑːn ˈsʌnskriːn bɪˈfɔːr wiː ɡoʊ aʊt/",
+      "vocab": [
+        {
+          "w": "sunscreen",
+          "pos": "n.",
+          "ipa": "/ˈsʌnskriːn/",
+          "zh": "防曬乳"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-18",
+      "date": "2026-07-12",
+      "category": "screen-time",
+      "en": "Let's do something outside instead of watching videos.",
+      "zh": "我們去外面做點事，不要看影片了。",
+      "ipa": "/lets duː ˈsʌmθɪŋ ˌaʊtˈsaɪd ɪnˈsted ʌv ˈwɑːtʃɪŋ ˈvɪdioʊz/",
+      "vocab": [
+        {
+          "w": "instead of",
+          "pos": "phr.",
+          "ipa": "/ɪnˈsted ʌv/",
+          "zh": "而不是"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-19",
+      "date": "2026-07-12",
+      "category": "celebrations",
+      "en": "Let's sing happy birthday together.",
+      "zh": "我們一起唱生日快樂歌吧。",
+      "ipa": "/lets sɪŋ ˈhæpi ˈbɜːrθdeɪ təˈɡeðər/",
+      "vocab": [
+        {
+          "w": "sing",
+          "pos": "v.",
+          "ipa": "/sɪŋ/",
+          "zh": "唱歌"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-12-20",
+      "date": "2026-07-12",
+      "category": "reading",
+      "en": "You're getting so good at reading!",
+      "zh": "你的閱讀能力進步好多喔！",
+      "ipa": "/jʊər ˈɡetɪŋ soʊ ɡʊd æt ˈriːdɪŋ/",
+      "vocab": [
+        {
+          "w": "get good at",
+          "pos": "phr.",
+          "ipa": "/ɡet ɡʊd æt/",
+          "zh": "擅長"
+        }
+      ]
+    }
+  ]
+}

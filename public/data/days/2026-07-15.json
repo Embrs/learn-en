@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-15",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-15-1",
+      "date": "2026-07-15",
+      "category": "daily-routine",
+      "en": "Let's open the curtains and let some sunshine in.",
+      "zh": "我們拉開窗簾，讓陽光透進來吧。",
+      "ipa": "/lɛts ˈoʊpən ðə ˈkɜːrtənz ænd lɛt sʌm ˈsʌnʃaɪn ɪn/",
+      "vocab": [
+        {
+          "w": "curtains",
+          "pos": "n.",
+          "ipa": "/ˈkɜːrtənz/",
+          "zh": "窗簾"
+        },
+        {
+          "w": "sunshine",
+          "pos": "n.",
+          "ipa": "/ˈsʌnʃaɪn/",
+          "zh": "陽光"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-2",
+      "date": "2026-07-15",
+      "category": "meals",
+      "en": "Wipe your mouth with your napkin, please.",
+      "zh": "請用餐巾擦一擦嘴巴。",
+      "ipa": "/waɪp jɔːr maʊθ wɪð jɔːr ˈnæpkɪn pliːz/",
+      "vocab": [
+        {
+          "w": "wipe",
+          "pos": "v.",
+          "ipa": "/waɪp/",
+          "zh": "擦拭"
+        },
+        {
+          "w": "napkin",
+          "pos": "n.",
+          "ipa": "/ˈnæpkɪn/",
+          "zh": "餐巾"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-3",
+      "date": "2026-07-15",
+      "category": "bath-bedtime",
+      "en": "Don't splash the water out of the tub.",
+      "zh": "不要把水濺出浴缸外面喔。",
+      "ipa": "/doʊnt splæʃ ðə ˈwɔːtər aʊt əv ðə tʌb/",
+      "vocab": [
+        {
+          "w": "splash",
+          "pos": "v.",
+          "ipa": "/splæʃ/",
+          "zh": "濺、潑"
+        },
+        {
+          "w": "tub",
+          "pos": "n.",
+          "ipa": "/tʌb/",
+          "zh": "浴缸"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-4",
+      "date": "2026-07-15",
+      "category": "outings",
+      "en": "Put on your sandals, we're going to the beach.",
+      "zh": "穿上你的涼鞋，我們要去海灘囉。",
+      "ipa": "/pʊt ɑːn jɔːr ˈsændəlz wɪr ˈɡoʊɪŋ tə ðə biːtʃ/",
+      "vocab": [
+        {
+          "w": "sandals",
+          "pos": "n.",
+          "ipa": "/ˈsændəlz/",
+          "zh": "涼鞋"
+        },
+        {
+          "w": "beach",
+          "pos": "n.",
+          "ipa": "/biːtʃ/",
+          "zh": "海灘"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-5",
+      "date": "2026-07-15",
+      "category": "playground",
+      "en": "Don't throw sand at your friends.",
+      "zh": "不要把沙子丟向你的朋友。",
+      "ipa": "/doʊnt θroʊ sænd æt jɔːr frɛndz/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θroʊ/",
+          "zh": "丟、扔"
+        },
+        {
+          "w": "sand",
+          "pos": "n.",
+          "ipa": "/sænd/",
+          "zh": "沙子"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-6",
+      "date": "2026-07-15",
+      "category": "school",
+      "en": "Wave goodbye to me at the school gate.",
+      "zh": "在校門口跟我揮手說再見吧。",
+      "ipa": "/weɪv ˌɡʊdˈbaɪ tə miː æt ðə skuːl ɡeɪt/",
+      "vocab": [
+        {
+          "w": "wave",
+          "pos": "v.",
+          "ipa": "/weɪv/",
+          "zh": "揮手"
+        },
+        {
+          "w": "gate",
+          "pos": "n.",
+          "ipa": "/ɡeɪt/",
+          "zh": "大門"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-7",
+      "date": "2026-07-15",
+      "category": "homework",
+      "en": "Erase that mistake gently and try again.",
+      "zh": "輕輕把那個錯誤擦掉，再試一次。",
+      "ipa": "/ɪˈreɪs ðæt mɪˈsteɪk ˈdʒɛntli ænd traɪ əˈɡɛn/",
+      "vocab": [
+        {
+          "w": "erase",
+          "pos": "v.",
+          "ipa": "/ɪˈreɪs/",
+          "zh": "擦掉"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "輕輕地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-8",
+      "date": "2026-07-15",
+      "category": "toys-sharing",
+      "en": "Let's pick up all the pieces so none get lost.",
+      "zh": "我們把所有零件收好，才不會弄丟。",
+      "ipa": "/lɛts pɪk ʌp ɔːl ðə ˈpiːsɪz soʊ nʌn ɡɛt lɔːst/",
+      "vocab": [
+        {
+          "w": "pieces",
+          "pos": "n.",
+          "ipa": "/ˈpiːsɪz/",
+          "zh": "零件、小塊"
+        },
+        {
+          "w": "lost",
+          "pos": "adj.",
+          "ipa": "/lɔːst/",
+          "zh": "遺失的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-9",
+      "date": "2026-07-15",
+      "category": "emotions",
+      "en": "Big feelings come and go, just like waves.",
+      "zh": "強烈的情緒會來也會走，就像海浪一樣。",
+      "ipa": "/bɪɡ ˈfiːlɪŋz kʌm ænd ɡoʊ dʒʌst laɪk weɪvz/",
+      "vocab": [
+        {
+          "w": "feelings",
+          "pos": "n.",
+          "ipa": "/ˈfiːlɪŋz/",
+          "zh": "情緒、感受"
+        },
+        {
+          "w": "waves",
+          "pos": "n.",
+          "ipa": "/weɪvz/",
+          "zh": "海浪"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-10",
+      "date": "2026-07-15",
+      "category": "discipline",
+      "en": "Whining won't change my answer, I'm sorry.",
+      "zh": "耍賴哭鬧不會改變我的答案，抱歉喔。",
+      "ipa": "/ˈwaɪnɪŋ woʊnt tʃeɪndʒ maɪ ˈænsər aɪm ˈsɑːri/",
+      "vocab": [
+        {
+          "w": "whining",
+          "pos": "n.",
+          "ipa": "/ˈwaɪnɪŋ/",
+          "zh": "耍賴、哭鬧"
+        },
+        {
+          "w": "change",
+          "pos": "v.",
+          "ipa": "/tʃeɪndʒ/",
+          "zh": "改變"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-11",
+      "date": "2026-07-15",
+      "category": "praise",
+      "en": "You were so gentle with the baby, well done.",
+      "zh": "你對小寶寶好溫柔，做得很好。",
+      "ipa": "/juː wɜːr soʊ ˈdʒɛntl wɪð ðə ˈbeɪbi wɛl dʌn/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl/",
+          "zh": "溫柔的"
+        },
+        {
+          "w": "baby",
+          "pos": "n.",
+          "ipa": "/ˈbeɪbi/",
+          "zh": "寶寶"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-12",
+      "date": "2026-07-15",
+      "category": "safety",
+      "en": "Keep your fingers clear of the door when it closes.",
+      "zh": "門關的時候，手指要離門遠一點。",
+      "ipa": "/kiːp jɔːr ˈfɪŋɡərz klɪr əv ðə dɔːr wɛn ɪt ˈkloʊzɪz/",
+      "vocab": [
+        {
+          "w": "fingers",
+          "pos": "n.",
+          "ipa": "/ˈfɪŋɡərz/",
+          "zh": "手指"
+        },
+        {
+          "w": "clear of",
+          "pos": "phr.",
+          "ipa": "/klɪr əv/",
+          "zh": "遠離、避開"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-13",
+      "date": "2026-07-15",
+      "category": "health",
+      "en": "Let's blow your nose and throw the tissue away.",
+      "zh": "我們把鼻涕擤一擤，然後把面紙丟掉。",
+      "ipa": "/lɛts bloʊ jɔːr noʊz ænd θroʊ ðə ˈtɪʃuː əˈweɪ/",
+      "vocab": [
+        {
+          "w": "blow your nose",
+          "pos": "phr.",
+          "ipa": "/bloʊ jɔːr noʊz/",
+          "zh": "擤鼻涕"
+        },
+        {
+          "w": "tissue",
+          "pos": "n.",
+          "ipa": "/ˈtɪʃuː/",
+          "zh": "面紙"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-14",
+      "date": "2026-07-15",
+      "category": "relatives",
+      "en": "Let's help Grandma carry the groceries inside.",
+      "zh": "我們幫奶奶把買的東西搬進去吧。",
+      "ipa": "/lɛts hɛlp ˈɡrænmɑː ˈkæri ðə ˈɡroʊsəriz ɪnˈsaɪd/",
+      "vocab": [
+        {
+          "w": "carry",
+          "pos": "v.",
+          "ipa": "/ˈkæri/",
+          "zh": "搬、提"
+        },
+        {
+          "w": "groceries",
+          "pos": "n.",
+          "ipa": "/ˈɡroʊsəriz/",
+          "zh": "食品雜貨"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-15",
+      "date": "2026-07-15",
+      "category": "friends",
+      "en": "Let's take turns picking the game so it's fair.",
+      "zh": "我們輪流選遊戲，這樣才公平。",
+      "ipa": "/lɛts teɪk tɜːrnz ˈpɪkɪŋ ðə ɡeɪm soʊ ɪts fɛr/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "phr.",
+          "ipa": "/teɪk tɜːrnz/",
+          "zh": "輪流"
+        },
+        {
+          "w": "fair",
+          "pos": "adj.",
+          "ipa": "/fɛr/",
+          "zh": "公平的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-16",
+      "date": "2026-07-15",
+      "category": "manners",
+      "en": "Say sorry if you bump into someone.",
+      "zh": "如果撞到別人，要說對不起。",
+      "ipa": "/seɪ ˈsɑːri ɪf juː bʌmp ˈɪntə ˈsʌmwʌn/",
+      "vocab": [
+        {
+          "w": "bump into",
+          "pos": "phr.",
+          "ipa": "/bʌmp ˈɪntə/",
+          "zh": "撞到"
+        },
+        {
+          "w": "sorry",
+          "pos": "adj.",
+          "ipa": "/ˈsɑːri/",
+          "zh": "抱歉的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-17",
+      "date": "2026-07-15",
+      "category": "weather",
+      "en": "Let's splash in the puddles with your rain boots.",
+      "zh": "我們穿雨鞋去踩水坑吧。",
+      "ipa": "/lɛts splæʃ ɪn ðə ˈpʌdlz wɪð jɔːr reɪn buːts/",
+      "vocab": [
+        {
+          "w": "puddles",
+          "pos": "n.",
+          "ipa": "/ˈpʌdlz/",
+          "zh": "水坑"
+        },
+        {
+          "w": "rain boots",
+          "pos": "n.",
+          "ipa": "/reɪn buːts/",
+          "zh": "雨鞋"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-18",
+      "date": "2026-07-15",
+      "category": "screen-time",
+      "en": "Sitting too close to the screen hurts your eyes.",
+      "zh": "坐得離螢幕太近會傷害眼睛。",
+      "ipa": "/ˈsɪtɪŋ tuː kloʊs tə ðə skriːn hɜːrts jɔːr aɪz/",
+      "vocab": [
+        {
+          "w": "close",
+          "pos": "adj.",
+          "ipa": "/kloʊs/",
+          "zh": "近的"
+        },
+        {
+          "w": "hurts",
+          "pos": "v.",
+          "ipa": "/hɜːrts/",
+          "zh": "傷害、使受傷"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-19",
+      "date": "2026-07-15",
+      "category": "celebrations",
+      "en": "Let's write thank-you notes for your gifts.",
+      "zh": "我們來寫感謝卡謝謝送禮物的人吧。",
+      "ipa": "/lɛts raɪt ˈθæŋk juː noʊts fɔːr jɔːr ɡɪfts/",
+      "vocab": [
+        {
+          "w": "thank-you note",
+          "pos": "n.",
+          "ipa": "/ˈθæŋk juː noʊt/",
+          "zh": "感謝卡"
+        },
+        {
+          "w": "gifts",
+          "pos": "n.",
+          "ipa": "/ɡɪfts/",
+          "zh": "禮物"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-15-20",
+      "date": "2026-07-15",
+      "category": "reading",
+      "en": "Point to the words as I read them out loud.",
+      "zh": "我大聲念的時候，你用手指指著那些字。",
+      "ipa": "/pɔɪnt tə ðə wɜːrdz æz aɪ riːd ðɛm aʊt laʊd/",
+      "vocab": [
+        {
+          "w": "point",
+          "pos": "v.",
+          "ipa": "/pɔɪnt/",
+          "zh": "指"
+        },
+        {
+          "w": "out loud",
+          "pos": "phr.",
+          "ipa": "/aʊt laʊd/",
+          "zh": "大聲地"
+        }
+      ]
+    }
+  ]
+}

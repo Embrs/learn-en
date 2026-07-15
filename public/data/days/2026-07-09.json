@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-09",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-09-1",
+      "date": "2026-07-09",
+      "category": "daily-routine",
+      "en": "Time to get dressed for the day.",
+      "zh": "該換衣服準備出門了。",
+      "ipa": "/taɪm tuː ɡet drest fɔːr ðə deɪ/",
+      "vocab": [
+        {
+          "w": "get dressed",
+          "pos": "phr.",
+          "ipa": "/ɡet drest/",
+          "zh": "穿好衣服"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-2",
+      "date": "2026-07-09",
+      "category": "meals",
+      "en": "Chew slowly and swallow before you talk.",
+      "zh": "慢慢咀嚼，吞下去再說話。",
+      "ipa": "/tʃuː ˈsloʊli ənd ˈswɑːloʊ bɪˈfɔːr juː tɔːk/",
+      "vocab": [
+        {
+          "w": "swallow",
+          "pos": "v.",
+          "ipa": "/ˈswɑːloʊ/",
+          "zh": "吞嚥"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-3",
+      "date": "2026-07-09",
+      "category": "bath-bedtime",
+      "en": "Dry off and put on your pajamas.",
+      "zh": "擦乾身體，穿上睡衣。",
+      "ipa": "/draɪ ɔːf ənd pʊt ɑːn jʊər pəˈdʒɑːməz/",
+      "vocab": [
+        {
+          "w": "dry off",
+          "pos": "phr. v.",
+          "ipa": "/draɪ ɔːf/",
+          "zh": "擦乾"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-4",
+      "date": "2026-07-09",
+      "category": "outings",
+      "en": "Look out the window, we're almost there.",
+      "zh": "看看窗外，我們快到了。",
+      "ipa": "/lʊk aʊt ðə ˈwɪndoʊ wɪər ˈɔːlmoʊst ðer/",
+      "vocab": [
+        {
+          "w": "almost there",
+          "pos": "phr.",
+          "ipa": "/ˈɔːlmoʊst ðer/",
+          "zh": "快到了"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-5",
+      "date": "2026-07-09",
+      "category": "playground",
+      "en": "Be careful climbing up the ladder.",
+      "zh": "爬梯子要小心。",
+      "ipa": "/biː ˈkerfəl ˈklaɪmɪŋ ʌp ðə ˈlædər/",
+      "vocab": [
+        {
+          "w": "ladder",
+          "pos": "n.",
+          "ipa": "/ˈlædər/",
+          "zh": "梯子"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-6",
+      "date": "2026-07-09",
+      "category": "school",
+      "en": "Remember to listen to your teacher.",
+      "zh": "記得要聽老師的話。",
+      "ipa": "/rɪˈmembər tuː ˈlɪsən tuː jʊər ˈtiːtʃər/",
+      "vocab": [
+        {
+          "w": "listen to",
+          "pos": "phr. v.",
+          "ipa": "/ˈlɪsən tuː/",
+          "zh": "聽從"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-7",
+      "date": "2026-07-09",
+      "category": "homework",
+      "en": "Show me how you solved this problem.",
+      "zh": "給我看看你怎麼解這題的。",
+      "ipa": "/ʃoʊ miː haʊ juː sɑːlvd ðɪs ˈprɑːbləm/",
+      "vocab": [
+        {
+          "w": "solve",
+          "pos": "v.",
+          "ipa": "/sɑːlv/",
+          "zh": "解決"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-8",
+      "date": "2026-07-09",
+      "category": "toys-sharing",
+      "en": "Please don't grab toys from others.",
+      "zh": "請不要從別人手上搶玩具。",
+      "ipa": "/pliːz doʊnt ɡræb tɔɪz frʌm ˈʌðərz/",
+      "vocab": [
+        {
+          "w": "grab",
+          "pos": "v.",
+          "ipa": "/ɡræb/",
+          "zh": "搶"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-9",
+      "date": "2026-07-09",
+      "category": "emotions",
+      "en": "I know you're frustrated, let's talk about it.",
+      "zh": "我知道你很挫折，我們來聊聊吧。",
+      "ipa": "/aɪ noʊ jʊər ˈfrʌstreɪtɪd lets tɔːk əˈbaʊt ɪt/",
+      "vocab": [
+        {
+          "w": "frustrated",
+          "pos": "adj.",
+          "ipa": "/ˈfrʌstreɪtɪd/",
+          "zh": "挫折的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-10",
+      "date": "2026-07-09",
+      "category": "discipline",
+      "en": "You need to say sorry to your friend.",
+      "zh": "你需要跟朋友道歉。",
+      "ipa": "/juː niːd tuː seɪ ˈsɑːri tuː jʊər frend/",
+      "vocab": [
+        {
+          "w": "sorry",
+          "pos": "adj.",
+          "ipa": "/ˈsɑːri/",
+          "zh": "抱歉的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-11",
+      "date": "2026-07-09",
+      "category": "praise",
+      "en": "Great job cleaning up your room!",
+      "zh": "把房間整理好，做得很棒！",
+      "ipa": "/ɡreɪt dʒɑːb ˈkliːnɪŋ ʌp jʊər ruːm/",
+      "vocab": [
+        {
+          "w": "clean up",
+          "pos": "phr. v.",
+          "ipa": "/kliːn ʌp/",
+          "zh": "整理"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-12",
+      "date": "2026-07-09",
+      "category": "safety",
+      "en": "Don't touch the stove, it's hot.",
+      "zh": "不要碰爐子，很燙。",
+      "ipa": "/doʊnt tʌtʃ ðə stoʊv ɪts hɑːt/",
+      "vocab": [
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stoʊv/",
+          "zh": "爐子"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-13",
+      "date": "2026-07-09",
+      "category": "health",
+      "en": "It's time for your check-up.",
+      "zh": "該做健康檢查了。",
+      "ipa": "/ɪts taɪm fɔːr jʊər ˈtʃekʌp/",
+      "vocab": [
+        {
+          "w": "check-up",
+          "pos": "n.",
+          "ipa": "/ˈtʃekʌp/",
+          "zh": "健康檢查"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-14",
+      "date": "2026-07-09",
+      "category": "relatives",
+      "en": "Say thank you for the gift, Uncle gave you.",
+      "zh": "要謝謝叔叔給你的禮物。",
+      "ipa": "/seɪ θæŋk juː fɔːr ðə ɡɪft ˈʌŋkl ɡeɪv juː/",
+      "vocab": [
+        {
+          "w": "gift",
+          "pos": "n.",
+          "ipa": "/ɡɪft/",
+          "zh": "禮物"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-15",
+      "date": "2026-07-09",
+      "category": "friends",
+      "en": "Let's ask your friend if he wants to join.",
+      "zh": "我們問問你朋友要不要一起加入吧。",
+      "ipa": "/lets æsk jʊər frend ɪf hiː wɑːnts tuː dʒɔɪn/",
+      "vocab": [
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-16",
+      "date": "2026-07-09",
+      "category": "manners",
+      "en": "Wait for others to finish speaking.",
+      "zh": "要等別人說完話。",
+      "ipa": "/weɪt fɔːr ˈʌðərz tuː ˈfɪnɪʃ ˈspiːkɪŋ/",
+      "vocab": [
+        {
+          "w": "finish speaking",
+          "pos": "phr.",
+          "ipa": "/ˈfɪnɪʃ ˈspiːkɪŋ/",
+          "zh": "說完話"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-17",
+      "date": "2026-07-09",
+      "category": "weather",
+      "en": "It's sunny today, let's wear a hat.",
+      "zh": "今天出太陽，我們戴頂帽子吧。",
+      "ipa": "/ɪts ˈsʌni təˈdeɪ lets wer ə hæt/",
+      "vocab": [
+        {
+          "w": "sunny",
+          "pos": "adj.",
+          "ipa": "/ˈsʌni/",
+          "zh": "晴朗的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-18",
+      "date": "2026-07-09",
+      "category": "screen-time",
+      "en": "Let's take a break from the screen.",
+      "zh": "我們先休息一下不看螢幕吧。",
+      "ipa": "/lets teɪk ə breɪk frʌm ðə skriːn/",
+      "vocab": [
+        {
+          "w": "screen",
+          "pos": "n.",
+          "ipa": "/skriːn/",
+          "zh": "螢幕"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-19",
+      "date": "2026-07-09",
+      "category": "celebrations",
+      "en": "Who should we invite to the celebration?",
+      "zh": "我們應該邀請誰來慶祝呢？",
+      "ipa": "/huː ʃʊd wiː ɪnˈvaɪt tuː ðə ˌselɪˈbreɪʃən/",
+      "vocab": [
+        {
+          "w": "celebration",
+          "pos": "n.",
+          "ipa": "/ˌselɪˈbreɪʃən/",
+          "zh": "慶祝活動"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09-20",
+      "date": "2026-07-09",
+      "category": "reading",
+      "en": "You can pick the bedtime story tonight.",
+      "zh": "今晚你可以挑選睡前故事。",
+      "ipa": "/juː kæn pɪk ðə ˈbedtaɪm ˈstɔːri təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "bedtime story",
+          "pos": "n.",
+          "ipa": "/ˈbedtaɪm ˈstɔːri/",
+          "zh": "睡前故事"
+        }
+      ]
+    }
+  ]
+}

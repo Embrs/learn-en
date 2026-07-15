@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-03",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-03-1",
+      "date": "2026-07-03",
+      "category": "daily-routine",
+      "en": "Fold your blanket before you leave your room.",
+      "zh": "離開房間前把毯子摺好。",
+      "ipa": "/foʊld jʊər ˈblæŋkɪt bɪˈfɔːr juː liːv jʊər ruːm/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/foʊld/",
+          "zh": "摺疊"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-2",
+      "date": "2026-07-03",
+      "category": "meals",
+      "en": "This soup is hot, blow on it first.",
+      "zh": "這湯很燙，先吹一吹。",
+      "ipa": "/ðɪs suːp ɪz hɑːt bloʊ ɑːn ɪt fɜːrst/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/bloʊ/",
+          "zh": "吹"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-3",
+      "date": "2026-07-03",
+      "category": "bath-bedtime",
+      "en": "Put your dirty clothes in the hamper.",
+      "zh": "把髒衣服放進洗衣籃。",
+      "ipa": "/pʊt jʊər ˈdɜːrti kloʊðz ɪn ðə ˈhæmpər/",
+      "vocab": [
+        {
+          "w": "hamper",
+          "pos": "n.",
+          "ipa": "/ˈhæmpər/",
+          "zh": "洗衣籃"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-4",
+      "date": "2026-07-03",
+      "category": "outings",
+      "en": "We're almost at the museum, are you excited?",
+      "zh": "我們快到博物館了，你興奮嗎？",
+      "ipa": "/wɪər ɔːlˈmoʊst æt ðə mjuːˈziːəm ɑːr juː ɪkˈsaɪtɪd/",
+      "vocab": [
+        {
+          "w": "museum",
+          "pos": "n.",
+          "ipa": "/mjuːˈziːəm/",
+          "zh": "博物館"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-5",
+      "date": "2026-07-03",
+      "category": "playground",
+      "en": "Let's build a sandcastle over there.",
+      "zh": "我們去那邊蓋沙堡吧。",
+      "ipa": "/lets bɪld ə ˈsændkæsl ˈoʊvər ðer/",
+      "vocab": [
+        {
+          "w": "sandcastle",
+          "pos": "n.",
+          "ipa": "/ˈsændkæsl/",
+          "zh": "沙堡"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-6",
+      "date": "2026-07-03",
+      "category": "school",
+      "en": "Raise your hand if you have a question.",
+      "zh": "有問題就舉手。",
+      "ipa": "/reɪz jʊər hænd ɪf juː hæv ə ˈkwestʃən/",
+      "vocab": [
+        {
+          "w": "raise",
+          "pos": "v.",
+          "ipa": "/reɪz/",
+          "zh": "舉起"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-7",
+      "date": "2026-07-03",
+      "category": "homework",
+      "en": "Let's take a five-minute break, then continue.",
+      "zh": "我們休息五分鐘，再繼續。",
+      "ipa": "/lets teɪk ə ˈfaɪv ˈmɪnɪt breɪk ðen kənˈtɪnjuː/",
+      "vocab": [
+        {
+          "w": "break",
+          "pos": "n.",
+          "ipa": "/breɪk/",
+          "zh": "休息"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-8",
+      "date": "2026-07-03",
+      "category": "toys-sharing",
+      "en": "Two players, one toy, let's take turns.",
+      "zh": "兩個人一個玩具，我們輪流吧。",
+      "ipa": "/tuː ˈpleɪərz wʌn tɔɪ lets teɪk tɜːrnz/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "v. phr.",
+          "ipa": "/teɪk tɜːrnz/",
+          "zh": "輪流"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-9",
+      "date": "2026-07-03",
+      "category": "emotions",
+      "en": "You seem disappointed, want to tell me why?",
+      "zh": "你看起來很失望，想告訴我為什麼嗎？",
+      "ipa": "/juː siːm ˌdɪsəˈpɔɪntɪd wɑːnt tuː tel miː waɪ/",
+      "vocab": [
+        {
+          "w": "disappointed",
+          "pos": "adj.",
+          "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+          "zh": "失望的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-10",
+      "date": "2026-07-03",
+      "category": "discipline",
+      "en": "If you break the rule, there's a consequence.",
+      "zh": "如果你違反規則，就會有後果。",
+      "ipa": "/ɪf juː breɪk ðə ruːl ðerz ə ˈkɑːnsəkwens/",
+      "vocab": [
+        {
+          "w": "consequence",
+          "pos": "n.",
+          "ipa": "/ˈkɑːnsəkwens/",
+          "zh": "後果"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-11",
+      "date": "2026-07-03",
+      "category": "praise",
+      "en": "You waited so patiently, thank you.",
+      "zh": "你等得好有耐心，謝謝你。",
+      "ipa": "/juː ˈweɪtɪd soʊ ˈpeɪʃəntli θæŋk juː/",
+      "vocab": [
+        {
+          "w": "patiently",
+          "pos": "adv.",
+          "ipa": "/ˈpeɪʃəntli/",
+          "zh": "有耐心地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-12",
+      "date": "2026-07-03",
+      "category": "safety",
+      "en": "Let's test the ice before you step on it.",
+      "zh": "踩上去之前我們先測試冰面吧。",
+      "ipa": "/lets test ðə aɪs bɪˈfɔːr juː step ɑːn ɪt/",
+      "vocab": [
+        {
+          "w": "test",
+          "pos": "v.",
+          "ipa": "/test/",
+          "zh": "測試"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-13",
+      "date": "2026-07-03",
+      "category": "health",
+      "en": "Time for your vitamins before school.",
+      "zh": "上學前該吃維他命了。",
+      "ipa": "/taɪm fɔːr jʊər ˈvaɪtəmɪnz bɪˈfɔːr skuːl/",
+      "vocab": [
+        {
+          "w": "vitamin",
+          "pos": "n.",
+          "ipa": "/ˈvaɪtəmɪn/",
+          "zh": "維他命"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-14",
+      "date": "2026-07-03",
+      "category": "relatives",
+      "en": "Let's video call Grandpa since he's far away.",
+      "zh": "爺爺住得遠，我們視訊他吧。",
+      "ipa": "/lets ˈvɪdioʊ kɔːl ˈɡrænpɑː sɪns hiːz fɑːr əˈweɪ/",
+      "vocab": [
+        {
+          "w": "video call",
+          "pos": "n.",
+          "ipa": "/ˈvɪdioʊ kɔːl/",
+          "zh": "視訊通話"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-15",
+      "date": "2026-07-03",
+      "category": "friends",
+      "en": "It's okay if you don't want to share that toy.",
+      "zh": "如果你不想分享那個玩具也沒關係。",
+      "ipa": "/ɪts oʊˈkeɪ ɪf juː doʊnt wɑːnt tuː ʃer ðæt tɔɪ/",
+      "vocab": [
+        {
+          "w": "share",
+          "pos": "v.",
+          "ipa": "/ʃer/",
+          "zh": "分享"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-16",
+      "date": "2026-07-03",
+      "category": "manners",
+      "en": "Let's hold the door for the person behind us.",
+      "zh": "我們幫後面的人扶著門吧。",
+      "ipa": "/lets hoʊld ðə dɔːr fɔːr ðə ˈpɜːrsən bɪˈhaɪnd ʌs/",
+      "vocab": [
+        {
+          "w": "hold the door",
+          "pos": "v. phr.",
+          "ipa": "/hoʊld ðə dɔːr/",
+          "zh": "扶著門"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-17",
+      "date": "2026-07-03",
+      "category": "weather",
+      "en": "Let's check the forecast before we plan our day.",
+      "zh": "我們先看天氣預報再安排今天吧。",
+      "ipa": "/lets tʃek ðə ˈfɔːrkæst bɪˈfɔːr wiː plæn ˈaʊər deɪ/",
+      "vocab": [
+        {
+          "w": "forecast",
+          "pos": "n.",
+          "ipa": "/ˈfɔːrkæst/",
+          "zh": "預報"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-18",
+      "date": "2026-07-03",
+      "category": "screen-time",
+      "en": "Let's charge the tablet so it's ready tomorrow.",
+      "zh": "我們幫平板充電，明天才有電可用。",
+      "ipa": "/lets tʃɑːrdʒ ðə ˈtæblət soʊ ɪts ˈredi təˈmɑːroʊ/",
+      "vocab": [
+        {
+          "w": "charge",
+          "pos": "v.",
+          "ipa": "/tʃɑːrdʒ/",
+          "zh": "充電"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-19",
+      "date": "2026-07-03",
+      "category": "celebrations",
+      "en": "The fireworks start right after dinner.",
+      "zh": "晚餐後煙火就要開始了。",
+      "ipa": "/ðə ˈfaɪərwɜːrks stɑːrt raɪt ˈæftər ˈdɪnər/",
+      "vocab": [
+        {
+          "w": "fireworks",
+          "pos": "n.",
+          "ipa": "/ˈfaɪərwɜːrks/",
+          "zh": "煙火"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-20",
+      "date": "2026-07-03",
+      "category": "reading",
+      "en": "Let's read this story in funny voices.",
+      "zh": "我們用好笑的聲音來讀這個故事吧。",
+      "ipa": "/lets riːd ðɪs ˈstɔːri ɪn ˈfʌni vɔɪsɪz/",
+      "vocab": [
+        {
+          "w": "voices",
+          "pos": "n.",
+          "ipa": "/ˈvɔɪsɪz/",
+          "zh": "聲音"
+        }
+      ]
+    }
+  ]
+}

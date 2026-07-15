@@ -1,0 +1,22 @@
+{
+  "name": "daily-english-sentences",
+  "version": "2.0.0",
+  "description": "每日英文・家庭生活 — Vue 3.6 Vapor 版",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm run data:index && vite",
+    "build": "npm run data:index && vite build",
+    "preview": "vite preview",
+    "data:index": "node scripts/build-data-index.mjs",
+    "data:used": "node scripts/list-used-sentences.mjs"
+  },
+  "dependencies": {
+    "vue": "3.6.0-beta.17",
+    "vue-router": "5.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "6.0.8",
+    "vite": "8.1.4"
+  }
+}

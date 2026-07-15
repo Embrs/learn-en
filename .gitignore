@@ -1,2 +1,17 @@
 .deploy-token
 daily-english-2026-07-13.html
+
+# 建置產物
+node_modules/
+dist/
+
+# 由 scripts/build-data-index.mjs 從 public/data/days/*.json 推導出來的索引，
+# 不進版控以免每天產生 commit 雜訊；dev / build 前會自動重新產生。
+public/data/index.json
+public/data/by-category/
+
+# 排程任務用 `rsync -a --delete` 把整個資料夾同步進乾淨的 clone 再 git add -A，
+# 而 rsync 不理會 .gitignore——上面的 node_modules/ 與 dist/ 是擋住它們被 commit 的最後一道防線。
+
+# Playwright MCP 測試產生的暫存檔
+.playwright-mcp/
