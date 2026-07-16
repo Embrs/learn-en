@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-16",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-16-1",
+      "date": "2026-07-16",
+      "category": "daily-routine",
+      "en": "Stretch your arms up high and greet the morning.",
+      "zh": "把手臂高高伸展，跟早晨說聲早安。",
+      "ipa": "/strɛtʃ jɔr ɑrmz ʌp haɪ ænd ɡrit ðə ˈmɔrnɪŋ/",
+      "vocab": [
+        {
+          "w": "stretch",
+          "pos": "v.",
+          "ipa": "/strɛtʃ/",
+          "zh": "伸展"
+        },
+        {
+          "w": "greet",
+          "pos": "v.",
+          "ipa": "/ɡrit/",
+          "zh": "問候、迎接"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-2",
+      "date": "2026-07-16",
+      "category": "meals",
+      "en": "Blow on your soup so it won't burn your tongue.",
+      "zh": "吹一吹湯，才不會燙到舌頭。",
+      "ipa": "/blo ɑn jɔr sup so ɪt wont bɝn jɔr tʌŋ/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "tongue",
+          "pos": "n.",
+          "ipa": "/tʌŋ/",
+          "zh": "舌頭"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-3",
+      "date": "2026-07-16",
+      "category": "bath-bedtime",
+      "en": "Let's scrub behind your ears until they're clean.",
+      "zh": "我們來把耳朵後面搓乾淨。",
+      "ipa": "/lɛts skrʌb bɪˈhaɪnd jɔr ɪrz ənˈtɪl ðɛr klin/",
+      "vocab": [
+        {
+          "w": "scrub",
+          "pos": "v.",
+          "ipa": "/skrʌb/",
+          "zh": "刷洗、搓"
+        },
+        {
+          "w": "behind",
+          "pos": "prep.",
+          "ipa": "/bɪˈhaɪnd/",
+          "zh": "在⋯後面"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-4",
+      "date": "2026-07-16",
+      "category": "outings",
+      "en": "Hold my hand while we cross the parking lot.",
+      "zh": "我們穿過停車場時要牽著我的手。",
+      "ipa": "/hold maɪ hænd waɪl wi krɔs ðə ˈpɑrkɪŋ lɑt/",
+      "vocab": [
+        {
+          "w": "cross",
+          "pos": "v.",
+          "ipa": "/krɔs/",
+          "zh": "穿越、橫越"
+        },
+        {
+          "w": "parking lot",
+          "pos": "n.",
+          "ipa": "/ˈpɑrkɪŋ lɑt/",
+          "zh": "停車場"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-5",
+      "date": "2026-07-16",
+      "category": "playground",
+      "en": "Wait for your turn before you climb the slide.",
+      "zh": "爬上溜滑梯前要先等輪到你。",
+      "ipa": "/wet fɔr jɔr tɝn bɪˈfɔr ju klaɪm ðə slaɪd/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        },
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "爬、攀"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-6",
+      "date": "2026-07-16",
+      "category": "school",
+      "en": "Don't forget to pack your water bottle today.",
+      "zh": "今天別忘了帶你的水壺。",
+      "ipa": "/dont fɚˈɡɛt tə pæk jɔr ˈwɔtɚ ˈbɑtl təˈde/",
+      "vocab": [
+        {
+          "w": "pack",
+          "pos": "v.",
+          "ipa": "/pæk/",
+          "zh": "裝、打包"
+        },
+        {
+          "w": "water bottle",
+          "pos": "n.",
+          "ipa": "/ˈwɔtɚ ˈbɑtl/",
+          "zh": "水壺"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-7",
+      "date": "2026-07-16",
+      "category": "homework",
+      "en": "Read the question slowly before you answer it.",
+      "zh": "先慢慢把題目讀完，再回答。",
+      "ipa": "/rid ðə ˈkwɛstʃən ˈsloli bɪˈfɔr ju ˈænsɚ ɪt/",
+      "vocab": [
+        {
+          "w": "question",
+          "pos": "n.",
+          "ipa": "/ˈkwɛstʃən/",
+          "zh": "問題、題目"
+        },
+        {
+          "w": "slowly",
+          "pos": "adv.",
+          "ipa": "/ˈsloli/",
+          "zh": "慢慢地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-8",
+      "date": "2026-07-16",
+      "category": "toys-sharing",
+      "en": "You can play with it after your sister's done.",
+      "zh": "等姐姐玩完，你就可以玩了。",
+      "ipa": "/ju kæn ple wɪð ɪt ˈæftɚ jɔr ˈsɪstɚz dʌn/",
+      "vocab": [
+        {
+          "w": "after",
+          "pos": "prep.",
+          "ipa": "/ˈæftɚ/",
+          "zh": "在⋯之後"
+        },
+        {
+          "w": "done",
+          "pos": "adj.",
+          "ipa": "/dʌn/",
+          "zh": "完成的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-9",
+      "date": "2026-07-16",
+      "category": "emotions",
+      "en": "It's okay to feel shy around new people.",
+      "zh": "面對陌生人會害羞是沒關係的。",
+      "ipa": "/ɪts oˈke tə fil ʃaɪ əˈraʊnd nu ˈpipl/",
+      "vocab": [
+        {
+          "w": "shy",
+          "pos": "adj.",
+          "ipa": "/ʃaɪ/",
+          "zh": "害羞的"
+        },
+        {
+          "w": "around",
+          "pos": "prep.",
+          "ipa": "/əˈraʊnd/",
+          "zh": "在⋯周圍"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-10",
+      "date": "2026-07-16",
+      "category": "discipline",
+      "en": "We use gentle hands, not hitting hands.",
+      "zh": "我們要用溫柔的手，不可以打人。",
+      "ipa": "/wi juz ˈdʒɛntl hændz nɑt ˈhɪtɪŋ hændz/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl/",
+          "zh": "溫柔的"
+        },
+        {
+          "w": "hitting",
+          "pos": "n.",
+          "ipa": "/ˈhɪtɪŋ/",
+          "zh": "打、揍"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-11",
+      "date": "2026-07-16",
+      "category": "praise",
+      "en": "You tried really hard, and that makes me proud.",
+      "zh": "你很努力嘗試，我為你感到驕傲。",
+      "ipa": "/ju traɪd ˈrɪli hɑrd ænd ðæt meks mi praʊd/",
+      "vocab": [
+        {
+          "w": "tried",
+          "pos": "v.",
+          "ipa": "/traɪd/",
+          "zh": "嘗試（過去式）"
+        },
+        {
+          "w": "proud",
+          "pos": "adj.",
+          "ipa": "/praʊd/",
+          "zh": "驕傲的、自豪的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-12",
+      "date": "2026-07-16",
+      "category": "safety",
+      "en": "Never touch the stove when it's turned on.",
+      "zh": "爐子開著的時候絕對不能碰。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə stov wɛn ɪts tɝnd ɑn/",
+      "vocab": [
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        },
+        {
+          "w": "never",
+          "pos": "adv.",
+          "ipa": "/ˈnɛvɚ/",
+          "zh": "絕不"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-13",
+      "date": "2026-07-16",
+      "category": "health",
+      "en": "Open wide so the doctor can see your throat.",
+      "zh": "嘴巴張大，讓醫生看看你的喉嚨。",
+      "ipa": "/ˈopən waɪd so ðə ˈdɑktɚ kæn si jɔr θrot/",
+      "vocab": [
+        {
+          "w": "wide",
+          "pos": "adv.",
+          "ipa": "/waɪd/",
+          "zh": "大大地、張開地"
+        },
+        {
+          "w": "throat",
+          "pos": "n.",
+          "ipa": "/θrot/",
+          "zh": "喉嚨"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-14",
+      "date": "2026-07-16",
+      "category": "relatives",
+      "en": "Give Grandpa a big hug before we leave.",
+      "zh": "我們走之前，給爺爺一個大擁抱。",
+      "ipa": "/ɡɪv ˈɡrænpɑ ə bɪɡ hʌɡ bɪˈfɔr wi liv/",
+      "vocab": [
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        },
+        {
+          "w": "leave",
+          "pos": "v.",
+          "ipa": "/liv/",
+          "zh": "離開"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-15",
+      "date": "2026-07-16",
+      "category": "friends",
+      "en": "Ask your friend nicely if you can join in.",
+      "zh": "好好問問朋友，你能不能一起玩。",
+      "ipa": "/æsk jɔr frɛnd ˈnaɪsli ɪf ju kæn dʒɔɪn ɪn/",
+      "vocab": [
+        {
+          "w": "nicely",
+          "pos": "adv.",
+          "ipa": "/ˈnaɪsli/",
+          "zh": "有禮貌地、和善地"
+        },
+        {
+          "w": "join in",
+          "pos": "phr.",
+          "ipa": "/dʒɔɪn ɪn/",
+          "zh": "加入、一起參與"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-16",
+      "date": "2026-07-16",
+      "category": "manners",
+      "en": "Wait until I finish talking before you speak.",
+      "zh": "等我說完話，你再說。",
+      "ipa": "/wet ənˈtɪl aɪ ˈfɪnɪʃ ˈtɔkɪŋ bɪˈfɔr ju spik/",
+      "vocab": [
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "完成、結束"
+        },
+        {
+          "w": "speak",
+          "pos": "v.",
+          "ipa": "/spik/",
+          "zh": "說話"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-17",
+      "date": "2026-07-16",
+      "category": "weather",
+      "en": "It's chilly outside, so grab your jacket.",
+      "zh": "外面有點冷，去拿你的外套。",
+      "ipa": "/ɪts ˈtʃɪli ˈaʊtˈsaɪd so ɡræb jɔr ˈdʒækɪt/",
+      "vocab": [
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "微冷的"
+        },
+        {
+          "w": "grab",
+          "pos": "v.",
+          "ipa": "/ɡræb/",
+          "zh": "抓、拿"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-18",
+      "date": "2026-07-16",
+      "category": "screen-time",
+      "en": "One more episode, then we turn it off.",
+      "zh": "再看一集，然後我們就關掉。",
+      "ipa": "/wʌn mɔr ˈɛpɪˌsod ðɛn wi tɝn ɪt ɔf/",
+      "vocab": [
+        {
+          "w": "episode",
+          "pos": "n.",
+          "ipa": "/ˈɛpɪˌsod/",
+          "zh": "一集"
+        },
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-19",
+      "date": "2026-07-16",
+      "category": "celebrations",
+      "en": "Let's hang the balloons up on the wall.",
+      "zh": "我們把氣球掛到牆上吧。",
+      "ipa": "/lɛts hæŋ ðə bəˈlunz ʌp ɑn ðə wɔl/",
+      "vocab": [
+        {
+          "w": "hang",
+          "pos": "v.",
+          "ipa": "/hæŋ/",
+          "zh": "掛"
+        },
+        {
+          "w": "balloons",
+          "pos": "n.",
+          "ipa": "/bəˈlunz/",
+          "zh": "氣球"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-16-20",
+      "date": "2026-07-16",
+      "category": "reading",
+      "en": "What do you think happens on the next page?",
+      "zh": "你猜下一頁會發生什麼事呢？",
+      "ipa": "/wʌt du ju θɪŋk ˈhæpənz ɑn ðə nɛkst pedʒ/",
+      "vocab": [
+        {
+          "w": "happens",
+          "pos": "v.",
+          "ipa": "/ˈhæpənz/",
+          "zh": "發生"
+        },
+        {
+          "w": "page",
+          "pos": "n.",
+          "ipa": "/pedʒ/",
+          "zh": "頁"
+        }
+      ]
+    }
+  ]
+}
