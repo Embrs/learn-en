@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-17",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-17-1",
+      "date": "2026-07-17",
+      "category": "daily-routine",
+      "en": "Let's fold your blanket before we go downstairs.",
+      "zh": "我們下樓前先把你的毯子摺好。",
+      "ipa": "/lɛts fold jɔr ˈblæŋkɪt bɪˈfɔr wi ɡo ˈdaʊnˈstɛrz/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/fold/",
+          "zh": "摺疊"
+        },
+        {
+          "w": "blanket",
+          "pos": "n.",
+          "ipa": "/ˈblæŋkɪt/",
+          "zh": "毯子"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-2",
+      "date": "2026-07-17",
+      "category": "meals",
+      "en": "Finish your vegetables before you ask for dessert.",
+      "zh": "先把青菜吃完，再問甜點的事。",
+      "ipa": "/ˈfɪnɪʃ jɔr ˈvɛdʒtəblz bɪˈfɔr ju æsk fɔr dɪˈzɝt/",
+      "vocab": [
+        {
+          "w": "vegetable",
+          "pos": "n.",
+          "ipa": "/ˈvɛdʒtəbl/",
+          "zh": "蔬菜"
+        },
+        {
+          "w": "dessert",
+          "pos": "n.",
+          "ipa": "/dɪˈzɝt/",
+          "zh": "甜點"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-3",
+      "date": "2026-07-17",
+      "category": "bath-bedtime",
+      "en": "Close your eyes so the shampoo won't sting.",
+      "zh": "閉上眼睛，洗髮精才不會刺到。",
+      "ipa": "/kloz jɔr aɪz so ðə ʃæmˈpu wont stɪŋ/",
+      "vocab": [
+        {
+          "w": "shampoo",
+          "pos": "n.",
+          "ipa": "/ʃæmˈpu/",
+          "zh": "洗髮精"
+        },
+        {
+          "w": "sting",
+          "pos": "v.",
+          "ipa": "/stɪŋ/",
+          "zh": "刺痛"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-4",
+      "date": "2026-07-17",
+      "category": "outings",
+      "en": "Stay close to me while we ride the bus.",
+      "zh": "我們坐公車的時候要跟緊我。",
+      "ipa": "/ste klos tə mi waɪl wi raɪd ðə bʌs/",
+      "vocab": [
+        {
+          "w": "close",
+          "pos": "adj.",
+          "ipa": "/klos/",
+          "zh": "靠近的"
+        },
+        {
+          "w": "ride",
+          "pos": "v.",
+          "ipa": "/raɪd/",
+          "zh": "搭乘"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-5",
+      "date": "2026-07-17",
+      "category": "playground",
+      "en": "Hold the swing tight with both hands.",
+      "zh": "兩隻手抓緊鞦韆。",
+      "ipa": "/hold ðə swɪŋ taɪt wɪð boθ hændz/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        },
+        {
+          "w": "tight",
+          "pos": "adv.",
+          "ipa": "/taɪt/",
+          "zh": "緊緊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-6",
+      "date": "2026-07-17",
+      "category": "school",
+      "en": "Raise your hand if you want to ask something.",
+      "zh": "想問問題就舉手。",
+      "ipa": "/rez jɔr hænd ɪf ju wɑnt tə æsk ˈsʌmθɪŋ/",
+      "vocab": [
+        {
+          "w": "raise",
+          "pos": "v.",
+          "ipa": "/rez/",
+          "zh": "舉起"
+        },
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "問"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-7",
+      "date": "2026-07-17",
+      "category": "homework",
+      "en": "Erase the mistake and try the line again.",
+      "zh": "把寫錯的擦掉，這一行再試一次。",
+      "ipa": "/ɪˈres ðə mɪsˈtek ænd traɪ ðə laɪn əˈɡɛn/",
+      "vocab": [
+        {
+          "w": "erase",
+          "pos": "v.",
+          "ipa": "/ɪˈres/",
+          "zh": "擦掉"
+        },
+        {
+          "w": "mistake",
+          "pos": "n.",
+          "ipa": "/mɪsˈtek/",
+          "zh": "錯誤"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-8",
+      "date": "2026-07-17",
+      "category": "toys-sharing",
+      "en": "Let's take turns building the tower together.",
+      "zh": "我們輪流一起蓋這座塔。",
+      "ipa": "/lɛts tek tɝnz ˈbɪldɪŋ ðə ˈtaʊɚ təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "phr.",
+          "ipa": "/tek tɝnz/",
+          "zh": "輪流"
+        },
+        {
+          "w": "tower",
+          "pos": "n.",
+          "ipa": "/ˈtaʊɚ/",
+          "zh": "塔"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-9",
+      "date": "2026-07-17",
+      "category": "emotions",
+      "en": "Take a deep breath when you feel angry.",
+      "zh": "生氣的時候，深呼吸一下。",
+      "ipa": "/tek ə dip brɛθ wɛn ju fil ˈæŋɡri/",
+      "vocab": [
+        {
+          "w": "breath",
+          "pos": "n.",
+          "ipa": "/brɛθ/",
+          "zh": "呼吸、一口氣"
+        },
+        {
+          "w": "angry",
+          "pos": "adj.",
+          "ipa": "/ˈæŋɡri/",
+          "zh": "生氣的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-10",
+      "date": "2026-07-17",
+      "category": "discipline",
+      "en": "We put the toys away before we watch TV.",
+      "zh": "我們看電視前要先收好玩具。",
+      "ipa": "/wi pʊt ðə tɔɪz əˈwe bɪˈfɔr wi wɑtʃ ˌtiˈvi/",
+      "vocab": [
+        {
+          "w": "put away",
+          "pos": "phr.",
+          "ipa": "/pʊt əˈwe/",
+          "zh": "收拾、放好"
+        },
+        {
+          "w": "before",
+          "pos": "conj.",
+          "ipa": "/bɪˈfɔr/",
+          "zh": "在⋯之前"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-11",
+      "date": "2026-07-17",
+      "category": "praise",
+      "en": "You shared your snack so kindly. Well done!",
+      "zh": "你這麼大方地分享點心，做得好！",
+      "ipa": "/ju ʃɛrd jɔr snæk so ˈkaɪndli wɛl dʌn/",
+      "vocab": [
+        {
+          "w": "shared",
+          "pos": "v.",
+          "ipa": "/ʃɛrd/",
+          "zh": "分享（過去式）"
+        },
+        {
+          "w": "kindly",
+          "pos": "adv.",
+          "ipa": "/ˈkaɪndli/",
+          "zh": "親切地、和善地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-12",
+      "date": "2026-07-17",
+      "category": "safety",
+      "en": "Keep your fingers away from the door hinge.",
+      "zh": "手指不要靠近門的鉸鏈。",
+      "ipa": "/kip jɔr ˈfɪŋɡɚz əˈwe frʌm ðə dɔr hɪndʒ/",
+      "vocab": [
+        {
+          "w": "finger",
+          "pos": "n.",
+          "ipa": "/ˈfɪŋɡɚ/",
+          "zh": "手指"
+        },
+        {
+          "w": "hinge",
+          "pos": "n.",
+          "ipa": "/hɪndʒ/",
+          "zh": "鉸鏈、門軸"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-13",
+      "date": "2026-07-17",
+      "category": "health",
+      "en": "Let me put a bandage on your scraped knee.",
+      "zh": "我幫你在擦傷的膝蓋貼上OK繃。",
+      "ipa": "/lɛt mi pʊt ə ˈbændɪdʒ ɑn jɔr skrept ni/",
+      "vocab": [
+        {
+          "w": "bandage",
+          "pos": "n.",
+          "ipa": "/ˈbændɪdʒ/",
+          "zh": "繃帶、OK繃"
+        },
+        {
+          "w": "knee",
+          "pos": "n.",
+          "ipa": "/ni/",
+          "zh": "膝蓋"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-14",
+      "date": "2026-07-17",
+      "category": "relatives",
+      "en": "Grandma made these dumplings just for you.",
+      "zh": "奶奶特地為你包了這些水餃。",
+      "ipa": "/ˈɡrænmɑ med ðiz ˈdʌmplɪŋz dʒʌst fɔr ju/",
+      "vocab": [
+        {
+          "w": "made",
+          "pos": "v.",
+          "ipa": "/med/",
+          "zh": "做（過去式）"
+        },
+        {
+          "w": "dumpling",
+          "pos": "n.",
+          "ipa": "/ˈdʌmplɪŋ/",
+          "zh": "水餃、湯圓"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-15",
+      "date": "2026-07-17",
+      "category": "friends",
+      "en": "Say sorry to your friend and shake hands.",
+      "zh": "跟朋友說對不起，然後握握手。",
+      "ipa": "/se ˈsɑri tə jɔr frɛnd ænd ʃek hændz/",
+      "vocab": [
+        {
+          "w": "sorry",
+          "pos": "adj.",
+          "ipa": "/ˈsɑri/",
+          "zh": "抱歉的"
+        },
+        {
+          "w": "shake hands",
+          "pos": "phr.",
+          "ipa": "/ʃek hændz/",
+          "zh": "握手"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-16",
+      "date": "2026-07-17",
+      "category": "manners",
+      "en": "Remember to say excuse me when you pass by.",
+      "zh": "經過別人身邊時記得說借過。",
+      "ipa": "/rɪˈmɛmbɚ tə se ɪkˈskjuz mi wɛn ju pæs baɪ/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "借過、不好意思"
+        },
+        {
+          "w": "pass by",
+          "pos": "phr.",
+          "ipa": "/pæs baɪ/",
+          "zh": "經過"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-17",
+      "date": "2026-07-17",
+      "category": "weather",
+      "en": "It's raining hard, so bring your umbrella.",
+      "zh": "雨下得很大，帶上你的雨傘。",
+      "ipa": "/ɪts ˈrenɪŋ hɑrd so brɪŋ jɔr ʌmˈbrɛlə/",
+      "vocab": [
+        {
+          "w": "raining",
+          "pos": "v.",
+          "ipa": "/ˈrenɪŋ/",
+          "zh": "下雨"
+        },
+        {
+          "w": "umbrella",
+          "pos": "n.",
+          "ipa": "/ʌmˈbrɛlə/",
+          "zh": "雨傘"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-18",
+      "date": "2026-07-17",
+      "category": "screen-time",
+      "en": "Sit farther back from the screen, please.",
+      "zh": "請坐離螢幕遠一點。",
+      "ipa": "/sɪt ˈfɑrðɚ bæk frʌm ðə skrin pliz/",
+      "vocab": [
+        {
+          "w": "farther",
+          "pos": "adv.",
+          "ipa": "/ˈfɑrðɚ/",
+          "zh": "更遠地"
+        },
+        {
+          "w": "screen",
+          "pos": "n.",
+          "ipa": "/skrin/",
+          "zh": "螢幕"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-19",
+      "date": "2026-07-17",
+      "category": "celebrations",
+      "en": "Make a wish before you blow out the candles.",
+      "zh": "吹蠟燭之前先許個願。",
+      "ipa": "/mek ə wɪʃ bɪˈfɔr ju blo aʊt ðə ˈkændlz/",
+      "vocab": [
+        {
+          "w": "wish",
+          "pos": "n.",
+          "ipa": "/wɪʃ/",
+          "zh": "願望"
+        },
+        {
+          "w": "candle",
+          "pos": "n.",
+          "ipa": "/ˈkændl/",
+          "zh": "蠟燭"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-17-20",
+      "date": "2026-07-17",
+      "category": "reading",
+      "en": "Let's read one more story, then it's lights out.",
+      "zh": "我們再讀一個故事，然後就關燈。",
+      "ipa": "/lɛts rid wʌn mɔr ˈstɔri ðɛn ɪts laɪts aʊt/",
+      "vocab": [
+        {
+          "w": "story",
+          "pos": "n.",
+          "ipa": "/ˈstɔri/",
+          "zh": "故事"
+        },
+        {
+          "w": "lights out",
+          "pos": "phr.",
+          "ipa": "/laɪts aʊt/",
+          "zh": "熄燈"
+        }
+      ]
+    }
+  ]
+}
