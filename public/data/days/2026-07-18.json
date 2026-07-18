@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-18",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-18-1",
+      "date": "2026-07-18",
+      "category": "daily-routine",
+      "en": "Time to brush your teeth and wash your face.",
+      "zh": "該去刷牙洗臉囉。",
+      "ipa": "/taɪm tə brʌʃ jɔr tiθ ænd wɑʃ jɔr fes/",
+      "vocab": [
+        {
+          "w": "brush",
+          "pos": "v.",
+          "ipa": "/brʌʃ/",
+          "zh": "刷"
+        },
+        {
+          "w": "teeth",
+          "pos": "n.",
+          "ipa": "/tiθ/",
+          "zh": "牙齒"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-2",
+      "date": "2026-07-18",
+      "category": "meals",
+      "en": "Please chew your food slowly and carefully.",
+      "zh": "請慢慢地、細細地咀嚼食物。",
+      "ipa": "/pliz tʃu jɔr fud ˈsloli ænd ˈkɛrfəli/",
+      "vocab": [
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        },
+        {
+          "w": "slowly",
+          "pos": "adv.",
+          "ipa": "/ˈsloli/",
+          "zh": "慢慢地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-3",
+      "date": "2026-07-18",
+      "category": "bath-bedtime",
+      "en": "Let's dry your hair before you get in bed.",
+      "zh": "上床睡覺前，我們先把頭髮吹乾。",
+      "ipa": "/lɛts draɪ jɔr hɛr bɪˈfɔr ju ɡɛt ɪn bɛd/",
+      "vocab": [
+        {
+          "w": "dry",
+          "pos": "v.",
+          "ipa": "/draɪ/",
+          "zh": "弄乾"
+        },
+        {
+          "w": "hair",
+          "pos": "n.",
+          "ipa": "/hɛr/",
+          "zh": "頭髮"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-4",
+      "date": "2026-07-18",
+      "category": "outings",
+      "en": "Buckle your seatbelt before the car starts.",
+      "zh": "車子開動前要扣好安全帶。",
+      "ipa": "/ˈbʌkl jɔr ˈsitˌbɛlt bɪˈfɔr ðə kɑr stɑrts/",
+      "vocab": [
+        {
+          "w": "buckle",
+          "pos": "v.",
+          "ipa": "/ˈbʌkl/",
+          "zh": "扣上"
+        },
+        {
+          "w": "seatbelt",
+          "pos": "n.",
+          "ipa": "/ˈsitˌbɛlt/",
+          "zh": "安全帶"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-5",
+      "date": "2026-07-18",
+      "category": "playground",
+      "en": "Wait for your turn to go down the slide.",
+      "zh": "排隊等輪到你再溜滑梯。",
+      "ipa": "/wet fɔr jɔr tɝn tə ɡo daʊn ðə slaɪd/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        },
+        {
+          "w": "slide",
+          "pos": "n.",
+          "ipa": "/slaɪd/",
+          "zh": "溜滑梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-6",
+      "date": "2026-07-18",
+      "category": "school",
+      "en": "Don't forget to pack your lunchbox today.",
+      "zh": "今天別忘了帶你的便當盒。",
+      "ipa": "/dont fɚˈɡɛt tə pæk jɔr ˈlʌntʃˌbɑks təˈde/",
+      "vocab": [
+        {
+          "w": "pack",
+          "pos": "v.",
+          "ipa": "/pæk/",
+          "zh": "打包、裝好"
+        },
+        {
+          "w": "lunchbox",
+          "pos": "n.",
+          "ipa": "/ˈlʌntʃˌbɑks/",
+          "zh": "便當盒"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-7",
+      "date": "2026-07-18",
+      "category": "homework",
+      "en": "Let's read the question out loud together.",
+      "zh": "我們一起把題目大聲唸出來。",
+      "ipa": "/lɛts rid ðə ˈkwɛstʃən aʊt laʊd təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "question",
+          "pos": "n.",
+          "ipa": "/ˈkwɛstʃən/",
+          "zh": "問題、題目"
+        },
+        {
+          "w": "loud",
+          "pos": "adj.",
+          "ipa": "/laʊd/",
+          "zh": "大聲的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-8",
+      "date": "2026-07-18",
+      "category": "toys-sharing",
+      "en": "Can you lend your friend the red car?",
+      "zh": "你可以把紅色小車借給朋友嗎？",
+      "ipa": "/kæn ju lɛnd jɔr frɛnd ðə rɛd kɑr/",
+      "vocab": [
+        {
+          "w": "lend",
+          "pos": "v.",
+          "ipa": "/lɛnd/",
+          "zh": "借出"
+        },
+        {
+          "w": "friend",
+          "pos": "n.",
+          "ipa": "/frɛnd/",
+          "zh": "朋友"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-9",
+      "date": "2026-07-18",
+      "category": "emotions",
+      "en": "It's okay to cry when you feel sad.",
+      "zh": "難過的時候哭出來沒關係。",
+      "ipa": "/ɪts oˈke tə kraɪ wɛn ju fil sæd/",
+      "vocab": [
+        {
+          "w": "cry",
+          "pos": "v.",
+          "ipa": "/kraɪ/",
+          "zh": "哭"
+        },
+        {
+          "w": "sad",
+          "pos": "adj.",
+          "ipa": "/sæd/",
+          "zh": "難過的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-10",
+      "date": "2026-07-18",
+      "category": "discipline",
+      "en": "We use gentle hands, not hitting.",
+      "zh": "我們要溫柔地用手，不可以打人。",
+      "ipa": "/wi juz ˈdʒɛntl hændz nɑt ˈhɪtɪŋ/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl/",
+          "zh": "溫柔的"
+        },
+        {
+          "w": "hitting",
+          "pos": "n.",
+          "ipa": "/ˈhɪtɪŋ/",
+          "zh": "打（人）"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-11",
+      "date": "2026-07-18",
+      "category": "praise",
+      "en": "You cleaned up all by yourself. I'm so proud!",
+      "zh": "你自己一個人收拾好了，我好驕傲！",
+      "ipa": "/ju klind ʌp ɔl baɪ jɔrˈsɛlf aɪm so praʊd/",
+      "vocab": [
+        {
+          "w": "cleaned up",
+          "pos": "phr.",
+          "ipa": "/klind ʌp/",
+          "zh": "收拾乾淨（過去式）"
+        },
+        {
+          "w": "proud",
+          "pos": "adj.",
+          "ipa": "/praʊd/",
+          "zh": "驕傲的、自豪的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-12",
+      "date": "2026-07-18",
+      "category": "safety",
+      "en": "Never touch the hot stove in the kitchen.",
+      "zh": "廚房裡燙的爐子絕對不能摸。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə hɑt stov ɪn ðə ˈkɪtʃɪn/",
+      "vocab": [
+        {
+          "w": "touch",
+          "pos": "v.",
+          "ipa": "/tʌtʃ/",
+          "zh": "觸摸"
+        },
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-13",
+      "date": "2026-07-18",
+      "category": "health",
+      "en": "Let me check if you have a fever.",
+      "zh": "我來看看你有沒有發燒。",
+      "ipa": "/lɛt mi tʃɛk ɪf ju hæv ə ˈfivɚ/",
+      "vocab": [
+        {
+          "w": "check",
+          "pos": "v.",
+          "ipa": "/tʃɛk/",
+          "zh": "檢查"
+        },
+        {
+          "w": "fever",
+          "pos": "n.",
+          "ipa": "/ˈfivɚ/",
+          "zh": "發燒"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-14",
+      "date": "2026-07-18",
+      "category": "relatives",
+      "en": "Wave goodbye to Auntie and Uncle.",
+      "zh": "跟阿姨和叔叔揮手說再見。",
+      "ipa": "/wev ɡʊdˈbaɪ tə ˈænti ænd ˈʌŋkl/",
+      "vocab": [
+        {
+          "w": "wave",
+          "pos": "v.",
+          "ipa": "/wev/",
+          "zh": "揮（手）"
+        },
+        {
+          "w": "goodbye",
+          "pos": "n.",
+          "ipa": "/ɡʊdˈbaɪ/",
+          "zh": "再見"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-15",
+      "date": "2026-07-18",
+      "category": "friends",
+      "en": "Ask nicely if you want to join the game.",
+      "zh": "想加入遊戲的話，要有禮貌地問。",
+      "ipa": "/æsk ˈnaɪsli ɪf ju wɑnt tə dʒɔɪn ðə ɡem/",
+      "vocab": [
+        {
+          "w": "nicely",
+          "pos": "adv.",
+          "ipa": "/ˈnaɪsli/",
+          "zh": "有禮貌地、和氣地"
+        },
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-16",
+      "date": "2026-07-18",
+      "category": "manners",
+      "en": "Say thank you when someone helps you.",
+      "zh": "別人幫你的時候要說謝謝。",
+      "ipa": "/se θæŋk ju wɛn ˈsʌmwʌn hɛlps ju/",
+      "vocab": [
+        {
+          "w": "thank",
+          "pos": "v.",
+          "ipa": "/θæŋk/",
+          "zh": "感謝"
+        },
+        {
+          "w": "someone",
+          "pos": "pron.",
+          "ipa": "/ˈsʌmwʌn/",
+          "zh": "某人"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-17",
+      "date": "2026-07-18",
+      "category": "weather",
+      "en": "It's chilly outside, so put on your jacket.",
+      "zh": "外面有點冷，穿上你的外套。",
+      "ipa": "/ɪts ˈtʃɪli ˈaʊtˈsaɪd so pʊt ɑn jɔr ˈdʒækɪt/",
+      "vocab": [
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "微冷的"
+        },
+        {
+          "w": "jacket",
+          "pos": "n.",
+          "ipa": "/ˈdʒækɪt/",
+          "zh": "外套"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-18",
+      "date": "2026-07-18",
+      "category": "screen-time",
+      "en": "Ten more minutes, then we turn it off.",
+      "zh": "再看十分鐘，然後我們就關掉。",
+      "ipa": "/tɛn mɔr ˈmɪnɪts ðɛn wi tɝn ɪt ɔf/",
+      "vocab": [
+        {
+          "w": "minute",
+          "pos": "n.",
+          "ipa": "/ˈmɪnɪt/",
+          "zh": "分鐘"
+        },
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-19",
+      "date": "2026-07-18",
+      "category": "celebrations",
+      "en": "Let's hang the balloons for the party.",
+      "zh": "我們一起把氣球掛起來準備派對。",
+      "ipa": "/lɛts hæŋ ðə bəˈlunz fɔr ðə ˈpɑrti/",
+      "vocab": [
+        {
+          "w": "hang",
+          "pos": "v.",
+          "ipa": "/hæŋ/",
+          "zh": "掛"
+        },
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-18-20",
+      "date": "2026-07-18",
+      "category": "reading",
+      "en": "Point to the words as I read them.",
+      "zh": "我唸的時候，你用手指著這些字。",
+      "ipa": "/pɔɪnt tə ðə wɝdz æz aɪ rid ðɛm/",
+      "vocab": [
+        {
+          "w": "point",
+          "pos": "v.",
+          "ipa": "/pɔɪnt/",
+          "zh": "指"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "字、單字"
+        }
+      ]
+    }
+  ]
+}
