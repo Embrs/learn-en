@@ -1,0 +1,247 @@
+{
+  "date": "2026-07-19",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-19-1",
+      "date": "2026-07-19",
+      "category": "daily-routine",
+      "en": "Wash your hands as soon as you get home.",
+      "zh": "一回到家就先去洗手。",
+      "ipa": "/wɑʃ jɔr hændz æz sun æz ju ɡɛt hom/",
+      "vocab": [
+        { "w": "wash", "pos": "v.", "ipa": "/wɑʃ/", "zh": "洗" },
+        { "w": "get home", "pos": "phr.", "ipa": "/ɡɛt hom/", "zh": "回到家" }
+      ]
+    },
+    {
+      "id": "2026-07-19-2",
+      "date": "2026-07-19",
+      "category": "meals",
+      "en": "Use a spoon for your yogurt.",
+      "zh": "優格要用湯匙吃。",
+      "ipa": "/juz ə spun fɔr jɔr ˈjoɡɚt/",
+      "vocab": [
+        { "w": "spoon", "pos": "n.", "ipa": "/spun/", "zh": "湯匙" },
+        { "w": "yogurt", "pos": "n.", "ipa": "/ˈjoɡɚt/", "zh": "優格" }
+      ]
+    },
+    {
+      "id": "2026-07-19-3",
+      "date": "2026-07-19",
+      "category": "bath-bedtime",
+      "en": "Hang your towel up after your bath.",
+      "zh": "洗完澡把毛巾掛起來。",
+      "ipa": "/hæŋ jɔr ˈtaʊəl ʌp ˈæftɚ jɔr bæθ/",
+      "vocab": [
+        { "w": "hang up", "pos": "phr.", "ipa": "/hæŋ ʌp/", "zh": "掛起來" },
+        { "w": "towel", "pos": "n.", "ipa": "/ˈtaʊəl/", "zh": "毛巾" }
+      ]
+    },
+    {
+      "id": "2026-07-19-4",
+      "date": "2026-07-19",
+      "category": "outings",
+      "en": "Hold the map and help me find the way.",
+      "zh": "拿著地圖，幫我找路。",
+      "ipa": "/hold ðə mæp ænd hɛlp mi faɪnd ðə we/",
+      "vocab": [
+        { "w": "map", "pos": "n.", "ipa": "/mæp/", "zh": "地圖" },
+        { "w": "find", "pos": "v.", "ipa": "/faɪnd/", "zh": "找到" }
+      ]
+    },
+    {
+      "id": "2026-07-19-5",
+      "date": "2026-07-19",
+      "category": "playground",
+      "en": "Let's play catch with the ball.",
+      "zh": "我們來玩傳接球吧。",
+      "ipa": "/lɛts ple kætʃ wɪð ðə bɔl/",
+      "vocab": [
+        { "w": "catch", "pos": "n.", "ipa": "/kætʃ/", "zh": "接（球）" },
+        { "w": "ball", "pos": "n.", "ipa": "/bɔl/", "zh": "球" }
+      ]
+    },
+    {
+      "id": "2026-07-19-6",
+      "date": "2026-07-19",
+      "category": "school",
+      "en": "Pack your lunchbox in your bag.",
+      "zh": "把便當盒裝進書包裡。",
+      "ipa": "/pæk jɔr ˈlʌntʃbɑks ɪn jɔr bæɡ/",
+      "vocab": [
+        { "w": "lunchbox", "pos": "n.", "ipa": "/ˈlʌntʃbɑks/", "zh": "便當盒" },
+        { "w": "bag", "pos": "n.", "ipa": "/bæɡ/", "zh": "書包" }
+      ]
+    },
+    {
+      "id": "2026-07-19-7",
+      "date": "2026-07-19",
+      "category": "homework",
+      "en": "Read the passage out loud once.",
+      "zh": "把這段文章大聲念一次。",
+      "ipa": "/rid ðə ˈpæsɪdʒ aʊt laʊd wʌns/",
+      "vocab": [
+        { "w": "passage", "pos": "n.", "ipa": "/ˈpæsɪdʒ/", "zh": "段落、文章" },
+        { "w": "out loud", "pos": "phr.", "ipa": "/aʊt laʊd/", "zh": "大聲地" }
+      ]
+    },
+    {
+      "id": "2026-07-19-8",
+      "date": "2026-07-19",
+      "category": "toys-sharing",
+      "en": "Lend your friend one of your toys.",
+      "zh": "借一個玩具給你的朋友玩。",
+      "ipa": "/lɛnd jɔr frɛnd wʌn ʌv jɔr tɔɪz/",
+      "vocab": [
+        { "w": "lend", "pos": "v.", "ipa": "/lɛnd/", "zh": "借出" },
+        { "w": "toys", "pos": "n.", "ipa": "/tɔɪz/", "zh": "玩具" }
+      ]
+    },
+    {
+      "id": "2026-07-19-9",
+      "date": "2026-07-19",
+      "category": "emotions",
+      "en": "Tell me how you're feeling right now.",
+      "zh": "告訴我你現在的感覺。",
+      "ipa": "/tɛl mi haʊ jʊr ˈfilɪŋ raɪt naʊ/",
+      "vocab": [
+        { "w": "feeling", "pos": "v.", "ipa": "/ˈfilɪŋ/", "zh": "感覺" },
+        { "w": "right now", "pos": "phr.", "ipa": "/raɪt naʊ/", "zh": "現在" }
+      ]
+    },
+    {
+      "id": "2026-07-19-10",
+      "date": "2026-07-19",
+      "category": "discipline",
+      "en": "No means no, please stop asking.",
+      "zh": "不行就是不行，別再問了。",
+      "ipa": "/no minz no pliz stɑp ˈæskɪŋ/",
+      "vocab": [
+        { "w": "means", "pos": "v.", "ipa": "/minz/", "zh": "意思是" },
+        { "w": "stop", "pos": "v.", "ipa": "/stɑp/", "zh": "停止" }
+      ]
+    },
+    {
+      "id": "2026-07-19-11",
+      "date": "2026-07-19",
+      "category": "praise",
+      "en": "You listened so well today, thank you.",
+      "zh": "你今天好會聽話，謝謝你。",
+      "ipa": "/ju ˈlɪsənd so wɛl təˈde θæŋk ju/",
+      "vocab": [
+        { "w": "listened", "pos": "v.", "ipa": "/ˈlɪsənd/", "zh": "聆聽" },
+        { "w": "well", "pos": "adv.", "ipa": "/wɛl/", "zh": "好地" }
+      ]
+    },
+    {
+      "id": "2026-07-19-12",
+      "date": "2026-07-19",
+      "category": "safety",
+      "en": "Don't run with scissors in your hand.",
+      "zh": "不要拿著剪刀跑。",
+      "ipa": "/dont rʌn wɪð ˈsɪzɚz ɪn jɔr hænd/",
+      "vocab": [
+        { "w": "run", "pos": "v.", "ipa": "/rʌn/", "zh": "跑" },
+        { "w": "scissors", "pos": "n.", "ipa": "/ˈsɪzɚz/", "zh": "剪刀" }
+      ]
+    },
+    {
+      "id": "2026-07-19-13",
+      "date": "2026-07-19",
+      "category": "health",
+      "en": "Get some rest so you feel better.",
+      "zh": "好好休息，你就會好一點。",
+      "ipa": "/ɡɛt sʌm rɛst so ju fil ˈbɛtɚ/",
+      "vocab": [
+        { "w": "rest", "pos": "n.", "ipa": "/rɛst/", "zh": "休息" },
+        { "w": "better", "pos": "adj.", "ipa": "/ˈbɛtɚ/", "zh": "較好的" }
+      ]
+    },
+    {
+      "id": "2026-07-19-14",
+      "date": "2026-07-19",
+      "category": "relatives",
+      "en": "Give Grandpa a hug when he arrives.",
+      "zh": "爺爺來的時候給他一個抱抱。",
+      "ipa": "/ɡɪv ˈɡrænpɑ ə hʌɡ wɛn hi əˈraɪvz/",
+      "vocab": [
+        { "w": "hug", "pos": "n.", "ipa": "/hʌɡ/", "zh": "擁抱" },
+        { "w": "arrive", "pos": "v.", "ipa": "/əˈraɪv/", "zh": "抵達" }
+      ]
+    },
+    {
+      "id": "2026-07-19-15",
+      "date": "2026-07-19",
+      "category": "friends",
+      "en": "Say hello to your new classmate.",
+      "zh": "跟你的新同學打聲招呼。",
+      "ipa": "/se həˈlo tə jɔr nu ˈklæsmet/",
+      "vocab": [
+        { "w": "hello", "pos": "int.", "ipa": "/həˈlo/", "zh": "你好" },
+        { "w": "classmate", "pos": "n.", "ipa": "/ˈklæsmet/", "zh": "同學" }
+      ]
+    },
+    {
+      "id": "2026-07-19-16",
+      "date": "2026-07-19",
+      "category": "manners",
+      "en": "Cover your mouth when you sneeze.",
+      "zh": "打噴嚏的時候要摀住嘴巴。",
+      "ipa": "/ˈkʌvɚ jɔr maʊθ wɛn ju sniz/",
+      "vocab": [
+        { "w": "cover", "pos": "v.", "ipa": "/ˈkʌvɚ/", "zh": "遮住、摀住" },
+        { "w": "sneeze", "pos": "v.", "ipa": "/sniz/", "zh": "打噴嚏" }
+      ]
+    },
+    {
+      "id": "2026-07-19-17",
+      "date": "2026-07-19",
+      "category": "weather",
+      "en": "The sun is bright, wear your sunglasses.",
+      "zh": "太陽很大，戴上太陽眼鏡吧。",
+      "ipa": "/ðə sʌn ɪz braɪt wɛr jɔr ˈsʌnˌɡlæsɪz/",
+      "vocab": [
+        { "w": "bright", "pos": "adj.", "ipa": "/braɪt/", "zh": "明亮的" },
+        { "w": "sunglasses", "pos": "n.", "ipa": "/ˈsʌnˌɡlæsɪz/", "zh": "太陽眼鏡" }
+      ]
+    },
+    {
+      "id": "2026-07-19-18",
+      "date": "2026-07-19",
+      "category": "screen-time",
+      "en": "Let's play a board game instead of the phone.",
+      "zh": "我們玩桌遊，別玩手機了。",
+      "ipa": "/lɛts ple ə bɔrd ɡem ɪnˈstɛd ʌv ðə fon/",
+      "vocab": [
+        { "w": "board game", "pos": "n.", "ipa": "/bɔrd ɡem/", "zh": "桌遊" },
+        { "w": "instead", "pos": "adv.", "ipa": "/ɪnˈstɛd/", "zh": "代替、反而" }
+      ]
+    },
+    {
+      "id": "2026-07-19-19",
+      "date": "2026-07-19",
+      "category": "celebrations",
+      "en": "Help me decorate the birthday cake.",
+      "zh": "幫我裝飾生日蛋糕。",
+      "ipa": "/hɛlp mi ˈdɛkəret ðə ˈbɝθde kek/",
+      "vocab": [
+        { "w": "decorate", "pos": "v.", "ipa": "/ˈdɛkəret/", "zh": "裝飾" },
+        { "w": "cake", "pos": "n.", "ipa": "/kek/", "zh": "蛋糕" }
+      ]
+    },
+    {
+      "id": "2026-07-19-20",
+      "date": "2026-07-19",
+      "category": "reading",
+      "en": "Let's find your favorite book on the shelf.",
+      "zh": "我們在書架上找你最喜歡的書吧。",
+      "ipa": "/lɛts faɪnd jɔr ˈfevərɪt bʊk ɑn ðə ʃɛlf/",
+      "vocab": [
+        { "w": "favorite", "pos": "adj.", "ipa": "/ˈfevərɪt/", "zh": "最喜歡的" },
+        { "w": "shelf", "pos": "n.", "ipa": "/ʃɛlf/", "zh": "書架" }
+      ]
+    }
+  ]
+}

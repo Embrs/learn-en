@@ -1,0 +1,247 @@
+{
+  "date": "2026-07-20",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-20-1",
+      "date": "2026-07-20",
+      "category": "daily-routine",
+      "en": "Open the window to get fresh air.",
+      "zh": "把窗戶打開，讓空氣流通。",
+      "ipa": "/ˈopən ðə ˈwɪndo tə ɡɛt frɛʃ ɛr/",
+      "vocab": [
+        { "w": "window", "pos": "n.", "ipa": "/ˈwɪndo/", "zh": "窗戶" },
+        { "w": "fresh", "pos": "adj.", "ipa": "/frɛʃ/", "zh": "新鮮的" }
+      ]
+    },
+    {
+      "id": "2026-07-20-2",
+      "date": "2026-07-20",
+      "category": "meals",
+      "en": "Pass the salad to your sister.",
+      "zh": "把沙拉遞給你妹妹。",
+      "ipa": "/pæs ðə ˈsæləd tə jɔr ˈsɪstɚ/",
+      "vocab": [
+        { "w": "pass", "pos": "v.", "ipa": "/pæs/", "zh": "傳遞" },
+        { "w": "salad", "pos": "n.", "ipa": "/ˈsæləd/", "zh": "沙拉" }
+      ]
+    },
+    {
+      "id": "2026-07-20-3",
+      "date": "2026-07-20",
+      "category": "bath-bedtime",
+      "en": "Put on your slippers after your bath.",
+      "zh": "洗完澡穿上拖鞋。",
+      "ipa": "/pʊt ɑn jɔr ˈslɪpɚz ˈæftɚ jɔr bæθ/",
+      "vocab": [
+        { "w": "put on", "pos": "phr.", "ipa": "/pʊt ɑn/", "zh": "穿上" },
+        { "w": "slippers", "pos": "n.", "ipa": "/ˈslɪpɚz/", "zh": "拖鞋" }
+      ]
+    },
+    {
+      "id": "2026-07-20-4",
+      "date": "2026-07-20",
+      "category": "outings",
+      "en": "Let's take the bus downtown.",
+      "zh": "我們搭公車去市區吧。",
+      "ipa": "/lɛts tek ðə bʌs ˈdaʊnˌtaʊn/",
+      "vocab": [
+        { "w": "bus", "pos": "n.", "ipa": "/bʌs/", "zh": "公車" },
+        { "w": "downtown", "pos": "adv.", "ipa": "/ˈdaʊnˌtaʊn/", "zh": "市中心" }
+      ]
+    },
+    {
+      "id": "2026-07-20-5",
+      "date": "2026-07-20",
+      "category": "playground",
+      "en": "Don't push others on the slide.",
+      "zh": "在溜滑梯上不要推別人。",
+      "ipa": "/dont pʊʃ ˈʌðɚz ɑn ðə slaɪd/",
+      "vocab": [
+        { "w": "push", "pos": "v.", "ipa": "/pʊʃ/", "zh": "推" },
+        { "w": "slide", "pos": "n.", "ipa": "/slaɪd/", "zh": "溜滑梯" }
+      ]
+    },
+    {
+      "id": "2026-07-20-6",
+      "date": "2026-07-20",
+      "category": "school",
+      "en": "Put your name on your worksheet.",
+      "zh": "在學習單上寫上你的名字。",
+      "ipa": "/pʊt jɔr nem ɑn jɔr ˈwɝkʃit/",
+      "vocab": [
+        { "w": "name", "pos": "n.", "ipa": "/nem/", "zh": "名字" },
+        { "w": "worksheet", "pos": "n.", "ipa": "/ˈwɝkʃit/", "zh": "學習單" }
+      ]
+    },
+    {
+      "id": "2026-07-20-7",
+      "date": "2026-07-20",
+      "category": "homework",
+      "en": "Write neatly so I can read it.",
+      "zh": "寫整齊一點，我才看得懂。",
+      "ipa": "/raɪt ˈnitli so aɪ kæn rid ɪt/",
+      "vocab": [
+        { "w": "write", "pos": "v.", "ipa": "/raɪt/", "zh": "寫" },
+        { "w": "neatly", "pos": "adv.", "ipa": "/ˈnitli/", "zh": "整齊地" }
+      ]
+    },
+    {
+      "id": "2026-07-20-8",
+      "date": "2026-07-20",
+      "category": "toys-sharing",
+      "en": "Give your sister a turn with the doll.",
+      "zh": "讓妹妹也玩一下娃娃。",
+      "ipa": "/ɡɪv jɔr ˈsɪstɚ ə tɝn wɪð ðə dɑl/",
+      "vocab": [
+        { "w": "sister", "pos": "n.", "ipa": "/ˈsɪstɚ/", "zh": "姊妹" },
+        { "w": "doll", "pos": "n.", "ipa": "/dɑl/", "zh": "娃娃" }
+      ]
+    },
+    {
+      "id": "2026-07-20-9",
+      "date": "2026-07-20",
+      "category": "emotions",
+      "en": "It's okay to make mistakes.",
+      "zh": "犯錯是沒關係的。",
+      "ipa": "/ɪts oˈke tə mek mɪˈsteks/",
+      "vocab": [
+        { "w": "mistake", "pos": "n.", "ipa": "/mɪˈstek/", "zh": "錯誤" },
+        { "w": "okay", "pos": "adj.", "ipa": "/oˈke/", "zh": "沒關係" }
+      ]
+    },
+    {
+      "id": "2026-07-20-10",
+      "date": "2026-07-20",
+      "category": "discipline",
+      "en": "You can try again after you calm down.",
+      "zh": "等你冷靜下來可以再試一次。",
+      "ipa": "/ju kæn traɪ əˈɡɛn ˈæftɚ ju kɑm daʊn/",
+      "vocab": [
+        { "w": "try again", "pos": "phr.", "ipa": "/traɪ əˈɡɛn/", "zh": "再試一次" },
+        { "w": "calm down", "pos": "phr.", "ipa": "/kɑm daʊn/", "zh": "冷靜下來" }
+      ]
+    },
+    {
+      "id": "2026-07-20-11",
+      "date": "2026-07-20",
+      "category": "praise",
+      "en": "You did a wonderful job sharing.",
+      "zh": "你分享得很棒。",
+      "ipa": "/ju dɪd ə ˈwʌndɚfəl dʒɑb ˈʃɛrɪŋ/",
+      "vocab": [
+        { "w": "job", "pos": "n.", "ipa": "/dʒɑb/", "zh": "表現、工作" },
+        { "w": "sharing", "pos": "v.", "ipa": "/ˈʃɛrɪŋ/", "zh": "分享" }
+      ]
+    },
+    {
+      "id": "2026-07-20-12",
+      "date": "2026-07-20",
+      "category": "safety",
+      "en": "Never touch the electric outlet.",
+      "zh": "絕對不要碰插座。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə ɪˈlɛktrɪk ˈaʊtlɛt/",
+      "vocab": [
+        { "w": "touch", "pos": "v.", "ipa": "/tʌtʃ/", "zh": "觸摸" },
+        { "w": "outlet", "pos": "n.", "ipa": "/ˈaʊtlɛt/", "zh": "插座" }
+      ]
+    },
+    {
+      "id": "2026-07-20-13",
+      "date": "2026-07-20",
+      "category": "health",
+      "en": "Take a nap if you feel tired.",
+      "zh": "累了就睡個午覺。",
+      "ipa": "/tek ə næp ɪf ju fil ˈtaɪɚd/",
+      "vocab": [
+        { "w": "nap", "pos": "n.", "ipa": "/næp/", "zh": "小睡" },
+        { "w": "tired", "pos": "adj.", "ipa": "/ˈtaɪɚd/", "zh": "疲累的" }
+      ]
+    },
+    {
+      "id": "2026-07-20-14",
+      "date": "2026-07-20",
+      "category": "relatives",
+      "en": "Sit next to your cousin at dinner.",
+      "zh": "吃晚餐時坐在表哥旁邊。",
+      "ipa": "/sɪt nɛkst tə jɔr ˈkʌzən æt ˈdɪnɚ/",
+      "vocab": [
+        { "w": "next to", "pos": "phr.", "ipa": "/nɛkst tə/", "zh": "在…旁邊" },
+        { "w": "cousin", "pos": "n.", "ipa": "/ˈkʌzən/", "zh": "表（堂）親" }
+      ]
+    },
+    {
+      "id": "2026-07-20-15",
+      "date": "2026-07-20",
+      "category": "friends",
+      "en": "Share your snack with your friend.",
+      "zh": "把點心分給你的朋友。",
+      "ipa": "/ʃɛr jɔr snæk wɪð jɔr frɛnd/",
+      "vocab": [
+        { "w": "share", "pos": "v.", "ipa": "/ʃɛr/", "zh": "分享" },
+        { "w": "snack", "pos": "n.", "ipa": "/snæk/", "zh": "點心" }
+      ]
+    },
+    {
+      "id": "2026-07-20-16",
+      "date": "2026-07-20",
+      "category": "manners",
+      "en": "Greet your teacher with a smile.",
+      "zh": "用微笑跟老師打招呼。",
+      "ipa": "/ɡrit jɔr ˈtitʃɚ wɪð ə smaɪl/",
+      "vocab": [
+        { "w": "greet", "pos": "v.", "ipa": "/ɡrit/", "zh": "打招呼" },
+        { "w": "smile", "pos": "n.", "ipa": "/smaɪl/", "zh": "微笑" }
+      ]
+    },
+    {
+      "id": "2026-07-20-17",
+      "date": "2026-07-20",
+      "category": "weather",
+      "en": "It's hot today, drink lots of water.",
+      "zh": "今天很熱，多喝點水。",
+      "ipa": "/ɪts hɑt təˈde drɪŋk lɑts ʌv ˈwɔtɚ/",
+      "vocab": [
+        { "w": "hot", "pos": "adj.", "ipa": "/hɑt/", "zh": "熱的" },
+        { "w": "lots of", "pos": "phr.", "ipa": "/lɑts ʌv/", "zh": "許多" }
+      ]
+    },
+    {
+      "id": "2026-07-20-18",
+      "date": "2026-07-20",
+      "category": "screen-time",
+      "en": "Watch just one episode, then we stop.",
+      "zh": "只看一集，然後就停。",
+      "ipa": "/wɑtʃ dʒʌst wʌn ˈɛpɪsod ðɛn wi stɑp/",
+      "vocab": [
+        { "w": "episode", "pos": "n.", "ipa": "/ˈɛpɪsod/", "zh": "（影集的）一集" },
+        { "w": "stop", "pos": "v.", "ipa": "/stɑp/", "zh": "停止" }
+      ]
+    },
+    {
+      "id": "2026-07-20-19",
+      "date": "2026-07-20",
+      "category": "celebrations",
+      "en": "Give your friend a birthday card.",
+      "zh": "送你的朋友一張生日卡。",
+      "ipa": "/ɡɪv jɔr frɛnd ə ˈbɝθde kɑrd/",
+      "vocab": [
+        { "w": "birthday", "pos": "n.", "ipa": "/ˈbɝθde/", "zh": "生日" },
+        { "w": "card", "pos": "n.", "ipa": "/kɑrd/", "zh": "卡片" }
+      ]
+    },
+    {
+      "id": "2026-07-20-20",
+      "date": "2026-07-20",
+      "category": "reading",
+      "en": "Let's take turns reading the story.",
+      "zh": "我們輪流念這個故事吧。",
+      "ipa": "/lɛts tek tɝnz ˈridɪŋ ðə ˈstɔri/",
+      "vocab": [
+        { "w": "take turns", "pos": "phr.", "ipa": "/tek tɝnz/", "zh": "輪流" },
+        { "w": "story", "pos": "n.", "ipa": "/ˈstɔri/", "zh": "故事" }
+      ]
+    }
+  ]
+}
