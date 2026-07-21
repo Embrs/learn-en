@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-21",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-21-1",
+      "date": "2026-07-21",
+      "category": "daily-routine",
+      "en": "Hang your towel back on the hook.",
+      "zh": "把毛巾掛回掛鉤上。",
+      "ipa": "/hæŋ jɔr ˈtaʊəl bæk ɑn ðə hʊk/",
+      "vocab": [
+        {
+          "w": "towel",
+          "pos": "n.",
+          "ipa": "/ˈtaʊəl/",
+          "zh": "毛巾"
+        },
+        {
+          "w": "hook",
+          "pos": "n.",
+          "ipa": "/hʊk/",
+          "zh": "掛鉤"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-2",
+      "date": "2026-07-21",
+      "category": "meals",
+      "en": "Blow on your soup, it's still hot.",
+      "zh": "吹一吹湯，還很燙。",
+      "ipa": "/blo ɑn jɔr sup ɪts stɪl hɑt/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "soup",
+          "pos": "n.",
+          "ipa": "/sup/",
+          "zh": "湯"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-3",
+      "date": "2026-07-21",
+      "category": "bath-bedtime",
+      "en": "Let's read one story before you sleep.",
+      "zh": "睡前我們念一個故事吧。",
+      "ipa": "/lɛts rid wʌn ˈstɔri bɪˈfɔr ju slip/",
+      "vocab": [
+        {
+          "w": "before",
+          "pos": "prep.",
+          "ipa": "/bɪˈfɔr/",
+          "zh": "在…之前"
+        },
+        {
+          "w": "sleep",
+          "pos": "v.",
+          "ipa": "/slip/",
+          "zh": "睡覺"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-4",
+      "date": "2026-07-21",
+      "category": "outings",
+      "en": "Hold my hand crossing the street.",
+      "zh": "過馬路要牽著我的手。",
+      "ipa": "/hold maɪ hænd ˈkrɔsɪŋ ðə strit/",
+      "vocab": [
+        {
+          "w": "hold",
+          "pos": "v.",
+          "ipa": "/hold/",
+          "zh": "握住"
+        },
+        {
+          "w": "cross",
+          "pos": "v.",
+          "ipa": "/krɔs/",
+          "zh": "穿越"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-5",
+      "date": "2026-07-21",
+      "category": "playground",
+      "en": "Wait for your turn on the swing.",
+      "zh": "排隊等著盪鞦韆。",
+      "ipa": "/wet fɔr jɔr tɝn ɑn ðə swɪŋ/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        },
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-6",
+      "date": "2026-07-21",
+      "category": "school",
+      "en": "Raise your hand before you speak.",
+      "zh": "發言前先舉手。",
+      "ipa": "/rez jɔr hænd bɪˈfɔr ju spik/",
+      "vocab": [
+        {
+          "w": "raise",
+          "pos": "v.",
+          "ipa": "/rez/",
+          "zh": "舉起"
+        },
+        {
+          "w": "speak",
+          "pos": "v.",
+          "ipa": "/spik/",
+          "zh": "說話"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-7",
+      "date": "2026-07-21",
+      "category": "homework",
+      "en": "Check your answers one more time.",
+      "zh": "再檢查一次你的答案。",
+      "ipa": "/tʃɛk jɔr ˈænsɚz wʌn mɔr taɪm/",
+      "vocab": [
+        {
+          "w": "check",
+          "pos": "v.",
+          "ipa": "/tʃɛk/",
+          "zh": "檢查"
+        },
+        {
+          "w": "answer",
+          "pos": "n.",
+          "ipa": "/ˈænsɚ/",
+          "zh": "答案"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-8",
+      "date": "2026-07-21",
+      "category": "toys-sharing",
+      "en": "Let's build the blocks together.",
+      "zh": "我們一起堆積木吧。",
+      "ipa": "/lɛts bɪld ðə blɑks təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "build",
+          "pos": "v.",
+          "ipa": "/bɪld/",
+          "zh": "建造、堆"
+        },
+        {
+          "w": "blocks",
+          "pos": "n.",
+          "ipa": "/blɑks/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-9",
+      "date": "2026-07-21",
+      "category": "emotions",
+      "en": "Tell me why you feel sad.",
+      "zh": "告訴我你為什麼難過。",
+      "ipa": "/tɛl mi waɪ ju fil sæd/",
+      "vocab": [
+        {
+          "w": "feel",
+          "pos": "v.",
+          "ipa": "/fil/",
+          "zh": "感覺"
+        },
+        {
+          "w": "sad",
+          "pos": "adj.",
+          "ipa": "/sæd/",
+          "zh": "難過的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-10",
+      "date": "2026-07-21",
+      "category": "discipline",
+      "en": "Take a deep breath when you are angry.",
+      "zh": "生氣的時候深呼吸。",
+      "ipa": "/tek ə dip brɛθ wɛn ju ɑr ˈæŋɡri/",
+      "vocab": [
+        {
+          "w": "deep breath",
+          "pos": "phr.",
+          "ipa": "/dip brɛθ/",
+          "zh": "深呼吸"
+        },
+        {
+          "w": "angry",
+          "pos": "adj.",
+          "ipa": "/ˈæŋɡri/",
+          "zh": "生氣的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-11",
+      "date": "2026-07-21",
+      "category": "praise",
+      "en": "I'm so proud of your hard work.",
+      "zh": "你這麼努力，我好驕傲。",
+      "ipa": "/aɪm so praʊd ʌv jɔr hɑrd wɝk/",
+      "vocab": [
+        {
+          "w": "proud",
+          "pos": "adj.",
+          "ipa": "/praʊd/",
+          "zh": "驕傲的"
+        },
+        {
+          "w": "hard work",
+          "pos": "phr.",
+          "ipa": "/hɑrd wɝk/",
+          "zh": "努力"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-12",
+      "date": "2026-07-21",
+      "category": "safety",
+      "en": "Hold the railing when you go downstairs.",
+      "zh": "下樓梯時要扶著欄杆。",
+      "ipa": "/hold ðə ˈrelɪŋ wɛn ju ɡo ˈdaʊnˈstɛrz/",
+      "vocab": [
+        {
+          "w": "railing",
+          "pos": "n.",
+          "ipa": "/ˈrelɪŋ/",
+          "zh": "欄杆"
+        },
+        {
+          "w": "downstairs",
+          "pos": "adv.",
+          "ipa": "/ˈdaʊnˈstɛrz/",
+          "zh": "樓下"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-13",
+      "date": "2026-07-21",
+      "category": "health",
+      "en": "Wash your hands before you eat.",
+      "zh": "吃東西前先洗手。",
+      "ipa": "/wɑʃ jɔr hændz bɪˈfɔr ju it/",
+      "vocab": [
+        {
+          "w": "wash",
+          "pos": "v.",
+          "ipa": "/wɑʃ/",
+          "zh": "洗"
+        },
+        {
+          "w": "hands",
+          "pos": "n.",
+          "ipa": "/hændz/",
+          "zh": "手"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-14",
+      "date": "2026-07-21",
+      "category": "relatives",
+      "en": "Call Grandma to say good night.",
+      "zh": "打電話跟奶奶說晚安。",
+      "ipa": "/kɔl ˈɡrænmɑ tə se ɡʊd naɪt/",
+      "vocab": [
+        {
+          "w": "call",
+          "pos": "v.",
+          "ipa": "/kɔl/",
+          "zh": "打電話"
+        },
+        {
+          "w": "grandma",
+          "pos": "n.",
+          "ipa": "/ˈɡrænmɑ/",
+          "zh": "奶奶"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-15",
+      "date": "2026-07-21",
+      "category": "friends",
+      "en": "Say sorry if you hurt your friend.",
+      "zh": "如果弄痛朋友要說對不起。",
+      "ipa": "/se ˈsɑri ɪf ju hɝt jɔr frɛnd/",
+      "vocab": [
+        {
+          "w": "sorry",
+          "pos": "adj.",
+          "ipa": "/ˈsɑri/",
+          "zh": "抱歉的"
+        },
+        {
+          "w": "hurt",
+          "pos": "v.",
+          "ipa": "/hɝt/",
+          "zh": "弄痛"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-16",
+      "date": "2026-07-21",
+      "category": "manners",
+      "en": "Say excuse me when you burp.",
+      "zh": "打嗝時要說不好意思。",
+      "ipa": "/se ɪkˈskjuz mi wɛn ju bɝp/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "不好意思"
+        },
+        {
+          "w": "burp",
+          "pos": "v.",
+          "ipa": "/bɝp/",
+          "zh": "打嗝"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-17",
+      "date": "2026-07-21",
+      "category": "weather",
+      "en": "Bring an umbrella, it might rain.",
+      "zh": "帶把傘，可能會下雨。",
+      "ipa": "/brɪŋ ən ʌmˈbrɛlə ɪt maɪt ren/",
+      "vocab": [
+        {
+          "w": "umbrella",
+          "pos": "n.",
+          "ipa": "/ʌmˈbrɛlə/",
+          "zh": "雨傘"
+        },
+        {
+          "w": "rain",
+          "pos": "v.",
+          "ipa": "/ren/",
+          "zh": "下雨"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-18",
+      "date": "2026-07-21",
+      "category": "screen-time",
+      "en": "Rest your eyes away from the screen.",
+      "zh": "眼睛離開螢幕休息一下。",
+      "ipa": "/rɛst jɔr aɪz əˈwe frʌm ðə skrin/",
+      "vocab": [
+        {
+          "w": "rest",
+          "pos": "v.",
+          "ipa": "/rɛst/",
+          "zh": "休息"
+        },
+        {
+          "w": "screen",
+          "pos": "n.",
+          "ipa": "/skrin/",
+          "zh": "螢幕"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-19",
+      "date": "2026-07-21",
+      "category": "celebrations",
+      "en": "Let's blow out the candles together.",
+      "zh": "我們一起吹蠟燭吧。",
+      "ipa": "/lɛts blo aʊt ðə ˈkændəlz təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "blow out",
+          "pos": "phr.",
+          "ipa": "/blo aʊt/",
+          "zh": "吹熄"
+        },
+        {
+          "w": "candle",
+          "pos": "n.",
+          "ipa": "/ˈkændəl/",
+          "zh": "蠟燭"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-21-20",
+      "date": "2026-07-21",
+      "category": "reading",
+      "en": "Point to the words as you read.",
+      "zh": "念的時候用手指著字。",
+      "ipa": "/pɔɪnt tə ðə wɝdz æz ju rid/",
+      "vocab": [
+        {
+          "w": "point",
+          "pos": "v.",
+          "ipa": "/pɔɪnt/",
+          "zh": "指"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "字、單字"
+        }
+      ]
+    }
+  ]
+}
