@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-22",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-22-1",
+      "date": "2026-07-22",
+      "category": "daily-routine",
+      "en": "Time to brush your teeth now.",
+      "zh": "現在該刷牙囉。",
+      "ipa": "/taɪm tə brʌʃ jɔr tiθ naʊ/",
+      "vocab": [
+        {
+          "w": "brush",
+          "pos": "v.",
+          "ipa": "/brʌʃ/",
+          "zh": "刷"
+        },
+        {
+          "w": "teeth",
+          "pos": "n.",
+          "ipa": "/tiθ/",
+          "zh": "牙齒"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-2",
+      "date": "2026-07-22",
+      "category": "meals",
+      "en": "Finish your veggies before dessert.",
+      "zh": "吃完蔬菜才有甜點。",
+      "ipa": "/ˈfɪnɪʃ jɔr ˈvɛdʒiz bɪˈfɔr dɪˈzɝt/",
+      "vocab": [
+        {
+          "w": "veggies",
+          "pos": "n.",
+          "ipa": "/ˈvɛdʒiz/",
+          "zh": "蔬菜"
+        },
+        {
+          "w": "dessert",
+          "pos": "n.",
+          "ipa": "/dɪˈzɝt/",
+          "zh": "甜點"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-3",
+      "date": "2026-07-22",
+      "category": "bath-bedtime",
+      "en": "Dry your hair before bed.",
+      "zh": "睡覺前把頭髮吹乾。",
+      "ipa": "/draɪ jɔr hɛr bɪˈfɔr bɛd/",
+      "vocab": [
+        {
+          "w": "dry",
+          "pos": "v.",
+          "ipa": "/draɪ/",
+          "zh": "弄乾"
+        },
+        {
+          "w": "hair",
+          "pos": "n.",
+          "ipa": "/hɛr/",
+          "zh": "頭髮"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-4",
+      "date": "2026-07-22",
+      "category": "outings",
+      "en": "Stay close to me in the store.",
+      "zh": "在店裡要待在我身邊。",
+      "ipa": "/ste klos tə mi ɪn ðə stɔr/",
+      "vocab": [
+        {
+          "w": "close",
+          "pos": "adj.",
+          "ipa": "/klos/",
+          "zh": "靠近的"
+        },
+        {
+          "w": "store",
+          "pos": "n.",
+          "ipa": "/stɔr/",
+          "zh": "商店"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-5",
+      "date": "2026-07-22",
+      "category": "playground",
+      "en": "Go down the slide feet first.",
+      "zh": "溜滑梯要腳先下去。",
+      "ipa": "/ɡo daʊn ðə slaɪd fit fɝst/",
+      "vocab": [
+        {
+          "w": "slide",
+          "pos": "n.",
+          "ipa": "/slaɪd/",
+          "zh": "溜滑梯"
+        },
+        {
+          "w": "feet",
+          "pos": "n.",
+          "ipa": "/fit/",
+          "zh": "腳"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-6",
+      "date": "2026-07-22",
+      "category": "school",
+      "en": "Pack your bag for tomorrow.",
+      "zh": "把書包整理好明天要用。",
+      "ipa": "/pæk jɔr bæɡ fɔr təˈmɑro/",
+      "vocab": [
+        {
+          "w": "pack",
+          "pos": "v.",
+          "ipa": "/pæk/",
+          "zh": "打包、整理"
+        },
+        {
+          "w": "bag",
+          "pos": "n.",
+          "ipa": "/bæɡ/",
+          "zh": "書包"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-7",
+      "date": "2026-07-22",
+      "category": "homework",
+      "en": "Sit up straight while you write.",
+      "zh": "寫字時坐直一點。",
+      "ipa": "/sɪt ʌp stret waɪl ju raɪt/",
+      "vocab": [
+        {
+          "w": "straight",
+          "pos": "adv.",
+          "ipa": "/stret/",
+          "zh": "直直地"
+        },
+        {
+          "w": "write",
+          "pos": "v.",
+          "ipa": "/raɪt/",
+          "zh": "寫"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-8",
+      "date": "2026-07-22",
+      "category": "toys-sharing",
+      "en": "Give your sister a turn too.",
+      "zh": "也讓妹妹玩一下。",
+      "ipa": "/ɡɪv jɔr ˈsɪstɚ ə tɝn tu/",
+      "vocab": [
+        {
+          "w": "give",
+          "pos": "v.",
+          "ipa": "/ɡɪv/",
+          "zh": "給"
+        },
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪流"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-9",
+      "date": "2026-07-22",
+      "category": "emotions",
+      "en": "It's okay to cry sometimes.",
+      "zh": "有時候哭一哭沒關係。",
+      "ipa": "/ɪts oˈke tə kraɪ ˈsʌmˌtaɪmz/",
+      "vocab": [
+        {
+          "w": "cry",
+          "pos": "v.",
+          "ipa": "/kraɪ/",
+          "zh": "哭"
+        },
+        {
+          "w": "sometimes",
+          "pos": "adv.",
+          "ipa": "/ˈsʌmˌtaɪmz/",
+          "zh": "有時候"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-10",
+      "date": "2026-07-22",
+      "category": "discipline",
+      "en": "We don't throw toys when we're mad.",
+      "zh": "生氣時不可以丟玩具。",
+      "ipa": "/wi dont θro tɔɪz wɛn wɪr mæd/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟"
+        },
+        {
+          "w": "mad",
+          "pos": "adj.",
+          "ipa": "/mæd/",
+          "zh": "生氣的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-11",
+      "date": "2026-07-22",
+      "category": "praise",
+      "en": "You did a great job cleaning up.",
+      "zh": "你收拾得很棒。",
+      "ipa": "/ju dɪd ə ɡret dʒɑb ˈklinɪŋ ʌp/",
+      "vocab": [
+        {
+          "w": "great",
+          "pos": "adj.",
+          "ipa": "/ɡret/",
+          "zh": "很棒的"
+        },
+        {
+          "w": "clean up",
+          "pos": "phr.",
+          "ipa": "/klin ʌp/",
+          "zh": "收拾"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-12",
+      "date": "2026-07-22",
+      "category": "safety",
+      "en": "Don't touch the hot stove.",
+      "zh": "不要碰燙的爐子。",
+      "ipa": "/dont tʌtʃ ðə hɑt stov/",
+      "vocab": [
+        {
+          "w": "touch",
+          "pos": "v.",
+          "ipa": "/tʌtʃ/",
+          "zh": "觸摸"
+        },
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-13",
+      "date": "2026-07-22",
+      "category": "health",
+      "en": "Blow your nose with a tissue.",
+      "zh": "用面紙擤鼻子。",
+      "ipa": "/blo jɔr noz wɪð ə ˈtɪʃu/",
+      "vocab": [
+        {
+          "w": "nose",
+          "pos": "n.",
+          "ipa": "/noz/",
+          "zh": "鼻子"
+        },
+        {
+          "w": "tissue",
+          "pos": "n.",
+          "ipa": "/ˈtɪʃu/",
+          "zh": "面紙"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-14",
+      "date": "2026-07-22",
+      "category": "relatives",
+      "en": "Give Grandpa a big hug.",
+      "zh": "給爺爺一個大大的擁抱。",
+      "ipa": "/ɡɪv ˈɡrænpɑ ə bɪɡ hʌɡ/",
+      "vocab": [
+        {
+          "w": "grandpa",
+          "pos": "n.",
+          "ipa": "/ˈɡrænpɑ/",
+          "zh": "爺爺"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-15",
+      "date": "2026-07-22",
+      "category": "friends",
+      "en": "Take turns playing with the ball.",
+      "zh": "輪流玩這顆球。",
+      "ipa": "/tek tɝnz ˈpleɪŋ wɪð ðə bɔl/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "phr.",
+          "ipa": "/tek tɝnz/",
+          "zh": "輪流"
+        },
+        {
+          "w": "ball",
+          "pos": "n.",
+          "ipa": "/bɔl/",
+          "zh": "球"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-16",
+      "date": "2026-07-22",
+      "category": "manners",
+      "en": "Say thank you to the driver.",
+      "zh": "跟司機說謝謝。",
+      "ipa": "/se θæŋk ju tə ðə ˈdraɪvɚ/",
+      "vocab": [
+        {
+          "w": "thank you",
+          "pos": "phr.",
+          "ipa": "/θæŋk ju/",
+          "zh": "謝謝"
+        },
+        {
+          "w": "driver",
+          "pos": "n.",
+          "ipa": "/ˈdraɪvɚ/",
+          "zh": "司機"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-17",
+      "date": "2026-07-22",
+      "category": "weather",
+      "en": "Wear your coat, it's cold outside.",
+      "zh": "穿上外套，外面很冷。",
+      "ipa": "/wɛr jɔr kot ɪts kold ˈaʊtˈsaɪd/",
+      "vocab": [
+        {
+          "w": "coat",
+          "pos": "n.",
+          "ipa": "/kot/",
+          "zh": "外套"
+        },
+        {
+          "w": "cold",
+          "pos": "adj.",
+          "ipa": "/kold/",
+          "zh": "冷的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-18",
+      "date": "2026-07-22",
+      "category": "screen-time",
+      "en": "Turn off the TV after this show.",
+      "zh": "這個節目看完就關電視。",
+      "ipa": "/tɝn ɔf ðə ˌtiˈvi ˈæftɚ ðɪs ʃo/",
+      "vocab": [
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        },
+        {
+          "w": "show",
+          "pos": "n.",
+          "ipa": "/ʃo/",
+          "zh": "節目"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-19",
+      "date": "2026-07-22",
+      "category": "celebrations",
+      "en": "Let's wrap the gift for Daddy.",
+      "zh": "我們來包爸爸的禮物吧。",
+      "ipa": "/lɛts ræp ðə ɡɪft fɔr ˈdædi/",
+      "vocab": [
+        {
+          "w": "wrap",
+          "pos": "v.",
+          "ipa": "/ræp/",
+          "zh": "包裝"
+        },
+        {
+          "w": "gift",
+          "pos": "n.",
+          "ipa": "/ɡɪft/",
+          "zh": "禮物"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-20",
+      "date": "2026-07-22",
+      "category": "reading",
+      "en": "Turn the page slowly and gently.",
+      "zh": "慢慢地輕輕翻頁。",
+      "ipa": "/tɝn ðə pedʒ ˈsloli ænd ˈdʒɛntli/",
+      "vocab": [
+        {
+          "w": "page",
+          "pos": "n.",
+          "ipa": "/pedʒ/",
+          "zh": "書頁"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "輕輕地"
+        }
+      ]
+    }
+  ]
+}
