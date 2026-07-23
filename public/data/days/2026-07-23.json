@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-23",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-23-1",
+      "date": "2026-07-23",
+      "category": "daily-routine",
+      "en": "Put your shoes on by yourself.",
+      "zh": "自己把鞋子穿上。",
+      "ipa": "/pʊt jɔr ʃuz ɑn baɪ jɔrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "shoes",
+          "pos": "n.",
+          "ipa": "/ʃuz/",
+          "zh": "鞋子"
+        },
+        {
+          "w": "yourself",
+          "pos": "pron.",
+          "ipa": "/jɔrˈsɛlf/",
+          "zh": "你自己"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-2",
+      "date": "2026-07-23",
+      "category": "meals",
+      "en": "Take small bites and chew well.",
+      "zh": "小口吃，好好嚼。",
+      "ipa": "/tek smɔl baɪts ænd tʃu wɛl/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "咬一口"
+        },
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-3",
+      "date": "2026-07-23",
+      "category": "bath-bedtime",
+      "en": "Let's put on your pajamas now.",
+      "zh": "我們現在穿睡衣吧。",
+      "ipa": "/lɛts pʊt ɑn jɔr pəˈdʒɑməz naʊ/",
+      "vocab": [
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒɑməz/",
+          "zh": "睡衣"
+        },
+        {
+          "w": "put on",
+          "pos": "phr.",
+          "ipa": "/pʊt ɑn/",
+          "zh": "穿上"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-4",
+      "date": "2026-07-23",
+      "category": "outings",
+      "en": "Stay on the sidewalk with me.",
+      "zh": "跟我走在人行道上。",
+      "ipa": "/ste ɑn ðə ˈsaɪdˌwɔk wɪð mi/",
+      "vocab": [
+        {
+          "w": "sidewalk",
+          "pos": "n.",
+          "ipa": "/ˈsaɪdˌwɔk/",
+          "zh": "人行道"
+        },
+        {
+          "w": "stay",
+          "pos": "v.",
+          "ipa": "/ste/",
+          "zh": "待著"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-5",
+      "date": "2026-07-23",
+      "category": "playground",
+      "en": "Hold on tight to the monkey bars.",
+      "zh": "抓緊攀爬架。",
+      "ipa": "/hold ɑn taɪt tə ðə ˈmʌŋki bɑrz/",
+      "vocab": [
+        {
+          "w": "tight",
+          "pos": "adv.",
+          "ipa": "/taɪt/",
+          "zh": "緊緊地"
+        },
+        {
+          "w": "monkey bars",
+          "pos": "phr.",
+          "ipa": "/ˈmʌŋki bɑrz/",
+          "zh": "攀爬架"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-6",
+      "date": "2026-07-23",
+      "category": "school",
+      "en": "Listen to your teacher carefully.",
+      "zh": "要專心聽老師說話。",
+      "ipa": "/ˈlɪsən tə jɔr ˈtitʃɚ ˈkɛrfəli/",
+      "vocab": [
+        {
+          "w": "listen",
+          "pos": "v.",
+          "ipa": "/ˈlɪsən/",
+          "zh": "聽"
+        },
+        {
+          "w": "teacher",
+          "pos": "n.",
+          "ipa": "/ˈtitʃɚ/",
+          "zh": "老師"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-7",
+      "date": "2026-07-23",
+      "category": "homework",
+      "en": "Finish your math before you play.",
+      "zh": "先寫完數學再去玩。",
+      "ipa": "/ˈfɪnɪʃ jɔr mæθ bɪˈfɔr ju ple/",
+      "vocab": [
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "完成"
+        },
+        {
+          "w": "math",
+          "pos": "n.",
+          "ipa": "/mæθ/",
+          "zh": "數學"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-8",
+      "date": "2026-07-23",
+      "category": "toys-sharing",
+      "en": "Let your friend borrow the blocks.",
+      "zh": "讓朋友借玩積木。",
+      "ipa": "/lɛt jɔr frɛnd ˈbɑro ðə blɑks/",
+      "vocab": [
+        {
+          "w": "borrow",
+          "pos": "v.",
+          "ipa": "/ˈbɑro/",
+          "zh": "借（入）"
+        },
+        {
+          "w": "blocks",
+          "pos": "n.",
+          "ipa": "/blɑks/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-9",
+      "date": "2026-07-23",
+      "category": "emotions",
+      "en": "Take a deep breath when you're upset.",
+      "zh": "難過的時候深呼吸一下。",
+      "ipa": "/tek ə dip brɛθ wɛn jʊr ʌpˈsɛt/",
+      "vocab": [
+        {
+          "w": "breath",
+          "pos": "n.",
+          "ipa": "/brɛθ/",
+          "zh": "呼吸"
+        },
+        {
+          "w": "upset",
+          "pos": "adj.",
+          "ipa": "/ʌpˈsɛt/",
+          "zh": "難過的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-10",
+      "date": "2026-07-23",
+      "category": "discipline",
+      "en": "Use your gentle hands, please.",
+      "zh": "請用溫柔的手。",
+      "ipa": "/juz jɔr ˈdʒɛntəl hændz pliz/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntəl/",
+          "zh": "溫柔的"
+        },
+        {
+          "w": "please",
+          "pos": "adv.",
+          "ipa": "/pliz/",
+          "zh": "請"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-11",
+      "date": "2026-07-23",
+      "category": "praise",
+      "en": "I'm so proud of you today.",
+      "zh": "今天我好以你為榮。",
+      "ipa": "/aɪm so praʊd əv ju təˈde/",
+      "vocab": [
+        {
+          "w": "proud",
+          "pos": "adj.",
+          "ipa": "/praʊd/",
+          "zh": "驕傲的"
+        },
+        {
+          "w": "today",
+          "pos": "adv.",
+          "ipa": "/təˈde/",
+          "zh": "今天"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-12",
+      "date": "2026-07-23",
+      "category": "safety",
+      "en": "Buckle up before we drive.",
+      "zh": "開車前先繫好安全帶。",
+      "ipa": "/ˈbʌkəl ʌp bɪˈfɔr wi draɪv/",
+      "vocab": [
+        {
+          "w": "buckle up",
+          "pos": "phr.",
+          "ipa": "/ˈbʌkəl ʌp/",
+          "zh": "繫安全帶"
+        },
+        {
+          "w": "drive",
+          "pos": "v.",
+          "ipa": "/draɪv/",
+          "zh": "開車"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-13",
+      "date": "2026-07-23",
+      "category": "health",
+      "en": "Drink water when you feel thirsty.",
+      "zh": "口渴就要喝水。",
+      "ipa": "/drɪŋk ˈwɔtɚ wɛn ju fil ˈθɝsti/",
+      "vocab": [
+        {
+          "w": "water",
+          "pos": "n.",
+          "ipa": "/ˈwɔtɚ/",
+          "zh": "水"
+        },
+        {
+          "w": "thirsty",
+          "pos": "adj.",
+          "ipa": "/ˈθɝsti/",
+          "zh": "口渴的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-14",
+      "date": "2026-07-23",
+      "category": "relatives",
+      "en": "Call Grandma to say hello.",
+      "zh": "打電話跟奶奶問好。",
+      "ipa": "/kɔl ˈɡrænmɑ tə se hɛˈlo/",
+      "vocab": [
+        {
+          "w": "grandma",
+          "pos": "n.",
+          "ipa": "/ˈɡrænmɑ/",
+          "zh": "奶奶"
+        },
+        {
+          "w": "hello",
+          "pos": "n.",
+          "ipa": "/hɛˈlo/",
+          "zh": "你好"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-15",
+      "date": "2026-07-23",
+      "category": "friends",
+      "en": "Ask nicely if you want to join.",
+      "zh": "想加入就有禮貌地問。",
+      "ipa": "/æsk ˈnaɪsli ɪf ju wɑnt tə dʒɔɪn/",
+      "vocab": [
+        {
+          "w": "nicely",
+          "pos": "adv.",
+          "ipa": "/ˈnaɪsli/",
+          "zh": "有禮貌地"
+        },
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-16",
+      "date": "2026-07-23",
+      "category": "manners",
+      "en": "Knock before you open the door.",
+      "zh": "開門前要先敲門。",
+      "ipa": "/nɑk bɪˈfɔr ju ˈopən ðə dɔr/",
+      "vocab": [
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲"
+        },
+        {
+          "w": "door",
+          "pos": "n.",
+          "ipa": "/dɔr/",
+          "zh": "門"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-17",
+      "date": "2026-07-23",
+      "category": "weather",
+      "en": "It's sunny, let's wear a hat.",
+      "zh": "出太陽了，戴頂帽子吧。",
+      "ipa": "/ɪts ˈsʌni lɛts wɛr ə hæt/",
+      "vocab": [
+        {
+          "w": "sunny",
+          "pos": "adj.",
+          "ipa": "/ˈsʌni/",
+          "zh": "晴朗的"
+        },
+        {
+          "w": "hat",
+          "pos": "n.",
+          "ipa": "/hæt/",
+          "zh": "帽子"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-18",
+      "date": "2026-07-23",
+      "category": "screen-time",
+      "en": "Give your eyes a little rest.",
+      "zh": "讓眼睛休息一下。",
+      "ipa": "/ɡɪv jɔr aɪz ə ˈlɪtəl rɛst/",
+      "vocab": [
+        {
+          "w": "eyes",
+          "pos": "n.",
+          "ipa": "/aɪz/",
+          "zh": "眼睛"
+        },
+        {
+          "w": "rest",
+          "pos": "n.",
+          "ipa": "/rɛst/",
+          "zh": "休息"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-19",
+      "date": "2026-07-23",
+      "category": "celebrations",
+      "en": "Let's sing a birthday song now.",
+      "zh": "我們現在唱生日快樂歌。",
+      "ipa": "/lɛts sɪŋ ə ˈbɝθˌde sɔŋ naʊ/",
+      "vocab": [
+        {
+          "w": "sing",
+          "pos": "v.",
+          "ipa": "/sɪŋ/",
+          "zh": "唱"
+        },
+        {
+          "w": "birthday",
+          "pos": "n.",
+          "ipa": "/ˈbɝθˌde/",
+          "zh": "生日"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-20",
+      "date": "2026-07-23",
+      "category": "reading",
+      "en": "Point to the words as we read.",
+      "zh": "我們念的時候指著字。",
+      "ipa": "/pɔɪnt tə ðə wɝdz æz wi rid/",
+      "vocab": [
+        {
+          "w": "point",
+          "pos": "v.",
+          "ipa": "/pɔɪnt/",
+          "zh": "指"
+        },
+        {
+          "w": "words",
+          "pos": "n.",
+          "ipa": "/wɝdz/",
+          "zh": "字"
+        }
+      ]
+    }
+  ]
+}
