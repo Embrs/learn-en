@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-24",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-24-1",
+      "date": "2026-07-24",
+      "category": "daily-routine",
+      "en": "Please make your bed neatly.",
+      "zh": "請把床鋪整齊。",
+      "ipa": "/pliz mek jɔr bɛd ˈnitli/",
+      "vocab": [
+        {
+          "w": "bed",
+          "pos": "n.",
+          "ipa": "/bɛd/",
+          "zh": "床"
+        },
+        {
+          "w": "neatly",
+          "pos": "adv.",
+          "ipa": "/ˈnitli/",
+          "zh": "整齊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-2",
+      "date": "2026-07-24",
+      "category": "meals",
+      "en": "Please finish your vegetables first.",
+      "zh": "請先把青菜吃完。",
+      "ipa": "/pliz ˈfɪnɪʃ jɔr ˈvɛdʒtəbəlz fɝst/",
+      "vocab": [
+        {
+          "w": "vegetables",
+          "pos": "n.",
+          "ipa": "/ˈvɛdʒtəbəlz/",
+          "zh": "蔬菜"
+        },
+        {
+          "w": "first",
+          "pos": "adv.",
+          "ipa": "/fɝst/",
+          "zh": "先"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-3",
+      "date": "2026-07-24",
+      "category": "bath-bedtime",
+      "en": "Let's wash your hair tonight.",
+      "zh": "今晚我們來洗頭髮。",
+      "ipa": "/lɛts wɑʃ jɔr hɛr təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "wash",
+          "pos": "v.",
+          "ipa": "/wɑʃ/",
+          "zh": "洗"
+        },
+        {
+          "w": "tonight",
+          "pos": "adv.",
+          "ipa": "/təˈnaɪt/",
+          "zh": "今晚"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-4",
+      "date": "2026-07-24",
+      "category": "outings",
+      "en": "We wait for the green light.",
+      "zh": "我們要等綠燈。",
+      "ipa": "/wi wet fɔr ðə ɡrin laɪt/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等"
+        },
+        {
+          "w": "green light",
+          "pos": "phr.",
+          "ipa": "/ɡrin laɪt/",
+          "zh": "綠燈"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-5",
+      "date": "2026-07-24",
+      "category": "playground",
+      "en": "Wait for your turn on the slide.",
+      "zh": "溜滑梯要排隊等輪到你。",
+      "ipa": "/wet fɔr jɔr tɝn ɑn ðə slaɪd/",
+      "vocab": [
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪到"
+        },
+        {
+          "w": "slide",
+          "pos": "n.",
+          "ipa": "/slaɪd/",
+          "zh": "溜滑梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-6",
+      "date": "2026-07-24",
+      "category": "school",
+      "en": "Raise your hand to ask questions.",
+      "zh": "想發問要先舉手。",
+      "ipa": "/rez jɔr hænd tə æsk ˈkwɛstʃənz/",
+      "vocab": [
+        {
+          "w": "raise",
+          "pos": "v.",
+          "ipa": "/rez/",
+          "zh": "舉起"
+        },
+        {
+          "w": "question",
+          "pos": "n.",
+          "ipa": "/ˈkwɛstʃən/",
+          "zh": "問題"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-7",
+      "date": "2026-07-24",
+      "category": "homework",
+      "en": "Let's read the instructions together.",
+      "zh": "我們一起讀題目說明。",
+      "ipa": "/lɛts rid ðə ɪnˈstrʌkʃənz təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "instructions",
+          "pos": "n.",
+          "ipa": "/ɪnˈstrʌkʃənz/",
+          "zh": "說明"
+        },
+        {
+          "w": "together",
+          "pos": "adv.",
+          "ipa": "/təˈɡɛðɚ/",
+          "zh": "一起"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-8",
+      "date": "2026-07-24",
+      "category": "toys-sharing",
+      "en": "Can you take turns with him?",
+      "zh": "可以跟他輪流玩嗎？",
+      "ipa": "/kæn ju tek tɝnz wɪð hɪm/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "phr.",
+          "ipa": "/tek tɝnz/",
+          "zh": "輪流"
+        },
+        {
+          "w": "him",
+          "pos": "pron.",
+          "ipa": "/hɪm/",
+          "zh": "他"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-9",
+      "date": "2026-07-24",
+      "category": "emotions",
+      "en": "It's okay to feel sad sometimes.",
+      "zh": "有時候難過是沒關係的。",
+      "ipa": "/ɪts oˈke tə fil sæd ˈsʌmˌtaɪmz/",
+      "vocab": [
+        {
+          "w": "sad",
+          "pos": "adj.",
+          "ipa": "/sæd/",
+          "zh": "難過的"
+        },
+        {
+          "w": "sometimes",
+          "pos": "adv.",
+          "ipa": "/ˈsʌmˌtaɪmz/",
+          "zh": "有時候"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-10",
+      "date": "2026-07-24",
+      "category": "discipline",
+      "en": "We don't throw our toys inside.",
+      "zh": "在室內我們不丟玩具。",
+      "ipa": "/wi dont θro aʊr tɔɪz ɪnˈsaɪd/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟"
+        },
+        {
+          "w": "inside",
+          "pos": "adv.",
+          "ipa": "/ɪnˈsaɪd/",
+          "zh": "在室內"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-11",
+      "date": "2026-07-24",
+      "category": "praise",
+      "en": "You did a wonderful job cleaning.",
+      "zh": "你收拾得好棒。",
+      "ipa": "/ju dɪd ə ˈwʌndɚfəl dʒɑb ˈklinɪŋ/",
+      "vocab": [
+        {
+          "w": "wonderful",
+          "pos": "adj.",
+          "ipa": "/ˈwʌndɚfəl/",
+          "zh": "很棒的"
+        },
+        {
+          "w": "job",
+          "pos": "n.",
+          "ipa": "/dʒɑb/",
+          "zh": "工作"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-12",
+      "date": "2026-07-24",
+      "category": "safety",
+      "en": "Never touch the hot stove.",
+      "zh": "絕對不要摸熱爐子。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə hɑt stov/",
+      "vocab": [
+        {
+          "w": "touch",
+          "pos": "v.",
+          "ipa": "/tʌtʃ/",
+          "zh": "摸"
+        },
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-13",
+      "date": "2026-07-24",
+      "category": "health",
+      "en": "Wash your hands before eating.",
+      "zh": "吃東西前要洗手。",
+      "ipa": "/wɑʃ jɔr hændz bɪˈfɔr ˈitɪŋ/",
+      "vocab": [
+        {
+          "w": "hands",
+          "pos": "n.",
+          "ipa": "/hændz/",
+          "zh": "手"
+        },
+        {
+          "w": "eating",
+          "pos": "v.",
+          "ipa": "/ˈitɪŋ/",
+          "zh": "吃東西"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-14",
+      "date": "2026-07-24",
+      "category": "relatives",
+      "en": "Wave goodbye to Auntie now.",
+      "zh": "現在跟阿姨揮手說再見。",
+      "ipa": "/wev ɡʊdˈbaɪ tə ˈænti naʊ/",
+      "vocab": [
+        {
+          "w": "wave",
+          "pos": "v.",
+          "ipa": "/wev/",
+          "zh": "揮手"
+        },
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-15",
+      "date": "2026-07-24",
+      "category": "friends",
+      "en": "Say sorry if you hurt someone.",
+      "zh": "弄痛別人要說對不起。",
+      "ipa": "/se ˈsɑri ɪf ju hɝt ˈsʌmˌwʌn/",
+      "vocab": [
+        {
+          "w": "sorry",
+          "pos": "adj.",
+          "ipa": "/ˈsɑri/",
+          "zh": "抱歉的"
+        },
+        {
+          "w": "hurt",
+          "pos": "v.",
+          "ipa": "/hɝt/",
+          "zh": "弄痛"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-16",
+      "date": "2026-07-24",
+      "category": "manners",
+      "en": "Say thank you to the waiter.",
+      "zh": "跟服務生說謝謝。",
+      "ipa": "/se θæŋk ju tə ðə ˈwetɚ/",
+      "vocab": [
+        {
+          "w": "thank",
+          "pos": "v.",
+          "ipa": "/θæŋk/",
+          "zh": "感謝"
+        },
+        {
+          "w": "waiter",
+          "pos": "n.",
+          "ipa": "/ˈwetɚ/",
+          "zh": "服務生"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-17",
+      "date": "2026-07-24",
+      "category": "weather",
+      "en": "It's raining, grab your umbrella.",
+      "zh": "下雨了，拿你的雨傘。",
+      "ipa": "/ɪts ˈrenɪŋ ɡræb jɔr ʌmˈbrɛlə/",
+      "vocab": [
+        {
+          "w": "raining",
+          "pos": "v.",
+          "ipa": "/ˈrenɪŋ/",
+          "zh": "下雨"
+        },
+        {
+          "w": "umbrella",
+          "pos": "n.",
+          "ipa": "/ʌmˈbrɛlə/",
+          "zh": "雨傘"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-18",
+      "date": "2026-07-24",
+      "category": "screen-time",
+      "en": "Let's turn off the TV now.",
+      "zh": "我們現在把電視關掉。",
+      "ipa": "/lɛts tɝn ɔf ðə ˌtiˈvi naʊ/",
+      "vocab": [
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        },
+        {
+          "w": "TV",
+          "pos": "n.",
+          "ipa": "/ˌtiˈvi/",
+          "zh": "電視"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-19",
+      "date": "2026-07-24",
+      "category": "celebrations",
+      "en": "Let's make a wish and blow.",
+      "zh": "來許個願然後吹蠟燭。",
+      "ipa": "/lɛts mek ə wɪʃ ænd blo/",
+      "vocab": [
+        {
+          "w": "wish",
+          "pos": "n.",
+          "ipa": "/wɪʃ/",
+          "zh": "願望"
+        },
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-24-20",
+      "date": "2026-07-24",
+      "category": "reading",
+      "en": "Turn the page very gently.",
+      "zh": "很輕地翻頁。",
+      "ipa": "/tɝn ðə pedʒ ˈvɛri ˈdʒɛntli/",
+      "vocab": [
+        {
+          "w": "page",
+          "pos": "n.",
+          "ipa": "/pedʒ/",
+          "zh": "頁"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "輕輕地"
+        }
+      ]
+    }
+  ]
+}
