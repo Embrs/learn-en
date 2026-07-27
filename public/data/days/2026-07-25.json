@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-25",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-25-1",
+      "date": "2026-07-25",
+      "category": "daily-routine",
+      "en": "Let's tidy your desk before breakfast.",
+      "zh": "我們早餐前把書桌整理一下。",
+      "ipa": "/lɛts ˈtaɪdi jɔr dɛsk bɪˈfɔr ˈbrɛkfəst/",
+      "vocab": [
+        {
+          "w": "tidy",
+          "pos": "v.",
+          "ipa": "/ˈtaɪdi/",
+          "zh": "整理"
+        },
+        {
+          "w": "desk",
+          "pos": "n.",
+          "ipa": "/dɛsk/",
+          "zh": "書桌"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-2",
+      "date": "2026-07-25",
+      "category": "meals",
+      "en": "Sit down properly while you eat.",
+      "zh": "吃飯的時候要好好坐好。",
+      "ipa": "/sɪt daʊn ˈprɑpɚli hwaɪl ju it/",
+      "vocab": [
+        {
+          "w": "properly",
+          "pos": "adv.",
+          "ipa": "/ˈprɑpɚli/",
+          "zh": "好好地、恰當地"
+        },
+        {
+          "w": "eat",
+          "pos": "v.",
+          "ipa": "/it/",
+          "zh": "吃"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-3",
+      "date": "2026-07-25",
+      "category": "bath-bedtime",
+      "en": "Let's fill the tub with warm water.",
+      "zh": "我們把浴缸裝滿溫水吧。",
+      "ipa": "/lɛts fɪl ðə tʌb wɪð wɔrm ˈwɔtɚ/",
+      "vocab": [
+        {
+          "w": "tub",
+          "pos": "n.",
+          "ipa": "/tʌb/",
+          "zh": "浴缸"
+        },
+        {
+          "w": "warm",
+          "pos": "adj.",
+          "ipa": "/wɔrm/",
+          "zh": "溫暖的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-4",
+      "date": "2026-07-25",
+      "category": "outings",
+      "en": "Let's visit the library this afternoon.",
+      "zh": "今天下午我們去圖書館吧。",
+      "ipa": "/lɛts ˈvɪzɪt ðə ˈlaɪbrɛri ðɪs ˌæftɚˈnun/",
+      "vocab": [
+        {
+          "w": "visit",
+          "pos": "v.",
+          "ipa": "/ˈvɪzɪt/",
+          "zh": "造訪"
+        },
+        {
+          "w": "library",
+          "pos": "n.",
+          "ipa": "/ˈlaɪbrɛri/",
+          "zh": "圖書館"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-5",
+      "date": "2026-07-25",
+      "category": "playground",
+      "en": "Push the merry-go-round slowly, please.",
+      "zh": "請慢慢地推旋轉遊具。",
+      "ipa": "/pʊʃ ðə ˈmɛri ɡo raʊnd ˈsloli pliz/",
+      "vocab": [
+        {
+          "w": "push",
+          "pos": "v.",
+          "ipa": "/pʊʃ/",
+          "zh": "推"
+        },
+        {
+          "w": "slowly",
+          "pos": "adv.",
+          "ipa": "/ˈsloli/",
+          "zh": "慢慢地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-6",
+      "date": "2026-07-25",
+      "category": "school",
+      "en": "Say good morning to your classmates.",
+      "zh": "跟同學說早安。",
+      "ipa": "/se ɡʊd ˈmɔrnɪŋ tu jɔr ˈklæsmets/",
+      "vocab": [
+        {
+          "w": "classmate",
+          "pos": "n.",
+          "ipa": "/ˈklæsmet/",
+          "zh": "同學"
+        },
+        {
+          "w": "morning",
+          "pos": "n.",
+          "ipa": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-7",
+      "date": "2026-07-25",
+      "category": "homework",
+      "en": "Put your pencil down when you're done.",
+      "zh": "寫完的時候把鉛筆放下。",
+      "ipa": "/pʊt jɔr ˈpɛnsəl daʊn hwɛn jʊr dʌn/",
+      "vocab": [
+        {
+          "w": "pencil",
+          "pos": "n.",
+          "ipa": "/ˈpɛnsəl/",
+          "zh": "鉛筆"
+        },
+        {
+          "w": "done",
+          "pos": "adj.",
+          "ipa": "/dʌn/",
+          "zh": "完成的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-8",
+      "date": "2026-07-25",
+      "category": "toys-sharing",
+      "en": "Put the puzzle pieces back in the box.",
+      "zh": "把拼圖的片片放回盒子裡。",
+      "ipa": "/pʊt ðə ˈpʌzəl ˈpisɪz bæk ɪn ðə bɑks/",
+      "vocab": [
+        {
+          "w": "puzzle",
+          "pos": "n.",
+          "ipa": "/ˈpʌzəl/",
+          "zh": "拼圖"
+        },
+        {
+          "w": "piece",
+          "pos": "n.",
+          "ipa": "/pis/",
+          "zh": "片、塊"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-9",
+      "date": "2026-07-25",
+      "category": "emotions",
+      "en": "You can talk to me anytime.",
+      "zh": "你隨時都可以跟我說。",
+      "ipa": "/ju kən tɔk tu mi ˈɛnitaɪm/",
+      "vocab": [
+        {
+          "w": "talk",
+          "pos": "v.",
+          "ipa": "/tɔk/",
+          "zh": "說、談"
+        },
+        {
+          "w": "anytime",
+          "pos": "adv.",
+          "ipa": "/ˈɛnitaɪm/",
+          "zh": "隨時"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-10",
+      "date": "2026-07-25",
+      "category": "discipline",
+      "en": "Please listen when I'm talking to you.",
+      "zh": "我跟你說話的時候請聽好。",
+      "ipa": "/pliz ˈlɪsən hwɛn aɪm ˈtɔkɪŋ tu ju/",
+      "vocab": [
+        {
+          "w": "listen",
+          "pos": "v.",
+          "ipa": "/ˈlɪsən/",
+          "zh": "聆聽"
+        },
+        {
+          "w": "talking",
+          "pos": "v.",
+          "ipa": "/ˈtɔkɪŋ/",
+          "zh": "說話"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-11",
+      "date": "2026-07-25",
+      "category": "praise",
+      "en": "You were very patient today, thank you.",
+      "zh": "你今天很有耐心，謝謝你。",
+      "ipa": "/ju wɚ ˈvɛri ˈpeʃənt təˈde θæŋk ju/",
+      "vocab": [
+        {
+          "w": "patient",
+          "pos": "adj.",
+          "ipa": "/ˈpeʃənt/",
+          "zh": "有耐心的"
+        },
+        {
+          "w": "thank",
+          "pos": "v.",
+          "ipa": "/θæŋk/",
+          "zh": "感謝"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-12",
+      "date": "2026-07-25",
+      "category": "safety",
+      "en": "Don't lean out the car window.",
+      "zh": "不要把身體探出車窗。",
+      "ipa": "/dont lin aʊt ðə kɑr ˈwɪndo/",
+      "vocab": [
+        {
+          "w": "lean",
+          "pos": "v.",
+          "ipa": "/lin/",
+          "zh": "傾身、探出"
+        },
+        {
+          "w": "window",
+          "pos": "n.",
+          "ipa": "/ˈwɪndo/",
+          "zh": "窗戶"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-13",
+      "date": "2026-07-25",
+      "category": "health",
+      "en": "Let's trim your fingernails tonight.",
+      "zh": "今晚我們來剪指甲。",
+      "ipa": "/lɛts trɪm jɔr ˈfɪŋɡɚnelz təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "trim",
+          "pos": "v.",
+          "ipa": "/trɪm/",
+          "zh": "修剪"
+        },
+        {
+          "w": "fingernail",
+          "pos": "n.",
+          "ipa": "/ˈfɪŋɡɚnel/",
+          "zh": "手指甲"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-14",
+      "date": "2026-07-25",
+      "category": "relatives",
+      "en": "Grandma is waiting for us outside.",
+      "zh": "奶奶正在外面等我們。",
+      "ipa": "/ˈɡrænmɑ ɪz ˈwetɪŋ fɔr ʌs ˈaʊtˈsaɪd/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        },
+        {
+          "w": "outside",
+          "pos": "adv.",
+          "ipa": "/ˈaʊtˈsaɪd/",
+          "zh": "在外面"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-15",
+      "date": "2026-07-25",
+      "category": "friends",
+      "en": "Introduce your friend to me, please.",
+      "zh": "請把你的朋友介紹給我。",
+      "ipa": "/ˌɪntrəˈdus jɔr frɛnd tu mi pliz/",
+      "vocab": [
+        {
+          "w": "introduce",
+          "pos": "v.",
+          "ipa": "/ˌɪntrəˈdus/",
+          "zh": "介紹"
+        },
+        {
+          "w": "friend",
+          "pos": "n.",
+          "ipa": "/frɛnd/",
+          "zh": "朋友"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-16",
+      "date": "2026-07-25",
+      "category": "manners",
+      "en": "Please don't talk with your mouth full.",
+      "zh": "嘴巴有東西的時候請不要說話。",
+      "ipa": "/pliz dont tɔk wɪð jɔr maʊθ fʊl/",
+      "vocab": [
+        {
+          "w": "mouth",
+          "pos": "n.",
+          "ipa": "/maʊθ/",
+          "zh": "嘴巴"
+        },
+        {
+          "w": "full",
+          "pos": "adj.",
+          "ipa": "/fʊl/",
+          "zh": "滿的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-17",
+      "date": "2026-07-25",
+      "category": "weather",
+      "en": "The wind is strong, hold my hand.",
+      "zh": "風很大，牽好我的手。",
+      "ipa": "/ðə wɪnd ɪz strɔŋ hold maɪ hænd/",
+      "vocab": [
+        {
+          "w": "wind",
+          "pos": "n.",
+          "ipa": "/wɪnd/",
+          "zh": "風"
+        },
+        {
+          "w": "strong",
+          "pos": "adj.",
+          "ipa": "/strɔŋ/",
+          "zh": "強的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-18",
+      "date": "2026-07-25",
+      "category": "screen-time",
+      "en": "Put the tablet down and come here.",
+      "zh": "把平板放下，過來這裡。",
+      "ipa": "/pʊt ðə ˈtæblɪt daʊn ənd kʌm hɪr/",
+      "vocab": [
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        },
+        {
+          "w": "down",
+          "pos": "adv.",
+          "ipa": "/daʊn/",
+          "zh": "向下"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-19",
+      "date": "2026-07-25",
+      "category": "celebrations",
+      "en": "Everyone is here for your special day.",
+      "zh": "大家都來慶祝你的特別日子。",
+      "ipa": "/ˈɛvriwʌn ɪz hɪr fɔr jɔr ˈspɛʃəl de/",
+      "vocab": [
+        {
+          "w": "everyone",
+          "pos": "pron.",
+          "ipa": "/ˈɛvriwʌn/",
+          "zh": "每個人"
+        },
+        {
+          "w": "special",
+          "pos": "adj.",
+          "ipa": "/ˈspɛʃəl/",
+          "zh": "特別的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-20",
+      "date": "2026-07-25",
+      "category": "reading",
+      "en": "This book has beautiful pictures inside.",
+      "zh": "這本書裡面有很美的圖畫。",
+      "ipa": "/ðɪs bʊk hæz ˈbjutəfəl ˈpɪktʃɚz ɪnˈsaɪd/",
+      "vocab": [
+        {
+          "w": "beautiful",
+          "pos": "adj.",
+          "ipa": "/ˈbjutəfəl/",
+          "zh": "美麗的"
+        },
+        {
+          "w": "picture",
+          "pos": "n.",
+          "ipa": "/ˈpɪktʃɚ/",
+          "zh": "圖片"
+        }
+      ]
+    }
+  ]
+}

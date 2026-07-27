@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-27",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-27-1",
+      "date": "2026-07-27",
+      "category": "daily-routine",
+      "en": "Drink a glass of water when you wake up.",
+      "zh": "起床的時候喝一杯水。",
+      "ipa": "/drɪŋk ə ɡlæs ʌv ˈwɔtɚ hwɛn ju wek ʌp/",
+      "vocab": [
+        {
+          "w": "glass",
+          "pos": "n.",
+          "ipa": "/ɡlæs/",
+          "zh": "玻璃杯"
+        },
+        {
+          "w": "wake up",
+          "pos": "phr.",
+          "ipa": "/wek ʌp/",
+          "zh": "起床、醒來"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-2",
+      "date": "2026-07-27",
+      "category": "meals",
+      "en": "Don't leave the table until you finish.",
+      "zh": "吃完之前不要離開餐桌。",
+      "ipa": "/dont liv ðə ˈtebəl ənˈtɪl ju ˈfɪnɪʃ/",
+      "vocab": [
+        {
+          "w": "leave",
+          "pos": "v.",
+          "ipa": "/liv/",
+          "zh": "離開"
+        },
+        {
+          "w": "until",
+          "pos": "conj.",
+          "ipa": "/ənˈtɪl/",
+          "zh": "直到"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-3",
+      "date": "2026-07-27",
+      "category": "bath-bedtime",
+      "en": "Sing a lullaby with me softly.",
+      "zh": "跟我一起輕輕唱搖籃曲。",
+      "ipa": "/sɪŋ ə ˈlʌləˌbaɪ wɪð mi ˈsɔftli/",
+      "vocab": [
+        {
+          "w": "lullaby",
+          "pos": "n.",
+          "ipa": "/ˈlʌləˌbaɪ/",
+          "zh": "搖籃曲"
+        },
+        {
+          "w": "softly",
+          "pos": "adv.",
+          "ipa": "/ˈsɔftli/",
+          "zh": "輕柔地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-4",
+      "date": "2026-07-27",
+      "category": "outings",
+      "en": "We are getting off at the next stop.",
+      "zh": "我們下一站就要下車了。",
+      "ipa": "/wi ɑr ˈɡɛtɪŋ ɔf æt ðə nɛkst stɑp/",
+      "vocab": [
+        {
+          "w": "get off",
+          "pos": "phr.",
+          "ipa": "/ɡɛt ɔf/",
+          "zh": "下車"
+        },
+        {
+          "w": "stop",
+          "pos": "n.",
+          "ipa": "/stɑp/",
+          "zh": "車站"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-5",
+      "date": "2026-07-27",
+      "category": "playground",
+      "en": "Sit down on the swing carefully.",
+      "zh": "小心地坐上鞦韆。",
+      "ipa": "/sɪt daʊn ɑn ðə swɪŋ ˈkɛrfəli/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        },
+        {
+          "w": "carefully",
+          "pos": "adv.",
+          "ipa": "/ˈkɛrfəli/",
+          "zh": "小心地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-6",
+      "date": "2026-07-27",
+      "category": "school",
+      "en": "Did you enjoy your music class today?",
+      "zh": "你今天的音樂課上得開心嗎？",
+      "ipa": "/dɪd ju ɛnˈdʒɔɪ jɔr ˈmjuzɪk klæs təˈde/",
+      "vocab": [
+        {
+          "w": "enjoy",
+          "pos": "v.",
+          "ipa": "/ɛnˈdʒɔɪ/",
+          "zh": "享受、喜歡"
+        },
+        {
+          "w": "music",
+          "pos": "n.",
+          "ipa": "/ˈmjuzɪk/",
+          "zh": "音樂"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-7",
+      "date": "2026-07-27",
+      "category": "homework",
+      "en": "Use your eraser instead of scribbling.",
+      "zh": "用橡皮擦擦掉，不要亂塗。",
+      "ipa": "/juz jɔr ɪˈresɚ ɪnˈstɛd ʌv ˈskrɪblɪŋ/",
+      "vocab": [
+        {
+          "w": "eraser",
+          "pos": "n.",
+          "ipa": "/ɪˈresɚ/",
+          "zh": "橡皮擦"
+        },
+        {
+          "w": "instead of",
+          "pos": "phr.",
+          "ipa": "/ɪnˈstɛd ʌv/",
+          "zh": "而不是"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-8",
+      "date": "2026-07-27",
+      "category": "toys-sharing",
+      "en": "Count to twenty, then swap toys.",
+      "zh": "數到二十，然後交換玩具。",
+      "ipa": "/kaʊnt tu ˈtwɛnti ðɛn swɑp tɔɪz/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數數"
+        },
+        {
+          "w": "swap",
+          "pos": "v.",
+          "ipa": "/swɑp/",
+          "zh": "交換"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-9",
+      "date": "2026-07-27",
+      "category": "emotions",
+      "en": "What made you smile today?",
+      "zh": "今天有什麼事讓你笑了呢？",
+      "ipa": "/hwʌt med ju smaɪl təˈde/",
+      "vocab": [
+        {
+          "w": "smile",
+          "pos": "v.",
+          "ipa": "/smaɪl/",
+          "zh": "微笑"
+        },
+        {
+          "w": "made",
+          "pos": "v.",
+          "ipa": "/med/",
+          "zh": "使得（make 過去式）"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-10",
+      "date": "2026-07-27",
+      "category": "discipline",
+      "en": "Clean up the mess you made.",
+      "zh": "把你弄亂的地方收拾好。",
+      "ipa": "/klin ʌp ðə mɛs ju med/",
+      "vocab": [
+        {
+          "w": "mess",
+          "pos": "n.",
+          "ipa": "/mɛs/",
+          "zh": "髒亂"
+        },
+        {
+          "w": "clean up",
+          "pos": "phr.",
+          "ipa": "/klin ʌp/",
+          "zh": "收拾、清理"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-11",
+      "date": "2026-07-27",
+      "category": "praise",
+      "en": "Your drawing is full of color!",
+      "zh": "你的畫好豐富、好多顏色！",
+      "ipa": "/jɔr ˈdrɔɪŋ ɪz fʊl ʌv ˈkʌlɚ/",
+      "vocab": [
+        {
+          "w": "drawing",
+          "pos": "n.",
+          "ipa": "/ˈdrɔɪŋ/",
+          "zh": "畫作"
+        },
+        {
+          "w": "color",
+          "pos": "n.",
+          "ipa": "/ˈkʌlɚ/",
+          "zh": "顏色"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-12",
+      "date": "2026-07-27",
+      "category": "safety",
+      "en": "Stay away from the busy road.",
+      "zh": "離車多的馬路遠一點。",
+      "ipa": "/ste əˈwe frʌm ðə ˈbɪzi rod/",
+      "vocab": [
+        {
+          "w": "busy",
+          "pos": "adj.",
+          "ipa": "/ˈbɪzi/",
+          "zh": "繁忙的"
+        },
+        {
+          "w": "road",
+          "pos": "n.",
+          "ipa": "/rod/",
+          "zh": "馬路"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-13",
+      "date": "2026-07-27",
+      "category": "health",
+      "en": "Brush your teeth to keep them strong.",
+      "zh": "刷牙才能讓牙齒健康強壯。",
+      "ipa": "/brʌʃ jɔr tiθ tu kip ðɛm strɔŋ/",
+      "vocab": [
+        {
+          "w": "teeth",
+          "pos": "n.",
+          "ipa": "/tiθ/",
+          "zh": "牙齒（複數）"
+        },
+        {
+          "w": "keep",
+          "pos": "v.",
+          "ipa": "/kip/",
+          "zh": "保持"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-14",
+      "date": "2026-07-27",
+      "category": "relatives",
+      "en": "Uncle came a long way to see you.",
+      "zh": "叔叔大老遠跑來看你。",
+      "ipa": "/ˈʌŋkəl kem ə lɔŋ we tu si ju/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkəl/",
+          "zh": "叔叔、舅舅"
+        },
+        {
+          "w": "a long way",
+          "pos": "phr.",
+          "ipa": "/ə lɔŋ we/",
+          "zh": "很遠的路"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-15",
+      "date": "2026-07-27",
+      "category": "friends",
+      "en": "Let your friend choose the game.",
+      "zh": "讓你的朋友選遊戲。",
+      "ipa": "/lɛt jɔr frɛnd tʃuz ðə ɡem/",
+      "vocab": [
+        {
+          "w": "choose",
+          "pos": "v.",
+          "ipa": "/tʃuz/",
+          "zh": "選擇"
+        },
+        {
+          "w": "game",
+          "pos": "n.",
+          "ipa": "/ɡem/",
+          "zh": "遊戲"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-16",
+      "date": "2026-07-27",
+      "category": "manners",
+      "en": "Please close the door quietly.",
+      "zh": "請輕輕地把門關上。",
+      "ipa": "/pliz kloz ðə dɔr ˈkwaɪətli/",
+      "vocab": [
+        {
+          "w": "close",
+          "pos": "v.",
+          "ipa": "/kloz/",
+          "zh": "關上"
+        },
+        {
+          "w": "quietly",
+          "pos": "adv.",
+          "ipa": "/ˈkwaɪətli/",
+          "zh": "安靜地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-17",
+      "date": "2026-07-27",
+      "category": "weather",
+      "en": "The clouds are getting dark outside.",
+      "zh": "外面的雲越來越黑了。",
+      "ipa": "/ðə klaʊdz ɑr ˈɡɛtɪŋ dɑrk ˈaʊtˈsaɪd/",
+      "vocab": [
+        {
+          "w": "cloud",
+          "pos": "n.",
+          "ipa": "/klaʊd/",
+          "zh": "雲"
+        },
+        {
+          "w": "dark",
+          "pos": "adj.",
+          "ipa": "/dɑrk/",
+          "zh": "暗的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-18",
+      "date": "2026-07-27",
+      "category": "screen-time",
+      "en": "Let's put the phone in the drawer.",
+      "zh": "我們把手機收到抽屜裡。",
+      "ipa": "/lɛts pʊt ðə fon ɪn ðə drɔr/",
+      "vocab": [
+        {
+          "w": "phone",
+          "pos": "n.",
+          "ipa": "/fon/",
+          "zh": "手機"
+        },
+        {
+          "w": "drawer",
+          "pos": "n.",
+          "ipa": "/drɔr/",
+          "zh": "抽屜"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-19",
+      "date": "2026-07-27",
+      "category": "celebrations",
+      "en": "Share the cake with your guests.",
+      "zh": "把蛋糕分給你的客人。",
+      "ipa": "/ʃɛr ðə kek wɪð jɔr ɡɛsts/",
+      "vocab": [
+        {
+          "w": "share",
+          "pos": "v.",
+          "ipa": "/ʃɛr/",
+          "zh": "分享"
+        },
+        {
+          "w": "guest",
+          "pos": "n.",
+          "ipa": "/ɡɛst/",
+          "zh": "客人"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27-20",
+      "date": "2026-07-27",
+      "category": "reading",
+      "en": "Read this line after me, slowly.",
+      "zh": "跟著我慢慢念這一行。",
+      "ipa": "/rid ðɪs laɪn ˈæftɚ mi ˈsloli/",
+      "vocab": [
+        {
+          "w": "line",
+          "pos": "n.",
+          "ipa": "/laɪn/",
+          "zh": "（文字的）一行"
+        },
+        {
+          "w": "read",
+          "pos": "v.",
+          "ipa": "/rid/",
+          "zh": "朗讀"
+        }
+      ]
+    }
+  ]
+}

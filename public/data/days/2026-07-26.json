@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-26",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-26-1",
+      "date": "2026-07-26",
+      "category": "daily-routine",
+      "en": "Change into your clean clothes now.",
+      "zh": "現在換上乾淨的衣服。",
+      "ipa": "/tʃendʒ ˈɪntu jɔr klin kloz naʊ/",
+      "vocab": [
+        {
+          "w": "change",
+          "pos": "v.",
+          "ipa": "/tʃendʒ/",
+          "zh": "更換"
+        },
+        {
+          "w": "clothes",
+          "pos": "n.",
+          "ipa": "/kloz/",
+          "zh": "衣服"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-2",
+      "date": "2026-07-26",
+      "category": "meals",
+      "en": "Would you like some more rice?",
+      "zh": "你還要再來一點飯嗎？",
+      "ipa": "/wʊd ju laɪk sʌm mɔr raɪs/",
+      "vocab": [
+        {
+          "w": "rice",
+          "pos": "n.",
+          "ipa": "/raɪs/",
+          "zh": "米飯"
+        },
+        {
+          "w": "more",
+          "pos": "adj.",
+          "ipa": "/mɔr/",
+          "zh": "更多的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-3",
+      "date": "2026-07-26",
+      "category": "bath-bedtime",
+      "en": "Rinse your body before you get out.",
+      "zh": "出來之前先把身體沖乾淨。",
+      "ipa": "/rɪns jɔr ˈbɑdi bɪˈfɔr ju ɡɛt aʊt/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "body",
+          "pos": "n.",
+          "ipa": "/ˈbɑdi/",
+          "zh": "身體"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-4",
+      "date": "2026-07-26",
+      "category": "outings",
+      "en": "Let's walk to the park after lunch.",
+      "zh": "午餐後我們走路去公園。",
+      "ipa": "/lɛts wɔk tu ðə pɑrk ˈæftɚ lʌntʃ/",
+      "vocab": [
+        {
+          "w": "walk",
+          "pos": "v.",
+          "ipa": "/wɔk/",
+          "zh": "走路"
+        },
+        {
+          "w": "park",
+          "pos": "n.",
+          "ipa": "/pɑrk/",
+          "zh": "公園"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-5",
+      "date": "2026-07-26",
+      "category": "playground",
+      "en": "Don't climb over the fence, please.",
+      "zh": "請不要爬過圍籬。",
+      "ipa": "/dont klaɪm ˈovɚ ðə fɛns pliz/",
+      "vocab": [
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "攀爬"
+        },
+        {
+          "w": "fence",
+          "pos": "n.",
+          "ipa": "/fɛns/",
+          "zh": "圍籬"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-6",
+      "date": "2026-07-26",
+      "category": "school",
+      "en": "Tell me about your art class.",
+      "zh": "跟我說說你的美術課。",
+      "ipa": "/tɛl mi əˈbaʊt jɔr ɑrt klæs/",
+      "vocab": [
+        {
+          "w": "art",
+          "pos": "n.",
+          "ipa": "/ɑrt/",
+          "zh": "美術"
+        },
+        {
+          "w": "class",
+          "pos": "n.",
+          "ipa": "/klæs/",
+          "zh": "課"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-7",
+      "date": "2026-07-26",
+      "category": "homework",
+      "en": "Try this problem one more time.",
+      "zh": "這一題再試一次看看。",
+      "ipa": "/traɪ ðɪs ˈprɑbləm wʌn mɔr taɪm/",
+      "vocab": [
+        {
+          "w": "try",
+          "pos": "v.",
+          "ipa": "/traɪ/",
+          "zh": "嘗試"
+        },
+        {
+          "w": "problem",
+          "pos": "n.",
+          "ipa": "/ˈprɑbləm/",
+          "zh": "題目、問題"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-8",
+      "date": "2026-07-26",
+      "category": "toys-sharing",
+      "en": "Ask your brother if he wants to play.",
+      "zh": "問問弟弟要不要一起玩。",
+      "ipa": "/æsk jɔr ˈbrʌðɚ ɪf hi wɑnts tu ple/",
+      "vocab": [
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "詢問"
+        },
+        {
+          "w": "brother",
+          "pos": "n.",
+          "ipa": "/ˈbrʌðɚ/",
+          "zh": "兄弟"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-9",
+      "date": "2026-07-26",
+      "category": "emotions",
+      "en": "I love you no matter what.",
+      "zh": "不管怎樣我都愛你。",
+      "ipa": "/aɪ lʌv ju no ˈmætɚ hwʌt/",
+      "vocab": [
+        {
+          "w": "love",
+          "pos": "v.",
+          "ipa": "/lʌv/",
+          "zh": "愛"
+        },
+        {
+          "w": "no matter what",
+          "pos": "phr.",
+          "ipa": "/no ˈmætɚ hwʌt/",
+          "zh": "不管怎樣"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-10",
+      "date": "2026-07-26",
+      "category": "discipline",
+      "en": "Say it kindly, not with a shout.",
+      "zh": "好好地說，不要用吼的。",
+      "ipa": "/se ɪt ˈkaɪndli nɑt wɪð ə ʃaʊt/",
+      "vocab": [
+        {
+          "w": "kindly",
+          "pos": "adv.",
+          "ipa": "/ˈkaɪndli/",
+          "zh": "和善地"
+        },
+        {
+          "w": "shout",
+          "pos": "n.",
+          "ipa": "/ʃaʊt/",
+          "zh": "大叫"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-11",
+      "date": "2026-07-26",
+      "category": "praise",
+      "en": "That was a very smart idea.",
+      "zh": "那真是個很聰明的點子。",
+      "ipa": "/ðæt wɑz ə ˈvɛri smɑrt aɪˈdiə/",
+      "vocab": [
+        {
+          "w": "smart",
+          "pos": "adj.",
+          "ipa": "/smɑrt/",
+          "zh": "聰明的"
+        },
+        {
+          "w": "idea",
+          "pos": "n.",
+          "ipa": "/aɪˈdiə/",
+          "zh": "點子、主意"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-12",
+      "date": "2026-07-26",
+      "category": "safety",
+      "en": "Keep the plastic bag away from your face.",
+      "zh": "塑膠袋不要靠近臉。",
+      "ipa": "/kip ðə ˈplæstɪk bæɡ əˈwe frʌm jɔr fes/",
+      "vocab": [
+        {
+          "w": "plastic",
+          "pos": "adj.",
+          "ipa": "/ˈplæstɪk/",
+          "zh": "塑膠的"
+        },
+        {
+          "w": "away",
+          "pos": "adv.",
+          "ipa": "/əˈwe/",
+          "zh": "離開、遠離"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-13",
+      "date": "2026-07-26",
+      "category": "health",
+      "en": "Cover your cough with your elbow.",
+      "zh": "咳嗽的時候用手肘遮住。",
+      "ipa": "/ˈkʌvɚ jɔr kɔf wɪð jɔr ˈɛlbo/",
+      "vocab": [
+        {
+          "w": "cough",
+          "pos": "n.",
+          "ipa": "/kɔf/",
+          "zh": "咳嗽"
+        },
+        {
+          "w": "elbow",
+          "pos": "n.",
+          "ipa": "/ˈɛlbo/",
+          "zh": "手肘"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-14",
+      "date": "2026-07-26",
+      "category": "relatives",
+      "en": "Let's make a card for Auntie.",
+      "zh": "我們來做一張卡片給阿姨。",
+      "ipa": "/lɛts mek ə kɑrd fɔr ˈænti/",
+      "vocab": [
+        {
+          "w": "card",
+          "pos": "n.",
+          "ipa": "/kɑrd/",
+          "zh": "卡片"
+        },
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨、姑姑"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-15",
+      "date": "2026-07-26",
+      "category": "friends",
+      "en": "Wave to your friend across the street.",
+      "zh": "跟對街的朋友揮揮手。",
+      "ipa": "/wev tu jɔr frɛnd əˈkrɔs ðə strit/",
+      "vocab": [
+        {
+          "w": "wave",
+          "pos": "v.",
+          "ipa": "/wev/",
+          "zh": "揮手"
+        },
+        {
+          "w": "across",
+          "pos": "prep.",
+          "ipa": "/əˈkrɔs/",
+          "zh": "橫越、在對面"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-16",
+      "date": "2026-07-26",
+      "category": "manners",
+      "en": "Please wait in line with everyone.",
+      "zh": "請跟大家一起排隊等。",
+      "ipa": "/pliz wet ɪn laɪn wɪð ˈɛvriwʌn/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        },
+        {
+          "w": "line",
+          "pos": "n.",
+          "ipa": "/laɪn/",
+          "zh": "隊伍"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-17",
+      "date": "2026-07-26",
+      "category": "weather",
+      "en": "Look at the rainbow in the sky.",
+      "zh": "你看天上的彩虹。",
+      "ipa": "/lʊk æt ðə ˈrenˌbo ɪn ðə skaɪ/",
+      "vocab": [
+        {
+          "w": "rainbow",
+          "pos": "n.",
+          "ipa": "/ˈrenˌbo/",
+          "zh": "彩虹"
+        },
+        {
+          "w": "sky",
+          "pos": "n.",
+          "ipa": "/skaɪ/",
+          "zh": "天空"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-18",
+      "date": "2026-07-26",
+      "category": "screen-time",
+      "en": "Finish your chores before any videos.",
+      "zh": "做完家事才能看影片。",
+      "ipa": "/ˈfɪnɪʃ jɔr tʃɔrz bɪˈfɔr ˈɛni ˈvɪdioz/",
+      "vocab": [
+        {
+          "w": "chore",
+          "pos": "n.",
+          "ipa": "/tʃɔr/",
+          "zh": "家事、雜務"
+        },
+        {
+          "w": "video",
+          "pos": "n.",
+          "ipa": "/ˈvɪdio/",
+          "zh": "影片"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-19",
+      "date": "2026-07-26",
+      "category": "celebrations",
+      "en": "Put on your party hat now.",
+      "zh": "現在把派對帽戴上。",
+      "ipa": "/pʊt ɑn jɔr ˈpɑrti hæt naʊ/",
+      "vocab": [
+        {
+          "w": "party",
+          "pos": "n.",
+          "ipa": "/ˈpɑrti/",
+          "zh": "派對"
+        },
+        {
+          "w": "hat",
+          "pos": "n.",
+          "ipa": "/hæt/",
+          "zh": "帽子"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26-20",
+      "date": "2026-07-26",
+      "category": "reading",
+      "en": "Which story should we read first?",
+      "zh": "我們先讀哪一個故事呢？",
+      "ipa": "/hwɪtʃ ˈstɔri ʃʊd wi rid fɝst/",
+      "vocab": [
+        {
+          "w": "story",
+          "pos": "n.",
+          "ipa": "/ˈstɔri/",
+          "zh": "故事"
+        },
+        {
+          "w": "first",
+          "pos": "adv.",
+          "ipa": "/fɝst/",
+          "zh": "先、首先"
+        }
+      ]
+    }
+  ]
+}
