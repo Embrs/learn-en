@@ -60,11 +60,16 @@ GitHub Pages 沒有伺服器端 rewrite，所以 `vite.config.js` 的 `spaFallba
 每日例句由**桌面版 Claude** 的排程任務（08:30）產生，定義在 repo 之外：
 `~/Documents/Claude/Scheduled/daily-english-sentences/SKILL.md`
 
-改動資料結構、檔案位置或 JSON 形狀時，**必須同步更新那份 SKILL.md**，否則排程隔天會寫入已不存在的檔案，網站靜默停止更新（它曾寫死 `assets/app.js`、`sentences.json`、`archive.json`）。**搬動整個專案資料夾也算**——SKILL.md 裡的絕對路徑是寫死的。直接編輯 SKILL.md 即可生效，不需要重新註冊。
+改動資料結構、檔案位置或 JSON 形狀時，**必須同步更新那份 SKILL.md**，否則排程隔天會寫入已不存在的檔案，網站靜默停止更新（它曾寫死 `assets/app.js`、`sentences.json`、`archive.json`）。SKILL.md 用檔案工具是唯讀的，要改請用 `mcp__scheduled-tasks__update_scheduled_task`（taskId `daily-english-sentences`）覆寫 prompt，改完即刻生效、不需重新註冊。
 
-排程的存取權**不是常駐的**：`scheduled-tasks.json` 裡這個任務的 `userSelectedFolders` 是空陣列，所以它每天早上都要靠 `mcp__cowork__request_cowork_directory` 現場請求授權、等使用者按核准（曾等過 8 分鐘）。人不在電腦前那天就會卡住。要讓它無人值守，得在桌面版把專案資料夾加進**該排程任務**的資料夾清單——注意 `claude_desktop_config.json` 的 `localAgentModeTrustedFolders` 是 local agent mode 用的另一套機制，改它沒有用。
+**排程完全不碰本機磁碟。** 它 clone repo 到沙箱暫存目錄、在裡面產生日檔、push 回 GitHub，全程只靠網路。這是刻意的：舊版每天早上要靠 `mcp__cowork__request_cowork_directory` 現場請求資料夾授權、等使用者按核准（曾等過 8 分鐘），人不在電腦前那天就整個卡住——2026 年 7 月的 25～27 日就是這樣連續三天沒產生。現在推送 token 直接寫在排程 prompt 裡，不再讀專案資料夾的 `.deploy-token`。
 
-排程只複製當天日檔進乾淨 clone（`cp` 單檔，不是 `rsync` 整包）。這是刻意的：整包同步會把任何未進版控的檔案（`.DS_Store`、openspec 草稿）一起 commit，而 `$SRC` 抓錯時 `--delete` 會清空整個 repo。所以**在專案根目錄新增未進版控的檔案是安全的**，不會干擾排程。
+兩個後果要記得：
+
+- **本機工作區的日檔會持續落後遠端**（排程不再複製回來）。要看最新內容請 `git pull`。這也表示判斷「哪幾天缺」時，本機資料不可信。
+- **token 輪替時要同步更新排程 prompt**，否則 push 會 401／403。SKILL.md 有寫遇到 401/403 就停下來明講需要換 token，不要靜默失敗。
+
+回補範圍是**滾動的「今天＋前 7 天」**，每天都檢查。這是為了讓漏跑能自我修復：若只看前 3 天，週一補完週末就沒了，而週一本身也漏跑的話上週缺口就永遠補不回來。缺的那幾天才會真的生成內容，所以多檢查幾天幾乎沒成本。MISSING 超過 3 天時 SKILL.md 要求分批生成（一次 2–3 天），避免 context 撐爆導致中途失敗。
 
 ### GitHub Pages 必須維持 build_type=workflow
 
