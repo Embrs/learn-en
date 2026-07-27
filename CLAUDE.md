@@ -71,6 +71,8 @@ GitHub Pages 沒有伺服器端 rewrite，所以 `vite.config.js` 的 `spaFallba
 
 回補範圍是**滾動的「今天＋前 7 天」**，每天都檢查。這是為了讓漏跑能自我修復：若只看前 3 天，週一補完週末就沒了，而週一本身也漏跑的話上週缺口就永遠補不回來。缺的那幾天才會真的生成內容，所以多檢查幾天幾乎沒成本。MISSING 超過 3 天時 SKILL.md 要求分批生成（一次 2–3 天），避免 context 撐爆導致中途失敗。
 
+排程算日期**必須用 `date -d "-N day" +%F`**，不能用 `new Date(x + "T00:00:00")` 搭 `toISOString().slice(0,10)`。後者把本地時間當 UTC 輸出，在台北（UTC+8）整串日期會往前偏一天——「今天」的日檔於是永遠不在候選清單裡。舊版 SKILL.md 就是這個寫法，已修掉。
+
 ### GitHub Pages 必須維持 build_type=workflow
 
 Pages 來源**必須**是 GitHub Actions，不能退回 legacy 的「Deploy from a branch」——legacy 會把 repo 根目錄當靜態站直接送出未編譯的 `<script src="/src/main.js">`，整頁白畫面（build 其實成功，只是產物沒被採用），還會公開 `/package.json`、`/src/*`。
