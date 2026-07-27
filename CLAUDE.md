@@ -77,7 +77,7 @@ GitHub Pages 沒有伺服器端 rewrite，所以 `vite.config.js` 的 `spaFallba
 
 Pages 來源**必須**是 GitHub Actions，不能退回 legacy 的「Deploy from a branch」——legacy 會把 repo 根目錄當靜態站直接送出未編譯的 `<script src="/src/main.js">`，整頁白畫面（build 其實成功，只是產物沒被採用），還會公開 `/package.json`、`/src/*`。
 
-白畫面時的判別：`curl -s https://embrs.github.io/learn-en/ | grep script`，看到 `/src/main.js` 就是退回 legacy 了。修法（`.deploy-token` 權限足夠）：
+白畫面時的判別：`curl -s https://embrs.github.io/learn-en/ | grep script`，看到 `/src/main.js` 就是退回 legacy 了。修法如下——但注意 `.deploy-token` 現在是只授權 Contents 讀寫的 fine-grained PAT，**沒有 Pages/Administration 權限，這個 API 會 403**，真的退回 legacy 時得另外開一把有 Administration: write 的 token，或直接在 repo Settings → Pages 的 UI 把 Source 改回 GitHub Actions：
 ```bash
 curl -X PUT -H "Authorization: Bearer $TOKEN" .../repos/Embrs/learn-en/pages -d '{"build_type":"workflow"}'
 ```
