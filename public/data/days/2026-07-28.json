@@ -1,0 +1,247 @@
+{
+  "date": "2026-07-28",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-28-1",
+      "date": "2026-07-28",
+      "category": "daily-routine",
+      "en": "Let's make your bed together now.",
+      "zh": "我們現在一起鋪床吧。",
+      "ipa": "/lɛts mek jɔr bɛd təˈɡɛðɚ naʊ/",
+      "vocab": [
+        { "w": "make the bed", "pos": "phr.", "ipa": "/mek ðə bɛd/", "zh": "鋪床" },
+        { "w": "together", "pos": "adv.", "ipa": "/təˈɡɛðɚ/", "zh": "一起" }
+      ]
+    },
+    {
+      "id": "2026-07-28-2",
+      "date": "2026-07-28",
+      "category": "meals",
+      "en": "Take small bites and chew slowly.",
+      "zh": "小口小口吃，慢慢咀嚼。",
+      "ipa": "/tek smɔl baɪts ænd tʃu ˈsloli/",
+      "vocab": [
+        { "w": "bite", "pos": "n.", "ipa": "/baɪt/", "zh": "一口" },
+        { "w": "chew", "pos": "v.", "ipa": "/tʃu/", "zh": "咀嚼" }
+      ]
+    },
+    {
+      "id": "2026-07-28-3",
+      "date": "2026-07-28",
+      "category": "bath-bedtime",
+      "en": "Wash behind your ears too.",
+      "zh": "耳朵後面也要洗喔。",
+      "ipa": "/wɑʃ bɪˈhaɪnd jɔr ɪrz tu/",
+      "vocab": [
+        { "w": "wash", "pos": "v.", "ipa": "/wɑʃ/", "zh": "清洗" },
+        { "w": "behind", "pos": "prep.", "ipa": "/bɪˈhaɪnd/", "zh": "在……後面" }
+      ]
+    },
+    {
+      "id": "2026-07-28-4",
+      "date": "2026-07-28",
+      "category": "outings",
+      "en": "Let's find our seats on the train.",
+      "zh": "我們來找火車上的座位。",
+      "ipa": "/lɛts faɪnd aʊr sits ɑn ðə tren/",
+      "vocab": [
+        { "w": "find", "pos": "v.", "ipa": "/faɪnd/", "zh": "找到" },
+        { "w": "seat", "pos": "n.", "ipa": "/sit/", "zh": "座位" }
+      ]
+    },
+    {
+      "id": "2026-07-28-5",
+      "date": "2026-07-28",
+      "category": "playground",
+      "en": "Climb up the ladder one step at a time.",
+      "zh": "爬梯子要一階一階慢慢爬。",
+      "ipa": "/klaɪm ʌp ðə ˈlædɚ wʌn stɛp æt ə taɪm/",
+      "vocab": [
+        { "w": "climb", "pos": "v.", "ipa": "/klaɪm/", "zh": "攀爬" },
+        { "w": "ladder", "pos": "n.", "ipa": "/ˈlædɚ/", "zh": "梯子" }
+      ]
+    },
+    {
+      "id": "2026-07-28-6",
+      "date": "2026-07-28",
+      "category": "school",
+      "en": "Put your lunchbox in your backpack.",
+      "zh": "把便當盒放進書包裡。",
+      "ipa": "/pʊt jɔr ˈlʌntʃˌbɑks ɪn jɔr ˈbækˌpæk/",
+      "vocab": [
+        { "w": "lunchbox", "pos": "n.", "ipa": "/ˈlʌntʃˌbɑks/", "zh": "便當盒" },
+        { "w": "backpack", "pos": "n.", "ipa": "/ˈbækˌpæk/", "zh": "書包、背包" }
+      ]
+    },
+    {
+      "id": "2026-07-28-7",
+      "date": "2026-07-28",
+      "category": "homework",
+      "en": "Read the question one more time.",
+      "zh": "把題目再讀一次。",
+      "ipa": "/rid ðə ˈkwɛstʃən wʌn mɔr taɪm/",
+      "vocab": [
+        { "w": "question", "pos": "n.", "ipa": "/ˈkwɛstʃən/", "zh": "問題、題目" },
+        { "w": "one more time", "pos": "phr.", "ipa": "/wʌn mɔr taɪm/", "zh": "再一次" }
+      ]
+    },
+    {
+      "id": "2026-07-28-8",
+      "date": "2026-07-28",
+      "category": "toys-sharing",
+      "en": "Let your sister play with the blocks.",
+      "zh": "讓妹妹玩積木。",
+      "ipa": "/lɛt jɔr ˈsɪstɚ ple wɪð ðə blɑks/",
+      "vocab": [
+        { "w": "sister", "pos": "n.", "ipa": "/ˈsɪstɚ/", "zh": "姊姊、妹妹" },
+        { "w": "block", "pos": "n.", "ipa": "/blɑk/", "zh": "積木" }
+      ]
+    },
+    {
+      "id": "2026-07-28-9",
+      "date": "2026-07-28",
+      "category": "emotions",
+      "en": "It's okay to feel a little scared.",
+      "zh": "覺得有一點害怕是沒關係的。",
+      "ipa": "/ɪts oˈke tu fil ə ˈlɪtəl skɛrd/",
+      "vocab": [
+        { "w": "scared", "pos": "adj.", "ipa": "/skɛrd/", "zh": "害怕的" },
+        { "w": "feel", "pos": "v.", "ipa": "/fil/", "zh": "感覺" }
+      ]
+    },
+    {
+      "id": "2026-07-28-10",
+      "date": "2026-07-28",
+      "category": "discipline",
+      "en": "We don't throw things when we're mad.",
+      "zh": "生氣的時候不可以丟東西。",
+      "ipa": "/wi dont θro θɪŋz hwɛn wɪr mæd/",
+      "vocab": [
+        { "w": "throw", "pos": "v.", "ipa": "/θro/", "zh": "丟、扔" },
+        { "w": "mad", "pos": "adj.", "ipa": "/mæd/", "zh": "生氣的" }
+      ]
+    },
+    {
+      "id": "2026-07-28-11",
+      "date": "2026-07-28",
+      "category": "praise",
+      "en": "You tried so hard, I'm proud of you.",
+      "zh": "你這麼努力，我以你為傲。",
+      "ipa": "/ju traɪd so hɑrd aɪm praʊd ʌv ju/",
+      "vocab": [
+        { "w": "proud", "pos": "adj.", "ipa": "/praʊd/", "zh": "驕傲的、自豪的" },
+        { "w": "try", "pos": "v.", "ipa": "/traɪ/", "zh": "努力嘗試" }
+      ]
+    },
+    {
+      "id": "2026-07-28-12",
+      "date": "2026-07-28",
+      "category": "safety",
+      "en": "Buckle your seatbelt before we go.",
+      "zh": "出發前先扣好安全帶。",
+      "ipa": "/ˈbʌkəl jɔr ˈsitˌbɛlt bɪˈfɔr wi ɡo/",
+      "vocab": [
+        { "w": "buckle", "pos": "v.", "ipa": "/ˈbʌkəl/", "zh": "扣上" },
+        { "w": "seatbelt", "pos": "n.", "ipa": "/ˈsitˌbɛlt/", "zh": "安全帶" }
+      ]
+    },
+    {
+      "id": "2026-07-28-13",
+      "date": "2026-07-28",
+      "category": "health",
+      "en": "Blow your nose into the tissue.",
+      "zh": "把鼻涕擤在面紙上。",
+      "ipa": "/blo jɔr noz ˈɪntu ðə ˈtɪʃu/",
+      "vocab": [
+        { "w": "nose", "pos": "n.", "ipa": "/noz/", "zh": "鼻子" },
+        { "w": "tissue", "pos": "n.", "ipa": "/ˈtɪʃu/", "zh": "面紙" }
+      ]
+    },
+    {
+      "id": "2026-07-28-14",
+      "date": "2026-07-28",
+      "category": "relatives",
+      "en": "Give grandma a big warm hug.",
+      "zh": "給奶奶一個大大的溫暖擁抱。",
+      "ipa": "/ɡɪv ˈɡrænˌmɑ ə bɪɡ wɔrm hʌɡ/",
+      "vocab": [
+        { "w": "grandma", "pos": "n.", "ipa": "/ˈɡrænˌmɑ/", "zh": "奶奶、外婆" },
+        { "w": "hug", "pos": "n.", "ipa": "/hʌɡ/", "zh": "擁抱" }
+      ]
+    },
+    {
+      "id": "2026-07-28-15",
+      "date": "2026-07-28",
+      "category": "friends",
+      "en": "Ask your friend if he wants to join.",
+      "zh": "問問你的朋友要不要一起玩。",
+      "ipa": "/æsk jɔr frɛnd ɪf hi wɑnts tu dʒɔɪn/",
+      "vocab": [
+        { "w": "join", "pos": "v.", "ipa": "/dʒɔɪn/", "zh": "加入" },
+        { "w": "ask", "pos": "v.", "ipa": "/æsk/", "zh": "詢問" }
+      ]
+    },
+    {
+      "id": "2026-07-28-16",
+      "date": "2026-07-28",
+      "category": "manners",
+      "en": "Wait until everyone is served.",
+      "zh": "等大家都上菜了再開動。",
+      "ipa": "/wet ənˈtɪl ˈɛvriˌwʌn ɪz sɝvd/",
+      "vocab": [
+        { "w": "serve", "pos": "v.", "ipa": "/sɝv/", "zh": "上菜、供應" },
+        { "w": "everyone", "pos": "pron.", "ipa": "/ˈɛvriˌwʌn/", "zh": "每個人" }
+      ]
+    },
+    {
+      "id": "2026-07-28-17",
+      "date": "2026-07-28",
+      "category": "weather",
+      "en": "Put on your boots, it's muddy outside.",
+      "zh": "穿上雨靴，外面很泥濘。",
+      "ipa": "/pʊt ɑn jɔr buts ɪts ˈmʌdi ˈaʊtˈsaɪd/",
+      "vocab": [
+        { "w": "boots", "pos": "n.", "ipa": "/buts/", "zh": "靴子" },
+        { "w": "muddy", "pos": "adj.", "ipa": "/ˈmʌdi/", "zh": "泥濘的" }
+      ]
+    },
+    {
+      "id": "2026-07-28-18",
+      "date": "2026-07-28",
+      "category": "screen-time",
+      "en": "Two more minutes, then we turn it off.",
+      "zh": "再兩分鐘，我們就關掉。",
+      "ipa": "/tu mɔr ˈmɪnɪts ðɛn wi tɝn ɪt ɔf/",
+      "vocab": [
+        { "w": "minute", "pos": "n.", "ipa": "/ˈmɪnɪt/", "zh": "分鐘" },
+        { "w": "turn off", "pos": "phr.", "ipa": "/tɝn ɔf/", "zh": "關掉" }
+      ]
+    },
+    {
+      "id": "2026-07-28-19",
+      "date": "2026-07-28",
+      "category": "celebrations",
+      "en": "Help me blow up the balloons.",
+      "zh": "幫我把氣球吹起來。",
+      "ipa": "/hɛlp mi blo ʌp ðə bəˈlunz/",
+      "vocab": [
+        { "w": "blow up", "pos": "phr.", "ipa": "/blo ʌp/", "zh": "吹氣、充氣" },
+        { "w": "balloon", "pos": "n.", "ipa": "/bəˈlun/", "zh": "氣球" }
+      ]
+    },
+    {
+      "id": "2026-07-28-20",
+      "date": "2026-07-28",
+      "category": "reading",
+      "en": "Turn the page gently, please.",
+      "zh": "請輕輕地翻頁。",
+      "ipa": "/tɝn ðə pedʒ ˈdʒɛntli pliz/",
+      "vocab": [
+        { "w": "page", "pos": "n.", "ipa": "/pedʒ/", "zh": "書頁" },
+        { "w": "gently", "pos": "adv.", "ipa": "/ˈdʒɛntli/", "zh": "輕柔地" }
+      ]
+    }
+  ]
+}
