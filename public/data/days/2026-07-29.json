@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-29",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-29-1",
+      "date": "2026-07-29",
+      "category": "daily-routine",
+      "en": "Please put on your socks now.",
+      "zh": "現在請穿上襪子。",
+      "ipa": "/pliz pʊt ɑn jɔr sɑks naʊ/",
+      "vocab": [
+        {
+          "w": "socks",
+          "pos": "n.",
+          "ipa": "/sɑks/",
+          "zh": "襪子"
+        },
+        {
+          "w": "put on",
+          "pos": "phr.",
+          "ipa": "/pʊt ɑn/",
+          "zh": "穿上"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-2",
+      "date": "2026-07-29",
+      "category": "meals",
+      "en": "Please pass me the rice bowl.",
+      "zh": "請把飯碗遞給我。",
+      "ipa": "/pliz pæs mi ðə raɪs bol/",
+      "vocab": [
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "遞"
+        },
+        {
+          "w": "bowl",
+          "pos": "n.",
+          "ipa": "/bol/",
+          "zh": "碗"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-3",
+      "date": "2026-07-29",
+      "category": "bath-bedtime",
+      "en": "Let's dry your hair with a towel.",
+      "zh": "我們用毛巾把頭髮擦乾。",
+      "ipa": "/lɛts draɪ jɔr hɛr wɪð ə ˈtaʊəl/",
+      "vocab": [
+        {
+          "w": "dry",
+          "pos": "v.",
+          "ipa": "/draɪ/",
+          "zh": "弄乾"
+        },
+        {
+          "w": "towel",
+          "pos": "n.",
+          "ipa": "/ˈtaʊəl/",
+          "zh": "毛巾"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-4",
+      "date": "2026-07-29",
+      "category": "outings",
+      "en": "Stay close to me at the market.",
+      "zh": "在市場要待在我身邊。",
+      "ipa": "/ste klos tu mi æt ðə ˈmɑrkɪt/",
+      "vocab": [
+        {
+          "w": "close",
+          "pos": "adv.",
+          "ipa": "/klos/",
+          "zh": "靠近"
+        },
+        {
+          "w": "market",
+          "pos": "n.",
+          "ipa": "/ˈmɑrkɪt/",
+          "zh": "市場"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-5",
+      "date": "2026-07-29",
+      "category": "playground",
+      "en": "Slide down slowly and be careful.",
+      "zh": "慢慢溜滑梯，小心一點。",
+      "ipa": "/slaɪd daʊn ˈsloli ænd bi ˈkɛrfəl/",
+      "vocab": [
+        {
+          "w": "slide",
+          "pos": "v.",
+          "ipa": "/slaɪd/",
+          "zh": "滑"
+        },
+        {
+          "w": "careful",
+          "pos": "adj.",
+          "ipa": "/ˈkɛrfəl/",
+          "zh": "小心的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-6",
+      "date": "2026-07-29",
+      "category": "school",
+      "en": "Pack your backpack for tomorrow.",
+      "zh": "把明天的書包整理好。",
+      "ipa": "/pæk jɔr ˈbækˌpæk fɔr təˈmɑro/",
+      "vocab": [
+        {
+          "w": "pack",
+          "pos": "v.",
+          "ipa": "/pæk/",
+          "zh": "打包"
+        },
+        {
+          "w": "backpack",
+          "pos": "n.",
+          "ipa": "/ˈbækˌpæk/",
+          "zh": "書包"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-7",
+      "date": "2026-07-29",
+      "category": "homework",
+      "en": "Let's read the question carefully.",
+      "zh": "我們仔細把題目讀一遍。",
+      "ipa": "/lɛts rid ðə ˈkwɛstʃən ˈkɛrfəli/",
+      "vocab": [
+        {
+          "w": "question",
+          "pos": "n.",
+          "ipa": "/ˈkwɛstʃən/",
+          "zh": "問題"
+        },
+        {
+          "w": "carefully",
+          "pos": "adv.",
+          "ipa": "/ˈkɛrfəli/",
+          "zh": "仔細地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-8",
+      "date": "2026-07-29",
+      "category": "toys-sharing",
+      "en": "Can you share the blocks with him?",
+      "zh": "你可以和他分享積木嗎？",
+      "ipa": "/kæn ju ʃɛr ðə blɑks wɪð hɪm/",
+      "vocab": [
+        {
+          "w": "share",
+          "pos": "v.",
+          "ipa": "/ʃɛr/",
+          "zh": "分享"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-9",
+      "date": "2026-07-29",
+      "category": "emotions",
+      "en": "Tell me how you are feeling.",
+      "zh": "告訴我你的感受。",
+      "ipa": "/tɛl mi haʊ ju ɑr ˈfilɪŋ/",
+      "vocab": [
+        {
+          "w": "tell",
+          "pos": "v.",
+          "ipa": "/tɛl/",
+          "zh": "告訴"
+        },
+        {
+          "w": "feeling",
+          "pos": "n.",
+          "ipa": "/ˈfilɪŋ/",
+          "zh": "感受"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-10",
+      "date": "2026-07-29",
+      "category": "discipline",
+      "en": "We don't throw toys when angry.",
+      "zh": "生氣時我們不丟玩具。",
+      "ipa": "/wi dont θro tɔɪz wɛn ˈæŋɡri/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟"
+        },
+        {
+          "w": "angry",
+          "pos": "adj.",
+          "ipa": "/ˈæŋɡri/",
+          "zh": "生氣的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-11",
+      "date": "2026-07-29",
+      "category": "praise",
+      "en": "You worked so hard, well done!",
+      "zh": "你好努力，做得很棒！",
+      "ipa": "/ju wɝkt so hɑrd wɛl dʌn/",
+      "vocab": [
+        {
+          "w": "hard",
+          "pos": "adv.",
+          "ipa": "/hɑrd/",
+          "zh": "努力地"
+        },
+        {
+          "w": "well done",
+          "pos": "phr.",
+          "ipa": "/wɛl dʌn/",
+          "zh": "做得好"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-12",
+      "date": "2026-07-29",
+      "category": "safety",
+      "en": "Buckle your seatbelt in the car.",
+      "zh": "在車上要繫好安全帶。",
+      "ipa": "/ˈbʌkəl jɔr ˈsitˌbɛlt ɪn ðə kɑr/",
+      "vocab": [
+        {
+          "w": "buckle",
+          "pos": "v.",
+          "ipa": "/ˈbʌkəl/",
+          "zh": "扣緊"
+        },
+        {
+          "w": "seatbelt",
+          "pos": "n.",
+          "ipa": "/ˈsitˌbɛlt/",
+          "zh": "安全帶"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-13",
+      "date": "2026-07-29",
+      "category": "health",
+      "en": "Drink more water when you're sick.",
+      "zh": "生病時要多喝水。",
+      "ipa": "/drɪŋk mɔr ˈwɔtɚ wɛn jʊr sɪk/",
+      "vocab": [
+        {
+          "w": "water",
+          "pos": "n.",
+          "ipa": "/ˈwɔtɚ/",
+          "zh": "水"
+        },
+        {
+          "w": "sick",
+          "pos": "adj.",
+          "ipa": "/sɪk/",
+          "zh": "生病的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-14",
+      "date": "2026-07-29",
+      "category": "relatives",
+      "en": "Grandma made your favorite soup.",
+      "zh": "奶奶煮了你最愛的湯。",
+      "ipa": "/ˈɡrænmɑ med jɔr ˈfevərɪt sup/",
+      "vocab": [
+        {
+          "w": "grandma",
+          "pos": "n.",
+          "ipa": "/ˈɡrænmɑ/",
+          "zh": "奶奶"
+        },
+        {
+          "w": "favorite",
+          "pos": "adj.",
+          "ipa": "/ˈfevərɪt/",
+          "zh": "最愛的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-15",
+      "date": "2026-07-29",
+      "category": "friends",
+      "en": "Let's invite your friend over.",
+      "zh": "我們邀請你的朋友來玩。",
+      "ipa": "/lɛts ɪnˈvaɪt jɔr frɛnd ˈovɚ/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "friend",
+          "pos": "n.",
+          "ipa": "/frɛnd/",
+          "zh": "朋友"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-16",
+      "date": "2026-07-29",
+      "category": "manners",
+      "en": "Please wait until I finish talking.",
+      "zh": "請等我把話說完。",
+      "ipa": "/pliz wet ənˈtɪl aɪ ˈfɪnɪʃ ˈtɔkɪŋ/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        },
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "完成"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-17",
+      "date": "2026-07-29",
+      "category": "weather",
+      "en": "It's windy, hold your hat tight.",
+      "zh": "風很大，帽子抓緊喔。",
+      "ipa": "/ɪts ˈwɪndi hold jɔr hæt taɪt/",
+      "vocab": [
+        {
+          "w": "windy",
+          "pos": "adj.",
+          "ipa": "/ˈwɪndi/",
+          "zh": "有風的"
+        },
+        {
+          "w": "tight",
+          "pos": "adv.",
+          "ipa": "/taɪt/",
+          "zh": "緊緊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-18",
+      "date": "2026-07-29",
+      "category": "screen-time",
+      "en": "Ten more minutes, then we stop.",
+      "zh": "再看十分鐘，就要停囉。",
+      "ipa": "/tɛn mɔr ˈmɪnɪts ðɛn wi stɑp/",
+      "vocab": [
+        {
+          "w": "minute",
+          "pos": "n.",
+          "ipa": "/ˈmɪnɪt/",
+          "zh": "分鐘"
+        },
+        {
+          "w": "stop",
+          "pos": "v.",
+          "ipa": "/stɑp/",
+          "zh": "停止"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-19",
+      "date": "2026-07-29",
+      "category": "celebrations",
+      "en": "Let's wrap this gift for grandpa.",
+      "zh": "我們來包這份給爺爺的禮物。",
+      "ipa": "/lɛts ræp ðɪs ɡɪft fɔr ˈɡrænpɑ/",
+      "vocab": [
+        {
+          "w": "wrap",
+          "pos": "v.",
+          "ipa": "/ræp/",
+          "zh": "包裝"
+        },
+        {
+          "w": "gift",
+          "pos": "n.",
+          "ipa": "/ɡɪft/",
+          "zh": "禮物"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29-20",
+      "date": "2026-07-29",
+      "category": "reading",
+      "en": "Pick a book and I'll read it.",
+      "zh": "挑一本書，我念給你聽。",
+      "ipa": "/pɪk ə bʊk ænd aɪl rid ɪt/",
+      "vocab": [
+        {
+          "w": "pick",
+          "pos": "v.",
+          "ipa": "/pɪk/",
+          "zh": "挑選"
+        },
+        {
+          "w": "book",
+          "pos": "n.",
+          "ipa": "/bʊk/",
+          "zh": "書"
+        }
+      ]
+    }
+  ]
+}
