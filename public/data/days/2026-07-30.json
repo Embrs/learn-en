@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-30",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-30-1",
+      "date": "2026-07-30",
+      "category": "daily-routine",
+      "en": "Let's comb your hair neatly.",
+      "zh": "我們把頭髮梳整齊。",
+      "ipa": "/lɛts kom jɔr hɛr ˈnitli/",
+      "vocab": [
+        {
+          "w": "comb",
+          "pos": "v.",
+          "ipa": "/kom/",
+          "zh": "梳"
+        },
+        {
+          "w": "neatly",
+          "pos": "adv.",
+          "ipa": "/ˈnitli/",
+          "zh": "整齊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-2",
+      "date": "2026-07-30",
+      "category": "meals",
+      "en": "Finish your vegetables, please.",
+      "zh": "請把你的蔬菜吃完。",
+      "ipa": "/ˈfɪnɪʃ jɔr ˈvɛdʒtəbəlz pliz/",
+      "vocab": [
+        {
+          "w": "vegetable",
+          "pos": "n.",
+          "ipa": "/ˈvɛdʒtəbəl/",
+          "zh": "蔬菜"
+        },
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "吃完"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-3",
+      "date": "2026-07-30",
+      "category": "bath-bedtime",
+      "en": "It's bedtime, let's turn off the light.",
+      "zh": "睡覺時間到了，我們把燈關掉。",
+      "ipa": "/ɪts ˈbɛdˌtaɪm lɛts tɝn ɔf ðə laɪt/",
+      "vocab": [
+        {
+          "w": "bedtime",
+          "pos": "n.",
+          "ipa": "/ˈbɛdˌtaɪm/",
+          "zh": "就寢時間"
+        },
+        {
+          "w": "light",
+          "pos": "n.",
+          "ipa": "/laɪt/",
+          "zh": "燈"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-4",
+      "date": "2026-07-30",
+      "category": "outings",
+      "en": "We're going to the store now.",
+      "zh": "我們現在要去商店。",
+      "ipa": "/wir ˈɡoɪŋ tu ðə stɔr naʊ/",
+      "vocab": [
+        {
+          "w": "store",
+          "pos": "n.",
+          "ipa": "/stɔr/",
+          "zh": "商店"
+        },
+        {
+          "w": "going",
+          "pos": "v.",
+          "ipa": "/ˈɡoɪŋ/",
+          "zh": "去"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-5",
+      "date": "2026-07-30",
+      "category": "playground",
+      "en": "Climb the ladder one step at a time.",
+      "zh": "一步一步慢慢爬梯子。",
+      "ipa": "/klaɪm ðə ˈlædɚ wʌn stɛp æt ə taɪm/",
+      "vocab": [
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "爬"
+        },
+        {
+          "w": "ladder",
+          "pos": "n.",
+          "ipa": "/ˈlædɚ/",
+          "zh": "梯子"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-6",
+      "date": "2026-07-30",
+      "category": "school",
+      "en": "Don't forget your water bottle.",
+      "zh": "別忘了帶你的水壺。",
+      "ipa": "/dont fɚˈɡɛt jɔr ˈwɔtɚ ˈbɑtəl/",
+      "vocab": [
+        {
+          "w": "forget",
+          "pos": "v.",
+          "ipa": "/fɚˈɡɛt/",
+          "zh": "忘記"
+        },
+        {
+          "w": "bottle",
+          "pos": "n.",
+          "ipa": "/ˈbɑtəl/",
+          "zh": "瓶子"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-7",
+      "date": "2026-07-30",
+      "category": "homework",
+      "en": "Let's finish your math first.",
+      "zh": "我們先把數學寫完。",
+      "ipa": "/lɛts ˈfɪnɪʃ jɔr mæθ fɝst/",
+      "vocab": [
+        {
+          "w": "math",
+          "pos": "n.",
+          "ipa": "/mæθ/",
+          "zh": "數學"
+        },
+        {
+          "w": "first",
+          "pos": "adv.",
+          "ipa": "/fɝst/",
+          "zh": "先"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-8",
+      "date": "2026-07-30",
+      "category": "toys-sharing",
+      "en": "Let's take turns with the ball.",
+      "zh": "我們輪流玩這顆球。",
+      "ipa": "/lɛts tek tɝnz wɪð ðə bɔl/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "phr.",
+          "ipa": "/tek tɝnz/",
+          "zh": "輪流"
+        },
+        {
+          "w": "ball",
+          "pos": "n.",
+          "ipa": "/bɔl/",
+          "zh": "球"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-9",
+      "date": "2026-07-30",
+      "category": "emotions",
+      "en": "It's okay to feel a little nervous.",
+      "zh": "覺得有點緊張是正常的。",
+      "ipa": "/ɪts oˈke tu fil ə ˈlɪtəl ˈnɝvəs/",
+      "vocab": [
+        {
+          "w": "nervous",
+          "pos": "adj.",
+          "ipa": "/ˈnɝvəs/",
+          "zh": "緊張的"
+        },
+        {
+          "w": "little",
+          "pos": "adj.",
+          "ipa": "/ˈlɪtəl/",
+          "zh": "一點點"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-10",
+      "date": "2026-07-30",
+      "category": "discipline",
+      "en": "Please use your gentle hands.",
+      "zh": "請用你溫柔的小手。",
+      "ipa": "/pliz juz jɔr ˈdʒɛntəl hændz/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntəl/",
+          "zh": "溫柔的"
+        },
+        {
+          "w": "hand",
+          "pos": "n.",
+          "ipa": "/hænd/",
+          "zh": "手"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-11",
+      "date": "2026-07-30",
+      "category": "praise",
+      "en": "You are such a kind helper.",
+      "zh": "你真是個貼心的小幫手。",
+      "ipa": "/ju ɑr sʌtʃ ə kaɪnd ˈhɛlpɚ/",
+      "vocab": [
+        {
+          "w": "kind",
+          "pos": "adj.",
+          "ipa": "/kaɪnd/",
+          "zh": "善良的"
+        },
+        {
+          "w": "helper",
+          "pos": "n.",
+          "ipa": "/ˈhɛlpɚ/",
+          "zh": "幫手"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-12",
+      "date": "2026-07-30",
+      "category": "safety",
+      "en": "Hold the railing on the stairs.",
+      "zh": "上下樓梯要扶著扶手。",
+      "ipa": "/hold ðə ˈrelɪŋ ɑn ðə stɛrz/",
+      "vocab": [
+        {
+          "w": "railing",
+          "pos": "n.",
+          "ipa": "/ˈrelɪŋ/",
+          "zh": "扶手"
+        },
+        {
+          "w": "stairs",
+          "pos": "n.",
+          "ipa": "/stɛrz/",
+          "zh": "樓梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-13",
+      "date": "2026-07-30",
+      "category": "health",
+      "en": "Let's wash your hands before eating.",
+      "zh": "吃東西前先洗手。",
+      "ipa": "/lɛts wɑʃ jɔr hændz bɪˈfɔr ˈitɪŋ/",
+      "vocab": [
+        {
+          "w": "wash",
+          "pos": "v.",
+          "ipa": "/wɑʃ/",
+          "zh": "洗"
+        },
+        {
+          "w": "before",
+          "pos": "prep.",
+          "ipa": "/bɪˈfɔr/",
+          "zh": "在…之前"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-14",
+      "date": "2026-07-30",
+      "category": "relatives",
+      "en": "Auntie is coming to visit us.",
+      "zh": "阿姨要來看我們了。",
+      "ipa": "/ˈænti ɪz ˈkʌmɪŋ tu ˈvɪzɪt ʌs/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨"
+        },
+        {
+          "w": "visit",
+          "pos": "v.",
+          "ipa": "/ˈvɪzɪt/",
+          "zh": "拜訪"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-15",
+      "date": "2026-07-30",
+      "category": "friends",
+      "en": "Say hello to your new friend.",
+      "zh": "跟你的新朋友打個招呼。",
+      "ipa": "/se həˈlo tu jɔr nu frɛnd/",
+      "vocab": [
+        {
+          "w": "hello",
+          "pos": "n.",
+          "ipa": "/həˈlo/",
+          "zh": "招呼"
+        },
+        {
+          "w": "new",
+          "pos": "adj.",
+          "ipa": "/nu/",
+          "zh": "新的"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-16",
+      "date": "2026-07-30",
+      "category": "manners",
+      "en": "Remember to say thank you.",
+      "zh": "記得要說謝謝。",
+      "ipa": "/rɪˈmɛmbɚ tu se θæŋk ju/",
+      "vocab": [
+        {
+          "w": "remember",
+          "pos": "v.",
+          "ipa": "/rɪˈmɛmbɚ/",
+          "zh": "記得"
+        },
+        {
+          "w": "thank",
+          "pos": "v.",
+          "ipa": "/θæŋk/",
+          "zh": "感謝"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-17",
+      "date": "2026-07-30",
+      "category": "weather",
+      "en": "It's cold outside, zip up your coat.",
+      "zh": "外面很冷，把外套拉鍊拉上。",
+      "ipa": "/ɪts kold ˌaʊtˈsaɪd zɪp ʌp jɔr kot/",
+      "vocab": [
+        {
+          "w": "cold",
+          "pos": "adj.",
+          "ipa": "/kold/",
+          "zh": "冷的"
+        },
+        {
+          "w": "coat",
+          "pos": "n.",
+          "ipa": "/kot/",
+          "zh": "外套"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-18",
+      "date": "2026-07-30",
+      "category": "screen-time",
+      "en": "Let's turn off the tablet now.",
+      "zh": "我們現在把平板關掉。",
+      "ipa": "/lɛts tɝn ɔf ðə ˈtæblɪt naʊ/",
+      "vocab": [
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        },
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-19",
+      "date": "2026-07-30",
+      "category": "celebrations",
+      "en": "Let's blow out the birthday candles.",
+      "zh": "我們來吹熄生日蠟燭。",
+      "ipa": "/lɛts blo aʊt ðə ˈbɝθˌde ˈkændəlz/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "candle",
+          "pos": "n.",
+          "ipa": "/ˈkændəl/",
+          "zh": "蠟燭"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-20",
+      "date": "2026-07-30",
+      "category": "reading",
+      "en": "Let's read one more story tonight.",
+      "zh": "今晚我們再讀一個故事。",
+      "ipa": "/lɛts rid wʌn mɔr ˈstɔri təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "story",
+          "pos": "n.",
+          "ipa": "/ˈstɔri/",
+          "zh": "故事"
+        },
+        {
+          "w": "tonight",
+          "pos": "adv.",
+          "ipa": "/təˈnaɪt/",
+          "zh": "今晚"
+        }
+      ]
+    }
+  ]
+}
