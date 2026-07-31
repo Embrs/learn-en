@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-31",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-07-31-1",
+      "date": "2026-07-31",
+      "category": "daily-routine",
+      "en": "Let's get dressed for the day.",
+      "zh": "我們把衣服穿好，準備出門。",
+      "ipa": "/lɛts ɡɛt drɛst fɔr ðə de/",
+      "vocab": [
+        {
+          "w": "dressed",
+          "pos": "v.",
+          "ipa": "/drɛst/",
+          "zh": "穿好衣服"
+        },
+        {
+          "w": "day",
+          "pos": "n.",
+          "ipa": "/de/",
+          "zh": "一天"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-2",
+      "date": "2026-07-31",
+      "category": "meals",
+      "en": "Sit up straight while you eat.",
+      "zh": "吃飯的時候要坐正。",
+      "ipa": "/sɪt ʌp stret waɪl ju it/",
+      "vocab": [
+        {
+          "w": "sit",
+          "pos": "v.",
+          "ipa": "/sɪt/",
+          "zh": "坐"
+        },
+        {
+          "w": "straight",
+          "pos": "adv.",
+          "ipa": "/stret/",
+          "zh": "直直地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-3",
+      "date": "2026-07-31",
+      "category": "bath-bedtime",
+      "en": "Let's put on your cozy pajamas.",
+      "zh": "我們來穿上舒服的睡衣。",
+      "ipa": "/lɛts pʊt ɑn jɔr ˈkozi pəˈdʒɑməz/",
+      "vocab": [
+        {
+          "w": "cozy",
+          "pos": "adj.",
+          "ipa": "/ˈkozi/",
+          "zh": "舒適的"
+        },
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒɑməz/",
+          "zh": "睡衣"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-4",
+      "date": "2026-07-31",
+      "category": "outings",
+      "en": "Wave to the boats on the river.",
+      "zh": "跟河上的船揮揮手。",
+      "ipa": "/wev tu ðə bots ɑn ðə ˈrɪvɚ/",
+      "vocab": [
+        {
+          "w": "wave",
+          "pos": "v.",
+          "ipa": "/wev/",
+          "zh": "揮手"
+        },
+        {
+          "w": "boat",
+          "pos": "n.",
+          "ipa": "/bot/",
+          "zh": "船"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-5",
+      "date": "2026-07-31",
+      "category": "playground",
+      "en": "Push the swing gently.",
+      "zh": "輕輕地推鞦韆。",
+      "ipa": "/pʊʃ ðə swɪŋ ˈdʒɛntli/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "輕輕地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-6",
+      "date": "2026-07-31",
+      "category": "school",
+      "en": "Put your homework in your backpack.",
+      "zh": "把功課放進書包裡。",
+      "ipa": "/pʊt jɔr ˈhomˌwɝk ɪn jɔr ˈbækˌpæk/",
+      "vocab": [
+        {
+          "w": "homework",
+          "pos": "n.",
+          "ipa": "/ˈhomˌwɝk/",
+          "zh": "功課"
+        },
+        {
+          "w": "backpack",
+          "pos": "n.",
+          "ipa": "/ˈbækˌpæk/",
+          "zh": "書包"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-7",
+      "date": "2026-07-31",
+      "category": "homework",
+      "en": "Read the question carefully first.",
+      "zh": "先把題目仔細讀一遍。",
+      "ipa": "/rid ðə ˈkwɛstʃən ˈkɛrfəli fɝst/",
+      "vocab": [
+        {
+          "w": "question",
+          "pos": "n.",
+          "ipa": "/ˈkwɛstʃən/",
+          "zh": "問題"
+        },
+        {
+          "w": "carefully",
+          "pos": "adv.",
+          "ipa": "/ˈkɛrfəli/",
+          "zh": "仔細地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-8",
+      "date": "2026-07-31",
+      "category": "toys-sharing",
+      "en": "Let your brother play too.",
+      "zh": "也讓弟弟一起玩。",
+      "ipa": "/lɛt jɔr ˈbrʌðɚ ple tu/",
+      "vocab": [
+        {
+          "w": "brother",
+          "pos": "n.",
+          "ipa": "/ˈbrʌðɚ/",
+          "zh": "弟弟"
+        },
+        {
+          "w": "play",
+          "pos": "v.",
+          "ipa": "/ple/",
+          "zh": "玩"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-9",
+      "date": "2026-07-31",
+      "category": "emotions",
+      "en": "I know you feel sad right now.",
+      "zh": "我知道你現在很難過。",
+      "ipa": "/aɪ no ju fil sæd raɪt naʊ/",
+      "vocab": [
+        {
+          "w": "sad",
+          "pos": "adj.",
+          "ipa": "/sæd/",
+          "zh": "難過的"
+        },
+        {
+          "w": "feel",
+          "pos": "v.",
+          "ipa": "/fil/",
+          "zh": "感覺"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-10",
+      "date": "2026-07-31",
+      "category": "discipline",
+      "en": "We don't throw toys inside.",
+      "zh": "在室內我們不丟玩具。",
+      "ipa": "/wi dont θro tɔɪz ɪnˈsaɪd/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟"
+        },
+        {
+          "w": "inside",
+          "pos": "adv.",
+          "ipa": "/ɪnˈsaɪd/",
+          "zh": "在室內"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-11",
+      "date": "2026-07-31",
+      "category": "praise",
+      "en": "You worked so hard today.",
+      "zh": "你今天好努力喔。",
+      "ipa": "/ju wɝkt so hɑrd təˈde/",
+      "vocab": [
+        {
+          "w": "worked",
+          "pos": "v.",
+          "ipa": "/wɝkt/",
+          "zh": "努力做"
+        },
+        {
+          "w": "hard",
+          "pos": "adv.",
+          "ipa": "/hɑrd/",
+          "zh": "努力地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-12",
+      "date": "2026-07-31",
+      "category": "safety",
+      "en": "Stop at the edge of the sidewalk.",
+      "zh": "走到人行道邊緣就停下來。",
+      "ipa": "/stɑp æt ðə ɛdʒ ʌv ðə ˈsaɪdˌwɔk/",
+      "vocab": [
+        {
+          "w": "stop",
+          "pos": "v.",
+          "ipa": "/stɑp/",
+          "zh": "停"
+        },
+        {
+          "w": "edge",
+          "pos": "n.",
+          "ipa": "/ɛdʒ/",
+          "zh": "邊緣"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-13",
+      "date": "2026-07-31",
+      "category": "health",
+      "en": "Open wide and say ah.",
+      "zh": "嘴巴張大，說啊。",
+      "ipa": "/ˈopən waɪd ænd se ɑ/",
+      "vocab": [
+        {
+          "w": "open",
+          "pos": "v.",
+          "ipa": "/ˈopən/",
+          "zh": "張開"
+        },
+        {
+          "w": "wide",
+          "pos": "adj.",
+          "ipa": "/waɪd/",
+          "zh": "大大地"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-14",
+      "date": "2026-07-31",
+      "category": "relatives",
+      "en": "Thank Uncle for the tasty dinner.",
+      "zh": "謝謝叔叔煮的美味晚餐。",
+      "ipa": "/θæŋk ˈʌŋkəl fɔr ðə ˈtesti ˈdɪnɚ/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkəl/",
+          "zh": "叔叔"
+        },
+        {
+          "w": "dinner",
+          "pos": "n.",
+          "ipa": "/ˈdɪnɚ/",
+          "zh": "晚餐"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-15",
+      "date": "2026-07-31",
+      "category": "friends",
+      "en": "Let's invite her to play with us.",
+      "zh": "我們邀請她一起玩吧。",
+      "ipa": "/lɛts ɪnˈvaɪt hɝ tu ple wɪð ʌs/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "play",
+          "pos": "v.",
+          "ipa": "/ple/",
+          "zh": "玩"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-16",
+      "date": "2026-07-31",
+      "category": "manners",
+      "en": "Offer your seat to Grandma.",
+      "zh": "把座位讓給奶奶坐。",
+      "ipa": "/ˈɔfɚ jɔr sit tu ˈɡrænmɑ/",
+      "vocab": [
+        {
+          "w": "offer",
+          "pos": "v.",
+          "ipa": "/ˈɔfɚ/",
+          "zh": "讓出"
+        },
+        {
+          "w": "seat",
+          "pos": "n.",
+          "ipa": "/sit/",
+          "zh": "座位"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-17",
+      "date": "2026-07-31",
+      "category": "weather",
+      "en": "It's sunny, let's wear your hat.",
+      "zh": "太陽好大，我們戴上帽子。",
+      "ipa": "/ɪts ˈsʌni lɛts wɛr jɔr hæt/",
+      "vocab": [
+        {
+          "w": "sunny",
+          "pos": "adj.",
+          "ipa": "/ˈsʌni/",
+          "zh": "晴朗的"
+        },
+        {
+          "w": "hat",
+          "pos": "n.",
+          "ipa": "/hæt/",
+          "zh": "帽子"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-18",
+      "date": "2026-07-31",
+      "category": "screen-time",
+      "en": "Let's put the phone away now.",
+      "zh": "我們現在把手機收起來。",
+      "ipa": "/lɛts pʊt ðə fon əˈwe naʊ/",
+      "vocab": [
+        {
+          "w": "phone",
+          "pos": "n.",
+          "ipa": "/fon/",
+          "zh": "手機"
+        },
+        {
+          "w": "away",
+          "pos": "adv.",
+          "ipa": "/əˈwe/",
+          "zh": "收起來"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-19",
+      "date": "2026-07-31",
+      "category": "celebrations",
+      "en": "Let's wrap the present together.",
+      "zh": "我們一起把禮物包起來。",
+      "ipa": "/lɛts ræp ðə ˈprɛzənt təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "wrap",
+          "pos": "v.",
+          "ipa": "/ræp/",
+          "zh": "包裝"
+        },
+        {
+          "w": "present",
+          "pos": "n.",
+          "ipa": "/ˈprɛzənt/",
+          "zh": "禮物"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-20",
+      "date": "2026-07-31",
+      "category": "reading",
+      "en": "Which book should we pick tonight?",
+      "zh": "今晚我們要挑哪一本書呢？",
+      "ipa": "/wɪtʃ bʊk ʃʊd wi pɪk təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "book",
+          "pos": "n.",
+          "ipa": "/bʊk/",
+          "zh": "書"
+        },
+        {
+          "w": "pick",
+          "pos": "v.",
+          "ipa": "/pɪk/",
+          "zh": "挑選"
+        }
+      ]
+    }
+  ]
+}
