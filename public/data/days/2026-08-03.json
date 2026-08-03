@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-03",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-03-1",
+      "date": "2026-08-03",
+      "category": "daily-routine",
+      "en": "Comb your hair before we leave.",
+      "zh": "出門前把頭髮梳好。",
+      "ipa": "/kom jɔr hɛr bɪˈfɔr wi liv/",
+      "vocab": [
+        {
+          "w": "comb",
+          "pos": "v.",
+          "ipa": "/kom/",
+          "zh": "梳"
+        },
+        {
+          "w": "leave",
+          "pos": "v.",
+          "ipa": "/liv/",
+          "zh": "離開"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-2",
+      "date": "2026-08-03",
+      "category": "meals",
+      "en": "Use your fork, not your fingers.",
+      "zh": "用叉子，不要用手抓。",
+      "ipa": "/juz jɔr fɔrk nɑt jɔr ˈfɪŋɡɚz/",
+      "vocab": [
+        {
+          "w": "fork",
+          "pos": "n.",
+          "ipa": "/fɔrk/",
+          "zh": "叉子"
+        },
+        {
+          "w": "finger",
+          "pos": "n.",
+          "ipa": "/ˈfɪŋɡɚ/",
+          "zh": "手指"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-3",
+      "date": "2026-08-03",
+      "category": "bath-bedtime",
+      "en": "Time to tuck you into bed.",
+      "zh": "該幫你蓋好被子睡覺了。",
+      "ipa": "/taɪm tu tʌk ju ˈɪntu bɛd/",
+      "vocab": [
+        {
+          "w": "tuck",
+          "pos": "v.",
+          "ipa": "/tʌk/",
+          "zh": "塞好被子"
+        },
+        {
+          "w": "bed",
+          "pos": "n.",
+          "ipa": "/bɛd/",
+          "zh": "床"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-4",
+      "date": "2026-08-03",
+      "category": "outings",
+      "en": "Let's feed the ducks at the pond.",
+      "zh": "我們去池塘餵鴨子。",
+      "ipa": "/lɛts fid ðə dʌks æt ðə pɑnd/",
+      "vocab": [
+        {
+          "w": "feed",
+          "pos": "v.",
+          "ipa": "/fid/",
+          "zh": "餵"
+        },
+        {
+          "w": "pond",
+          "pos": "n.",
+          "ipa": "/pɑnd/",
+          "zh": "池塘"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-5",
+      "date": "2026-08-03",
+      "category": "playground",
+      "en": "Hold on tight to the bars.",
+      "zh": "緊緊抓住橫桿。",
+      "ipa": "/hold ɑn taɪt tu ðə bɑrz/",
+      "vocab": [
+        {
+          "w": "tight",
+          "pos": "adv.",
+          "ipa": "/taɪt/",
+          "zh": "緊緊地"
+        },
+        {
+          "w": "bar",
+          "pos": "n.",
+          "ipa": "/bɑr/",
+          "zh": "橫桿"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-6",
+      "date": "2026-08-03",
+      "category": "school",
+      "en": "Listen carefully to your teacher.",
+      "zh": "仔細聽老師說話。",
+      "ipa": "/ˈlɪsən ˈkɛrfəli tu jɔr ˈtitʃɚ/",
+      "vocab": [
+        {
+          "w": "listen",
+          "pos": "v.",
+          "ipa": "/ˈlɪsən/",
+          "zh": "聽"
+        },
+        {
+          "w": "teacher",
+          "pos": "n.",
+          "ipa": "/ˈtitʃɚ/",
+          "zh": "老師"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-7",
+      "date": "2026-08-03",
+      "category": "homework",
+      "en": "Finish your math, then you can play.",
+      "zh": "先做完數學，就可以去玩。",
+      "ipa": "/ˈfɪnɪʃ jɔr mæθ ðɛn ju kæn ple/",
+      "vocab": [
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "完成"
+        },
+        {
+          "w": "math",
+          "pos": "n.",
+          "ipa": "/mæθ/",
+          "zh": "數學"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-8",
+      "date": "2026-08-03",
+      "category": "toys-sharing",
+      "en": "Let's build a tower together.",
+      "zh": "我們一起蓋一座塔。",
+      "ipa": "/lɛts bɪld ə ˈtaʊɚ təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "build",
+          "pos": "v.",
+          "ipa": "/bɪld/",
+          "zh": "建造"
+        },
+        {
+          "w": "tower",
+          "pos": "n.",
+          "ipa": "/ˈtaʊɚ/",
+          "zh": "塔"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-9",
+      "date": "2026-08-03",
+      "category": "emotions",
+      "en": "Tell me what's making you upset.",
+      "zh": "告訴我是什麼讓你不開心。",
+      "ipa": "/tɛl mi wʌts ˈmekɪŋ ju ʌpˈsɛt/",
+      "vocab": [
+        {
+          "w": "tell",
+          "pos": "v.",
+          "ipa": "/tɛl/",
+          "zh": "告訴"
+        },
+        {
+          "w": "upset",
+          "pos": "adj.",
+          "ipa": "/ʌpˈsɛt/",
+          "zh": "難過的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-10",
+      "date": "2026-08-03",
+      "category": "discipline",
+      "en": "We clean up after we play.",
+      "zh": "玩完以後要收拾。",
+      "ipa": "/wi klin ʌp ˈæftɚ wi ple/",
+      "vocab": [
+        {
+          "w": "clean up",
+          "pos": "phr.",
+          "ipa": "/klin ʌp/",
+          "zh": "收拾"
+        },
+        {
+          "w": "after",
+          "pos": "prep.",
+          "ipa": "/ˈæftɚ/",
+          "zh": "在...之後"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-11",
+      "date": "2026-08-03",
+      "category": "praise",
+      "en": "What a kind thing to do!",
+      "zh": "這麼做真貼心！",
+      "ipa": "/wʌt ə kaɪnd θɪŋ tu du/",
+      "vocab": [
+        {
+          "w": "kind",
+          "pos": "adj.",
+          "ipa": "/kaɪnd/",
+          "zh": "善良的"
+        },
+        {
+          "w": "thing",
+          "pos": "n.",
+          "ipa": "/θɪŋ/",
+          "zh": "事情"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-12",
+      "date": "2026-08-03",
+      "category": "safety",
+      "en": "Look both ways before crossing.",
+      "zh": "過馬路前先看左右兩邊。",
+      "ipa": "/lʊk boθ wez bɪˈfɔr ˈkrɔsɪŋ/",
+      "vocab": [
+        {
+          "w": "look",
+          "pos": "v.",
+          "ipa": "/lʊk/",
+          "zh": "看"
+        },
+        {
+          "w": "cross",
+          "pos": "v.",
+          "ipa": "/krɔs/",
+          "zh": "穿越"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-13",
+      "date": "2026-08-03",
+      "category": "health",
+      "en": "Rest in bed until you feel better.",
+      "zh": "躺在床上休息到好一點。",
+      "ipa": "/rɛst ɪn bɛd ənˈtɪl ju fil ˈbɛtɚ/",
+      "vocab": [
+        {
+          "w": "rest",
+          "pos": "v.",
+          "ipa": "/rɛst/",
+          "zh": "休息"
+        },
+        {
+          "w": "better",
+          "pos": "adj.",
+          "ipa": "/ˈbɛtɚ/",
+          "zh": "較好的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-14",
+      "date": "2026-08-03",
+      "category": "relatives",
+      "en": "Cousin came over to visit us.",
+      "zh": "表哥來家裡看我們。",
+      "ipa": "/ˈkʌzən kem ˈovɚ tu ˈvɪzɪt ʌs/",
+      "vocab": [
+        {
+          "w": "cousin",
+          "pos": "n.",
+          "ipa": "/ˈkʌzən/",
+          "zh": "表兄弟姊妹"
+        },
+        {
+          "w": "visit",
+          "pos": "v.",
+          "ipa": "/ˈvɪzɪt/",
+          "zh": "拜訪"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-15",
+      "date": "2026-08-03",
+      "category": "friends",
+      "en": "Be gentle and play fair.",
+      "zh": "要溫柔，玩得公平。",
+      "ipa": "/bi ˈdʒɛntəl ænd ple fɛr/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntəl/",
+          "zh": "溫柔的"
+        },
+        {
+          "w": "fair",
+          "pos": "adj.",
+          "ipa": "/fɛr/",
+          "zh": "公平的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-16",
+      "date": "2026-08-03",
+      "category": "manners",
+      "en": "Knock on the door before you enter.",
+      "zh": "進門前要先敲門。",
+      "ipa": "/nɑk ɑn ðə dɔr bɪˈfɔr ju ˈɛntɚ/",
+      "vocab": [
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲"
+        },
+        {
+          "w": "enter",
+          "pos": "v.",
+          "ipa": "/ˈɛntɚ/",
+          "zh": "進入"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-17",
+      "date": "2026-08-03",
+      "category": "weather",
+      "en": "It's windy, hold onto your scarf.",
+      "zh": "風好大，圍巾要抓好。",
+      "ipa": "/ɪts ˈwɪndi hold ˈɑntu jɔr skɑrf/",
+      "vocab": [
+        {
+          "w": "windy",
+          "pos": "adj.",
+          "ipa": "/ˈwɪndi/",
+          "zh": "有風的"
+        },
+        {
+          "w": "scarf",
+          "pos": "n.",
+          "ipa": "/skɑrf/",
+          "zh": "圍巾"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-18",
+      "date": "2026-08-03",
+      "category": "screen-time",
+      "en": "Screens go off during dinner.",
+      "zh": "吃晚餐時把螢幕關掉。",
+      "ipa": "/skrinz ɡo ɔf ˈdʊrɪŋ ˈdɪnɚ/",
+      "vocab": [
+        {
+          "w": "screen",
+          "pos": "n.",
+          "ipa": "/skrin/",
+          "zh": "螢幕"
+        },
+        {
+          "w": "during",
+          "pos": "prep.",
+          "ipa": "/ˈdʊrɪŋ/",
+          "zh": "在...期間"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-19",
+      "date": "2026-08-03",
+      "category": "celebrations",
+      "en": "Let's hang the balloons on the wall.",
+      "zh": "我們把氣球掛到牆上。",
+      "ipa": "/lɛts hæŋ ðə bəˈlunz ɑn ðə wɔl/",
+      "vocab": [
+        {
+          "w": "hang",
+          "pos": "v.",
+          "ipa": "/hæŋ/",
+          "zh": "掛"
+        },
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03-20",
+      "date": "2026-08-03",
+      "category": "reading",
+      "en": "What do you think happens next?",
+      "zh": "你覺得接下來會發生什麼？",
+      "ipa": "/wʌt du ju θɪŋk ˈhæpənz nɛkst/",
+      "vocab": [
+        {
+          "w": "think",
+          "pos": "v.",
+          "ipa": "/θɪŋk/",
+          "zh": "認為"
+        },
+        {
+          "w": "happen",
+          "pos": "v.",
+          "ipa": "/ˈhæpən/",
+          "zh": "發生"
+        }
+      ]
+    }
+  ]
+}

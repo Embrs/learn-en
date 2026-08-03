@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-01",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-01-1",
+      "date": "2026-08-01",
+      "category": "daily-routine",
+      "en": "Put your slippers on your feet.",
+      "zh": "把拖鞋穿到腳上。",
+      "ipa": "/pʊt jɔr ˈslɪpɚz ɑn jɔr fit/",
+      "vocab": [
+        {
+          "w": "slipper",
+          "pos": "n.",
+          "ipa": "/ˈslɪpɚ/",
+          "zh": "拖鞋"
+        },
+        {
+          "w": "feet",
+          "pos": "n.",
+          "ipa": "/fit/",
+          "zh": "腳"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-2",
+      "date": "2026-08-01",
+      "category": "meals",
+      "en": "Please finish your soup.",
+      "zh": "請把湯喝完。",
+      "ipa": "/pliz ˈfɪnɪʃ jɔr sup/",
+      "vocab": [
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "完成"
+        },
+        {
+          "w": "soup",
+          "pos": "n.",
+          "ipa": "/sup/",
+          "zh": "湯"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-3",
+      "date": "2026-08-01",
+      "category": "bath-bedtime",
+      "en": "Let's wash behind your ears.",
+      "zh": "我們來洗耳朵後面。",
+      "ipa": "/lɛts wɑʃ bɪˈhaɪnd jɔr ɪrz/",
+      "vocab": [
+        {
+          "w": "wash",
+          "pos": "v.",
+          "ipa": "/wɑʃ/",
+          "zh": "洗"
+        },
+        {
+          "w": "ear",
+          "pos": "n.",
+          "ipa": "/ɪr/",
+          "zh": "耳朵"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-4",
+      "date": "2026-08-01",
+      "category": "outings",
+      "en": "Let's ride the bus downtown.",
+      "zh": "我們搭公車去市區。",
+      "ipa": "/lɛts raɪd ðə bʌs ˈdaʊnˈtaʊn/",
+      "vocab": [
+        {
+          "w": "ride",
+          "pos": "v.",
+          "ipa": "/raɪd/",
+          "zh": "搭乘"
+        },
+        {
+          "w": "bus",
+          "pos": "n.",
+          "ipa": "/bʌs/",
+          "zh": "公車"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-5",
+      "date": "2026-08-01",
+      "category": "playground",
+      "en": "Climb up the ladder slowly.",
+      "zh": "慢慢地爬上梯子。",
+      "ipa": "/klaɪm ʌp ðə ˈlædɚ ˈsloli/",
+      "vocab": [
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "爬"
+        },
+        {
+          "w": "ladder",
+          "pos": "n.",
+          "ipa": "/ˈlædɚ/",
+          "zh": "梯子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-6",
+      "date": "2026-08-01",
+      "category": "school",
+      "en": "Line up quietly by the door.",
+      "zh": "在門邊安靜地排隊。",
+      "ipa": "/laɪn ʌp ˈkwaɪətli baɪ ðə dɔr/",
+      "vocab": [
+        {
+          "w": "line up",
+          "pos": "phr.",
+          "ipa": "/laɪn ʌp/",
+          "zh": "排隊"
+        },
+        {
+          "w": "quietly",
+          "pos": "adv.",
+          "ipa": "/ˈkwaɪətli/",
+          "zh": "安靜地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-7",
+      "date": "2026-08-01",
+      "category": "homework",
+      "en": "Let's check your answers together.",
+      "zh": "我們一起檢查你的答案。",
+      "ipa": "/lɛts tʃɛk jɔr ˈænsɚz təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "check",
+          "pos": "v.",
+          "ipa": "/tʃɛk/",
+          "zh": "檢查"
+        },
+        {
+          "w": "answer",
+          "pos": "n.",
+          "ipa": "/ˈænsɚ/",
+          "zh": "答案"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-8",
+      "date": "2026-08-01",
+      "category": "toys-sharing",
+      "en": "Take turns with the blocks.",
+      "zh": "積木要輪流玩。",
+      "ipa": "/tek tɝnz wɪð ðə blɑks/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "phr.",
+          "ipa": "/tek tɝnz/",
+          "zh": "輪流"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-9",
+      "date": "2026-08-01",
+      "category": "emotions",
+      "en": "Take a deep breath with me.",
+      "zh": "跟我一起深呼吸。",
+      "ipa": "/tek ə dip brɛθ wɪð mi/",
+      "vocab": [
+        {
+          "w": "deep",
+          "pos": "adj.",
+          "ipa": "/dip/",
+          "zh": "深的"
+        },
+        {
+          "w": "breath",
+          "pos": "n.",
+          "ipa": "/brɛθ/",
+          "zh": "呼吸"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-10",
+      "date": "2026-08-01",
+      "category": "discipline",
+      "en": "Please pick up your mess.",
+      "zh": "請把弄亂的東西收好。",
+      "ipa": "/pliz pɪk ʌp jɔr mɛs/",
+      "vocab": [
+        {
+          "w": "pick up",
+          "pos": "phr.",
+          "ipa": "/pɪk ʌp/",
+          "zh": "收拾"
+        },
+        {
+          "w": "mess",
+          "pos": "n.",
+          "ipa": "/mɛs/",
+          "zh": "髒亂"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-11",
+      "date": "2026-08-01",
+      "category": "praise",
+      "en": "You cleaned up all by yourself.",
+      "zh": "你自己把東西收拾好了。",
+      "ipa": "/ju klind ʌp ɔl baɪ jɔrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "clean up",
+          "pos": "phr.",
+          "ipa": "/klin ʌp/",
+          "zh": "收拾"
+        },
+        {
+          "w": "yourself",
+          "pos": "pron.",
+          "ipa": "/jɔrˈsɛlf/",
+          "zh": "你自己"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-12",
+      "date": "2026-08-01",
+      "category": "safety",
+      "en": "Walk down the steps one at a time.",
+      "zh": "下樓梯要一階一階走。",
+      "ipa": "/wɔk daʊn ðə stɛps wʌn æt ə taɪm/",
+      "vocab": [
+        {
+          "w": "walk",
+          "pos": "v.",
+          "ipa": "/wɔk/",
+          "zh": "走"
+        },
+        {
+          "w": "step",
+          "pos": "n.",
+          "ipa": "/stɛp/",
+          "zh": "階梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-13",
+      "date": "2026-08-01",
+      "category": "health",
+      "en": "Let the doctor check your throat.",
+      "zh": "讓醫生檢查你的喉嚨。",
+      "ipa": "/lɛt ðə ˈdɑktɚ tʃɛk jɔr θrot/",
+      "vocab": [
+        {
+          "w": "doctor",
+          "pos": "n.",
+          "ipa": "/ˈdɑktɚ/",
+          "zh": "醫生"
+        },
+        {
+          "w": "throat",
+          "pos": "n.",
+          "ipa": "/θrot/",
+          "zh": "喉嚨"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-14",
+      "date": "2026-08-01",
+      "category": "relatives",
+      "en": "Give Grandpa a big warm hug.",
+      "zh": "給爺爺一個大大的擁抱。",
+      "ipa": "/ɡɪv ˈɡrænpɑ ə bɪɡ wɔrm hʌɡ/",
+      "vocab": [
+        {
+          "w": "grandpa",
+          "pos": "n.",
+          "ipa": "/ˈɡrænpɑ/",
+          "zh": "爺爺"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-15",
+      "date": "2026-08-01",
+      "category": "friends",
+      "en": "Ask your friend to join the game.",
+      "zh": "邀你的朋友一起玩遊戲。",
+      "ipa": "/æsk jɔr frɛnd tu dʒɔɪn ðə ɡem/",
+      "vocab": [
+        {
+          "w": "friend",
+          "pos": "n.",
+          "ipa": "/frɛnd/",
+          "zh": "朋友"
+        },
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-16",
+      "date": "2026-08-01",
+      "category": "manners",
+      "en": "Say excuse me when you pass.",
+      "zh": "經過別人時要說借過。",
+      "ipa": "/se ɪkˈskjuz mi wɛn ju pæs/",
+      "vocab": [
+        {
+          "w": "excuse",
+          "pos": "v.",
+          "ipa": "/ɪkˈskjuz/",
+          "zh": "原諒；借過"
+        },
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "經過"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-17",
+      "date": "2026-08-01",
+      "category": "weather",
+      "en": "The sun is bright, wear sunglasses.",
+      "zh": "太陽很刺眼，戴上太陽眼鏡。",
+      "ipa": "/ðə sʌn ɪz braɪt wɛr ˈsʌnˌɡlæsɪz/",
+      "vocab": [
+        {
+          "w": "bright",
+          "pos": "adj.",
+          "ipa": "/braɪt/",
+          "zh": "明亮的"
+        },
+        {
+          "w": "sunglasses",
+          "pos": "n.",
+          "ipa": "/ˈsʌnˌɡlæsɪz/",
+          "zh": "太陽眼鏡"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-18",
+      "date": "2026-08-01",
+      "category": "screen-time",
+      "en": "One more show, then we turn it off.",
+      "zh": "再看一集，然後就關掉。",
+      "ipa": "/wʌn mɔr ʃo ðɛn wi tɝn ɪt ɔf/",
+      "vocab": [
+        {
+          "w": "show",
+          "pos": "n.",
+          "ipa": "/ʃo/",
+          "zh": "節目"
+        },
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-19",
+      "date": "2026-08-01",
+      "category": "celebrations",
+      "en": "Let's decorate the cake with fruit.",
+      "zh": "我們用水果裝飾蛋糕。",
+      "ipa": "/lɛts ˈdɛkəˌret ðə kek wɪð frut/",
+      "vocab": [
+        {
+          "w": "decorate",
+          "pos": "v.",
+          "ipa": "/ˈdɛkəˌret/",
+          "zh": "裝飾"
+        },
+        {
+          "w": "cake",
+          "pos": "n.",
+          "ipa": "/kek/",
+          "zh": "蛋糕"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-20",
+      "date": "2026-08-01",
+      "category": "reading",
+      "en": "Turn the page nice and slow.",
+      "zh": "慢慢地把書頁翻過去。",
+      "ipa": "/tɝn ðə pedʒ naɪs ænd slo/",
+      "vocab": [
+        {
+          "w": "turn",
+          "pos": "v.",
+          "ipa": "/tɝn/",
+          "zh": "翻"
+        },
+        {
+          "w": "page",
+          "pos": "n.",
+          "ipa": "/pedʒ/",
+          "zh": "書頁"
+        }
+      ]
+    }
+  ]
+}

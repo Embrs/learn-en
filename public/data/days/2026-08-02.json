@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-02",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-02-1",
+      "date": "2026-08-02",
+      "category": "daily-routine",
+      "en": "Wash your hands before breakfast.",
+      "zh": "吃早餐前先洗手。",
+      "ipa": "/wɑʃ jɔr hændz bɪˈfɔr ˈbrɛkfəst/",
+      "vocab": [
+        {
+          "w": "wash",
+          "pos": "v.",
+          "ipa": "/wɑʃ/",
+          "zh": "洗"
+        },
+        {
+          "w": "breakfast",
+          "pos": "n.",
+          "ipa": "/ˈbrɛkfəst/",
+          "zh": "早餐"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-2",
+      "date": "2026-08-02",
+      "category": "meals",
+      "en": "Try one bite of the carrots.",
+      "zh": "試一口紅蘿蔔看看。",
+      "ipa": "/traɪ wʌn baɪt ʌv ðə ˈkærəts/",
+      "vocab": [
+        {
+          "w": "try",
+          "pos": "v.",
+          "ipa": "/traɪ/",
+          "zh": "試"
+        },
+        {
+          "w": "carrot",
+          "pos": "n.",
+          "ipa": "/ˈkærət/",
+          "zh": "紅蘿蔔"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-3",
+      "date": "2026-08-02",
+      "category": "bath-bedtime",
+      "en": "Dry your hair with the towel.",
+      "zh": "用毛巾把頭髮擦乾。",
+      "ipa": "/draɪ jɔr hɛr wɪð ðə ˈtaʊəl/",
+      "vocab": [
+        {
+          "w": "dry",
+          "pos": "v.",
+          "ipa": "/draɪ/",
+          "zh": "擦乾"
+        },
+        {
+          "w": "towel",
+          "pos": "n.",
+          "ipa": "/ˈtaʊəl/",
+          "zh": "毛巾"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-4",
+      "date": "2026-08-02",
+      "category": "outings",
+      "en": "Let's take the train to the zoo.",
+      "zh": "我們搭火車去動物園。",
+      "ipa": "/lɛts tek ðə tren tu ðə zu/",
+      "vocab": [
+        {
+          "w": "train",
+          "pos": "n.",
+          "ipa": "/tren/",
+          "zh": "火車"
+        },
+        {
+          "w": "zoo",
+          "pos": "n.",
+          "ipa": "/zu/",
+          "zh": "動物園"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-5",
+      "date": "2026-08-02",
+      "category": "playground",
+      "en": "Don't run too fast on the grass.",
+      "zh": "在草地上不要跑太快。",
+      "ipa": "/dont rʌn tu fæst ɑn ðə ɡræs/",
+      "vocab": [
+        {
+          "w": "run",
+          "pos": "v.",
+          "ipa": "/rʌn/",
+          "zh": "跑"
+        },
+        {
+          "w": "grass",
+          "pos": "n.",
+          "ipa": "/ɡræs/",
+          "zh": "草地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-6",
+      "date": "2026-08-02",
+      "category": "school",
+      "en": "Raise your hand to speak.",
+      "zh": "想說話要先舉手。",
+      "ipa": "/rez jɔr hænd tu spik/",
+      "vocab": [
+        {
+          "w": "raise",
+          "pos": "v.",
+          "ipa": "/rez/",
+          "zh": "舉起"
+        },
+        {
+          "w": "speak",
+          "pos": "v.",
+          "ipa": "/spik/",
+          "zh": "說話"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-7",
+      "date": "2026-08-02",
+      "category": "homework",
+      "en": "Write your name at the top.",
+      "zh": "在最上面寫上你的名字。",
+      "ipa": "/raɪt jɔr nem æt ðə tɑp/",
+      "vocab": [
+        {
+          "w": "write",
+          "pos": "v.",
+          "ipa": "/raɪt/",
+          "zh": "寫"
+        },
+        {
+          "w": "name",
+          "pos": "n.",
+          "ipa": "/nem/",
+          "zh": "名字"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-8",
+      "date": "2026-08-02",
+      "category": "toys-sharing",
+      "en": "Can you share the crayons?",
+      "zh": "你可以分享蠟筆嗎？",
+      "ipa": "/kæn ju ʃɛr ðə ˈkrenz/",
+      "vocab": [
+        {
+          "w": "share",
+          "pos": "v.",
+          "ipa": "/ʃɛr/",
+          "zh": "分享"
+        },
+        {
+          "w": "crayon",
+          "pos": "n.",
+          "ipa": "/ˈkren/",
+          "zh": "蠟筆"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-9",
+      "date": "2026-08-02",
+      "category": "emotions",
+      "en": "I'm right here to give you a hug.",
+      "zh": "我就在這裡，抱抱你。",
+      "ipa": "/aɪm raɪt hɪr tu ɡɪv ju ə hʌɡ/",
+      "vocab": [
+        {
+          "w": "here",
+          "pos": "adv.",
+          "ipa": "/hɪr/",
+          "zh": "這裡"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-10",
+      "date": "2026-08-02",
+      "category": "discipline",
+      "en": "Please use your inside voice.",
+      "zh": "請用室內的小聲音。",
+      "ipa": "/pliz juz jɔr ˈɪnˌsaɪd vɔɪs/",
+      "vocab": [
+        {
+          "w": "inside",
+          "pos": "adj.",
+          "ipa": "/ˈɪnˌsaɪd/",
+          "zh": "室內的"
+        },
+        {
+          "w": "voice",
+          "pos": "n.",
+          "ipa": "/vɔɪs/",
+          "zh": "聲音"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-11",
+      "date": "2026-08-02",
+      "category": "praise",
+      "en": "I'm so proud of your drawing.",
+      "zh": "我好喜歡你畫的畫。",
+      "ipa": "/aɪm so praʊd ʌv jɔr ˈdrɔɪŋ/",
+      "vocab": [
+        {
+          "w": "proud",
+          "pos": "adj.",
+          "ipa": "/praʊd/",
+          "zh": "驕傲的"
+        },
+        {
+          "w": "drawing",
+          "pos": "n.",
+          "ipa": "/ˈdrɔɪŋ/",
+          "zh": "圖畫"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-12",
+      "date": "2026-08-02",
+      "category": "safety",
+      "en": "Keep your fingers away from the door.",
+      "zh": "手指離門遠一點。",
+      "ipa": "/kip jɔr ˈfɪŋɡɚz əˈwe frʌm ðə dɔr/",
+      "vocab": [
+        {
+          "w": "keep",
+          "pos": "v.",
+          "ipa": "/kip/",
+          "zh": "保持"
+        },
+        {
+          "w": "finger",
+          "pos": "n.",
+          "ipa": "/ˈfɪŋɡɚ/",
+          "zh": "手指"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-13",
+      "date": "2026-08-02",
+      "category": "health",
+      "en": "Let's put a bandage on it.",
+      "zh": "我們幫它貼上OK繃。",
+      "ipa": "/lɛts pʊt ə ˈbændɪdʒ ɑn ɪt/",
+      "vocab": [
+        {
+          "w": "bandage",
+          "pos": "n.",
+          "ipa": "/ˈbændɪdʒ/",
+          "zh": "繃帶"
+        },
+        {
+          "w": "put",
+          "pos": "v.",
+          "ipa": "/pʊt/",
+          "zh": "放"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-14",
+      "date": "2026-08-02",
+      "category": "relatives",
+      "en": "Auntie brought you a little gift.",
+      "zh": "阿姨帶了小禮物給你。",
+      "ipa": "/ˈænti brɔt ju ə ˈlɪtəl ɡɪft/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨"
+        },
+        {
+          "w": "gift",
+          "pos": "n.",
+          "ipa": "/ɡɪft/",
+          "zh": "禮物"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-15",
+      "date": "2026-08-02",
+      "category": "friends",
+      "en": "Say sorry to your friend gently.",
+      "zh": "溫柔地跟朋友說對不起。",
+      "ipa": "/se ˈsɑri tu jɔr frɛnd ˈdʒɛntli/",
+      "vocab": [
+        {
+          "w": "sorry",
+          "pos": "adj.",
+          "ipa": "/ˈsɑri/",
+          "zh": "抱歉的"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "溫柔地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-16",
+      "date": "2026-08-02",
+      "category": "manners",
+      "en": "Chew with your mouth closed.",
+      "zh": "嚼東西時要閉著嘴。",
+      "ipa": "/tʃu wɪð jɔr maʊθ klozd/",
+      "vocab": [
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        },
+        {
+          "w": "closed",
+          "pos": "adj.",
+          "ipa": "/klozd/",
+          "zh": "閉著的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-17",
+      "date": "2026-08-02",
+      "category": "weather",
+      "en": "It's cold today, zip up your coat.",
+      "zh": "今天好冷，把外套拉鍊拉好。",
+      "ipa": "/ɪts kold təˈde zɪp ʌp jɔr kot/",
+      "vocab": [
+        {
+          "w": "cold",
+          "pos": "adj.",
+          "ipa": "/kold/",
+          "zh": "冷的"
+        },
+        {
+          "w": "coat",
+          "pos": "n.",
+          "ipa": "/kot/",
+          "zh": "外套"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-18",
+      "date": "2026-08-02",
+      "category": "screen-time",
+      "en": "Let's play outside instead.",
+      "zh": "我們改去外面玩吧。",
+      "ipa": "/lɛts ple ˈaʊtˌsaɪd ɪnˈstɛd/",
+      "vocab": [
+        {
+          "w": "outside",
+          "pos": "adv.",
+          "ipa": "/ˈaʊtˌsaɪd/",
+          "zh": "外面"
+        },
+        {
+          "w": "instead",
+          "pos": "adv.",
+          "ipa": "/ɪnˈstɛd/",
+          "zh": "改為"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-19",
+      "date": "2026-08-02",
+      "category": "celebrations",
+      "en": "Let's sing the birthday song.",
+      "zh": "我們來唱生日快樂歌。",
+      "ipa": "/lɛts sɪŋ ðə ˈbɝθˌde sɔŋ/",
+      "vocab": [
+        {
+          "w": "sing",
+          "pos": "v.",
+          "ipa": "/sɪŋ/",
+          "zh": "唱"
+        },
+        {
+          "w": "birthday",
+          "pos": "n.",
+          "ipa": "/ˈbɝθˌde/",
+          "zh": "生日"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-02-20",
+      "date": "2026-08-02",
+      "category": "reading",
+      "en": "Point to the cat on the page.",
+      "zh": "指出書頁上的貓咪。",
+      "ipa": "/pɔɪnt tu ðə kæt ɑn ðə pedʒ/",
+      "vocab": [
+        {
+          "w": "point",
+          "pos": "v.",
+          "ipa": "/pɔɪnt/",
+          "zh": "指"
+        },
+        {
+          "w": "cat",
+          "pos": "n.",
+          "ipa": "/kæt/",
+          "zh": "貓"
+        }
+      ]
+    }
+  ]
+}
