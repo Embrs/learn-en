@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-04",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-04-1",
+      "date": "2026-08-04",
+      "category": "daily-routine",
+      "en": "Put on your socks and shoes.",
+      "zh": "穿上襪子和鞋子。",
+      "ipa": "/pʊt ɑn jɔr sɑks ænd ʃuz/",
+      "vocab": [
+        {
+          "w": "sock",
+          "pos": "n.",
+          "ipa": "/sɑk/",
+          "zh": "襪子"
+        },
+        {
+          "w": "shoe",
+          "pos": "n.",
+          "ipa": "/ʃu/",
+          "zh": "鞋子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-2",
+      "date": "2026-08-04",
+      "category": "meals",
+      "en": "Chew slowly so you don't choke.",
+      "zh": "慢慢嚼，才不會噎到。",
+      "ipa": "/tʃu ˈsloli so ju dont tʃok/",
+      "vocab": [
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        },
+        {
+          "w": "choke",
+          "pos": "v.",
+          "ipa": "/tʃok/",
+          "zh": "噎到"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-3",
+      "date": "2026-08-04",
+      "category": "bath-bedtime",
+      "en": "Rinse the soap out of your hair.",
+      "zh": "把頭髮上的泡泡沖乾淨。",
+      "ipa": "/rɪns ðə sop aʊt ʌv jɔr hɛr/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "soap",
+          "pos": "n.",
+          "ipa": "/sop/",
+          "zh": "肥皂"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-4",
+      "date": "2026-08-04",
+      "category": "outings",
+      "en": "Let's take the train downtown.",
+      "zh": "我們搭火車去市區。",
+      "ipa": "/lɛts tek ðə tren ˈdaʊnˌtaʊn/",
+      "vocab": [
+        {
+          "w": "train",
+          "pos": "n.",
+          "ipa": "/tren/",
+          "zh": "火車"
+        },
+        {
+          "w": "downtown",
+          "pos": "adv.",
+          "ipa": "/ˈdaʊnˌtaʊn/",
+          "zh": "往市中心"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-5",
+      "date": "2026-08-04",
+      "category": "playground",
+      "en": "Wait your turn for the slide.",
+      "zh": "排隊等著溜滑梯。",
+      "ipa": "/wet jɔr tɝn fɔr ðə slaɪd/",
+      "vocab": [
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪到的順序"
+        },
+        {
+          "w": "slide",
+          "pos": "n.",
+          "ipa": "/slaɪd/",
+          "zh": "溜滑梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-6",
+      "date": "2026-08-04",
+      "category": "school",
+      "en": "Line up quietly with your classmates.",
+      "zh": "跟同學安靜地排隊。",
+      "ipa": "/laɪn ʌp ˈkwaɪətli wɪð jɔr ˈklæsˌmets/",
+      "vocab": [
+        {
+          "w": "line up",
+          "pos": "phr.",
+          "ipa": "/laɪn ʌp/",
+          "zh": "排隊"
+        },
+        {
+          "w": "classmate",
+          "pos": "n.",
+          "ipa": "/ˈklæsˌmet/",
+          "zh": "同學"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-7",
+      "date": "2026-08-04",
+      "category": "homework",
+      "en": "Sharpen your pencil before you start.",
+      "zh": "開始前先削鉛筆。",
+      "ipa": "/ˈʃɑrpən jɔr ˈpɛnsəl bɪˈfɔr ju stɑrt/",
+      "vocab": [
+        {
+          "w": "sharpen",
+          "pos": "v.",
+          "ipa": "/ˈʃɑrpən/",
+          "zh": "削尖"
+        },
+        {
+          "w": "pencil",
+          "pos": "n.",
+          "ipa": "/ˈpɛnsəl/",
+          "zh": "鉛筆"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-8",
+      "date": "2026-08-04",
+      "category": "toys-sharing",
+      "en": "Please share your blocks with your sister.",
+      "zh": "請把積木分給妹妹玩。",
+      "ipa": "/pliz ʃɛr jɔr blɑks wɪð jɔr ˈsɪstɚ/",
+      "vocab": [
+        {
+          "w": "share",
+          "pos": "v.",
+          "ipa": "/ʃɛr/",
+          "zh": "分享"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-9",
+      "date": "2026-08-04",
+      "category": "emotions",
+      "en": "It's okay to feel scared sometimes.",
+      "zh": "偶爾覺得害怕沒關係。",
+      "ipa": "/ɪts oˈke tu fil skɛrd ˈsʌmˌtaɪmz/",
+      "vocab": [
+        {
+          "w": "scared",
+          "pos": "adj.",
+          "ipa": "/skɛrd/",
+          "zh": "害怕的"
+        },
+        {
+          "w": "sometimes",
+          "pos": "adv.",
+          "ipa": "/ˈsʌmˌtaɪmz/",
+          "zh": "有時候"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-10",
+      "date": "2026-08-04",
+      "category": "discipline",
+      "en": "Use your gentle voice indoors.",
+      "zh": "在室內要用輕聲說話。",
+      "ipa": "/juz jɔr ˈdʒɛntəl vɔɪs ˈɪnˌdɔrz/",
+      "vocab": [
+        {
+          "w": "voice",
+          "pos": "n.",
+          "ipa": "/vɔɪs/",
+          "zh": "聲音"
+        },
+        {
+          "w": "indoors",
+          "pos": "adv.",
+          "ipa": "/ˈɪnˌdɔrz/",
+          "zh": "在室內"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-11",
+      "date": "2026-08-04",
+      "category": "praise",
+      "en": "I'm so proud of your effort.",
+      "zh": "我為你的努力感到驕傲。",
+      "ipa": "/aɪm so praʊd ʌv jɔr ˈɛfɚt/",
+      "vocab": [
+        {
+          "w": "proud",
+          "pos": "adj.",
+          "ipa": "/praʊd/",
+          "zh": "驕傲的"
+        },
+        {
+          "w": "effort",
+          "pos": "n.",
+          "ipa": "/ˈɛfɚt/",
+          "zh": "努力"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-12",
+      "date": "2026-08-04",
+      "category": "safety",
+      "en": "Buckle up before the car moves.",
+      "zh": "車子開動前繫好安全帶。",
+      "ipa": "/ˈbʌkəl ʌp bɪˈfɔr ðə kɑr muvz/",
+      "vocab": [
+        {
+          "w": "buckle up",
+          "pos": "phr.",
+          "ipa": "/ˈbʌkəl ʌp/",
+          "zh": "繫安全帶"
+        },
+        {
+          "w": "move",
+          "pos": "v.",
+          "ipa": "/muv/",
+          "zh": "移動"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-13",
+      "date": "2026-08-04",
+      "category": "health",
+      "en": "Open wide and say ahh.",
+      "zh": "嘴巴張大說啊。",
+      "ipa": "/ˈopən waɪd ænd se ɑ/",
+      "vocab": [
+        {
+          "w": "open",
+          "pos": "v.",
+          "ipa": "/ˈopən/",
+          "zh": "張開"
+        },
+        {
+          "w": "wide",
+          "pos": "adv.",
+          "ipa": "/waɪd/",
+          "zh": "大大地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-14",
+      "date": "2026-08-04",
+      "category": "relatives",
+      "en": "Give Grandma a big hug.",
+      "zh": "給奶奶一個大大的擁抱。",
+      "ipa": "/ɡɪv ˈɡrænˌmɑ ə bɪɡ hʌɡ/",
+      "vocab": [
+        {
+          "w": "grandma",
+          "pos": "n.",
+          "ipa": "/ˈɡrænˌmɑ/",
+          "zh": "奶奶"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-15",
+      "date": "2026-08-04",
+      "category": "friends",
+      "en": "Take turns being the leader.",
+      "zh": "輪流當隊長。",
+      "ipa": "/tek tɝnz ˈbiɪŋ ðə ˈlidɚ/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "phr.",
+          "ipa": "/tek tɝnz/",
+          "zh": "輪流"
+        },
+        {
+          "w": "leader",
+          "pos": "n.",
+          "ipa": "/ˈlidɚ/",
+          "zh": "隊長"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-16",
+      "date": "2026-08-04",
+      "category": "manners",
+      "en": "Wait for your turn to speak.",
+      "zh": "等輪到你再說話。",
+      "ipa": "/wet fɔr jɔr tɝn tu spik/",
+      "vocab": [
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪到的順序"
+        },
+        {
+          "w": "speak",
+          "pos": "v.",
+          "ipa": "/spik/",
+          "zh": "說話"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-17",
+      "date": "2026-08-04",
+      "category": "weather",
+      "en": "Zip up your coat, it's chilly.",
+      "zh": "把外套拉鍊拉好，天氣冷。",
+      "ipa": "/zɪp ʌp jɔr kot ɪts ˈtʃɪli/",
+      "vocab": [
+        {
+          "w": "zip up",
+          "pos": "phr.",
+          "ipa": "/zɪp ʌp/",
+          "zh": "拉上拉鍊"
+        },
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "寒冷的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-18",
+      "date": "2026-08-04",
+      "category": "screen-time",
+      "en": "Ten more minutes, then turn it off.",
+      "zh": "再看十分鐘就要關掉。",
+      "ipa": "/tɛn mɔr ˈmɪnɪts ðɛn tɝn ɪt ɔf/",
+      "vocab": [
+        {
+          "w": "minute",
+          "pos": "n.",
+          "ipa": "/ˈmɪnɪt/",
+          "zh": "分鐘"
+        },
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-19",
+      "date": "2026-08-04",
+      "category": "celebrations",
+      "en": "Make a wish and blow!",
+      "zh": "許個願然後吹！",
+      "ipa": "/mek ə wɪʃ ænd blo/",
+      "vocab": [
+        {
+          "w": "wish",
+          "pos": "n.",
+          "ipa": "/wɪʃ/",
+          "zh": "願望"
+        },
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-20",
+      "date": "2026-08-04",
+      "category": "reading",
+      "en": "Turn the page when you're ready.",
+      "zh": "準備好就翻到下一頁。",
+      "ipa": "/tɝn ðə pedʒ wɛn jʊr ˈrɛdi/",
+      "vocab": [
+        {
+          "w": "page",
+          "pos": "n.",
+          "ipa": "/pedʒ/",
+          "zh": "頁"
+        },
+        {
+          "w": "ready",
+          "pos": "adj.",
+          "ipa": "/ˈrɛdi/",
+          "zh": "準備好的"
+        }
+      ]
+    }
+  ]
+}
