@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-05",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-05-1",
+      "date": "2026-08-05",
+      "category": "daily-routine",
+      "en": "Wash your face and brush your teeth.",
+      "zh": "洗洗臉，刷刷牙。",
+      "ipa": "/wɑʃ jɔr fes ænd brʌʃ jɔr tiθ/",
+      "vocab": [
+        {
+          "w": "wash",
+          "pos": "v.",
+          "ipa": "/wɑʃ/",
+          "zh": "洗"
+        },
+        {
+          "w": "brush",
+          "pos": "v.",
+          "ipa": "/brʌʃ/",
+          "zh": "刷"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-2",
+      "date": "2026-08-05",
+      "category": "meals",
+      "en": "Keep your food on your own plate.",
+      "zh": "食物要放在自己的盤子裡。",
+      "ipa": "/kip jɔr fud ɑn jɔr on plet/",
+      "vocab": [
+        {
+          "w": "food",
+          "pos": "n.",
+          "ipa": "/fud/",
+          "zh": "食物"
+        },
+        {
+          "w": "plate",
+          "pos": "n.",
+          "ipa": "/plet/",
+          "zh": "盤子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-3",
+      "date": "2026-08-05",
+      "category": "bath-bedtime",
+      "en": "Dry off with your soft towel.",
+      "zh": "用軟軟的毛巾擦乾。",
+      "ipa": "/draɪ ɔf wɪð jɔr sɔft ˈtaʊəl/",
+      "vocab": [
+        {
+          "w": "dry off",
+          "pos": "phr.",
+          "ipa": "/draɪ ɔf/",
+          "zh": "擦乾"
+        },
+        {
+          "w": "towel",
+          "pos": "n.",
+          "ipa": "/ˈtaʊəl/",
+          "zh": "毛巾"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-4",
+      "date": "2026-08-05",
+      "category": "outings",
+      "en": "Let's grab our jackets before we leave.",
+      "zh": "出門前先拿外套。",
+      "ipa": "/lɛts græb aʊr ˈdʒækɪts bɪˈfɔr wi liv/",
+      "vocab": [
+        {
+          "w": "grab",
+          "pos": "v.",
+          "ipa": "/græb/",
+          "zh": "拿取"
+        },
+        {
+          "w": "jacket",
+          "pos": "n.",
+          "ipa": "/ˈdʒækɪt/",
+          "zh": "外套"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-5",
+      "date": "2026-08-05",
+      "category": "playground",
+      "en": "Hold on tight to the swing.",
+      "zh": "盪鞦韆要抓緊喔。",
+      "ipa": "/hold ɑn taɪt tu ðə swɪŋ/",
+      "vocab": [
+        {
+          "w": "tight",
+          "pos": "adv.",
+          "ipa": "/taɪt/",
+          "zh": "緊緊地"
+        },
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-6",
+      "date": "2026-08-05",
+      "category": "school",
+      "en": "Raise your hand to ask a question.",
+      "zh": "想問問題就舉手。",
+      "ipa": "/rez jɔr hænd tu æsk ə ˈkwɛstʃən/",
+      "vocab": [
+        {
+          "w": "raise",
+          "pos": "v.",
+          "ipa": "/rez/",
+          "zh": "舉起"
+        },
+        {
+          "w": "question",
+          "pos": "n.",
+          "ipa": "/ˈkwɛstʃən/",
+          "zh": "問題"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-7",
+      "date": "2026-08-05",
+      "category": "homework",
+      "en": "Read the directions carefully first.",
+      "zh": "先仔細看清楚說明。",
+      "ipa": "/rid ðə dəˈrɛkʃənz ˈkɛrfəli fɝst/",
+      "vocab": [
+        {
+          "w": "directions",
+          "pos": "n.",
+          "ipa": "/dəˈrɛkʃənz/",
+          "zh": "指示說明"
+        },
+        {
+          "w": "carefully",
+          "pos": "adv.",
+          "ipa": "/ˈkɛrfəli/",
+          "zh": "仔細地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-8",
+      "date": "2026-08-05",
+      "category": "toys-sharing",
+      "en": "Let your friend have a turn too.",
+      "zh": "也讓朋友玩一下。",
+      "ipa": "/lɛt jɔr frɛnd hæv ə tɝn tu/",
+      "vocab": [
+        {
+          "w": "friend",
+          "pos": "n.",
+          "ipa": "/frɛnd/",
+          "zh": "朋友"
+        },
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪流的機會"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-9",
+      "date": "2026-08-05",
+      "category": "emotions",
+      "en": "It's okay to cry when you're sad.",
+      "zh": "難過的時候哭出來沒關係。",
+      "ipa": "/ɪts oˈke tu kraɪ wɛn jʊr sæd/",
+      "vocab": [
+        {
+          "w": "cry",
+          "pos": "v.",
+          "ipa": "/kraɪ/",
+          "zh": "哭"
+        },
+        {
+          "w": "sad",
+          "pos": "adj.",
+          "ipa": "/sæd/",
+          "zh": "難過的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-10",
+      "date": "2026-08-05",
+      "category": "discipline",
+      "en": "Pick up your mess before playtime.",
+      "zh": "玩之前先收拾乾淨。",
+      "ipa": "/pɪk ʌp jɔr mɛs bɪˈfɔr ˈpleˌtaɪm/",
+      "vocab": [
+        {
+          "w": "mess",
+          "pos": "n.",
+          "ipa": "/mɛs/",
+          "zh": "髒亂"
+        },
+        {
+          "w": "playtime",
+          "pos": "n.",
+          "ipa": "/ˈpleˌtaɪm/",
+          "zh": "玩耍時間"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-11",
+      "date": "2026-08-05",
+      "category": "praise",
+      "en": "You did a wonderful job today.",
+      "zh": "你今天表現得好棒。",
+      "ipa": "/ju dɪd ə ˈwʌndɚfəl dʒɑb təˈde/",
+      "vocab": [
+        {
+          "w": "wonderful",
+          "pos": "adj.",
+          "ipa": "/ˈwʌndɚfəl/",
+          "zh": "極好的"
+        },
+        {
+          "w": "job",
+          "pos": "n.",
+          "ipa": "/dʒɑb/",
+          "zh": "表現、工作"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-12",
+      "date": "2026-08-05",
+      "category": "safety",
+      "en": "Put the scissors down carefully.",
+      "zh": "把剪刀小心放下。",
+      "ipa": "/pʊt ðə ˈsɪzɚz daʊn ˈkɛrfəli/",
+      "vocab": [
+        {
+          "w": "scissors",
+          "pos": "n.",
+          "ipa": "/ˈsɪzɚz/",
+          "zh": "剪刀"
+        },
+        {
+          "w": "carefully",
+          "pos": "adv.",
+          "ipa": "/ˈkɛrfəli/",
+          "zh": "小心地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-13",
+      "date": "2026-08-05",
+      "category": "health",
+      "en": "The doctor will make you feel better.",
+      "zh": "醫生會讓你舒服一點。",
+      "ipa": "/ðə ˈdɑktɚ wɪl mek ju fil ˈbɛtɚ/",
+      "vocab": [
+        {
+          "w": "doctor",
+          "pos": "n.",
+          "ipa": "/ˈdɑktɚ/",
+          "zh": "醫生"
+        },
+        {
+          "w": "better",
+          "pos": "adj.",
+          "ipa": "/ˈbɛtɚ/",
+          "zh": "較好的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-14",
+      "date": "2026-08-05",
+      "category": "relatives",
+      "en": "Say hello to Uncle and Auntie.",
+      "zh": "跟叔叔阿姨問好。",
+      "ipa": "/se həˈlo tu ˈʌŋkəl ænd ˈænti/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkəl/",
+          "zh": "叔叔、伯伯"
+        },
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨、姑姑"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-15",
+      "date": "2026-08-05",
+      "category": "friends",
+      "en": "Cheer for your friend when she wins.",
+      "zh": "朋友贏了要幫她加油。",
+      "ipa": "/tʃɪr fɔr jɔr frɛnd wɛn ʃi wɪnz/",
+      "vocab": [
+        {
+          "w": "cheer",
+          "pos": "v.",
+          "ipa": "/tʃɪr/",
+          "zh": "歡呼、加油"
+        },
+        {
+          "w": "win",
+          "pos": "v.",
+          "ipa": "/wɪn/",
+          "zh": "贏"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-16",
+      "date": "2026-08-05",
+      "category": "manners",
+      "en": "Say good morning to your teacher.",
+      "zh": "跟老師說早安。",
+      "ipa": "/se ɡʊd ˈmɔrnɪŋ tu jɔr ˈtitʃɚ/",
+      "vocab": [
+        {
+          "w": "morning",
+          "pos": "n.",
+          "ipa": "/ˈmɔrnɪŋ/",
+          "zh": "早晨"
+        },
+        {
+          "w": "teacher",
+          "pos": "n.",
+          "ipa": "/ˈtitʃɚ/",
+          "zh": "老師"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-17",
+      "date": "2026-08-05",
+      "category": "weather",
+      "en": "Bring your umbrella, it might rain.",
+      "zh": "帶把雨傘，可能會下雨。",
+      "ipa": "/brɪŋ jɔr ʌmˈbrɛlə ɪt maɪt ren/",
+      "vocab": [
+        {
+          "w": "umbrella",
+          "pos": "n.",
+          "ipa": "/ʌmˈbrɛlə/",
+          "zh": "雨傘"
+        },
+        {
+          "w": "rain",
+          "pos": "v.",
+          "ipa": "/ren/",
+          "zh": "下雨"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-18",
+      "date": "2026-08-05",
+      "category": "screen-time",
+      "en": "Let's put the tablet away now.",
+      "zh": "現在把平板收起來吧。",
+      "ipa": "/lɛts pʊt ðə ˈtæblɪt əˈwe naʊ/",
+      "vocab": [
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        },
+        {
+          "w": "put away",
+          "pos": "phr.",
+          "ipa": "/pʊt əˈwe/",
+          "zh": "收起來"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-19",
+      "date": "2026-08-05",
+      "category": "celebrations",
+      "en": "Let's decorate the room with balloons.",
+      "zh": "我們用氣球佈置房間。",
+      "ipa": "/lɛts ˈdɛkəˌret ðə rum wɪð bəˈlunz/",
+      "vocab": [
+        {
+          "w": "decorate",
+          "pos": "v.",
+          "ipa": "/ˈdɛkəˌret/",
+          "zh": "裝飾"
+        },
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-20",
+      "date": "2026-08-05",
+      "category": "reading",
+      "en": "Which story should we read tonight?",
+      "zh": "今晚我們要讀哪個故事呢？",
+      "ipa": "/wɪtʃ ˈstɔri ʃʊd wi rid təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "story",
+          "pos": "n.",
+          "ipa": "/ˈstɔri/",
+          "zh": "故事"
+        },
+        {
+          "w": "tonight",
+          "pos": "adv.",
+          "ipa": "/təˈnaɪt/",
+          "zh": "今晚"
+        }
+      ]
+    }
+  ]
+}
