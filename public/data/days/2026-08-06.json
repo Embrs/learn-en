@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-06",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-06-1",
+      "date": "2026-08-06",
+      "category": "daily-routine",
+      "en": "Don't forget to comb your hair.",
+      "zh": "別忘了梳頭髮。",
+      "ipa": "/dont fɚˈɡɛt tu kom jɔr hɛr/",
+      "vocab": [
+        {
+          "w": "forget",
+          "pos": "v.",
+          "ipa": "/fɚˈɡɛt/",
+          "zh": "忘記"
+        },
+        {
+          "w": "comb",
+          "pos": "v.",
+          "ipa": "/kom/",
+          "zh": "梳"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-2",
+      "date": "2026-08-06",
+      "category": "meals",
+      "en": "Try one bite of the broccoli.",
+      "zh": "吃一口花椰菜看看。",
+      "ipa": "/traɪ wʌn baɪt ʌv ðə ˈbrɑkli/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "broccoli",
+          "pos": "n.",
+          "ipa": "/ˈbrɑkli/",
+          "zh": "花椰菜"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-3",
+      "date": "2026-08-06",
+      "category": "bath-bedtime",
+      "en": "Let's rinse the shampoo out of your hair.",
+      "zh": "我們把頭髮的洗髮精沖乾淨。",
+      "ipa": "/lɛts rɪns ðə ʃæmˈpu aʊt ʌv jɔr hɛr/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "shampoo",
+          "pos": "n.",
+          "ipa": "/ʃæmˈpu/",
+          "zh": "洗髮精"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-4",
+      "date": "2026-08-06",
+      "category": "outings",
+      "en": "We'll ride the escalator together.",
+      "zh": "我們一起搭手扶梯。",
+      "ipa": "/wil raɪd ðə ˈɛskəˌletɚ təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "ride",
+          "pos": "v.",
+          "ipa": "/raɪd/",
+          "zh": "搭乘"
+        },
+        {
+          "w": "escalator",
+          "pos": "n.",
+          "ipa": "/ˈɛskəˌletɚ/",
+          "zh": "手扶梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-5",
+      "date": "2026-08-06",
+      "category": "playground",
+      "en": "Pump your legs to swing higher.",
+      "zh": "擺動雙腿盪高一點。",
+      "ipa": "/pʌmp jɔr lɛɡz tu swɪŋ ˈhaɪɚ/",
+      "vocab": [
+        {
+          "w": "pump",
+          "pos": "v.",
+          "ipa": "/pʌmp/",
+          "zh": "擺動、使勁"
+        },
+        {
+          "w": "higher",
+          "pos": "adv.",
+          "ipa": "/ˈhaɪɚ/",
+          "zh": "更高地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-6",
+      "date": "2026-08-06",
+      "category": "school",
+      "en": "Sharpen your pencil before class starts.",
+      "zh": "上課前先削好鉛筆。",
+      "ipa": "/ˈʃɑrpən jɔr ˈpɛnsəl bɪˈfɔr klæs stɑrts/",
+      "vocab": [
+        {
+          "w": "sharpen",
+          "pos": "v.",
+          "ipa": "/ˈʃɑrpən/",
+          "zh": "削尖"
+        },
+        {
+          "w": "pencil",
+          "pos": "n.",
+          "ipa": "/ˈpɛnsəl/",
+          "zh": "鉛筆"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-7",
+      "date": "2026-08-06",
+      "category": "homework",
+      "en": "Let's practice your spelling words.",
+      "zh": "我們來練習拼字。",
+      "ipa": "/lɛts ˈpræktɪs jɔr ˈspɛlɪŋ wɝdz/",
+      "vocab": [
+        {
+          "w": "practice",
+          "pos": "v.",
+          "ipa": "/ˈpræktɪs/",
+          "zh": "練習"
+        },
+        {
+          "w": "spelling",
+          "pos": "n.",
+          "ipa": "/ˈspɛlɪŋ/",
+          "zh": "拼字"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-8",
+      "date": "2026-08-06",
+      "category": "toys-sharing",
+      "en": "Let's trade toys instead of grabbing.",
+      "zh": "我們用交換的，不要用搶的。",
+      "ipa": "/lɛts tred tɔɪz ɪnˈstɛd ʌv ˈɡræbɪŋ/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "grab",
+          "pos": "v.",
+          "ipa": "/ɡræb/",
+          "zh": "搶奪"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-9",
+      "date": "2026-08-06",
+      "category": "emotions",
+      "en": "It's alright to feel a little scared.",
+      "zh": "覺得有點害怕沒關係。",
+      "ipa": "/ɪts ɔlˈraɪt tu fil ə ˈlɪtəl skɛrd/",
+      "vocab": [
+        {
+          "w": "alright",
+          "pos": "adj.",
+          "ipa": "/ɔlˈraɪt/",
+          "zh": "沒關係的"
+        },
+        {
+          "w": "scared",
+          "pos": "adj.",
+          "ipa": "/skɛrd/",
+          "zh": "害怕的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-10",
+      "date": "2026-08-06",
+      "category": "discipline",
+      "en": "Use your words instead of yelling.",
+      "zh": "用說的，不要用吼的。",
+      "ipa": "/juz jɔr wɝdz ɪnˈstɛd ʌv ˈjɛlɪŋ/",
+      "vocab": [
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "話語"
+        },
+        {
+          "w": "yell",
+          "pos": "v.",
+          "ipa": "/jɛl/",
+          "zh": "吼叫"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-11",
+      "date": "2026-08-06",
+      "category": "praise",
+      "en": "I'm so proud of how you tried.",
+      "zh": "你這麼努力，我好驕傲。",
+      "ipa": "/aɪm so praʊd ʌv haʊ ju traɪd/",
+      "vocab": [
+        {
+          "w": "proud",
+          "pos": "adj.",
+          "ipa": "/praʊd/",
+          "zh": "驕傲的"
+        },
+        {
+          "w": "try",
+          "pos": "v.",
+          "ipa": "/traɪ/",
+          "zh": "嘗試、努力"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-12",
+      "date": "2026-08-06",
+      "category": "safety",
+      "en": "Walk, don't run, near the pool.",
+      "zh": "泳池邊要用走的，不要跑。",
+      "ipa": "/wɔk dont rʌn nɪr ðə pul/",
+      "vocab": [
+        {
+          "w": "walk",
+          "pos": "v.",
+          "ipa": "/wɔk/",
+          "zh": "走"
+        },
+        {
+          "w": "pool",
+          "pos": "n.",
+          "ipa": "/pul/",
+          "zh": "游泳池"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-13",
+      "date": "2026-08-06",
+      "category": "health",
+      "en": "The medicine will help your cough.",
+      "zh": "這個藥會讓咳嗽好一點。",
+      "ipa": "/ðə ˈmɛdəsən wɪl hɛlp jɔr kɔf/",
+      "vocab": [
+        {
+          "w": "medicine",
+          "pos": "n.",
+          "ipa": "/ˈmɛdəsən/",
+          "zh": "藥"
+        },
+        {
+          "w": "cough",
+          "pos": "n.",
+          "ipa": "/kɔf/",
+          "zh": "咳嗽"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-14",
+      "date": "2026-08-06",
+      "category": "relatives",
+      "en": "Grandma wants to hear about your day.",
+      "zh": "奶奶想聽聽你今天的事。",
+      "ipa": "/ˈɡrænmɑ wɑnts tu hɪr əˈbaʊt jɔr de/",
+      "vocab": [
+        {
+          "w": "hear",
+          "pos": "v.",
+          "ipa": "/hɪr/",
+          "zh": "聽"
+        },
+        {
+          "w": "day",
+          "pos": "n.",
+          "ipa": "/de/",
+          "zh": "一天"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-15",
+      "date": "2026-08-06",
+      "category": "friends",
+      "en": "Ask nicely if you can join in.",
+      "zh": "客氣地問能不能一起玩。",
+      "ipa": "/æsk ˈnaɪsli ɪf ju kæn dʒɔɪn ɪn/",
+      "vocab": [
+        {
+          "w": "nicely",
+          "pos": "adv.",
+          "ipa": "/ˈnaɪsli/",
+          "zh": "有禮貌地"
+        },
+        {
+          "w": "join in",
+          "pos": "phr.",
+          "ipa": "/dʒɔɪn ɪn/",
+          "zh": "加入"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-16",
+      "date": "2026-08-06",
+      "category": "manners",
+      "en": "Please say excuse me when you burp.",
+      "zh": "打嗝時記得說不好意思。",
+      "ipa": "/pliz se ɪkˈskjuz mi wɛn ju bɝp/",
+      "vocab": [
+        {
+          "w": "excuse",
+          "pos": "v.",
+          "ipa": "/ɪkˈskjuz/",
+          "zh": "原諒"
+        },
+        {
+          "w": "burp",
+          "pos": "v.",
+          "ipa": "/bɝp/",
+          "zh": "打嗝"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-17",
+      "date": "2026-08-06",
+      "category": "weather",
+      "en": "It's chilly, put on your sweater.",
+      "zh": "有點涼，穿上毛衣吧。",
+      "ipa": "/ɪts ˈtʃɪli pʊt ɑn jɔr ˈswɛtɚ/",
+      "vocab": [
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "涼颼颼的"
+        },
+        {
+          "w": "sweater",
+          "pos": "n.",
+          "ipa": "/ˈswɛtɚ/",
+          "zh": "毛衣"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-18",
+      "date": "2026-08-06",
+      "category": "screen-time",
+      "en": "Screens off while we eat dinner.",
+      "zh": "吃晚餐時把螢幕關掉。",
+      "ipa": "/skrinz ɔf waɪl wi it ˈdɪnɚ/",
+      "vocab": [
+        {
+          "w": "screen",
+          "pos": "n.",
+          "ipa": "/skrin/",
+          "zh": "螢幕"
+        },
+        {
+          "w": "dinner",
+          "pos": "n.",
+          "ipa": "/ˈdɪnɚ/",
+          "zh": "晚餐"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-19",
+      "date": "2026-08-06",
+      "category": "celebrations",
+      "en": "Blow out the candles and make a wish.",
+      "zh": "吹熄蠟燭許個願吧。",
+      "ipa": "/blo aʊt ðə ˈkændəlz ænd mek ə wɪʃ/",
+      "vocab": [
+        {
+          "w": "candle",
+          "pos": "n.",
+          "ipa": "/ˈkændəl/",
+          "zh": "蠟燭"
+        },
+        {
+          "w": "wish",
+          "pos": "n.",
+          "ipa": "/wɪʃ/",
+          "zh": "願望"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-06-20",
+      "date": "2026-08-06",
+      "category": "reading",
+      "en": "Can you find the moon in this picture?",
+      "zh": "你能在圖裡找到月亮嗎？",
+      "ipa": "/kæn ju faɪnd ðə mun ɪn ðɪs ˈpɪktʃɚ/",
+      "vocab": [
+        {
+          "w": "find",
+          "pos": "v.",
+          "ipa": "/faɪnd/",
+          "zh": "找到"
+        },
+        {
+          "w": "picture",
+          "pos": "n.",
+          "ipa": "/ˈpɪktʃɚ/",
+          "zh": "圖畫"
+        }
+      ]
+    }
+  ]
+}
