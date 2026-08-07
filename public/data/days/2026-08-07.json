@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-07",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-07-1",
+      "date": "2026-08-07",
+      "category": "daily-routine",
+      "en": "Let's wash your hands before we eat.",
+      "zh": "吃飯前我們先洗手。",
+      "ipa": "/lɛts wɑʃ jɔr hændz bɪˈfɔr wi it/",
+      "vocab": [
+        {
+          "w": "wash",
+          "pos": "v.",
+          "ipa": "/wɑʃ/",
+          "zh": "洗"
+        },
+        {
+          "w": "hands",
+          "pos": "n.",
+          "ipa": "/hændz/",
+          "zh": "手"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-2",
+      "date": "2026-08-07",
+      "category": "meals",
+      "en": "Please finish your soup first.",
+      "zh": "請先把湯喝完。",
+      "ipa": "/pliz ˈfɪnɪʃ jɔr sup fɚst/",
+      "vocab": [
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "吃完、喝完"
+        },
+        {
+          "w": "soup",
+          "pos": "n.",
+          "ipa": "/sup/",
+          "zh": "湯"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-3",
+      "date": "2026-08-07",
+      "category": "bath-bedtime",
+      "en": "Let's dry off with the towel.",
+      "zh": "我們用毛巾把身體擦乾。",
+      "ipa": "/lɛts draɪ ɔf wɪð ðə ˈtaʊəl/",
+      "vocab": [
+        {
+          "w": "dry",
+          "pos": "v.",
+          "ipa": "/draɪ/",
+          "zh": "擦乾"
+        },
+        {
+          "w": "towel",
+          "pos": "n.",
+          "ipa": "/ˈtaʊəl/",
+          "zh": "毛巾"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-4",
+      "date": "2026-08-07",
+      "category": "outings",
+      "en": "Hold my hand near the road.",
+      "zh": "靠近馬路要牽好我的手。",
+      "ipa": "/hold maɪ hænd nɪr ðə rod/",
+      "vocab": [
+        {
+          "w": "hold",
+          "pos": "v.",
+          "ipa": "/hold/",
+          "zh": "握、牽"
+        },
+        {
+          "w": "road",
+          "pos": "n.",
+          "ipa": "/rod/",
+          "zh": "馬路"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-5",
+      "date": "2026-08-07",
+      "category": "playground",
+      "en": "Let's dig a hole in the sandbox.",
+      "zh": "我們在沙坑裡挖個洞。",
+      "ipa": "/lɛts dɪɡ ə hol ɪn ðə ˈsændˌbɑks/",
+      "vocab": [
+        {
+          "w": "dig",
+          "pos": "v.",
+          "ipa": "/dɪɡ/",
+          "zh": "挖"
+        },
+        {
+          "w": "sandbox",
+          "pos": "n.",
+          "ipa": "/ˈsændˌbɑks/",
+          "zh": "沙坑"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-6",
+      "date": "2026-08-07",
+      "category": "school",
+      "en": "Remember to pack your backpack.",
+      "zh": "記得收拾好書包。",
+      "ipa": "/rɪˈmɛmbɚ tu pæk jɔr ˈbækpæk/",
+      "vocab": [
+        {
+          "w": "pack",
+          "pos": "v.",
+          "ipa": "/pæk/",
+          "zh": "收拾、打包"
+        },
+        {
+          "w": "backpack",
+          "pos": "n.",
+          "ipa": "/ˈbækpæk/",
+          "zh": "書包"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-7",
+      "date": "2026-08-07",
+      "category": "homework",
+      "en": "Let's read the question together.",
+      "zh": "我們一起讀這個題目。",
+      "ipa": "/lɛts rid ðə ˈkwɛstʃən təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "question",
+          "pos": "n.",
+          "ipa": "/ˈkwɛstʃən/",
+          "zh": "問題、題目"
+        },
+        {
+          "w": "together",
+          "pos": "adv.",
+          "ipa": "/təˈɡɛðɚ/",
+          "zh": "一起"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-8",
+      "date": "2026-08-07",
+      "category": "toys-sharing",
+      "en": "Let's take turns with the truck.",
+      "zh": "我們輪流玩這台卡車。",
+      "ipa": "/lɛts tek tɝnz wɪð ðə trʌk/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "phr.",
+          "ipa": "/tek tɝnz/",
+          "zh": "輪流"
+        },
+        {
+          "w": "truck",
+          "pos": "n.",
+          "ipa": "/trʌk/",
+          "zh": "卡車"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-9",
+      "date": "2026-08-07",
+      "category": "emotions",
+      "en": "Tell me why you are crying.",
+      "zh": "告訴我你為什麼在哭。",
+      "ipa": "/tɛl mi waɪ ju ɑr ˈkraɪɪŋ/",
+      "vocab": [
+        {
+          "w": "why",
+          "pos": "adv.",
+          "ipa": "/waɪ/",
+          "zh": "為什麼"
+        },
+        {
+          "w": "crying",
+          "pos": "v.",
+          "ipa": "/ˈkraɪɪŋ/",
+          "zh": "哭"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-10",
+      "date": "2026-08-07",
+      "category": "discipline",
+      "en": "We don't hit when we're angry.",
+      "zh": "生氣的時候不可以打人。",
+      "ipa": "/wi dont hɪt wɛn wɪr ˈæŋɡri/",
+      "vocab": [
+        {
+          "w": "hit",
+          "pos": "v.",
+          "ipa": "/hɪt/",
+          "zh": "打"
+        },
+        {
+          "w": "angry",
+          "pos": "adj.",
+          "ipa": "/ˈæŋɡri/",
+          "zh": "生氣的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-11",
+      "date": "2026-08-07",
+      "category": "praise",
+      "en": "You did a great job today!",
+      "zh": "你今天表現得很棒！",
+      "ipa": "/ju dɪd ə ɡret dʒɑb təˈde/",
+      "vocab": [
+        {
+          "w": "great",
+          "pos": "adj.",
+          "ipa": "/ɡret/",
+          "zh": "很棒的"
+        },
+        {
+          "w": "job",
+          "pos": "n.",
+          "ipa": "/dʒɑb/",
+          "zh": "表現、工作"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-12",
+      "date": "2026-08-07",
+      "category": "safety",
+      "en": "Don't put small toys in your mouth.",
+      "zh": "不要把小玩具放進嘴巴。",
+      "ipa": "/dont pʊt smɔl tɔɪz ɪn jɔr maʊθ/",
+      "vocab": [
+        {
+          "w": "small",
+          "pos": "adj.",
+          "ipa": "/smɔl/",
+          "zh": "小的"
+        },
+        {
+          "w": "mouth",
+          "pos": "n.",
+          "ipa": "/maʊθ/",
+          "zh": "嘴巴"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-13",
+      "date": "2026-08-07",
+      "category": "health",
+      "en": "Open wide so I can check.",
+      "zh": "嘴巴張大讓我看看。",
+      "ipa": "/ˈopən waɪd so aɪ kæn tʃɛk/",
+      "vocab": [
+        {
+          "w": "wide",
+          "pos": "adj.",
+          "ipa": "/waɪd/",
+          "zh": "大大地、寬的"
+        },
+        {
+          "w": "check",
+          "pos": "v.",
+          "ipa": "/tʃɛk/",
+          "zh": "檢查"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-14",
+      "date": "2026-08-07",
+      "category": "relatives",
+      "en": "Grandma made cookies for you.",
+      "zh": "奶奶做了餅乾給你。",
+      "ipa": "/ˈɡrænmɑ med ˈkʊkiz fɔr ju/",
+      "vocab": [
+        {
+          "w": "grandma",
+          "pos": "n.",
+          "ipa": "/ˈɡrænmɑ/",
+          "zh": "奶奶、外婆"
+        },
+        {
+          "w": "cookies",
+          "pos": "n.",
+          "ipa": "/ˈkʊkiz/",
+          "zh": "餅乾"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-15",
+      "date": "2026-08-07",
+      "category": "friends",
+      "en": "Be kind to your new friend.",
+      "zh": "要對新朋友友善。",
+      "ipa": "/bi kaɪnd tu jɔr nu frɛnd/",
+      "vocab": [
+        {
+          "w": "kind",
+          "pos": "adj.",
+          "ipa": "/kaɪnd/",
+          "zh": "友善的"
+        },
+        {
+          "w": "friend",
+          "pos": "n.",
+          "ipa": "/frɛnd/",
+          "zh": "朋友"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-16",
+      "date": "2026-08-07",
+      "category": "manners",
+      "en": "Pass the salt when someone asks.",
+      "zh": "有人請你遞鹽時要幫忙。",
+      "ipa": "/pæs ðə sɔlt wɛn ˈsʌmˌwʌn æsks/",
+      "vocab": [
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "遞"
+        },
+        {
+          "w": "salt",
+          "pos": "n.",
+          "ipa": "/sɔlt/",
+          "zh": "鹽"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-17",
+      "date": "2026-08-07",
+      "category": "weather",
+      "en": "It looks cloudy outside today.",
+      "zh": "今天外面看起來多雲。",
+      "ipa": "/ɪt lʊks ˈklaʊdi ˈaʊtˈsaɪd təˈde/",
+      "vocab": [
+        {
+          "w": "cloudy",
+          "pos": "adj.",
+          "ipa": "/ˈklaʊdi/",
+          "zh": "多雲的"
+        },
+        {
+          "w": "outside",
+          "pos": "adv.",
+          "ipa": "/ˈaʊtˈsaɪd/",
+          "zh": "外面"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-18",
+      "date": "2026-08-07",
+      "category": "screen-time",
+      "en": "Turn off the tablet after this.",
+      "zh": "這個看完就把平板關掉。",
+      "ipa": "/tɝn ɔf ðə ˈtæblɪt ˈæftɚ ðɪs/",
+      "vocab": [
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        },
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-19",
+      "date": "2026-08-07",
+      "category": "celebrations",
+      "en": "Let's blow out the candles now.",
+      "zh": "我們現在來吹蠟燭。",
+      "ipa": "/lɛts blo aʊt ðə ˈkændəlz naʊ/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "candles",
+          "pos": "n.",
+          "ipa": "/ˈkændəlz/",
+          "zh": "蠟燭"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-20",
+      "date": "2026-08-07",
+      "category": "reading",
+      "en": "Which book should we read tonight?",
+      "zh": "今晚我們要讀哪一本書？",
+      "ipa": "/wɪtʃ bʊk ʃʊd wi rid təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "book",
+          "pos": "n.",
+          "ipa": "/bʊk/",
+          "zh": "書"
+        },
+        {
+          "w": "tonight",
+          "pos": "n.",
+          "ipa": "/təˈnaɪt/",
+          "zh": "今晚"
+        }
+      ]
+    }
+  ]
+}
