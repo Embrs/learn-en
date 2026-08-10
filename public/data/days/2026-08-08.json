@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-08",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-08-1",
+      "date": "2026-08-08",
+      "category": "daily-routine",
+      "en": "Tuck in your shirt neatly.",
+      "zh": "把襯衫好好塞進去。",
+      "ipa": "/tʌk ɪn jɔr ʃɝt ˈnitli/",
+      "vocab": [
+        {
+          "w": "tuck",
+          "pos": "v.",
+          "ipa": "/tʌk/",
+          "zh": "塞進"
+        },
+        {
+          "w": "shirt",
+          "pos": "n.",
+          "ipa": "/ʃɝt/",
+          "zh": "襯衫"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-2",
+      "date": "2026-08-08",
+      "category": "meals",
+      "en": "Take a small bite of rice.",
+      "zh": "吃一小口飯。",
+      "ipa": "/tek ə smɔl baɪt ʌv raɪs/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "rice",
+          "pos": "n.",
+          "ipa": "/raɪs/",
+          "zh": "飯"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-3",
+      "date": "2026-08-08",
+      "category": "bath-bedtime",
+      "en": "Let's put on your pajamas.",
+      "zh": "我們來穿睡衣吧。",
+      "ipa": "/lɛts pʊt ɑn jɔr pəˈdʒɑməz/",
+      "vocab": [
+        {
+          "w": "put on",
+          "pos": "phr.",
+          "ipa": "/pʊt ɑn/",
+          "zh": "穿上"
+        },
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒɑməz/",
+          "zh": "睡衣"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-4",
+      "date": "2026-08-08",
+      "category": "outings",
+      "en": "Buckle up in your car seat.",
+      "zh": "在汽車座椅上繫好安全帶。",
+      "ipa": "/ˈbʌkəl ʌp ɪn jɔr kɑr sit/",
+      "vocab": [
+        {
+          "w": "buckle up",
+          "pos": "phr.",
+          "ipa": "/ˈbʌkəl ʌp/",
+          "zh": "繫安全帶"
+        },
+        {
+          "w": "seat",
+          "pos": "n.",
+          "ipa": "/sit/",
+          "zh": "座椅"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-5",
+      "date": "2026-08-08",
+      "category": "playground",
+      "en": "Hold the swing tightly with both hands.",
+      "zh": "兩隻手緊緊抓住鞦韆。",
+      "ipa": "/hold ðə swɪŋ ˈtaɪtli wɪð boθ hændz/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        },
+        {
+          "w": "tightly",
+          "pos": "adv.",
+          "ipa": "/ˈtaɪtli/",
+          "zh": "緊緊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-6",
+      "date": "2026-08-08",
+      "category": "school",
+      "en": "Line up quietly with your class.",
+      "zh": "和同學安靜地排好隊。",
+      "ipa": "/laɪn ʌp ˈkwaɪətli wɪð jɔr klæs/",
+      "vocab": [
+        {
+          "w": "line up",
+          "pos": "phr.",
+          "ipa": "/laɪn ʌp/",
+          "zh": "排隊"
+        },
+        {
+          "w": "quietly",
+          "pos": "adv.",
+          "ipa": "/ˈkwaɪətli/",
+          "zh": "安靜地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-7",
+      "date": "2026-08-08",
+      "category": "homework",
+      "en": "Let's count the numbers out loud.",
+      "zh": "我們把數字大聲數出來。",
+      "ipa": "/lɛts kaʊnt ðə ˈnʌmbɚz aʊt laʊd/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數"
+        },
+        {
+          "w": "loud",
+          "pos": "adj.",
+          "ipa": "/laʊd/",
+          "zh": "大聲的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-8",
+      "date": "2026-08-08",
+      "category": "toys-sharing",
+      "en": "Can you lend her your blocks?",
+      "zh": "你可以把積木借給她嗎？",
+      "ipa": "/kæn ju lɛnd hɚ jɔr blɑks/",
+      "vocab": [
+        {
+          "w": "lend",
+          "pos": "v.",
+          "ipa": "/lɛnd/",
+          "zh": "借出"
+        },
+        {
+          "w": "blocks",
+          "pos": "n.",
+          "ipa": "/blɑks/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-9",
+      "date": "2026-08-08",
+      "category": "emotions",
+      "en": "Your worries are safe with me.",
+      "zh": "你的煩惱可以放心告訴我。",
+      "ipa": "/jɔr ˈwɝiz ɑr sef wɪð mi/",
+      "vocab": [
+        {
+          "w": "worries",
+          "pos": "n.",
+          "ipa": "/ˈwɝiz/",
+          "zh": "煩惱"
+        },
+        {
+          "w": "safe",
+          "pos": "adj.",
+          "ipa": "/sef/",
+          "zh": "安全的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-10",
+      "date": "2026-08-08",
+      "category": "discipline",
+      "en": "Please pick up your toys now.",
+      "zh": "請現在把玩具收好。",
+      "ipa": "/pliz pɪk ʌp jɔr tɔɪz naʊ/",
+      "vocab": [
+        {
+          "w": "pick up",
+          "pos": "phr.",
+          "ipa": "/pɪk ʌp/",
+          "zh": "撿起、收拾"
+        },
+        {
+          "w": "toys",
+          "pos": "n.",
+          "ipa": "/tɔɪz/",
+          "zh": "玩具"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-11",
+      "date": "2026-08-08",
+      "category": "praise",
+      "en": "You worked really hard on that!",
+      "zh": "你在那件事上真的很努力！",
+      "ipa": "/ju wɝkt ˈrɪli hɑrd ɑn ðæt/",
+      "vocab": [
+        {
+          "w": "worked",
+          "pos": "v.",
+          "ipa": "/wɝkt/",
+          "zh": "努力、下功夫"
+        },
+        {
+          "w": "hard",
+          "pos": "adv.",
+          "ipa": "/hɑrd/",
+          "zh": "努力地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-12",
+      "date": "2026-08-08",
+      "category": "safety",
+      "en": "Stay away from the sharp knife.",
+      "zh": "離鋒利的刀遠一點。",
+      "ipa": "/ste əˈwe frʌm ðə ʃɑrp naɪf/",
+      "vocab": [
+        {
+          "w": "sharp",
+          "pos": "adj.",
+          "ipa": "/ʃɑrp/",
+          "zh": "鋒利的"
+        },
+        {
+          "w": "knife",
+          "pos": "n.",
+          "ipa": "/naɪf/",
+          "zh": "刀"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-13",
+      "date": "2026-08-08",
+      "category": "health",
+      "en": "Let me take your temperature.",
+      "zh": "讓我幫你量體溫。",
+      "ipa": "/lɛt mi tek jɔr ˈtɛmprətʃɚ/",
+      "vocab": [
+        {
+          "w": "take",
+          "pos": "v.",
+          "ipa": "/tek/",
+          "zh": "量、測"
+        },
+        {
+          "w": "temperature",
+          "pos": "n.",
+          "ipa": "/ˈtɛmprətʃɚ/",
+          "zh": "體溫"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-14",
+      "date": "2026-08-08",
+      "category": "relatives",
+      "en": "Give your uncle a big hug.",
+      "zh": "給叔叔一個大大的擁抱。",
+      "ipa": "/ɡɪv jɔr ˈʌŋkəl ə bɪɡ hʌɡ/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkəl/",
+          "zh": "叔叔、舅舅"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-15",
+      "date": "2026-08-08",
+      "category": "friends",
+      "en": "Ask your friend to play together.",
+      "zh": "邀請你的朋友一起玩。",
+      "ipa": "/æsk jɔr frɛnd tu ple təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "邀請、問"
+        },
+        {
+          "w": "play",
+          "pos": "v.",
+          "ipa": "/ple/",
+          "zh": "玩"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-16",
+      "date": "2026-08-08",
+      "category": "manners",
+      "en": "Look people in the eye when you talk.",
+      "zh": "說話時要看著別人的眼睛。",
+      "ipa": "/lʊk ˈpipəl ɪn ðə aɪ wɛn ju tɔk/",
+      "vocab": [
+        {
+          "w": "eye",
+          "pos": "n.",
+          "ipa": "/aɪ/",
+          "zh": "眼睛"
+        },
+        {
+          "w": "talk",
+          "pos": "v.",
+          "ipa": "/tɔk/",
+          "zh": "說話"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-17",
+      "date": "2026-08-08",
+      "category": "weather",
+      "en": "Put on your coat, it's cold.",
+      "zh": "穿上外套，天氣冷。",
+      "ipa": "/pʊt ɑn jɔr kot ɪts kold/",
+      "vocab": [
+        {
+          "w": "coat",
+          "pos": "n.",
+          "ipa": "/kot/",
+          "zh": "外套"
+        },
+        {
+          "w": "cold",
+          "pos": "adj.",
+          "ipa": "/kold/",
+          "zh": "冷的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-18",
+      "date": "2026-08-08",
+      "category": "screen-time",
+      "en": "Let's draw a picture instead of watching.",
+      "zh": "我們來畫畫，不要看螢幕。",
+      "ipa": "/lɛts drɔ ə ˈpɪktʃɚ ɪnˈstɛd ʌv ˈwɑtʃɪŋ/",
+      "vocab": [
+        {
+          "w": "draw",
+          "pos": "v.",
+          "ipa": "/drɔ/",
+          "zh": "畫"
+        },
+        {
+          "w": "instead",
+          "pos": "adv.",
+          "ipa": "/ɪnˈstɛd/",
+          "zh": "代替、改為"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-19",
+      "date": "2026-08-08",
+      "category": "celebrations",
+      "en": "Help me hang up the balloons.",
+      "zh": "幫我把氣球掛起來。",
+      "ipa": "/hɛlp mi hæŋ ʌp ðə bəˈlunz/",
+      "vocab": [
+        {
+          "w": "hang up",
+          "pos": "phr.",
+          "ipa": "/hæŋ ʌp/",
+          "zh": "掛上"
+        },
+        {
+          "w": "balloons",
+          "pos": "n.",
+          "ipa": "/bəˈlunz/",
+          "zh": "氣球"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-20",
+      "date": "2026-08-08",
+      "category": "reading",
+      "en": "Snuggle up close and I'll read to you.",
+      "zh": "靠過來依偎著，我念給你聽。",
+      "ipa": "/ˈsnʌɡəl ʌp klos ænd aɪl rid tu ju/",
+      "vocab": [
+        {
+          "w": "snuggle",
+          "pos": "v.",
+          "ipa": "/ˈsnʌɡəl/",
+          "zh": "依偎"
+        },
+        {
+          "w": "close",
+          "pos": "adv.",
+          "ipa": "/klos/",
+          "zh": "靠近"
+        }
+      ]
+    }
+  ]
+}
