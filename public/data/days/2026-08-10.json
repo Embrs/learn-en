@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-10",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-10-1",
+      "date": "2026-08-10",
+      "category": "daily-routine",
+      "en": "Brush your teeth for two minutes.",
+      "zh": "刷牙刷兩分鐘。",
+      "ipa": "/brʌʃ jɔr tiθ fɔr tu ˈmɪnɪts/",
+      "vocab": [
+        {
+          "w": "brush",
+          "pos": "v.",
+          "ipa": "/brʌʃ/",
+          "zh": "刷"
+        },
+        {
+          "w": "teeth",
+          "pos": "n.",
+          "ipa": "/tiθ/",
+          "zh": "牙齒"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-2",
+      "date": "2026-08-10",
+      "category": "meals",
+      "en": "Please pass me the salt.",
+      "zh": "請把鹽遞給我。",
+      "ipa": "/pliz pæs mi ðə sɔlt/",
+      "vocab": [
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "遞"
+        },
+        {
+          "w": "salt",
+          "pos": "n.",
+          "ipa": "/sɔlt/",
+          "zh": "鹽"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-3",
+      "date": "2026-08-10",
+      "category": "bath-bedtime",
+      "en": "Dry between your toes too.",
+      "zh": "腳趾縫也要擦乾。",
+      "ipa": "/draɪ bɪˈtwin jɔr toz tu/",
+      "vocab": [
+        {
+          "w": "dry",
+          "pos": "v.",
+          "ipa": "/draɪ/",
+          "zh": "擦乾"
+        },
+        {
+          "w": "toe",
+          "pos": "n.",
+          "ipa": "/to/",
+          "zh": "腳趾"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-4",
+      "date": "2026-08-10",
+      "category": "outings",
+      "en": "Put your shoes on, we're leaving.",
+      "zh": "穿上鞋子，我們要出門了。",
+      "ipa": "/pʊt jɔr ʃuz ɑn wɪr ˈlivɪŋ/",
+      "vocab": [
+        {
+          "w": "shoe",
+          "pos": "n.",
+          "ipa": "/ʃu/",
+          "zh": "鞋子"
+        },
+        {
+          "w": "leave",
+          "pos": "v.",
+          "ipa": "/liv/",
+          "zh": "離開"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-5",
+      "date": "2026-08-10",
+      "category": "playground",
+      "en": "Climb up slowly and hold tight.",
+      "zh": "慢慢爬上去，抓緊。",
+      "ipa": "/klaɪm ʌp ˈsloli ænd hold taɪt/",
+      "vocab": [
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "攀爬"
+        },
+        {
+          "w": "tight",
+          "pos": "adv.",
+          "ipa": "/taɪt/",
+          "zh": "緊緊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-6",
+      "date": "2026-08-10",
+      "category": "school",
+      "en": "Raise your hand to ask.",
+      "zh": "要發問就舉手。",
+      "ipa": "/rez jɔr hænd tu æsk/",
+      "vocab": [
+        {
+          "w": "raise",
+          "pos": "v.",
+          "ipa": "/rez/",
+          "zh": "舉起"
+        },
+        {
+          "w": "hand",
+          "pos": "n.",
+          "ipa": "/hænd/",
+          "zh": "手"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-7",
+      "date": "2026-08-10",
+      "category": "homework",
+      "en": "Take a short break, then finish.",
+      "zh": "休息一下，然後寫完。",
+      "ipa": "/tek ə ʃɔrt brek ðɛn ˈfɪnɪʃ/",
+      "vocab": [
+        {
+          "w": "break",
+          "pos": "n.",
+          "ipa": "/brek/",
+          "zh": "休息"
+        },
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "完成"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-8",
+      "date": "2026-08-10",
+      "category": "toys-sharing",
+      "en": "Share the crayons with your sister.",
+      "zh": "跟妹妹一起用蠟筆。",
+      "ipa": "/ʃɛr ðə ˈkreənz wɪð jɔr ˈsɪstɚ/",
+      "vocab": [
+        {
+          "w": "share",
+          "pos": "v.",
+          "ipa": "/ʃɛr/",
+          "zh": "分享"
+        },
+        {
+          "w": "crayon",
+          "pos": "n.",
+          "ipa": "/ˈkreən/",
+          "zh": "蠟筆"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-9",
+      "date": "2026-08-10",
+      "category": "emotions",
+      "en": "You can always talk to me.",
+      "zh": "你隨時都可以跟我說。",
+      "ipa": "/ju kæn ˈɔlwez tɔk tu mi/",
+      "vocab": [
+        {
+          "w": "always",
+          "pos": "adv.",
+          "ipa": "/ˈɔlwez/",
+          "zh": "總是"
+        },
+        {
+          "w": "talk",
+          "pos": "v.",
+          "ipa": "/tɔk/",
+          "zh": "說話"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-10",
+      "date": "2026-08-10",
+      "category": "discipline",
+      "en": "We don't throw our toys.",
+      "zh": "我們不丟玩具。",
+      "ipa": "/wi dont θro ˈaʊr tɔɪz/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟"
+        },
+        {
+          "w": "toy",
+          "pos": "n.",
+          "ipa": "/tɔɪ/",
+          "zh": "玩具"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-11",
+      "date": "2026-08-10",
+      "category": "praise",
+      "en": "That was very kind of you.",
+      "zh": "你這樣做真貼心。",
+      "ipa": "/ðæt wʌz ˈvɛri kaɪnd ʌv ju/",
+      "vocab": [
+        {
+          "w": "kind",
+          "pos": "adj.",
+          "ipa": "/kaɪnd/",
+          "zh": "善良的"
+        },
+        {
+          "w": "very",
+          "pos": "adv.",
+          "ipa": "/ˈvɛri/",
+          "zh": "非常"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-12",
+      "date": "2026-08-10",
+      "category": "safety",
+      "en": "Wear your helmet on the bike.",
+      "zh": "騎腳踏車要戴安全帽。",
+      "ipa": "/wɛr jɔr ˈhɛlmɪt ɑn ðə baɪk/",
+      "vocab": [
+        {
+          "w": "helmet",
+          "pos": "n.",
+          "ipa": "/ˈhɛlmɪt/",
+          "zh": "安全帽"
+        },
+        {
+          "w": "bike",
+          "pos": "n.",
+          "ipa": "/baɪk/",
+          "zh": "腳踏車"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-13",
+      "date": "2026-08-10",
+      "category": "health",
+      "en": "Drink some water, you look thirsty.",
+      "zh": "喝點水，你看起來渴了。",
+      "ipa": "/drɪŋk sʌm ˈwɔtɚ ju lʊk ˈθɝsti/",
+      "vocab": [
+        {
+          "w": "water",
+          "pos": "n.",
+          "ipa": "/ˈwɔtɚ/",
+          "zh": "水"
+        },
+        {
+          "w": "thirsty",
+          "pos": "adj.",
+          "ipa": "/ˈθɝsti/",
+          "zh": "口渴的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-14",
+      "date": "2026-08-10",
+      "category": "relatives",
+      "en": "Cousin is coming over today.",
+      "zh": "表哥今天要來我們家。",
+      "ipa": "/ˈkʌzn̩ ɪz ˈkʌmɪŋ ˈovɚ təˈde/",
+      "vocab": [
+        {
+          "w": "cousin",
+          "pos": "n.",
+          "ipa": "/ˈkʌzn̩/",
+          "zh": "表或堂兄弟姊妹"
+        },
+        {
+          "w": "over",
+          "pos": "adv.",
+          "ipa": "/ˈovɚ/",
+          "zh": "過來"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-15",
+      "date": "2026-08-10",
+      "category": "friends",
+      "en": "Take turns choosing the game.",
+      "zh": "輪流選遊戲。",
+      "ipa": "/tek tɝnz ˈtʃuzɪŋ ðə ɡem/",
+      "vocab": [
+        {
+          "w": "choose",
+          "pos": "v.",
+          "ipa": "/tʃuz/",
+          "zh": "選擇"
+        },
+        {
+          "w": "game",
+          "pos": "n.",
+          "ipa": "/ɡem/",
+          "zh": "遊戲"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-16",
+      "date": "2026-08-10",
+      "category": "manners",
+      "en": "Please say excuse me.",
+      "zh": "請說借過一下。",
+      "ipa": "/pliz se ɪkˈskjuz mi/",
+      "vocab": [
+        {
+          "w": "excuse",
+          "pos": "v.",
+          "ipa": "/ɪkˈskjuz/",
+          "zh": "借過；原諒"
+        },
+        {
+          "w": "say",
+          "pos": "v.",
+          "ipa": "/se/",
+          "zh": "說"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-17",
+      "date": "2026-08-10",
+      "category": "weather",
+      "en": "Let's open the umbrella, it's raining.",
+      "zh": "下雨了，我們撐傘吧。",
+      "ipa": "/lɛts ˈopən ði ʌmˈbrɛlə ɪts ˈrenɪŋ/",
+      "vocab": [
+        {
+          "w": "umbrella",
+          "pos": "n.",
+          "ipa": "/ʌmˈbrɛlə/",
+          "zh": "雨傘"
+        },
+        {
+          "w": "rain",
+          "pos": "v.",
+          "ipa": "/ren/",
+          "zh": "下雨"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-18",
+      "date": "2026-08-10",
+      "category": "screen-time",
+      "en": "Let's rest our eyes for a while.",
+      "zh": "我們讓眼睛休息一下。",
+      "ipa": "/lɛts rɛst ˈaʊr aɪz fɔr ə waɪl/",
+      "vocab": [
+        {
+          "w": "rest",
+          "pos": "v.",
+          "ipa": "/rɛst/",
+          "zh": "休息"
+        },
+        {
+          "w": "eye",
+          "pos": "n.",
+          "ipa": "/aɪ/",
+          "zh": "眼睛"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-19",
+      "date": "2026-08-10",
+      "category": "celebrations",
+      "en": "Help me wrap this present.",
+      "zh": "幫我包這個禮物。",
+      "ipa": "/hɛlp mi ræp ðɪs ˈprɛznt/",
+      "vocab": [
+        {
+          "w": "wrap",
+          "pos": "v.",
+          "ipa": "/ræp/",
+          "zh": "包裝"
+        },
+        {
+          "w": "present",
+          "pos": "n.",
+          "ipa": "/ˈprɛznt/",
+          "zh": "禮物"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-20",
+      "date": "2026-08-10",
+      "category": "reading",
+      "en": "Let's read one more page.",
+      "zh": "我們再讀一頁。",
+      "ipa": "/lɛts rid wʌn mɔr pedʒ/",
+      "vocab": [
+        {
+          "w": "page",
+          "pos": "n.",
+          "ipa": "/pedʒ/",
+          "zh": "頁"
+        },
+        {
+          "w": "read",
+          "pos": "v.",
+          "ipa": "/rid/",
+          "zh": "讀"
+        }
+      ]
+    }
+  ]
+}

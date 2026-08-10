@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-09",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-09-1",
+      "date": "2026-08-09",
+      "category": "daily-routine",
+      "en": "Let's fold the clean laundry together.",
+      "zh": "我們一起摺乾淨的衣服吧。",
+      "ipa": "/lɛts fold ðə klin ˈlɔndri təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/fold/",
+          "zh": "摺疊"
+        },
+        {
+          "w": "laundry",
+          "pos": "n.",
+          "ipa": "/ˈlɔndri/",
+          "zh": "要洗或洗好的衣物"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-2",
+      "date": "2026-08-09",
+      "category": "meals",
+      "en": "Would you like a bit more rice?",
+      "zh": "要不要再來一點飯？",
+      "ipa": "/wʊd ju laɪk ə bɪt mɔr raɪs/",
+      "vocab": [
+        {
+          "w": "rice",
+          "pos": "n.",
+          "ipa": "/raɪs/",
+          "zh": "飯"
+        },
+        {
+          "w": "more",
+          "pos": "adj.",
+          "ipa": "/mɔr/",
+          "zh": "更多的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-3",
+      "date": "2026-08-09",
+      "category": "bath-bedtime",
+      "en": "Let's rinse the shampoo out now.",
+      "zh": "我們現在把洗髮精沖掉。",
+      "ipa": "/lɛts rɪns ðə ʃæmˈpu aʊt naʊ/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "shampoo",
+          "pos": "n.",
+          "ipa": "/ʃæmˈpu/",
+          "zh": "洗髮精"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-4",
+      "date": "2026-08-09",
+      "category": "outings",
+      "en": "Let's find our seats on the bus.",
+      "zh": "我們在公車上找位子坐。",
+      "ipa": "/lɛts faɪnd ˈaʊr sits ɑn ðə bʌs/",
+      "vocab": [
+        {
+          "w": "seat",
+          "pos": "n.",
+          "ipa": "/sit/",
+          "zh": "座位"
+        },
+        {
+          "w": "bus",
+          "pos": "n.",
+          "ipa": "/bʌs/",
+          "zh": "公車"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-5",
+      "date": "2026-08-09",
+      "category": "playground",
+      "en": "Don't push from behind, please.",
+      "zh": "請不要從後面推人。",
+      "ipa": "/dont pʊʃ frʌm bɪˈhaɪnd pliz/",
+      "vocab": [
+        {
+          "w": "push",
+          "pos": "v.",
+          "ipa": "/pʊʃ/",
+          "zh": "推"
+        },
+        {
+          "w": "behind",
+          "pos": "adv.",
+          "ipa": "/bɪˈhaɪnd/",
+          "zh": "在後面"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-6",
+      "date": "2026-08-09",
+      "category": "school",
+      "en": "Pack your bag the night before.",
+      "zh": "前一晚就把書包整理好。",
+      "ipa": "/pæk jɔr bæɡ ðə naɪt bɪˈfɔr/",
+      "vocab": [
+        {
+          "w": "pack",
+          "pos": "v.",
+          "ipa": "/pæk/",
+          "zh": "打包整理"
+        },
+        {
+          "w": "bag",
+          "pos": "n.",
+          "ipa": "/bæɡ/",
+          "zh": "書包"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-7",
+      "date": "2026-08-09",
+      "category": "homework",
+      "en": "Show me how you got the answer.",
+      "zh": "讓我看看你怎麼算出答案的。",
+      "ipa": "/ʃo mi haʊ ju ɡɑt ði ˈænsɚ/",
+      "vocab": [
+        {
+          "w": "answer",
+          "pos": "n.",
+          "ipa": "/ˈænsɚ/",
+          "zh": "答案"
+        },
+        {
+          "w": "show",
+          "pos": "v.",
+          "ipa": "/ʃo/",
+          "zh": "展示"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-8",
+      "date": "2026-08-09",
+      "category": "toys-sharing",
+      "en": "Would you lend her your ball?",
+      "zh": "你願意把球借給她嗎？",
+      "ipa": "/wʊd ju lɛnd hɝ jɔr bɔl/",
+      "vocab": [
+        {
+          "w": "lend",
+          "pos": "v.",
+          "ipa": "/lɛnd/",
+          "zh": "借出"
+        },
+        {
+          "w": "ball",
+          "pos": "n.",
+          "ipa": "/bɔl/",
+          "zh": "球"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-9",
+      "date": "2026-08-09",
+      "category": "emotions",
+      "en": "Tell me what made you sad.",
+      "zh": "跟我說是什麼讓你難過。",
+      "ipa": "/tɛl mi wɑt med ju sæd/",
+      "vocab": [
+        {
+          "w": "sad",
+          "pos": "adj.",
+          "ipa": "/sæd/",
+          "zh": "難過的"
+        },
+        {
+          "w": "tell",
+          "pos": "v.",
+          "ipa": "/tɛl/",
+          "zh": "告訴"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-10",
+      "date": "2026-08-09",
+      "category": "discipline",
+      "en": "Let's use gentle hands.",
+      "zh": "我們的手要輕輕的。",
+      "ipa": "/lɛts juz ˈdʒɛntl̩ hændz/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl̩/",
+          "zh": "溫柔的"
+        },
+        {
+          "w": "hand",
+          "pos": "n.",
+          "ipa": "/hænd/",
+          "zh": "手"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-11",
+      "date": "2026-08-09",
+      "category": "praise",
+      "en": "I love how you never gave up.",
+      "zh": "我喜歡你都不放棄。",
+      "ipa": "/aɪ lʌv haʊ ju ˈnɛvɚ ɡev ʌp/",
+      "vocab": [
+        {
+          "w": "never",
+          "pos": "adv.",
+          "ipa": "/ˈnɛvɚ/",
+          "zh": "從不"
+        },
+        {
+          "w": "love",
+          "pos": "v.",
+          "ipa": "/lʌv/",
+          "zh": "喜愛"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-12",
+      "date": "2026-08-09",
+      "category": "safety",
+      "en": "Don't run near the pool.",
+      "zh": "游泳池邊不要奔跑。",
+      "ipa": "/dont rʌn nɪr ðə pul/",
+      "vocab": [
+        {
+          "w": "run",
+          "pos": "v.",
+          "ipa": "/rʌn/",
+          "zh": "跑"
+        },
+        {
+          "w": "pool",
+          "pos": "n.",
+          "ipa": "/pul/",
+          "zh": "游泳池"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-13",
+      "date": "2026-08-09",
+      "category": "health",
+      "en": "Let's wash your hands with soap.",
+      "zh": "我們用肥皂洗手。",
+      "ipa": "/lɛts wɑʃ jɔr hændz wɪð sop/",
+      "vocab": [
+        {
+          "w": "wash",
+          "pos": "v.",
+          "ipa": "/wɑʃ/",
+          "zh": "洗"
+        },
+        {
+          "w": "soap",
+          "pos": "n.",
+          "ipa": "/sop/",
+          "zh": "肥皂"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-14",
+      "date": "2026-08-09",
+      "category": "relatives",
+      "en": "Call your auntie to say hello.",
+      "zh": "打電話跟阿姨問好。",
+      "ipa": "/kɔl jɔr ˈænti tu se hɛˈlo/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨"
+        },
+        {
+          "w": "call",
+          "pos": "v.",
+          "ipa": "/kɔl/",
+          "zh": "打電話"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-15",
+      "date": "2026-08-09",
+      "category": "friends",
+      "en": "Ask him if he wants to play.",
+      "zh": "問問他想不想一起玩。",
+      "ipa": "/æsk hɪm ɪf hi wɑnts tu ple/",
+      "vocab": [
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "詢問"
+        },
+        {
+          "w": "play",
+          "pos": "v.",
+          "ipa": "/ple/",
+          "zh": "玩"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-16",
+      "date": "2026-08-09",
+      "category": "manners",
+      "en": "Please wait for me to finish.",
+      "zh": "請等我說完。",
+      "ipa": "/pliz wet fɔr mi tu ˈfɪnɪʃ/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        },
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "說完，結束"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-17",
+      "date": "2026-08-09",
+      "category": "weather",
+      "en": "The wind is chilly today.",
+      "zh": "今天風有點冷。",
+      "ipa": "/ðə wɪnd ɪz ˈtʃɪli təˈde/",
+      "vocab": [
+        {
+          "w": "wind",
+          "pos": "n.",
+          "ipa": "/wɪnd/",
+          "zh": "風"
+        },
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "涼颼颼的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-18",
+      "date": "2026-08-09",
+      "category": "screen-time",
+      "en": "Let's set a timer for ten minutes.",
+      "zh": "我們設個十分鐘的計時器。",
+      "ipa": "/lɛts sɛt ə ˈtaɪmɚ fɔr tɛn ˈmɪnɪts/",
+      "vocab": [
+        {
+          "w": "timer",
+          "pos": "n.",
+          "ipa": "/ˈtaɪmɚ/",
+          "zh": "計時器"
+        },
+        {
+          "w": "minute",
+          "pos": "n.",
+          "ipa": "/ˈmɪnɪt/",
+          "zh": "分鐘"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-19",
+      "date": "2026-08-09",
+      "category": "celebrations",
+      "en": "Let's blow up some balloons.",
+      "zh": "我們來吹一些氣球吧。",
+      "ipa": "/lɛts blo ʌp sʌm bəˈlunz/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-09-20",
+      "date": "2026-08-09",
+      "category": "reading",
+      "en": "Can you guess what happens next?",
+      "zh": "你猜接下來會發生什麼？",
+      "ipa": "/kæn ju ɡɛs wɑt ˈhæpənz nɛkst/",
+      "vocab": [
+        {
+          "w": "guess",
+          "pos": "v.",
+          "ipa": "/ɡɛs/",
+          "zh": "猜"
+        },
+        {
+          "w": "next",
+          "pos": "adv.",
+          "ipa": "/nɛkst/",
+          "zh": "接下來"
+        }
+      ]
+    }
+  ]
+}
