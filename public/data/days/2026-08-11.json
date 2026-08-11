@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-11",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-11-1",
+      "date": "2026-08-11",
+      "category": "daily-routine",
+      "en": "Time to get dressed now.",
+      "zh": "該換衣服囉。",
+      "ipa": "/taɪm tu ɡɛt drɛst naʊ/",
+      "vocab": [
+        {
+          "w": "dressed",
+          "pos": "adj.",
+          "ipa": "/drɛst/",
+          "zh": "穿好衣服的"
+        },
+        {
+          "w": "time",
+          "pos": "n.",
+          "ipa": "/taɪm/",
+          "zh": "時間"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-2",
+      "date": "2026-08-11",
+      "category": "meals",
+      "en": "Blow on your soup, it's hot.",
+      "zh": "湯很燙，先吹一吹。",
+      "ipa": "/blo ɑn jɔr sup ɪts hɑt/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "hot",
+          "pos": "adj.",
+          "ipa": "/hɑt/",
+          "zh": "燙的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-3",
+      "date": "2026-08-11",
+      "category": "bath-bedtime",
+      "en": "Wash behind your ears.",
+      "zh": "耳朵後面也要洗。",
+      "ipa": "/wɑʃ bɪˈhaɪnd jɔr ɪrz/",
+      "vocab": [
+        {
+          "w": "wash",
+          "pos": "v.",
+          "ipa": "/wɑʃ/",
+          "zh": "洗"
+        },
+        {
+          "w": "ear",
+          "pos": "n.",
+          "ipa": "/ɪr/",
+          "zh": "耳朵"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-4",
+      "date": "2026-08-11",
+      "category": "outings",
+      "en": "We're taking the bus today.",
+      "zh": "我們今天搭公車。",
+      "ipa": "/wɪr ˈtekɪŋ ðə bʌs təˈde/",
+      "vocab": [
+        {
+          "w": "take",
+          "pos": "v.",
+          "ipa": "/tek/",
+          "zh": "搭乘"
+        },
+        {
+          "w": "bus",
+          "pos": "n.",
+          "ipa": "/bʌs/",
+          "zh": "公車"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-5",
+      "date": "2026-08-11",
+      "category": "playground",
+      "en": "Don't push, everyone gets a turn.",
+      "zh": "不要推，每個人都輪得到。",
+      "ipa": "/dont pʊʃ ˈɛvriˌwʌn ɡɛts ə tɝn/",
+      "vocab": [
+        {
+          "w": "push",
+          "pos": "v.",
+          "ipa": "/pʊʃ/",
+          "zh": "推"
+        },
+        {
+          "w": "everyone",
+          "pos": "pron.",
+          "ipa": "/ˈɛvriˌwʌn/",
+          "zh": "每個人"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-6",
+      "date": "2026-08-11",
+      "category": "school",
+      "en": "Line up quietly at the door.",
+      "zh": "在門口安靜排隊。",
+      "ipa": "/laɪn ʌp ˈkwaɪətli æt ðə dɔr/",
+      "vocab": [
+        {
+          "w": "line up",
+          "pos": "phr.",
+          "ipa": "/laɪn ʌp/",
+          "zh": "排隊"
+        },
+        {
+          "w": "quietly",
+          "pos": "adv.",
+          "ipa": "/ˈkwaɪətli/",
+          "zh": "安靜地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-7",
+      "date": "2026-08-11",
+      "category": "homework",
+      "en": "Sound out the word slowly.",
+      "zh": "把這個字慢慢拼出來。",
+      "ipa": "/saʊnd aʊt ðə wɝd ˈsloli/",
+      "vocab": [
+        {
+          "w": "sound out",
+          "pos": "phr.",
+          "ipa": "/saʊnd aʊt/",
+          "zh": "拼讀出來"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "單字"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-8",
+      "date": "2026-08-11",
+      "category": "toys-sharing",
+      "en": "Let your friend have a turn.",
+      "zh": "讓朋友也玩一次。",
+      "ipa": "/lɛt jɔr frɛnd hæv ə tɝn/",
+      "vocab": [
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪到的機會"
+        },
+        {
+          "w": "friend",
+          "pos": "n.",
+          "ipa": "/frɛnd/",
+          "zh": "朋友"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-9",
+      "date": "2026-08-11",
+      "category": "emotions",
+      "en": "It's okay to feel sad.",
+      "zh": "難過也沒關係。",
+      "ipa": "/ɪts oˈke tu fil sæd/",
+      "vocab": [
+        {
+          "w": "feel",
+          "pos": "v.",
+          "ipa": "/fil/",
+          "zh": "感覺"
+        },
+        {
+          "w": "sad",
+          "pos": "adj.",
+          "ipa": "/sæd/",
+          "zh": "難過的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-10",
+      "date": "2026-08-11",
+      "category": "discipline",
+      "en": "Please stop and listen to me.",
+      "zh": "請停下來聽我說。",
+      "ipa": "/pliz stɑp ænd ˈlɪsn̩ tu mi/",
+      "vocab": [
+        {
+          "w": "stop",
+          "pos": "v.",
+          "ipa": "/stɑp/",
+          "zh": "停下"
+        },
+        {
+          "w": "listen",
+          "pos": "v.",
+          "ipa": "/ˈlɪsn̩/",
+          "zh": "聆聽"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-11",
+      "date": "2026-08-11",
+      "category": "praise",
+      "en": "You did that all by yourself!",
+      "zh": "你自己完成了耶！",
+      "ipa": "/ju dɪd ðæt ɔl baɪ jɚˈsɛlf/",
+      "vocab": [
+        {
+          "w": "yourself",
+          "pos": "pron.",
+          "ipa": "/jɚˈsɛlf/",
+          "zh": "你自己"
+        },
+        {
+          "w": "all",
+          "pos": "adv.",
+          "ipa": "/ɔl/",
+          "zh": "完全"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-12",
+      "date": "2026-08-11",
+      "category": "safety",
+      "en": "Hold the handrail so you won't slip.",
+      "zh": "扶著扶手才不會滑倒。",
+      "ipa": "/hold ðə ˈhændˌrel so ju wont slɪp/",
+      "vocab": [
+        {
+          "w": "handrail",
+          "pos": "n.",
+          "ipa": "/ˈhændˌrel/",
+          "zh": "扶手"
+        },
+        {
+          "w": "slip",
+          "pos": "v.",
+          "ipa": "/slɪp/",
+          "zh": "滑倒"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-13",
+      "date": "2026-08-11",
+      "category": "health",
+      "en": "Blow your nose into a tissue.",
+      "zh": "用面紙擤鼻子。",
+      "ipa": "/blo jɔr noz ˈɪntu ə ˈtɪʃu/",
+      "vocab": [
+        {
+          "w": "nose",
+          "pos": "n.",
+          "ipa": "/noz/",
+          "zh": "鼻子"
+        },
+        {
+          "w": "tissue",
+          "pos": "n.",
+          "ipa": "/ˈtɪʃu/",
+          "zh": "面紙"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-14",
+      "date": "2026-08-11",
+      "category": "relatives",
+      "en": "Call your auntie to say hi.",
+      "zh": "打給阿姨問聲好。",
+      "ipa": "/kɔl jɔr ˈænti tu se haɪ/",
+      "vocab": [
+        {
+          "w": "call",
+          "pos": "v.",
+          "ipa": "/kɔl/",
+          "zh": "打電話"
+        },
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨；姑姑"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-15",
+      "date": "2026-08-11",
+      "category": "friends",
+      "en": "Say sorry to your friend.",
+      "zh": "跟朋友說對不起。",
+      "ipa": "/se ˈsɑri tu jɔr frɛnd/",
+      "vocab": [
+        {
+          "w": "sorry",
+          "pos": "adj.",
+          "ipa": "/ˈsɑri/",
+          "zh": "抱歉的"
+        },
+        {
+          "w": "say",
+          "pos": "v.",
+          "ipa": "/se/",
+          "zh": "說"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-16",
+      "date": "2026-08-11",
+      "category": "manners",
+      "en": "Wait for me to finish talking.",
+      "zh": "等我說完話。",
+      "ipa": "/wet fɔr mi tu ˈfɪnɪʃ ˈtɔkɪŋ/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        },
+        {
+          "w": "talk",
+          "pos": "v.",
+          "ipa": "/tɔk/",
+          "zh": "說話"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-17",
+      "date": "2026-08-11",
+      "category": "weather",
+      "en": "It's chilly, grab your jacket.",
+      "zh": "有點冷，拿件外套。",
+      "ipa": "/ɪts ˈtʃɪli ɡræb jɔr ˈdʒækɪt/",
+      "vocab": [
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "微冷的"
+        },
+        {
+          "w": "jacket",
+          "pos": "n.",
+          "ipa": "/ˈdʒækɪt/",
+          "zh": "外套"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-18",
+      "date": "2026-08-11",
+      "category": "screen-time",
+      "en": "One more show, then we stop.",
+      "zh": "再看一集就關掉。",
+      "ipa": "/wʌn mɔr ʃo ðɛn wi stɑp/",
+      "vocab": [
+        {
+          "w": "show",
+          "pos": "n.",
+          "ipa": "/ʃo/",
+          "zh": "節目"
+        },
+        {
+          "w": "stop",
+          "pos": "v.",
+          "ipa": "/stɑp/",
+          "zh": "停止"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-19",
+      "date": "2026-08-11",
+      "category": "celebrations",
+      "en": "Let's blow out the candles.",
+      "zh": "我們來吹蠟燭。",
+      "ipa": "/lɛts blo aʊt ðə ˈkændlz/",
+      "vocab": [
+        {
+          "w": "blow out",
+          "pos": "phr.",
+          "ipa": "/blo aʊt/",
+          "zh": "吹熄"
+        },
+        {
+          "w": "candle",
+          "pos": "n.",
+          "ipa": "/ˈkændl/",
+          "zh": "蠟燭"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-11-20",
+      "date": "2026-08-11",
+      "category": "reading",
+      "en": "Turn the page gently.",
+      "zh": "輕輕地翻頁。",
+      "ipa": "/tɝn ðə pedʒ ˈdʒɛntli/",
+      "vocab": [
+        {
+          "w": "turn",
+          "pos": "v.",
+          "ipa": "/tɝn/",
+          "zh": "翻"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "輕輕地"
+        }
+      ]
+    }
+  ]
+}
