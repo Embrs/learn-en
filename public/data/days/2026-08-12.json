@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-12",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-12-1",
+      "date": "2026-08-12",
+      "category": "daily-routine",
+      "en": "Brush your teeth before breakfast.",
+      "zh": "吃早餐前先刷牙。",
+      "ipa": "/brʌʃ jɔr tiθ bɪˈfɔr ˈbrɛkfəst/",
+      "vocab": [
+        {
+          "w": "brush",
+          "pos": "v.",
+          "ipa": "/brʌʃ/",
+          "zh": "刷"
+        },
+        {
+          "w": "breakfast",
+          "pos": "n.",
+          "ipa": "/ˈbrɛkfəst/",
+          "zh": "早餐"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-2",
+      "date": "2026-08-12",
+      "category": "meals",
+      "en": "Please finish your vegetables.",
+      "zh": "請把蔬菜吃完。",
+      "ipa": "/pliz ˈfɪnɪʃ jɔr ˈvɛdʒtəblz/",
+      "vocab": [
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "吃完；完成"
+        },
+        {
+          "w": "vegetable",
+          "pos": "n.",
+          "ipa": "/ˈvɛdʒtəbl/",
+          "zh": "蔬菜"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-3",
+      "date": "2026-08-12",
+      "category": "bath-bedtime",
+      "en": "Let's rinse the shampoo out.",
+      "zh": "我們把洗髮精沖乾淨。",
+      "ipa": "/lɛts rɪns ðə ʃæmˈpu aʊt/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "shampoo",
+          "pos": "n.",
+          "ipa": "/ʃæmˈpu/",
+          "zh": "洗髮精"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-4",
+      "date": "2026-08-12",
+      "category": "outings",
+      "en": "We'll ride the train to the zoo.",
+      "zh": "我們要搭火車去動物園。",
+      "ipa": "/wil raɪd ðə tren tu ðə zu/",
+      "vocab": [
+        {
+          "w": "ride",
+          "pos": "v.",
+          "ipa": "/raɪd/",
+          "zh": "搭乘"
+        },
+        {
+          "w": "train",
+          "pos": "n.",
+          "ipa": "/tren/",
+          "zh": "火車"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-5",
+      "date": "2026-08-12",
+      "category": "playground",
+      "en": "Come down the slide feet first.",
+      "zh": "溜滑梯要腳先下來。",
+      "ipa": "/kʌm daʊn ðə slaɪd fit fɝst/",
+      "vocab": [
+        {
+          "w": "slide",
+          "pos": "n.",
+          "ipa": "/slaɪd/",
+          "zh": "溜滑梯"
+        },
+        {
+          "w": "first",
+          "pos": "adv.",
+          "ipa": "/fɝst/",
+          "zh": "先；首先"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-6",
+      "date": "2026-08-12",
+      "category": "school",
+      "en": "Wave goodbye to your teacher.",
+      "zh": "跟老師揮手說再見。",
+      "ipa": "/wev ɡʊdˈbaɪ tu jɔr ˈtitʃɚ/",
+      "vocab": [
+        {
+          "w": "wave",
+          "pos": "v.",
+          "ipa": "/wev/",
+          "zh": "揮手"
+        },
+        {
+          "w": "teacher",
+          "pos": "n.",
+          "ipa": "/ˈtitʃɚ/",
+          "zh": "老師"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-7",
+      "date": "2026-08-12",
+      "category": "homework",
+      "en": "Let's read this page together.",
+      "zh": "我們一起讀這一頁。",
+      "ipa": "/lɛts rid ðɪs pedʒ təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "page",
+          "pos": "n.",
+          "ipa": "/pedʒ/",
+          "zh": "頁"
+        },
+        {
+          "w": "together",
+          "pos": "adv.",
+          "ipa": "/təˈɡɛðɚ/",
+          "zh": "一起"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-8",
+      "date": "2026-08-12",
+      "category": "toys-sharing",
+      "en": "Can you share your blocks with him?",
+      "zh": "可以把積木分他玩嗎？",
+      "ipa": "/kæn ju ʃɛr jɔr blɑks wɪð hɪm/",
+      "vocab": [
+        {
+          "w": "share",
+          "pos": "v.",
+          "ipa": "/ʃɛr/",
+          "zh": "分享"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-9",
+      "date": "2026-08-12",
+      "category": "emotions",
+      "en": "I'm here, you're safe with me.",
+      "zh": "我在這，有我陪你很安全。",
+      "ipa": "/aɪm hɪr jʊr sef wɪð mi/",
+      "vocab": [
+        {
+          "w": "here",
+          "pos": "adv.",
+          "ipa": "/hɪr/",
+          "zh": "這裡"
+        },
+        {
+          "w": "safe",
+          "pos": "adj.",
+          "ipa": "/sef/",
+          "zh": "安全的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-10",
+      "date": "2026-08-12",
+      "category": "discipline",
+      "en": "Gentle hands, no hitting.",
+      "zh": "手要輕輕的，不可以打人。",
+      "ipa": "/ˈdʒɛntl̩ hændz no ˈhɪtɪŋ/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl̩/",
+          "zh": "溫柔的"
+        },
+        {
+          "w": "hit",
+          "pos": "v.",
+          "ipa": "/hɪt/",
+          "zh": "打"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-11",
+      "date": "2026-08-12",
+      "category": "praise",
+      "en": "That was a kind thing to do.",
+      "zh": "你這麼做真貼心。",
+      "ipa": "/ðæt wʌz ə kaɪnd θɪŋ tu du/",
+      "vocab": [
+        {
+          "w": "kind",
+          "pos": "adj.",
+          "ipa": "/kaɪnd/",
+          "zh": "善良的；貼心的"
+        },
+        {
+          "w": "thing",
+          "pos": "n.",
+          "ipa": "/θɪŋ/",
+          "zh": "事情"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-12",
+      "date": "2026-08-12",
+      "category": "safety",
+      "en": "Wait for the green light.",
+      "zh": "等綠燈再走。",
+      "ipa": "/wet fɔr ðə ɡrin laɪt/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        },
+        {
+          "w": "green",
+          "pos": "adj.",
+          "ipa": "/ɡrin/",
+          "zh": "綠色的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-13",
+      "date": "2026-08-12",
+      "category": "health",
+      "en": "Let the doctor check your ears.",
+      "zh": "讓醫生檢查你的耳朵。",
+      "ipa": "/lɛt ðə ˈdɑktɚ tʃɛk jɔr ɪrz/",
+      "vocab": [
+        {
+          "w": "doctor",
+          "pos": "n.",
+          "ipa": "/ˈdɑktɚ/",
+          "zh": "醫生"
+        },
+        {
+          "w": "check",
+          "pos": "v.",
+          "ipa": "/tʃɛk/",
+          "zh": "檢查"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-14",
+      "date": "2026-08-12",
+      "category": "relatives",
+      "en": "Show cousin your new drawing.",
+      "zh": "把你的新畫給表哥看。",
+      "ipa": "/ʃo ˈkʌzn̩ jɔr nu ˈdrɔɪŋ/",
+      "vocab": [
+        {
+          "w": "cousin",
+          "pos": "n.",
+          "ipa": "/ˈkʌzn̩/",
+          "zh": "表／堂兄弟姊妹"
+        },
+        {
+          "w": "drawing",
+          "pos": "n.",
+          "ipa": "/ˈdrɔɪŋ/",
+          "zh": "畫作"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-15",
+      "date": "2026-08-12",
+      "category": "friends",
+      "en": "Ask your friend to play with you.",
+      "zh": "邀朋友跟你一起玩。",
+      "ipa": "/æsk jɔr frɛnd tu ple wɪð ju/",
+      "vocab": [
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "邀請；問"
+        },
+        {
+          "w": "play",
+          "pos": "v.",
+          "ipa": "/ple/",
+          "zh": "玩"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-16",
+      "date": "2026-08-12",
+      "category": "manners",
+      "en": "Ask nicely if you want more.",
+      "zh": "想再要就好好地問。",
+      "ipa": "/æsk ˈnaɪsli ɪf ju wɑnt mɔr/",
+      "vocab": [
+        {
+          "w": "nicely",
+          "pos": "adv.",
+          "ipa": "/ˈnaɪsli/",
+          "zh": "有禮貌地"
+        },
+        {
+          "w": "want",
+          "pos": "v.",
+          "ipa": "/wɑnt/",
+          "zh": "想要"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-17",
+      "date": "2026-08-12",
+      "category": "weather",
+      "en": "It's sunny, put on your hat.",
+      "zh": "太陽很大，戴上帽子。",
+      "ipa": "/ɪts ˈsʌni pʊt ɑn jɔr hæt/",
+      "vocab": [
+        {
+          "w": "sunny",
+          "pos": "adj.",
+          "ipa": "/ˈsʌni/",
+          "zh": "晴朗的"
+        },
+        {
+          "w": "hat",
+          "pos": "n.",
+          "ipa": "/hæt/",
+          "zh": "帽子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-18",
+      "date": "2026-08-12",
+      "category": "screen-time",
+      "en": "Turn off the tablet now, please.",
+      "zh": "現在請把平板關掉。",
+      "ipa": "/tɝn ɔf ðə ˈtæblət naʊ pliz/",
+      "vocab": [
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        },
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblət/",
+          "zh": "平板電腦"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-19",
+      "date": "2026-08-12",
+      "category": "celebrations",
+      "en": "Hang up the colorful balloons.",
+      "zh": "把彩色氣球掛起來。",
+      "ipa": "/hæŋ ʌp ðə ˈkʌlɚfl̩ bəˈlunz/",
+      "vocab": [
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        },
+        {
+          "w": "colorful",
+          "pos": "adj.",
+          "ipa": "/ˈkʌlɚfl̩/",
+          "zh": "色彩繽紛的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12-20",
+      "date": "2026-08-12",
+      "category": "reading",
+      "en": "Point to the words as we go.",
+      "zh": "我們邊讀邊指著字。",
+      "ipa": "/pɔɪnt tu ðə wɝdz æz wi ɡo/",
+      "vocab": [
+        {
+          "w": "point",
+          "pos": "v.",
+          "ipa": "/pɔɪnt/",
+          "zh": "指"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "字；單字"
+        }
+      ]
+    }
+  ]
+}
