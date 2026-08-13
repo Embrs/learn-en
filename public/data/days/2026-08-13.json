@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-13",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-13-1",
+      "date": "2026-08-13",
+      "category": "daily-routine",
+      "en": "Hang your towel on the hook.",
+      "zh": "把你的毛巾掛在掛勾上。",
+      "ipa": "/hæŋ jɔr ˈtaʊəl ɑn ðə hʊk/",
+      "vocab": [
+        {
+          "w": "hang",
+          "pos": "v.",
+          "ipa": "/hæŋ/",
+          "zh": "掛"
+        },
+        {
+          "w": "hook",
+          "pos": "n.",
+          "ipa": "/hʊk/",
+          "zh": "掛勾"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-2",
+      "date": "2026-08-13",
+      "category": "meals",
+      "en": "Blow on it, the soup is hot.",
+      "zh": "吹一吹，湯很燙喔。",
+      "ipa": "/blo ɑn ɪt ðə sup ɪz hɑt/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "soup",
+          "pos": "n.",
+          "ipa": "/sup/",
+          "zh": "湯"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-3",
+      "date": "2026-08-13",
+      "category": "bath-bedtime",
+      "en": "The water feels just right.",
+      "zh": "水溫剛剛好。",
+      "ipa": "/ðə ˈwɔtɚ filz dʒʌst raɪt/",
+      "vocab": [
+        {
+          "w": "feel",
+          "pos": "v.",
+          "ipa": "/fil/",
+          "zh": "摸起來；感覺"
+        },
+        {
+          "w": "just right",
+          "pos": "phr.",
+          "ipa": "/dʒʌst raɪt/",
+          "zh": "剛剛好"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-4",
+      "date": "2026-08-13",
+      "category": "outings",
+      "en": "The train ride is twenty minutes.",
+      "zh": "搭火車要二十分鐘。",
+      "ipa": "/ðə tren raɪd ɪz ˈtwɛnti ˈmɪnɪts/",
+      "vocab": [
+        {
+          "w": "ride",
+          "pos": "n.",
+          "ipa": "/raɪd/",
+          "zh": "乘車行程"
+        },
+        {
+          "w": "minute",
+          "pos": "n.",
+          "ipa": "/ˈmɪnɪt/",
+          "zh": "分鐘"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-5",
+      "date": "2026-08-13",
+      "category": "playground",
+      "en": "Hold the rope with both hands.",
+      "zh": "兩隻手都要抓緊繩子。",
+      "ipa": "/hold ðə rop wɪð boθ hændz/",
+      "vocab": [
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "both",
+          "pos": "adj.",
+          "ipa": "/boθ/",
+          "zh": "兩個都"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-6",
+      "date": "2026-08-13",
+      "category": "school",
+      "en": "Did you line up quietly today?",
+      "zh": "你今天有安靜排隊嗎？",
+      "ipa": "/dɪd ju laɪn ʌp ˈkwaɪətli təˈde/",
+      "vocab": [
+        {
+          "w": "line up",
+          "pos": "phr.",
+          "ipa": "/laɪn ʌp/",
+          "zh": "排隊"
+        },
+        {
+          "w": "quietly",
+          "pos": "adv.",
+          "ipa": "/ˈkwaɪətli/",
+          "zh": "安靜地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-7",
+      "date": "2026-08-13",
+      "category": "homework",
+      "en": "Circle the parts you don't understand.",
+      "zh": "不懂的地方圈起來。",
+      "ipa": "/ˈsɝkl ðə pɑrts ju dont ˌʌndɚˈstænd/",
+      "vocab": [
+        {
+          "w": "circle",
+          "pos": "v.",
+          "ipa": "/ˈsɝkl/",
+          "zh": "圈起來"
+        },
+        {
+          "w": "understand",
+          "pos": "v.",
+          "ipa": "/ˌʌndɚˈstænd/",
+          "zh": "理解"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-8",
+      "date": "2026-08-13",
+      "category": "toys-sharing",
+      "en": "You can trade cars with him.",
+      "zh": "你可以跟他交換小車車。",
+      "ipa": "/ju kən tred kɑrz wɪð hɪm/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "car",
+          "pos": "n.",
+          "ipa": "/kɑr/",
+          "zh": "車子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-9",
+      "date": "2026-08-13",
+      "category": "emotions",
+      "en": "It's okay to feel shy sometimes.",
+      "zh": "有時候會害羞是沒關係的。",
+      "ipa": "/ɪts oˈke tu fil ʃaɪ ˈsʌmˌtaɪmz/",
+      "vocab": [
+        {
+          "w": "shy",
+          "pos": "adj.",
+          "ipa": "/ʃaɪ/",
+          "zh": "害羞的"
+        },
+        {
+          "w": "sometimes",
+          "pos": "adv.",
+          "ipa": "/ˈsʌmˌtaɪmz/",
+          "zh": "有時候"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-10",
+      "date": "2026-08-13",
+      "category": "discipline",
+      "en": "We use gentle hands at home.",
+      "zh": "在家裡我們的手要溫柔。",
+      "ipa": "/wi juz ˈdʒɛntl hændz æt hom/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl/",
+          "zh": "溫柔的"
+        },
+        {
+          "w": "use",
+          "pos": "v.",
+          "ipa": "/juz/",
+          "zh": "使用"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-11",
+      "date": "2026-08-13",
+      "category": "praise",
+      "en": "You listened so carefully. Well done!",
+      "zh": "你聽得好仔細，做得好！",
+      "ipa": "/ju ˈlɪsnd so ˈkɛrfəli wɛl dʌn/",
+      "vocab": [
+        {
+          "w": "carefully",
+          "pos": "adv.",
+          "ipa": "/ˈkɛrfəli/",
+          "zh": "仔細地"
+        },
+        {
+          "w": "well done",
+          "pos": "phr.",
+          "ipa": "/wɛl dʌn/",
+          "zh": "做得好"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-12",
+      "date": "2026-08-13",
+      "category": "safety",
+      "en": "Never run near the swimming pool.",
+      "zh": "游泳池旁邊絕對不能跑。",
+      "ipa": "/ˈnɛvɚ rʌn nɪr ðə ˈswɪmɪŋ pul/",
+      "vocab": [
+        {
+          "w": "never",
+          "pos": "adv.",
+          "ipa": "/ˈnɛvɚ/",
+          "zh": "絕不"
+        },
+        {
+          "w": "swimming pool",
+          "pos": "n.",
+          "ipa": "/ˈswɪmɪŋ pul/",
+          "zh": "游泳池"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-13",
+      "date": "2026-08-13",
+      "category": "health",
+      "en": "The bandage keeps it clean.",
+      "zh": "貼上 OK 繃可以保持乾淨。",
+      "ipa": "/ðə ˈbændɪdʒ kips ɪt klin/",
+      "vocab": [
+        {
+          "w": "bandage",
+          "pos": "n.",
+          "ipa": "/ˈbændɪdʒ/",
+          "zh": "繃帶；OK 繃"
+        },
+        {
+          "w": "clean",
+          "pos": "adj.",
+          "ipa": "/klin/",
+          "zh": "乾淨的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-14",
+      "date": "2026-08-13",
+      "category": "relatives",
+      "en": "Auntie made this cake for you.",
+      "zh": "阿姨做了這個蛋糕給你。",
+      "ipa": "/ˈænti med ðɪs kek fɔr ju/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨；姑姑"
+        },
+        {
+          "w": "cake",
+          "pos": "n.",
+          "ipa": "/kek/",
+          "zh": "蛋糕"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-15",
+      "date": "2026-08-13",
+      "category": "friends",
+      "en": "Ask him if he wants to join.",
+      "zh": "問問他要不要一起玩。",
+      "ipa": "/æsk hɪm ɪf hi wɑnts tu dʒɔɪn/",
+      "vocab": [
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        },
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "問"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-16",
+      "date": "2026-08-13",
+      "category": "manners",
+      "en": "Remember to greet the neighbors.",
+      "zh": "記得跟鄰居打招呼。",
+      "ipa": "/rɪˈmɛmbɚ tu ɡrit ðə ˈnebɚz/",
+      "vocab": [
+        {
+          "w": "greet",
+          "pos": "v.",
+          "ipa": "/ɡrit/",
+          "zh": "打招呼"
+        },
+        {
+          "w": "neighbor",
+          "pos": "n.",
+          "ipa": "/ˈnebɚ/",
+          "zh": "鄰居"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-17",
+      "date": "2026-08-13",
+      "category": "weather",
+      "en": "Roll up your sleeves, it got warmer.",
+      "zh": "袖子捲起來，變熱了。",
+      "ipa": "/rol ʌp jɔr slivz ɪt ɡɑt ˈwɔrmɚ/",
+      "vocab": [
+        {
+          "w": "roll up",
+          "pos": "phr.",
+          "ipa": "/rol ʌp/",
+          "zh": "捲起來"
+        },
+        {
+          "w": "sleeve",
+          "pos": "n.",
+          "ipa": "/sliv/",
+          "zh": "袖子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-18",
+      "date": "2026-08-13",
+      "category": "screen-time",
+      "en": "Sit back a little from the screen.",
+      "zh": "坐離螢幕遠一點。",
+      "ipa": "/sɪt bæk ə ˈlɪtl frʌm ðə skrin/",
+      "vocab": [
+        {
+          "w": "sit back",
+          "pos": "phr.",
+          "ipa": "/sɪt bæk/",
+          "zh": "往後坐"
+        },
+        {
+          "w": "screen",
+          "pos": "n.",
+          "ipa": "/skrin/",
+          "zh": "螢幕"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-19",
+      "date": "2026-08-13",
+      "category": "celebrations",
+      "en": "Let's hang the lanterns together.",
+      "zh": "我們一起把燈籠掛起來。",
+      "ipa": "/lɛts hæŋ ðə ˈlæntɚnz təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "lantern",
+          "pos": "n.",
+          "ipa": "/ˈlæntɚn/",
+          "zh": "燈籠"
+        },
+        {
+          "w": "together",
+          "pos": "adv.",
+          "ipa": "/təˈɡɛðɚ/",
+          "zh": "一起"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-20",
+      "date": "2026-08-13",
+      "category": "reading",
+      "en": "Point to the words as I read.",
+      "zh": "我念的時候你指著字。",
+      "ipa": "/pɔɪnt tu ðə wɝdz æz aɪ rid/",
+      "vocab": [
+        {
+          "w": "point to",
+          "pos": "phr.",
+          "ipa": "/pɔɪnt tu/",
+          "zh": "指向"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "字；單字"
+        }
+      ]
+    }
+  ]
+}
