@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-14",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-14-1",
+      "date": "2026-08-14",
+      "category": "daily-routine",
+      "en": "Time to open the curtains.",
+      "zh": "該把窗簾拉開囉。",
+      "ipa": "/taɪm tu ˈopən ðə ˈkɝtənz/",
+      "vocab": [
+        {
+          "w": "curtain",
+          "pos": "n.",
+          "ipa": "/ˈkɝtən/",
+          "zh": "窗簾"
+        },
+        {
+          "w": "open",
+          "pos": "v.",
+          "ipa": "/ˈopən/",
+          "zh": "打開"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-2",
+      "date": "2026-08-14",
+      "category": "meals",
+      "en": "Please pass me the napkins.",
+      "zh": "請把餐巾紙遞給我。",
+      "ipa": "/pliz pæs mi ðə ˈnæpkɪnz/",
+      "vocab": [
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "遞給"
+        },
+        {
+          "w": "napkin",
+          "pos": "n.",
+          "ipa": "/ˈnæpkɪn/",
+          "zh": "餐巾紙"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-3",
+      "date": "2026-08-14",
+      "category": "bath-bedtime",
+      "en": "Dry between your toes carefully.",
+      "zh": "腳趾縫要仔細擦乾。",
+      "ipa": "/draɪ bɪˈtwin jɔr toz ˈkɛrfəli/",
+      "vocab": [
+        {
+          "w": "between",
+          "pos": "prep.",
+          "ipa": "/bɪˈtwin/",
+          "zh": "在…之間"
+        },
+        {
+          "w": "toe",
+          "pos": "n.",
+          "ipa": "/to/",
+          "zh": "腳趾"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-4",
+      "date": "2026-08-14",
+      "category": "outings",
+      "en": "The train leaves in five minutes.",
+      "zh": "火車再五分鐘就開了。",
+      "ipa": "/ðə tren livz ɪn faɪv ˈmɪnəts/",
+      "vocab": [
+        {
+          "w": "train",
+          "pos": "n.",
+          "ipa": "/tren/",
+          "zh": "火車"
+        },
+        {
+          "w": "leave",
+          "pos": "v.",
+          "ipa": "/liv/",
+          "zh": "離開、出發"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-5",
+      "date": "2026-08-14",
+      "category": "playground",
+      "en": "Wait until she slides down.",
+      "zh": "等她溜下去再上。",
+      "ipa": "/wet ənˈtɪl ʃi slaɪdz daʊn/",
+      "vocab": [
+        {
+          "w": "until",
+          "pos": "conj.",
+          "ipa": "/ənˈtɪl/",
+          "zh": "直到"
+        },
+        {
+          "w": "slide",
+          "pos": "v.",
+          "ipa": "/slaɪd/",
+          "zh": "滑、溜"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-6",
+      "date": "2026-08-14",
+      "category": "school",
+      "en": "Pack your water bottle in your bag.",
+      "zh": "把水壺放進書包裡。",
+      "ipa": "/pæk jɔr ˈwɔtɚ ˈbɑtəl ɪn jɔr bæg/",
+      "vocab": [
+        {
+          "w": "pack",
+          "pos": "v.",
+          "ipa": "/pæk/",
+          "zh": "打包、裝入"
+        },
+        {
+          "w": "bottle",
+          "pos": "n.",
+          "ipa": "/ˈbɑtəl/",
+          "zh": "瓶子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-7",
+      "date": "2026-08-14",
+      "category": "homework",
+      "en": "Erase it and try again.",
+      "zh": "擦掉再試一次。",
+      "ipa": "/ɪˈres ɪt ænd traɪ əˈgɛn/",
+      "vocab": [
+        {
+          "w": "erase",
+          "pos": "v.",
+          "ipa": "/ɪˈres/",
+          "zh": "擦掉"
+        },
+        {
+          "w": "again",
+          "pos": "adv.",
+          "ipa": "/əˈgɛn/",
+          "zh": "再一次"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-8",
+      "date": "2026-08-14",
+      "category": "toys-sharing",
+      "en": "Let us split the crayons evenly.",
+      "zh": "我們把蠟筆平分吧。",
+      "ipa": "/lɛt ʌs splɪt ðə ˈkreɑnz ˈivənli/",
+      "vocab": [
+        {
+          "w": "split",
+          "pos": "v.",
+          "ipa": "/splɪt/",
+          "zh": "分開、平分"
+        },
+        {
+          "w": "evenly",
+          "pos": "adv.",
+          "ipa": "/ˈivənli/",
+          "zh": "平均地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-9",
+      "date": "2026-08-14",
+      "category": "emotions",
+      "en": "Your feelings matter to me.",
+      "zh": "你的感受對我很重要。",
+      "ipa": "/jɔr ˈfilɪŋz ˈmætɚ tu mi/",
+      "vocab": [
+        {
+          "w": "feeling",
+          "pos": "n.",
+          "ipa": "/ˈfilɪŋ/",
+          "zh": "感受"
+        },
+        {
+          "w": "matter",
+          "pos": "v.",
+          "ipa": "/ˈmætɚ/",
+          "zh": "要緊、重要"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-10",
+      "date": "2026-08-14",
+      "category": "discipline",
+      "en": "That's not a safe choice.",
+      "zh": "那樣做不安全喔。",
+      "ipa": "/ðæts nɑt ə sef tʃɔɪs/",
+      "vocab": [
+        {
+          "w": "safe",
+          "pos": "adj.",
+          "ipa": "/sef/",
+          "zh": "安全的"
+        },
+        {
+          "w": "choice",
+          "pos": "n.",
+          "ipa": "/tʃɔɪs/",
+          "zh": "選擇"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-11",
+      "date": "2026-08-14",
+      "category": "praise",
+      "en": "I love how you kept trying.",
+      "zh": "我很欣賞你一直努力嘗試。",
+      "ipa": "/aɪ lʌv haʊ ju kɛpt ˈtraɪɪŋ/",
+      "vocab": [
+        {
+          "w": "keep",
+          "pos": "v.",
+          "ipa": "/kip/",
+          "zh": "持續"
+        },
+        {
+          "w": "try",
+          "pos": "v.",
+          "ipa": "/traɪ/",
+          "zh": "嘗試"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-12",
+      "date": "2026-08-14",
+      "category": "safety",
+      "en": "Never touch the stove knobs.",
+      "zh": "絕對不要碰瓦斯爐的開關。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə stov nɑbz/",
+      "vocab": [
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        },
+        {
+          "w": "knob",
+          "pos": "n.",
+          "ipa": "/nɑb/",
+          "zh": "旋鈕"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-13",
+      "date": "2026-08-14",
+      "category": "health",
+      "en": "The doctor will listen to your heart.",
+      "zh": "醫生要聽聽你的心跳。",
+      "ipa": "/ðə ˈdɑktɚ wɪl ˈlɪsən tu jɔr hɑrt/",
+      "vocab": [
+        {
+          "w": "doctor",
+          "pos": "n.",
+          "ipa": "/ˈdɑktɚ/",
+          "zh": "醫生"
+        },
+        {
+          "w": "heart",
+          "pos": "n.",
+          "ipa": "/hɑrt/",
+          "zh": "心臟"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-14",
+      "date": "2026-08-14",
+      "category": "relatives",
+      "en": "Grandma made this just for you.",
+      "zh": "這是奶奶特別為你做的。",
+      "ipa": "/ˈgrænmɑ med ðɪs dʒʌst fɔr ju/",
+      "vocab": [
+        {
+          "w": "grandma",
+          "pos": "n.",
+          "ipa": "/ˈgrænmɑ/",
+          "zh": "奶奶、外婆"
+        },
+        {
+          "w": "make",
+          "pos": "v.",
+          "ipa": "/mek/",
+          "zh": "做"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-15",
+      "date": "2026-08-14",
+      "category": "friends",
+      "en": "Ask her to join your game.",
+      "zh": "邀她一起玩你的遊戲。",
+      "ipa": "/æsk hɝ tu dʒɔɪn jɔr gem/",
+      "vocab": [
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "邀請、詢問"
+        },
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-16",
+      "date": "2026-08-14",
+      "category": "manners",
+      "en": "Wave goodbye to our neighbor.",
+      "zh": "跟鄰居揮手說再見。",
+      "ipa": "/wev gʊdˈbaɪ tu aʊr ˈnebɚ/",
+      "vocab": [
+        {
+          "w": "wave",
+          "pos": "v.",
+          "ipa": "/wev/",
+          "zh": "揮手"
+        },
+        {
+          "w": "neighbor",
+          "pos": "n.",
+          "ipa": "/ˈnebɚ/",
+          "zh": "鄰居"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-17",
+      "date": "2026-08-14",
+      "category": "weather",
+      "en": "The wind is really blowing today.",
+      "zh": "今天風真的好大。",
+      "ipa": "/ðə wɪnd ɪz ˈrɪli ˈbloɪŋ təˈde/",
+      "vocab": [
+        {
+          "w": "wind",
+          "pos": "n.",
+          "ipa": "/wɪnd/",
+          "zh": "風"
+        },
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-18",
+      "date": "2026-08-14",
+      "category": "screen-time",
+      "en": "The tablet goes back on the shelf.",
+      "zh": "平板要放回架子上。",
+      "ipa": "/ðə ˈtæblɪt goz bæk ɑn ðə ʃɛlf/",
+      "vocab": [
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        },
+        {
+          "w": "shelf",
+          "pos": "n.",
+          "ipa": "/ʃɛlf/",
+          "zh": "架子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-19",
+      "date": "2026-08-14",
+      "category": "celebrations",
+      "en": "Who should we invite to the party?",
+      "zh": "我們要邀請誰來派對呢？",
+      "ipa": "/hu ʃʊd wi ɪnˈvaɪt tu ðə ˈpɑrti/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "party",
+          "pos": "n.",
+          "ipa": "/ˈpɑrti/",
+          "zh": "派對"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-20",
+      "date": "2026-08-14",
+      "category": "reading",
+      "en": "This story has a funny ending.",
+      "zh": "這個故事的結局很好笑。",
+      "ipa": "/ðɪs ˈstɔri hæz ə ˈfʌni ˈɛndɪŋ/",
+      "vocab": [
+        {
+          "w": "story",
+          "pos": "n.",
+          "ipa": "/ˈstɔri/",
+          "zh": "故事"
+        },
+        {
+          "w": "ending",
+          "pos": "n.",
+          "ipa": "/ˈɛndɪŋ/",
+          "zh": "結局"
+        }
+      ]
+    }
+  ]
+}
