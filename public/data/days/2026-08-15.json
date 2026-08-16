@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-15",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-15-1",
+      "date": "2026-08-15",
+      "category": "daily-routine",
+      "en": "Let's tidy up your room together.",
+      "zh": "我們一起把房間整理好。",
+      "ipa": "/lɛts ˈtaɪdi ʌp jʊr rum təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "tidy",
+          "pos": "v.",
+          "ipa": "/ˈtaɪdi/",
+          "zh": "整理"
+        },
+        {
+          "w": "together",
+          "pos": "adv.",
+          "ipa": "/təˈɡɛðɚ/",
+          "zh": "一起"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-2",
+      "date": "2026-08-15",
+      "category": "meals",
+      "en": "Chew your food slowly.",
+      "zh": "食物要慢慢咀嚼喔。",
+      "ipa": "/tʃu jʊr fud ˈsloli/",
+      "vocab": [
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        },
+        {
+          "w": "slowly",
+          "pos": "adv.",
+          "ipa": "/ˈsloli/",
+          "zh": "慢慢地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-3",
+      "date": "2026-08-15",
+      "category": "bath-bedtime",
+      "en": "The water is just right.",
+      "zh": "水溫剛剛好。",
+      "ipa": "/ðə ˈwɔtɚ ɪz dʒʌst raɪt/",
+      "vocab": [
+        {
+          "w": "water",
+          "pos": "n.",
+          "ipa": "/ˈwɔtɚ/",
+          "zh": "水"
+        },
+        {
+          "w": "just right",
+          "pos": "phr.",
+          "ipa": "/dʒʌst raɪt/",
+          "zh": "剛剛好"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-4",
+      "date": "2026-08-15",
+      "category": "outings",
+      "en": "Let's count the red cars we pass.",
+      "zh": "我們來數數看經過幾台紅色的車。",
+      "ipa": "/lɛts kaʊnt ðə rɛd kɑrz wi pæs/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數"
+        },
+        {
+          "w": "car",
+          "pos": "n.",
+          "ipa": "/kɑr/",
+          "zh": "車子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-5",
+      "date": "2026-08-15",
+      "category": "playground",
+      "en": "Let's race to the big tree.",
+      "zh": "我們來比賽跑到那棵大樹。",
+      "ipa": "/lɛts res tu ðə bɪɡ tri/",
+      "vocab": [
+        {
+          "w": "race",
+          "pos": "v.",
+          "ipa": "/res/",
+          "zh": "賽跑"
+        },
+        {
+          "w": "tree",
+          "pos": "n.",
+          "ipa": "/tri/",
+          "zh": "樹"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-6",
+      "date": "2026-08-15",
+      "category": "school",
+      "en": "Line up with your classmates.",
+      "zh": "跟同學一起排隊。",
+      "ipa": "/laɪn ʌp wɪð jʊr ˈklæsmets/",
+      "vocab": [
+        {
+          "w": "line up",
+          "pos": "phr.",
+          "ipa": "/laɪn ʌp/",
+          "zh": "排隊"
+        },
+        {
+          "w": "classmate",
+          "pos": "n.",
+          "ipa": "/ˈklæsmet/",
+          "zh": "同學"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-7",
+      "date": "2026-08-15",
+      "category": "homework",
+      "en": "What does this new word mean?",
+      "zh": "這個新單字是什麼意思呢？",
+      "ipa": "/hwɑt dʌz ðɪs nu wɝd min/",
+      "vocab": [
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "單字"
+        },
+        {
+          "w": "mean",
+          "pos": "v.",
+          "ipa": "/min/",
+          "zh": "意思是"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-8",
+      "date": "2026-08-15",
+      "category": "toys-sharing",
+      "en": "Let your sister have a turn.",
+      "zh": "讓妹妹也玩一次。",
+      "ipa": "/lɛt jʊr ˈsɪstɚ hæv ə tɝn/",
+      "vocab": [
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪到的機會"
+        },
+        {
+          "w": "sister",
+          "pos": "n.",
+          "ipa": "/ˈsɪstɚ/",
+          "zh": "姊妹"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-9",
+      "date": "2026-08-15",
+      "category": "emotions",
+      "en": "Your face tells me you're worried.",
+      "zh": "你的表情告訴我你在擔心。",
+      "ipa": "/jʊr fes tɛlz mi jʊr ˈwɝid/",
+      "vocab": [
+        {
+          "w": "face",
+          "pos": "n.",
+          "ipa": "/fes/",
+          "zh": "臉"
+        },
+        {
+          "w": "worried",
+          "pos": "adj.",
+          "ipa": "/ˈwɝid/",
+          "zh": "擔心的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-10",
+      "date": "2026-08-15",
+      "category": "discipline",
+      "en": "Ask first before you take something.",
+      "zh": "要拿東西之前先問一下。",
+      "ipa": "/æsk fɝst bɪˈfɔr ju tek ˈsʌmθɪŋ/",
+      "vocab": [
+        {
+          "w": "first",
+          "pos": "adv.",
+          "ipa": "/fɝst/",
+          "zh": "先"
+        },
+        {
+          "w": "take",
+          "pos": "v.",
+          "ipa": "/tek/",
+          "zh": "拿"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-11",
+      "date": "2026-08-15",
+      "category": "praise",
+      "en": "You remembered all by yourself, wonderful!",
+      "zh": "你自己就記得了，好棒！",
+      "ipa": "/ju rɪˈmɛmbɚd ɔl baɪ jɚˈsɛlf ˈwʌndɚfəl/",
+      "vocab": [
+        {
+          "w": "remember",
+          "pos": "v.",
+          "ipa": "/rɪˈmɛmbɚ/",
+          "zh": "記得"
+        },
+        {
+          "w": "wonderful",
+          "pos": "adj.",
+          "ipa": "/ˈwʌndɚfəl/",
+          "zh": "很棒的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-12",
+      "date": "2026-08-15",
+      "category": "safety",
+      "en": "Don't stand up on the chair.",
+      "zh": "不要站到椅子上。",
+      "ipa": "/dont stænd ʌp ɑn ðə tʃɛr/",
+      "vocab": [
+        {
+          "w": "stand",
+          "pos": "v.",
+          "ipa": "/stænd/",
+          "zh": "站"
+        },
+        {
+          "w": "chair",
+          "pos": "n.",
+          "ipa": "/tʃɛr/",
+          "zh": "椅子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-13",
+      "date": "2026-08-15",
+      "category": "health",
+      "en": "Sit still while I clean the cut.",
+      "zh": "我幫你清傷口，先坐好不要動。",
+      "ipa": "/sɪt stɪl hwaɪl aɪ klin ðə kʌt/",
+      "vocab": [
+        {
+          "w": "still",
+          "pos": "adv.",
+          "ipa": "/stɪl/",
+          "zh": "不動地"
+        },
+        {
+          "w": "cut",
+          "pos": "n.",
+          "ipa": "/kʌt/",
+          "zh": "傷口"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-14",
+      "date": "2026-08-15",
+      "category": "relatives",
+      "en": "Grandpa taught you that song, right?",
+      "zh": "這首歌是爺爺教你的對不對？",
+      "ipa": "/ˈɡrændpɑ tɔt ju ðæt sɔŋ raɪt/",
+      "vocab": [
+        {
+          "w": "teach",
+          "pos": "v.",
+          "ipa": "/titʃ/",
+          "zh": "教"
+        },
+        {
+          "w": "song",
+          "pos": "n.",
+          "ipa": "/sɔŋ/",
+          "zh": "歌"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-15",
+      "date": "2026-08-15",
+      "category": "friends",
+      "en": "Everyone can play in this game.",
+      "zh": "這個遊戲大家都可以一起玩。",
+      "ipa": "/ˈɛvriwʌn kæn ple ɪn ðɪs ɡem/",
+      "vocab": [
+        {
+          "w": "everyone",
+          "pos": "pron.",
+          "ipa": "/ˈɛvriwʌn/",
+          "zh": "每個人"
+        },
+        {
+          "w": "game",
+          "pos": "n.",
+          "ipa": "/ɡem/",
+          "zh": "遊戲"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-16",
+      "date": "2026-08-15",
+      "category": "manners",
+      "en": "Take off your hat inside, please.",
+      "zh": "在室內請把帽子脫下來。",
+      "ipa": "/tek ɔf jʊr hæt ɪnˈsaɪd pliz/",
+      "vocab": [
+        {
+          "w": "take off",
+          "pos": "phr.",
+          "ipa": "/tek ɔf/",
+          "zh": "脫下"
+        },
+        {
+          "w": "inside",
+          "pos": "adv.",
+          "ipa": "/ɪnˈsaɪd/",
+          "zh": "在室內"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-17",
+      "date": "2026-08-15",
+      "category": "weather",
+      "en": "It looks cloudy this morning.",
+      "zh": "今天早上看起來多雲。",
+      "ipa": "/ɪt lʊks ˈklaʊdi ðɪs ˈmɔrnɪŋ/",
+      "vocab": [
+        {
+          "w": "cloudy",
+          "pos": "adj.",
+          "ipa": "/ˈklaʊdi/",
+          "zh": "多雲的"
+        },
+        {
+          "w": "morning",
+          "pos": "n.",
+          "ipa": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-18",
+      "date": "2026-08-15",
+      "category": "screen-time",
+      "en": "Five more minutes, then we stop.",
+      "zh": "再五分鐘我們就停囉。",
+      "ipa": "/faɪv mɔr ˈmɪnɪts ðɛn wi stɑp/",
+      "vocab": [
+        {
+          "w": "minute",
+          "pos": "n.",
+          "ipa": "/ˈmɪnɪt/",
+          "zh": "分鐘"
+        },
+        {
+          "w": "stop",
+          "pos": "v.",
+          "ipa": "/stɑp/",
+          "zh": "停止"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-19",
+      "date": "2026-08-15",
+      "category": "celebrations",
+      "en": "Save a slice for your brother.",
+      "zh": "留一片給哥哥好嗎。",
+      "ipa": "/sev ə slaɪs fɔr jʊr ˈbrʌðɚ/",
+      "vocab": [
+        {
+          "w": "save",
+          "pos": "v.",
+          "ipa": "/sev/",
+          "zh": "留下"
+        },
+        {
+          "w": "slice",
+          "pos": "n.",
+          "ipa": "/slaɪs/",
+          "zh": "一片"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-20",
+      "date": "2026-08-15",
+      "category": "reading",
+      "en": "Let's count the animals on this page.",
+      "zh": "我們來數數這一頁有幾隻動物。",
+      "ipa": "/lɛts kaʊnt ðə ˈænəmlz ɑn ðɪs pedʒ/",
+      "vocab": [
+        {
+          "w": "animal",
+          "pos": "n.",
+          "ipa": "/ˈænəml/",
+          "zh": "動物"
+        },
+        {
+          "w": "page",
+          "pos": "n.",
+          "ipa": "/pedʒ/",
+          "zh": "頁"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-16",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-16-1",
+      "date": "2026-08-16",
+      "category": "daily-routine",
+      "en": "Put your shoes by the door.",
+      "zh": "把鞋子放到門邊。",
+      "ipa": "/pʊt jʊr ʃuz baɪ ðə dɔr/",
+      "vocab": [
+        {
+          "w": "shoe",
+          "pos": "n.",
+          "ipa": "/ʃu/",
+          "zh": "鞋子"
+        },
+        {
+          "w": "door",
+          "pos": "n.",
+          "ipa": "/dɔr/",
+          "zh": "門"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-2",
+      "date": "2026-08-16",
+      "category": "meals",
+      "en": "Put your bowl in the sink.",
+      "zh": "把碗放到水槽裡。",
+      "ipa": "/pʊt jʊr bol ɪn ðə sɪŋk/",
+      "vocab": [
+        {
+          "w": "bowl",
+          "pos": "n.",
+          "ipa": "/bol/",
+          "zh": "碗"
+        },
+        {
+          "w": "sink",
+          "pos": "n.",
+          "ipa": "/sɪŋk/",
+          "zh": "水槽"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-3",
+      "date": "2026-08-16",
+      "category": "bath-bedtime",
+      "en": "Step into the tub slowly.",
+      "zh": "慢慢地踏進浴缸。",
+      "ipa": "/stɛp ˈɪntu ðə tʌb ˈsloli/",
+      "vocab": [
+        {
+          "w": "step",
+          "pos": "v.",
+          "ipa": "/stɛp/",
+          "zh": "踏"
+        },
+        {
+          "w": "tub",
+          "pos": "n.",
+          "ipa": "/tʌb/",
+          "zh": "浴缸"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-4",
+      "date": "2026-08-16",
+      "category": "outings",
+      "en": "We're almost at the zoo.",
+      "zh": "我們快到動物園了。",
+      "ipa": "/wɪr ˈɔlmost æt ðə zu/",
+      "vocab": [
+        {
+          "w": "almost",
+          "pos": "adv.",
+          "ipa": "/ˈɔlmost/",
+          "zh": "快要"
+        },
+        {
+          "w": "zoo",
+          "pos": "n.",
+          "ipa": "/zu/",
+          "zh": "動物園"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-5",
+      "date": "2026-08-16",
+      "category": "playground",
+      "en": "Let's swing side by side.",
+      "zh": "我們一起並排盪鞦韆。",
+      "ipa": "/lɛts swɪŋ saɪd baɪ saɪd/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "v.",
+          "ipa": "/swɪŋ/",
+          "zh": "盪鞦韆"
+        },
+        {
+          "w": "side by side",
+          "pos": "phr.",
+          "ipa": "/saɪd baɪ saɪd/",
+          "zh": "並排"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-6",
+      "date": "2026-08-16",
+      "category": "school",
+      "en": "Did you have fun at school?",
+      "zh": "你在學校玩得開心嗎？",
+      "ipa": "/dɪd ju hæv fʌn æt skul/",
+      "vocab": [
+        {
+          "w": "fun",
+          "pos": "n.",
+          "ipa": "/fʌn/",
+          "zh": "樂趣"
+        },
+        {
+          "w": "school",
+          "pos": "n.",
+          "ipa": "/skul/",
+          "zh": "學校"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-7",
+      "date": "2026-08-16",
+      "category": "homework",
+      "en": "Show me your math worksheet.",
+      "zh": "把數學練習卷拿給我看。",
+      "ipa": "/ʃo mi jʊr mæθ ˈwɝkʃit/",
+      "vocab": [
+        {
+          "w": "math",
+          "pos": "n.",
+          "ipa": "/mæθ/",
+          "zh": "數學"
+        },
+        {
+          "w": "worksheet",
+          "pos": "n.",
+          "ipa": "/ˈwɝkʃit/",
+          "zh": "練習卷"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-8",
+      "date": "2026-08-16",
+      "category": "toys-sharing",
+      "en": "Show him how the robot works.",
+      "zh": "教他看看這個機器人怎麼玩。",
+      "ipa": "/ʃo hɪm haʊ ðə ˈrobət wɝks/",
+      "vocab": [
+        {
+          "w": "robot",
+          "pos": "n.",
+          "ipa": "/ˈrobət/",
+          "zh": "機器人"
+        },
+        {
+          "w": "show",
+          "pos": "v.",
+          "ipa": "/ʃo/",
+          "zh": "示範"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-9",
+      "date": "2026-08-16",
+      "category": "emotions",
+      "en": "Let's name the feeling you have.",
+      "zh": "我們一起說出你現在的感覺。",
+      "ipa": "/lɛts nem ðə ˈfilɪŋ ju hæv/",
+      "vocab": [
+        {
+          "w": "name",
+          "pos": "v.",
+          "ipa": "/nem/",
+          "zh": "說出名稱"
+        },
+        {
+          "w": "feeling",
+          "pos": "n.",
+          "ipa": "/ˈfilɪŋ/",
+          "zh": "感覺"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-10",
+      "date": "2026-08-16",
+      "category": "discipline",
+      "en": "We do not throw our toys.",
+      "zh": "我們不可以亂丟玩具。",
+      "ipa": "/wi du nɑt θro aʊr tɔɪz/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟"
+        },
+        {
+          "w": "toy",
+          "pos": "n.",
+          "ipa": "/tɔɪ/",
+          "zh": "玩具"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-11",
+      "date": "2026-08-16",
+      "category": "praise",
+      "en": "Your effort really shows today.",
+      "zh": "你今天的努力真的看得出來。",
+      "ipa": "/jʊr ˈɛfɚt ˈrɪli ʃoz təˈde/",
+      "vocab": [
+        {
+          "w": "effort",
+          "pos": "n.",
+          "ipa": "/ˈɛfɚt/",
+          "zh": "努力"
+        },
+        {
+          "w": "really",
+          "pos": "adv.",
+          "ipa": "/ˈrɪli/",
+          "zh": "真的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-12",
+      "date": "2026-08-16",
+      "category": "safety",
+      "en": "Keep both feet on the floor.",
+      "zh": "兩隻腳都要踩在地板上。",
+      "ipa": "/kip boθ fit ɑn ðə flɔr/",
+      "vocab": [
+        {
+          "w": "feet",
+          "pos": "n.",
+          "ipa": "/fit/",
+          "zh": "腳（複數）"
+        },
+        {
+          "w": "floor",
+          "pos": "n.",
+          "ipa": "/flɔr/",
+          "zh": "地板"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-13",
+      "date": "2026-08-16",
+      "category": "health",
+      "en": "Let me check your temperature.",
+      "zh": "讓我量一下你的體溫。",
+      "ipa": "/lɛt mi tʃɛk jʊr ˈtɛmprətʃɚ/",
+      "vocab": [
+        {
+          "w": "check",
+          "pos": "v.",
+          "ipa": "/tʃɛk/",
+          "zh": "檢查"
+        },
+        {
+          "w": "temperature",
+          "pos": "n.",
+          "ipa": "/ˈtɛmprətʃɚ/",
+          "zh": "體溫"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-14",
+      "date": "2026-08-16",
+      "category": "relatives",
+      "en": "Uncle Ben is coming over.",
+      "zh": "班叔叔要來我們家了。",
+      "ipa": "/ˈʌŋkl bɛn ɪz ˈkʌmɪŋ ˈovɚ/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkl/",
+          "zh": "叔叔"
+        },
+        {
+          "w": "come over",
+          "pos": "phr.",
+          "ipa": "/kʌm ˈovɚ/",
+          "zh": "過來作客"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-15",
+      "date": "2026-08-16",
+      "category": "friends",
+      "en": "You two played so nicely today.",
+      "zh": "你們兩個今天玩得好融洽。",
+      "ipa": "/ju tu pled so ˈnaɪsli təˈde/",
+      "vocab": [
+        {
+          "w": "nicely",
+          "pos": "adv.",
+          "ipa": "/ˈnaɪsli/",
+          "zh": "友善地"
+        },
+        {
+          "w": "play",
+          "pos": "v.",
+          "ipa": "/ple/",
+          "zh": "玩"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-16",
+      "date": "2026-08-16",
+      "category": "manners",
+      "en": "Use kind words when you disagree.",
+      "zh": "意見不同的時候要用友善的話。",
+      "ipa": "/juz kaɪnd wɝdz hwɛn ju ˌdɪsəˈɡri/",
+      "vocab": [
+        {
+          "w": "kind",
+          "pos": "adj.",
+          "ipa": "/kaɪnd/",
+          "zh": "友善的"
+        },
+        {
+          "w": "disagree",
+          "pos": "v.",
+          "ipa": "/ˌdɪsəˈɡri/",
+          "zh": "意見不同"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-17",
+      "date": "2026-08-16",
+      "category": "weather",
+      "en": "Bring your umbrella just in case.",
+      "zh": "帶把傘以防萬一。",
+      "ipa": "/brɪŋ jʊr ʌmˈbrɛlə dʒʌst ɪn kes/",
+      "vocab": [
+        {
+          "w": "umbrella",
+          "pos": "n.",
+          "ipa": "/ʌmˈbrɛlə/",
+          "zh": "雨傘"
+        },
+        {
+          "w": "just in case",
+          "pos": "phr.",
+          "ipa": "/dʒʌst ɪn kes/",
+          "zh": "以防萬一"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-18",
+      "date": "2026-08-16",
+      "category": "screen-time",
+      "en": "The tablet goes away after dinner.",
+      "zh": "晚餐後平板就要收起來。",
+      "ipa": "/ðə ˈtæblɪt ɡoz əˈwe ˈæftɚ ˈdɪnɚ/",
+      "vocab": [
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        },
+        {
+          "w": "away",
+          "pos": "adv.",
+          "ipa": "/əˈwe/",
+          "zh": "離開"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-19",
+      "date": "2026-08-16",
+      "category": "celebrations",
+      "en": "Pass the party favors to everyone.",
+      "zh": "把小禮物發給每個人。",
+      "ipa": "/pæs ðə ˈpɑrti ˈfevɚz tu ˈɛvriwʌn/",
+      "vocab": [
+        {
+          "w": "party",
+          "pos": "n.",
+          "ipa": "/ˈpɑrti/",
+          "zh": "派對"
+        },
+        {
+          "w": "favor",
+          "pos": "n.",
+          "ipa": "/ˈfevɚ/",
+          "zh": "小禮物"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-16-20",
+      "date": "2026-08-16",
+      "category": "reading",
+      "en": "Let's find the title on the cover.",
+      "zh": "我們來找找封面上的書名。",
+      "ipa": "/lɛts faɪnd ðə ˈtaɪtl ɑn ðə ˈkʌvɚ/",
+      "vocab": [
+        {
+          "w": "title",
+          "pos": "n.",
+          "ipa": "/ˈtaɪtl/",
+          "zh": "書名"
+        },
+        {
+          "w": "cover",
+          "pos": "n.",
+          "ipa": "/ˈkʌvɚ/",
+          "zh": "封面"
+        }
+      ]
+    }
+  ]
+}
