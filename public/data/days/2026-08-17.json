@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-17",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-17-1",
+      "date": "2026-08-17",
+      "category": "daily-routine",
+      "en": "Slip your feet into your slippers.",
+      "zh": "把腳套進拖鞋裡。",
+      "ipa": "/slɪp jʊr fit ˈɪntu jʊr ˈslɪpɚz/",
+      "vocab": [
+        {
+          "w": "slip",
+          "pos": "v.",
+          "ipa": "/slɪp/",
+          "zh": "滑入"
+        },
+        {
+          "w": "slipper",
+          "pos": "n.",
+          "ipa": "/ˈslɪpɚ/",
+          "zh": "拖鞋"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-2",
+      "date": "2026-08-17",
+      "category": "meals",
+      "en": "Blow on it before you eat.",
+      "zh": "吃之前先吹一吹。",
+      "ipa": "/blo ɑn ɪt bɪˈfɔr ju it/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "before",
+          "pos": "prep.",
+          "ipa": "/bɪˈfɔr/",
+          "zh": "在……之前"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-3",
+      "date": "2026-08-17",
+      "category": "bath-bedtime",
+      "en": "Let's rinse the soap off your arms.",
+      "zh": "我們把手臂上的肥皂沖乾淨。",
+      "ipa": "/lɛts rɪns ðə sop ɔf jʊr ɑrmz/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "soap",
+          "pos": "n.",
+          "ipa": "/sop/",
+          "zh": "肥皂"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-4",
+      "date": "2026-08-17",
+      "category": "outings",
+      "en": "Let's take a walk around the lake.",
+      "zh": "我們繞著湖邊散步吧。",
+      "ipa": "/lɛts tek ə wɔk əˈraʊnd ðə lek/",
+      "vocab": [
+        {
+          "w": "walk",
+          "pos": "n.",
+          "ipa": "/wɔk/",
+          "zh": "散步"
+        },
+        {
+          "w": "lake",
+          "pos": "n.",
+          "ipa": "/lek/",
+          "zh": "湖"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-5",
+      "date": "2026-08-17",
+      "category": "playground",
+      "en": "Let's balance on the low beam.",
+      "zh": "我們來走矮平衡木。",
+      "ipa": "/lɛts ˈbæləns ɑn ðə lo bim/",
+      "vocab": [
+        {
+          "w": "balance",
+          "pos": "v.",
+          "ipa": "/ˈbæləns/",
+          "zh": "保持平衡"
+        },
+        {
+          "w": "beam",
+          "pos": "n.",
+          "ipa": "/bim/",
+          "zh": "平衡木"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-6",
+      "date": "2026-08-17",
+      "category": "school",
+      "en": "Zip up your backpack before we leave.",
+      "zh": "出門前把書包拉鍊拉好。",
+      "ipa": "/zɪp ʌp jʊr ˈbækˌpæk bɪˈfɔr wi liv/",
+      "vocab": [
+        {
+          "w": "zip up",
+          "pos": "phr.",
+          "ipa": "/zɪp ʌp/",
+          "zh": "拉上拉鍊"
+        },
+        {
+          "w": "backpack",
+          "pos": "n.",
+          "ipa": "/ˈbækˌpæk/",
+          "zh": "背包"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-7",
+      "date": "2026-08-17",
+      "category": "homework",
+      "en": "Underline the words you don't know.",
+      "zh": "把不會的字畫線標起來。",
+      "ipa": "/ˈʌndɚˌlaɪn ðə wɝdz ju dont no/",
+      "vocab": [
+        {
+          "w": "underline",
+          "pos": "v.",
+          "ipa": "/ˈʌndɚˌlaɪn/",
+          "zh": "畫底線"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "單字"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-8",
+      "date": "2026-08-17",
+      "category": "toys-sharing",
+      "en": "You can trade blocks with her.",
+      "zh": "你可以跟她交換積木。",
+      "ipa": "/ju kæn tred blɑks wɪð hɝ/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-9",
+      "date": "2026-08-17",
+      "category": "emotions",
+      "en": "It's okay to feel nervous.",
+      "zh": "會緊張是很正常的。",
+      "ipa": "/ɪts oˈke tu fil ˈnɝvəs/",
+      "vocab": [
+        {
+          "w": "nervous",
+          "pos": "adj.",
+          "ipa": "/ˈnɝvəs/",
+          "zh": "緊張的"
+        },
+        {
+          "w": "feel",
+          "pos": "v.",
+          "ipa": "/fil/",
+          "zh": "感覺"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-10",
+      "date": "2026-08-17",
+      "category": "discipline",
+      "en": "Try asking again in a nicer way.",
+      "zh": "換個好一點的說法再問一次。",
+      "ipa": "/traɪ ˈæskɪŋ əˈɡɛn ɪn ə ˈnaɪsɚ we/",
+      "vocab": [
+        {
+          "w": "again",
+          "pos": "adv.",
+          "ipa": "/əˈɡɛn/",
+          "zh": "再一次"
+        },
+        {
+          "w": "nicer",
+          "pos": "adj.",
+          "ipa": "/ˈnaɪsɚ/",
+          "zh": "比較友善的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-11",
+      "date": "2026-08-17",
+      "category": "praise",
+      "en": "You solved that all by yourself.",
+      "zh": "你完全靠自己解決了呢。",
+      "ipa": "/ju sɑlvd ðæt ɔl baɪ jɚˈsɛlf/",
+      "vocab": [
+        {
+          "w": "solve",
+          "pos": "v.",
+          "ipa": "/sɑlv/",
+          "zh": "解決"
+        },
+        {
+          "w": "by yourself",
+          "pos": "phr.",
+          "ipa": "/baɪ jɚˈsɛlf/",
+          "zh": "靠自己"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-12",
+      "date": "2026-08-17",
+      "category": "safety",
+      "en": "Always cross with a grown-up.",
+      "zh": "過馬路一定要跟著大人。",
+      "ipa": "/ˈɔlwez krɔs wɪð ə ˈɡronʌp/",
+      "vocab": [
+        {
+          "w": "always",
+          "pos": "adv.",
+          "ipa": "/ˈɔlwez/",
+          "zh": "總是"
+        },
+        {
+          "w": "grown-up",
+          "pos": "n.",
+          "ipa": "/ˈɡronʌp/",
+          "zh": "大人"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-13",
+      "date": "2026-08-17",
+      "category": "health",
+      "en": "Let's put a warm blanket over you.",
+      "zh": "我們幫你蓋上暖暖的毯子。",
+      "ipa": "/lɛts pʊt ə wɔrm ˈblæŋkɪt ˈovɚ ju/",
+      "vocab": [
+        {
+          "w": "warm",
+          "pos": "adj.",
+          "ipa": "/wɔrm/",
+          "zh": "溫暖的"
+        },
+        {
+          "w": "blanket",
+          "pos": "n.",
+          "ipa": "/ˈblæŋkɪt/",
+          "zh": "毯子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-14",
+      "date": "2026-08-17",
+      "category": "relatives",
+      "en": "Let's set an extra plate for Auntie.",
+      "zh": "我們幫阿姨多擺一副碗盤。",
+      "ipa": "/lɛts sɛt ən ˈɛkstrə plet fɔr ˈænti/",
+      "vocab": [
+        {
+          "w": "extra",
+          "pos": "adj.",
+          "ipa": "/ˈɛkstrə/",
+          "zh": "額外的"
+        },
+        {
+          "w": "plate",
+          "pos": "n.",
+          "ipa": "/plet/",
+          "zh": "盤子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-15",
+      "date": "2026-08-17",
+      "category": "friends",
+      "en": "Ask if she wants to join us.",
+      "zh": "問問看她要不要加入我們。",
+      "ipa": "/æsk ɪf ʃi wɑnts tu dʒɔɪn ʌs/",
+      "vocab": [
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        },
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "詢問"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-16",
+      "date": "2026-08-17",
+      "category": "manners",
+      "en": "Remember to say excuse me.",
+      "zh": "記得要說「不好意思」。",
+      "ipa": "/rɪˈmɛmbɚ tu se ɪkˈskjuz mi/",
+      "vocab": [
+        {
+          "w": "remember",
+          "pos": "v.",
+          "ipa": "/rɪˈmɛmbɚ/",
+          "zh": "記得"
+        },
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "不好意思"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-17",
+      "date": "2026-08-17",
+      "category": "weather",
+      "en": "It's hot, so wear your hat.",
+      "zh": "天氣很熱，戴上你的帽子。",
+      "ipa": "/ɪts hɑt so wɛr jʊr hæt/",
+      "vocab": [
+        {
+          "w": "hot",
+          "pos": "adj.",
+          "ipa": "/hɑt/",
+          "zh": "炎熱的"
+        },
+        {
+          "w": "hat",
+          "pos": "n.",
+          "ipa": "/hæt/",
+          "zh": "帽子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-18",
+      "date": "2026-08-17",
+      "category": "screen-time",
+      "en": "One more episode, then we stop.",
+      "zh": "再看一集我們就停。",
+      "ipa": "/wʌn mɔr ˈɛpəˌsod ðɛn wi stɑp/",
+      "vocab": [
+        {
+          "w": "episode",
+          "pos": "n.",
+          "ipa": "/ˈɛpəˌsod/",
+          "zh": "一集"
+        },
+        {
+          "w": "then",
+          "pos": "adv.",
+          "ipa": "/ðɛn/",
+          "zh": "然後"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-19",
+      "date": "2026-08-17",
+      "category": "celebrations",
+      "en": "Let's fold paper lanterns for the festival.",
+      "zh": "我們來摺過節用的紙燈籠。",
+      "ipa": "/lɛts fold ˈpepɚ ˈlæntɚnz fɔr ðə ˈfɛstəvl/",
+      "vocab": [
+        {
+          "w": "lantern",
+          "pos": "n.",
+          "ipa": "/ˈlæntɚn/",
+          "zh": "燈籠"
+        },
+        {
+          "w": "festival",
+          "pos": "n.",
+          "ipa": "/ˈfɛstəvl/",
+          "zh": "節慶"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-17-20",
+      "date": "2026-08-17",
+      "category": "reading",
+      "en": "Let's read in bed until you're sleepy.",
+      "zh": "我們在床上讀到你想睡為止。",
+      "ipa": "/lɛts rid ɪn bɛd ənˈtɪl jʊr ˈslipi/",
+      "vocab": [
+        {
+          "w": "until",
+          "pos": "conj.",
+          "ipa": "/ənˈtɪl/",
+          "zh": "直到"
+        },
+        {
+          "w": "sleepy",
+          "pos": "adj.",
+          "ipa": "/ˈslipi/",
+          "zh": "想睡的"
+        }
+      ]
+    }
+  ]
+}
