@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-18",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-18-1",
+      "date": "2026-08-18",
+      "category": "daily-routine",
+      "en": "Tuck your shirt in neatly.",
+      "zh": "把衣服好好塞進去。",
+      "ipa": "/tʌk jʊr ʃɝt ɪn ˈnitli/",
+      "vocab": [
+        {
+          "w": "tuck",
+          "pos": "v.",
+          "ipa": "/tʌk/",
+          "zh": "塞進"
+        },
+        {
+          "w": "neatly",
+          "pos": "adv.",
+          "ipa": "/ˈnitli/",
+          "zh": "整齊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-2",
+      "date": "2026-08-18",
+      "category": "meals",
+      "en": "Take one more bite of broccoli.",
+      "zh": "再吃一口花椰菜。",
+      "ipa": "/tek wʌn mɔr baɪt ʌv ˈbrɑkəli/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "broccoli",
+          "pos": "n.",
+          "ipa": "/ˈbrɑkəli/",
+          "zh": "花椰菜"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-3",
+      "date": "2026-08-18",
+      "category": "bath-bedtime",
+      "en": "The water feels just right now.",
+      "zh": "水溫現在剛剛好。",
+      "ipa": "/ðə ˈwɔtɚ filz dʒʌst raɪt naʊ/",
+      "vocab": [
+        {
+          "w": "feel",
+          "pos": "v.",
+          "ipa": "/fil/",
+          "zh": "摸起來、感覺"
+        },
+        {
+          "w": "just right",
+          "pos": "phr.",
+          "ipa": "/dʒʌst raɪt/",
+          "zh": "剛剛好"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-4",
+      "date": "2026-08-18",
+      "category": "outings",
+      "en": "Buckle up before we drive away.",
+      "zh": "開車前先繫好安全帶。",
+      "ipa": "/ˈbʌkl̩ ʌp bɪˈfɔr wi draɪv əˈwe/",
+      "vocab": [
+        {
+          "w": "buckle up",
+          "pos": "phr.",
+          "ipa": "/ˈbʌkl̩ ʌp/",
+          "zh": "繫安全帶"
+        },
+        {
+          "w": "drive",
+          "pos": "v.",
+          "ipa": "/draɪv/",
+          "zh": "開車"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-5",
+      "date": "2026-08-18",
+      "category": "playground",
+      "en": "Hold the rope tight and climb up.",
+      "zh": "抓緊繩子爬上去。",
+      "ipa": "/hold ðə rop taɪt ænd klaɪm ʌp/",
+      "vocab": [
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "攀爬"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-6",
+      "date": "2026-08-18",
+      "category": "school",
+      "en": "Who did you sit next to today?",
+      "zh": "你今天坐在誰旁邊？",
+      "ipa": "/hu dɪd ju sɪt nɛkst tu təˈde/",
+      "vocab": [
+        {
+          "w": "sit next to",
+          "pos": "phr.",
+          "ipa": "/sɪt nɛkst tu/",
+          "zh": "坐在……旁邊"
+        },
+        {
+          "w": "today",
+          "pos": "adv.",
+          "ipa": "/təˈde/",
+          "zh": "今天"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-7",
+      "date": "2026-08-18",
+      "category": "homework",
+      "en": "Read the question out loud once more.",
+      "zh": "再把題目大聲念一次。",
+      "ipa": "/rid ðə ˈkwɛstʃən aʊt laʊd wʌns mɔr/",
+      "vocab": [
+        {
+          "w": "out loud",
+          "pos": "phr.",
+          "ipa": "/aʊt laʊd/",
+          "zh": "大聲地"
+        },
+        {
+          "w": "question",
+          "pos": "n.",
+          "ipa": "/ˈkwɛstʃən/",
+          "zh": "題目、問題"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-8",
+      "date": "2026-08-18",
+      "category": "toys-sharing",
+      "en": "Trade toys with your brother for a while.",
+      "zh": "跟哥哥交換玩具玩一下。",
+      "ipa": "/tred tɔɪz wɪð jʊr ˈbrʌðɚ fɔr ə waɪl/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "for a while",
+          "pos": "phr.",
+          "ipa": "/fɔr ə waɪl/",
+          "zh": "一陣子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-9",
+      "date": "2026-08-18",
+      "category": "emotions",
+      "en": "Your big feelings will pass soon.",
+      "zh": "你那些強烈的情緒很快就會過去。",
+      "ipa": "/jʊr bɪɡ ˈfilɪŋz wɪl pæs sun/",
+      "vocab": [
+        {
+          "w": "feeling",
+          "pos": "n.",
+          "ipa": "/ˈfilɪŋ/",
+          "zh": "感受、情緒"
+        },
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "過去、消退"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-10",
+      "date": "2026-08-18",
+      "category": "discipline",
+      "en": "We use gentle hands in this house.",
+      "zh": "在這個家我們的手要輕輕的。",
+      "ipa": "/wi juz ˈdʒɛntl̩ hændz ɪn ðɪs haʊs/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl̩/",
+          "zh": "溫柔的"
+        },
+        {
+          "w": "house",
+          "pos": "n.",
+          "ipa": "/haʊs/",
+          "zh": "家、房子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-11",
+      "date": "2026-08-18",
+      "category": "praise",
+      "en": "You kept trying and it paid off.",
+      "zh": "你一直努力，真的有回報。",
+      "ipa": "/ju kɛpt ˈtraɪɪŋ ænd ɪt ped ɔf/",
+      "vocab": [
+        {
+          "w": "keep trying",
+          "pos": "phr.",
+          "ipa": "/kip ˈtraɪɪŋ/",
+          "zh": "持續努力"
+        },
+        {
+          "w": "pay off",
+          "pos": "phr.",
+          "ipa": "/pe ɔf/",
+          "zh": "有成果、值得"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-12",
+      "date": "2026-08-18",
+      "category": "safety",
+      "en": "Never touch the stove when it's on.",
+      "zh": "爐子開著的時候絕對不要碰。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə stov wɛn ɪts ɑn/",
+      "vocab": [
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        },
+        {
+          "w": "never",
+          "pos": "adv.",
+          "ipa": "/ˈnɛvɚ/",
+          "zh": "絕不"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-13",
+      "date": "2026-08-18",
+      "category": "health",
+      "en": "Open wide and say ah for the doctor.",
+      "zh": "嘴巴張大，跟醫生說「啊」。",
+      "ipa": "/ˈopən waɪd ænd se ɑ fɔr ðə ˈdɑktɚ/",
+      "vocab": [
+        {
+          "w": "open wide",
+          "pos": "phr.",
+          "ipa": "/ˈopən waɪd/",
+          "zh": "張大（嘴）"
+        },
+        {
+          "w": "doctor",
+          "pos": "n.",
+          "ipa": "/ˈdɑktɚ/",
+          "zh": "醫生"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-14",
+      "date": "2026-08-18",
+      "category": "relatives",
+      "en": "Uncle brought you a little surprise.",
+      "zh": "叔叔帶了個小驚喜給你。",
+      "ipa": "/ˈʌŋkl̩ brɔt ju ə ˈlɪtl̩ sɚˈpraɪz/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkl̩/",
+          "zh": "叔叔、伯伯"
+        },
+        {
+          "w": "surprise",
+          "pos": "n.",
+          "ipa": "/sɚˈpraɪz/",
+          "zh": "驚喜"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-15",
+      "date": "2026-08-18",
+      "category": "friends",
+      "en": "Ask him if he wants to join us.",
+      "zh": "問問他要不要一起玩。",
+      "ipa": "/æsk hɪm ɪf hi wɑnts tu dʒɔɪn ʌs/",
+      "vocab": [
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        },
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "詢問"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-16",
+      "date": "2026-08-18",
+      "category": "manners",
+      "en": "Say please when you want something.",
+      "zh": "想要東西的時候要說「請」。",
+      "ipa": "/se pliz wɛn ju wɑnt ˈsʌmθɪŋ/",
+      "vocab": [
+        {
+          "w": "please",
+          "pos": "adv.",
+          "ipa": "/pliz/",
+          "zh": "請"
+        },
+        {
+          "w": "something",
+          "pos": "pron.",
+          "ipa": "/ˈsʌmθɪŋ/",
+          "zh": "某個東西"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-17",
+      "date": "2026-08-18",
+      "category": "weather",
+      "en": "The sun is strong, wear your hat.",
+      "zh": "太陽很大，戴上帽子。",
+      "ipa": "/ðə sʌn ɪz strɔŋ wɛr jʊr hæt/",
+      "vocab": [
+        {
+          "w": "strong",
+          "pos": "adj.",
+          "ipa": "/strɔŋ/",
+          "zh": "強烈的"
+        },
+        {
+          "w": "hat",
+          "pos": "n.",
+          "ipa": "/hæt/",
+          "zh": "帽子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-18",
+      "date": "2026-08-18",
+      "category": "screen-time",
+      "en": "Pause the show and rest your eyes.",
+      "zh": "先暫停影片，讓眼睛休息。",
+      "ipa": "/pɔz ðə ʃo ænd rɛst jʊr aɪz/",
+      "vocab": [
+        {
+          "w": "pause",
+          "pos": "v.",
+          "ipa": "/pɔz/",
+          "zh": "暫停"
+        },
+        {
+          "w": "rest",
+          "pos": "v.",
+          "ipa": "/rɛst/",
+          "zh": "休息"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-19",
+      "date": "2026-08-18",
+      "category": "celebrations",
+      "en": "Let's hang the balloons by the door.",
+      "zh": "我們把氣球掛在門邊。",
+      "ipa": "/lɛts hæŋ ðə bəˈlunz baɪ ðə dɔr/",
+      "vocab": [
+        {
+          "w": "hang",
+          "pos": "v.",
+          "ipa": "/hæŋ/",
+          "zh": "掛"
+        },
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-20",
+      "date": "2026-08-18",
+      "category": "reading",
+      "en": "Point to the animal you like best.",
+      "zh": "指出你最喜歡的那隻動物。",
+      "ipa": "/pɔɪnt tu ði ˈænəml̩ ju laɪk bɛst/",
+      "vocab": [
+        {
+          "w": "point to",
+          "pos": "phr.",
+          "ipa": "/pɔɪnt tu/",
+          "zh": "指向"
+        },
+        {
+          "w": "animal",
+          "pos": "n.",
+          "ipa": "/ˈænəml̩/",
+          "zh": "動物"
+        }
+      ]
+    }
+  ]
+}
