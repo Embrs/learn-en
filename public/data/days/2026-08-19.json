@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-19",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-19-1",
+      "date": "2026-08-19",
+      "category": "daily-routine",
+      "en": "Let's open the curtains together.",
+      "zh": "我們一起把窗簾拉開。",
+      "ipa": "/lɛts ˈopən ðə ˈkɝtənz təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "curtain",
+          "pos": "n.",
+          "ipa": "/ˈkɝtən/",
+          "zh": "窗簾"
+        },
+        {
+          "w": "together",
+          "pos": "adv.",
+          "ipa": "/təˈɡɛðɚ/",
+          "zh": "一起"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-2",
+      "date": "2026-08-19",
+      "category": "meals",
+      "en": "The noodles are still steaming.",
+      "zh": "麵還在冒熱氣喔。",
+      "ipa": "/ðə ˈnudəlz ɑr stɪl ˈstimɪŋ/",
+      "vocab": [
+        {
+          "w": "noodle",
+          "pos": "n.",
+          "ipa": "/ˈnudəl/",
+          "zh": "麵"
+        },
+        {
+          "w": "steaming",
+          "pos": "adj.",
+          "ipa": "/ˈstimɪŋ/",
+          "zh": "冒著熱氣的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-3",
+      "date": "2026-08-19",
+      "category": "bath-bedtime",
+      "en": "Close your eyes while I rinse.",
+      "zh": "我沖水的時候把眼睛閉起來。",
+      "ipa": "/kloz jʊr aɪz waɪl aɪ rɪns/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "while",
+          "pos": "conj.",
+          "ipa": "/waɪl/",
+          "zh": "當…的時候"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-4",
+      "date": "2026-08-19",
+      "category": "outings",
+      "en": "Hold the map and lead the way.",
+      "zh": "拿著地圖幫我們帶路。",
+      "ipa": "/hold ðə mæp ænd lid ðə we/",
+      "vocab": [
+        {
+          "w": "map",
+          "pos": "n.",
+          "ipa": "/mæp/",
+          "zh": "地圖"
+        },
+        {
+          "w": "lead the way",
+          "pos": "phr.",
+          "ipa": "/lid ðə we/",
+          "zh": "帶路"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-5",
+      "date": "2026-08-19",
+      "category": "playground",
+      "en": "Wait for the swing to stop.",
+      "zh": "等鞦韆停下來再過去。",
+      "ipa": "/wet fɔr ðə swɪŋ tu stɑp/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        },
+        {
+          "w": "wait for",
+          "pos": "phr.",
+          "ipa": "/wet fɔr/",
+          "zh": "等待"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-6",
+      "date": "2026-08-19",
+      "category": "school",
+      "en": "Show me what you drew in class.",
+      "zh": "給我看看你上課畫了什麼。",
+      "ipa": "/ʃo mi wʌt ju dru ɪn klæs/",
+      "vocab": [
+        {
+          "w": "draw",
+          "pos": "v.",
+          "ipa": "/drɔ/",
+          "zh": "畫"
+        },
+        {
+          "w": "class",
+          "pos": "n.",
+          "ipa": "/klæs/",
+          "zh": "課堂"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-7",
+      "date": "2026-08-19",
+      "category": "homework",
+      "en": "Read the question out loud first.",
+      "zh": "先把題目念出來一次。",
+      "ipa": "/rid ðə ˈkwɛstʃən aʊt laʊd fɝst/",
+      "vocab": [
+        {
+          "w": "question",
+          "pos": "n.",
+          "ipa": "/ˈkwɛstʃən/",
+          "zh": "題目、問題"
+        },
+        {
+          "w": "out loud",
+          "pos": "phr.",
+          "ipa": "/aʊt laʊd/",
+          "zh": "出聲地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-8",
+      "date": "2026-08-19",
+      "category": "toys-sharing",
+      "en": "Let him borrow it for a while.",
+      "zh": "借他玩一下下。",
+      "ipa": "/lɛt hɪm ˈbɑro ɪt fɔr ə waɪl/",
+      "vocab": [
+        {
+          "w": "borrow",
+          "pos": "v.",
+          "ipa": "/ˈbɑro/",
+          "zh": "借（來）"
+        },
+        {
+          "w": "for a while",
+          "pos": "phr.",
+          "ipa": "/fɔr ə waɪl/",
+          "zh": "一陣子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-9",
+      "date": "2026-08-19",
+      "category": "emotions",
+      "en": "Your heart is beating fast, isn't it?",
+      "zh": "你的心跳好快，對不對？",
+      "ipa": "/jʊr hɑrt ɪz ˈbitɪŋ fæst ˈɪzənt ɪt/",
+      "vocab": [
+        {
+          "w": "heart",
+          "pos": "n.",
+          "ipa": "/hɑrt/",
+          "zh": "心臟"
+        },
+        {
+          "w": "beat",
+          "pos": "v.",
+          "ipa": "/bit/",
+          "zh": "跳動"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-10",
+      "date": "2026-08-19",
+      "category": "discipline",
+      "en": "Whining will not change my answer.",
+      "zh": "耍賴不會改變我的答案。",
+      "ipa": "/ˈwaɪnɪŋ wɪl nɑt tʃendʒ maɪ ˈænsɚ/",
+      "vocab": [
+        {
+          "w": "whine",
+          "pos": "v.",
+          "ipa": "/waɪn/",
+          "zh": "耍賴、哭鬧"
+        },
+        {
+          "w": "answer",
+          "pos": "n.",
+          "ipa": "/ˈænsɚ/",
+          "zh": "答案"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-11",
+      "date": "2026-08-19",
+      "category": "praise",
+      "en": "That was a very kind choice.",
+      "zh": "那是個很善良的選擇。",
+      "ipa": "/ðæt wʌz ə ˈvɛri kaɪnd tʃɔɪs/",
+      "vocab": [
+        {
+          "w": "kind",
+          "pos": "adj.",
+          "ipa": "/kaɪnd/",
+          "zh": "善良的"
+        },
+        {
+          "w": "choice",
+          "pos": "n.",
+          "ipa": "/tʃɔɪs/",
+          "zh": "選擇"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-12",
+      "date": "2026-08-19",
+      "category": "safety",
+      "en": "Never run with something in your mouth.",
+      "zh": "嘴裡有東西時絕對不要跑。",
+      "ipa": "/ˈnɛvɚ rʌn wɪð ˈsʌmθɪŋ ɪn jʊr maʊθ/",
+      "vocab": [
+        {
+          "w": "never",
+          "pos": "adv.",
+          "ipa": "/ˈnɛvɚ/",
+          "zh": "絕不"
+        },
+        {
+          "w": "mouth",
+          "pos": "n.",
+          "ipa": "/maʊθ/",
+          "zh": "嘴巴"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-13",
+      "date": "2026-08-19",
+      "category": "health",
+      "en": "The doctor will listen to your chest.",
+      "zh": "醫生要聽聽你的胸口。",
+      "ipa": "/ðə ˈdɑktɚ wɪl ˈlɪsən tu jʊr tʃɛst/",
+      "vocab": [
+        {
+          "w": "doctor",
+          "pos": "n.",
+          "ipa": "/ˈdɑktɚ/",
+          "zh": "醫生"
+        },
+        {
+          "w": "chest",
+          "pos": "n.",
+          "ipa": "/tʃɛst/",
+          "zh": "胸口"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-14",
+      "date": "2026-08-19",
+      "category": "relatives",
+      "en": "Auntie made this cake just for you.",
+      "zh": "阿姨特別為你做了這個蛋糕。",
+      "ipa": "/ˈænti med ðɪs kek dʒʌst fɔr ju/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨、姑姑"
+        },
+        {
+          "w": "cake",
+          "pos": "n.",
+          "ipa": "/kek/",
+          "zh": "蛋糕"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-15",
+      "date": "2026-08-19",
+      "category": "friends",
+      "en": "Ask him what game he likes.",
+      "zh": "問問他喜歡玩什麼遊戲。",
+      "ipa": "/æsk hɪm wʌt ɡem hi laɪks/",
+      "vocab": [
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "詢問"
+        },
+        {
+          "w": "game",
+          "pos": "n.",
+          "ipa": "/ɡem/",
+          "zh": "遊戲"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-16",
+      "date": "2026-08-19",
+      "category": "manners",
+      "en": "Say pardon me when you bump someone.",
+      "zh": "撞到別人要說不好意思。",
+      "ipa": "/se ˈpɑrdən mi wɛn ju bʌmp ˈsʌmwʌn/",
+      "vocab": [
+        {
+          "w": "pardon me",
+          "pos": "phr.",
+          "ipa": "/ˈpɑrdən mi/",
+          "zh": "不好意思、抱歉"
+        },
+        {
+          "w": "bump",
+          "pos": "v.",
+          "ipa": "/bʌmp/",
+          "zh": "撞到"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-17",
+      "date": "2026-08-19",
+      "category": "weather",
+      "en": "It's breezy, so bring a light jacket.",
+      "zh": "風有點涼，帶件薄外套。",
+      "ipa": "/ɪts ˈbrizi so brɪŋ ə laɪt ˈdʒækɪt/",
+      "vocab": [
+        {
+          "w": "breezy",
+          "pos": "adj.",
+          "ipa": "/ˈbrizi/",
+          "zh": "有微風的"
+        },
+        {
+          "w": "light",
+          "pos": "adj.",
+          "ipa": "/laɪt/",
+          "zh": "輕薄的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-18",
+      "date": "2026-08-19",
+      "category": "screen-time",
+      "en": "Sit back, you're too close again.",
+      "zh": "坐後面一點，你又靠太近了。",
+      "ipa": "/sɪt bæk jʊr tu klos əˈɡɛn/",
+      "vocab": [
+        {
+          "w": "sit back",
+          "pos": "phr.",
+          "ipa": "/sɪt bæk/",
+          "zh": "往後坐"
+        },
+        {
+          "w": "close",
+          "pos": "adj.",
+          "ipa": "/klos/",
+          "zh": "接近的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-19",
+      "date": "2026-08-19",
+      "category": "celebrations",
+      "en": "Everyone gets a party hat tonight.",
+      "zh": "今晚每個人都有一頂派對帽。",
+      "ipa": "/ˈɛvriwʌn ɡɛts ə ˈpɑrti hæt təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "party hat",
+          "pos": "n.",
+          "ipa": "/ˈpɑrti hæt/",
+          "zh": "派對帽"
+        },
+        {
+          "w": "everyone",
+          "pos": "pron.",
+          "ipa": "/ˈɛvriwʌn/",
+          "zh": "每個人"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-19-20",
+      "date": "2026-08-19",
+      "category": "reading",
+      "en": "Guess what happens on the next page.",
+      "zh": "猜猜看下一頁會發生什麼事。",
+      "ipa": "/ɡɛs wʌt ˈhæpənz ɑn ðə nɛkst pedʒ/",
+      "vocab": [
+        {
+          "w": "guess",
+          "pos": "v.",
+          "ipa": "/ɡɛs/",
+          "zh": "猜"
+        },
+        {
+          "w": "page",
+          "pos": "n.",
+          "ipa": "/pedʒ/",
+          "zh": "頁"
+        }
+      ]
+    }
+  ]
+}
