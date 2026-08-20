@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-20",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-20-1",
+      "date": "2026-08-20",
+      "category": "daily-routine",
+      "en": "Please fold your blanket neatly.",
+      "zh": "請把你的小被子摺整齊。",
+      "ipa": "/pliz fold jʊr ˈblæŋkɪt ˈnitli/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/fold/",
+          "zh": "摺疊"
+        },
+        {
+          "w": "neatly",
+          "pos": "adv.",
+          "ipa": "/ˈnitli/",
+          "zh": "整齊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-2",
+      "date": "2026-08-20",
+      "category": "meals",
+      "en": "Take one more bite of the carrot.",
+      "zh": "再吃一口紅蘿蔔喔。",
+      "ipa": "/tek wʌn mɔr baɪt ʌv ðə ˈkærət/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "carrot",
+          "pos": "n.",
+          "ipa": "/ˈkærət/",
+          "zh": "紅蘿蔔"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-3",
+      "date": "2026-08-20",
+      "category": "bath-bedtime",
+      "en": "Let's count the bubbles in the tub.",
+      "zh": "我們來數數浴缸裡的泡泡。",
+      "ipa": "/lɛts kaʊnt ðə ˈbʌbəlz ɪn ðə tʌb/",
+      "vocab": [
+        {
+          "w": "bubble",
+          "pos": "n.",
+          "ipa": "/ˈbʌbəl/",
+          "zh": "泡泡"
+        },
+        {
+          "w": "tub",
+          "pos": "n.",
+          "ipa": "/tʌb/",
+          "zh": "浴缸"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-4",
+      "date": "2026-08-20",
+      "category": "outings",
+      "en": "Let's stop at the fruit stand first.",
+      "zh": "我們先在水果攤停一下。",
+      "ipa": "/lɛts stɑp æt ðə frut stænd fɝst/",
+      "vocab": [
+        {
+          "w": "stand",
+          "pos": "n.",
+          "ipa": "/stænd/",
+          "zh": "攤位"
+        },
+        {
+          "w": "stop",
+          "pos": "v.",
+          "ipa": "/stɑp/",
+          "zh": "停下"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-5",
+      "date": "2026-08-20",
+      "category": "playground",
+      "en": "Shake the sand out of your shoes.",
+      "zh": "把鞋子裡的沙子抖出來。",
+      "ipa": "/ʃek ðə sænd aʊt ʌv jʊr ʃuz/",
+      "vocab": [
+        {
+          "w": "shake",
+          "pos": "v.",
+          "ipa": "/ʃek/",
+          "zh": "搖、抖動"
+        },
+        {
+          "w": "sand",
+          "pos": "n.",
+          "ipa": "/sænd/",
+          "zh": "沙子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-6",
+      "date": "2026-08-20",
+      "category": "school",
+      "en": "Did you make a new friend today?",
+      "zh": "你今天有交到新朋友嗎？",
+      "ipa": "/dɪd ju mek ə nu frɛnd təˈde/",
+      "vocab": [
+        {
+          "w": "make a friend",
+          "pos": "phr.",
+          "ipa": "/mek ə frɛnd/",
+          "zh": "交朋友"
+        },
+        {
+          "w": "today",
+          "pos": "adv.",
+          "ipa": "/təˈde/",
+          "zh": "今天"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-7",
+      "date": "2026-08-20",
+      "category": "homework",
+      "en": "Let's check your answers one by one.",
+      "zh": "我們一題一題檢查答案。",
+      "ipa": "/lɛts tʃɛk jʊr ˈænsɚz wʌn baɪ wʌn/",
+      "vocab": [
+        {
+          "w": "answer",
+          "pos": "n.",
+          "ipa": "/ˈænsɚ/",
+          "zh": "答案"
+        },
+        {
+          "w": "one by one",
+          "pos": "phr.",
+          "ipa": "/wʌn baɪ wʌn/",
+          "zh": "一個一個地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-8",
+      "date": "2026-08-20",
+      "category": "toys-sharing",
+      "en": "Can your brother borrow that car?",
+      "zh": "可以借弟弟玩那台車嗎？",
+      "ipa": "/kæn jʊr ˈbrʌðɚ ˈbɑro ðæt kɑr/",
+      "vocab": [
+        {
+          "w": "borrow",
+          "pos": "v.",
+          "ipa": "/ˈbɑro/",
+          "zh": "借用"
+        },
+        {
+          "w": "brother",
+          "pos": "n.",
+          "ipa": "/ˈbrʌðɚ/",
+          "zh": "兄弟"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-9",
+      "date": "2026-08-20",
+      "category": "emotions",
+      "en": "It's okay to feel disappointed.",
+      "zh": "覺得失望是沒關係的。",
+      "ipa": "/ɪts oˈke tu fil ˌdɪsəˈpɔɪntɪd/",
+      "vocab": [
+        {
+          "w": "disappointed",
+          "pos": "adj.",
+          "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+          "zh": "失望的"
+        },
+        {
+          "w": "okay",
+          "pos": "adj.",
+          "ipa": "/oˈke/",
+          "zh": "沒關係的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-10",
+      "date": "2026-08-20",
+      "category": "discipline",
+      "en": "We speak kindly in this house.",
+      "zh": "在這個家我們要好好說話。",
+      "ipa": "/wi spik ˈkaɪndli ɪn ðɪs haʊs/",
+      "vocab": [
+        {
+          "w": "kindly",
+          "pos": "adv.",
+          "ipa": "/ˈkaɪndli/",
+          "zh": "和善地"
+        },
+        {
+          "w": "speak",
+          "pos": "v.",
+          "ipa": "/spik/",
+          "zh": "說話"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-11",
+      "date": "2026-08-20",
+      "category": "praise",
+      "en": "You kept trying and you got it!",
+      "zh": "你一直努力，終於做到了！",
+      "ipa": "/ju kɛpt ˈtraɪɪŋ ænd ju ɡɑt ɪt/",
+      "vocab": [
+        {
+          "w": "keep trying",
+          "pos": "phr.",
+          "ipa": "/kip ˈtraɪɪŋ/",
+          "zh": "持續嘗試"
+        },
+        {
+          "w": "get it",
+          "pos": "phr.",
+          "ipa": "/ɡɛt ɪt/",
+          "zh": "做到、學會"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-12",
+      "date": "2026-08-20",
+      "category": "safety",
+      "en": "Tell me before you leave the yard.",
+      "zh": "要離開院子前先跟我說。",
+      "ipa": "/tɛl mi bɪˈfɔr ju liv ðə jɑrd/",
+      "vocab": [
+        {
+          "w": "yard",
+          "pos": "n.",
+          "ipa": "/jɑrd/",
+          "zh": "院子"
+        },
+        {
+          "w": "leave",
+          "pos": "v.",
+          "ipa": "/liv/",
+          "zh": "離開"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-13",
+      "date": "2026-08-20",
+      "category": "health",
+      "en": "Chew the vitamin, don't swallow it whole.",
+      "zh": "維他命要嚼碎，不要整顆吞。",
+      "ipa": "/tʃu ðə ˈvaɪtəmɪn dont ˈswɑlo ɪt hol/",
+      "vocab": [
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        },
+        {
+          "w": "swallow",
+          "pos": "v.",
+          "ipa": "/ˈswɑlo/",
+          "zh": "吞下"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-14",
+      "date": "2026-08-20",
+      "category": "relatives",
+      "en": "Auntie made this soup just for you.",
+      "zh": "阿姨特別為你煮了這鍋湯。",
+      "ipa": "/ˈænti med ðɪs sup dʒʌst fɔr ju/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨、姑姑"
+        },
+        {
+          "w": "soup",
+          "pos": "n.",
+          "ipa": "/sup/",
+          "zh": "湯"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-15",
+      "date": "2026-08-20",
+      "category": "friends",
+      "en": "Walk your friend to the door.",
+      "zh": "送你的朋友到門口。",
+      "ipa": "/wɔk jʊr frɛnd tu ðə dɔr/",
+      "vocab": [
+        {
+          "w": "walk someone to",
+          "pos": "phr.",
+          "ipa": "/wɔk ˈsʌmˌwʌn tu/",
+          "zh": "送某人到⋯"
+        },
+        {
+          "w": "door",
+          "pos": "n.",
+          "ipa": "/dɔr/",
+          "zh": "門"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-16",
+      "date": "2026-08-20",
+      "category": "manners",
+      "en": "Answer when a grown-up talks to you.",
+      "zh": "大人跟你說話時要回應。",
+      "ipa": "/ˈænsɚ wɛn ə ɡron ʌp tɔks tu ju/",
+      "vocab": [
+        {
+          "w": "grown-up",
+          "pos": "n.",
+          "ipa": "/ˈɡron ʌp/",
+          "zh": "大人"
+        },
+        {
+          "w": "answer",
+          "pos": "v.",
+          "ipa": "/ˈænsɚ/",
+          "zh": "回答"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-17",
+      "date": "2026-08-20",
+      "category": "weather",
+      "en": "The air feels sticky and humid today.",
+      "zh": "今天空氣又黏又悶。",
+      "ipa": "/ði ɛr filz ˈstɪki ænd ˈhjumɪd təˈde/",
+      "vocab": [
+        {
+          "w": "sticky",
+          "pos": "adj.",
+          "ipa": "/ˈstɪki/",
+          "zh": "黏黏的"
+        },
+        {
+          "w": "humid",
+          "pos": "adj.",
+          "ipa": "/ˈhjumɪd/",
+          "zh": "潮濕悶熱的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-18",
+      "date": "2026-08-20",
+      "category": "screen-time",
+      "en": "The tablet stays out of your bedroom.",
+      "zh": "平板不可以帶進房間喔。",
+      "ipa": "/ðə ˈtæblɪt stez aʊt ʌv jʊr ˈbɛdrum/",
+      "vocab": [
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        },
+        {
+          "w": "stay out of",
+          "pos": "phr.",
+          "ipa": "/ste aʊt ʌv/",
+          "zh": "不進入"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-19",
+      "date": "2026-08-20",
+      "category": "celebrations",
+      "en": "Let's tie a ribbon around the box.",
+      "zh": "我們在盒子上綁個緞帶。",
+      "ipa": "/lɛts taɪ ə ˈrɪbən əˈraʊnd ðə bɑks/",
+      "vocab": [
+        {
+          "w": "tie",
+          "pos": "v.",
+          "ipa": "/taɪ/",
+          "zh": "綁"
+        },
+        {
+          "w": "ribbon",
+          "pos": "n.",
+          "ipa": "/ˈrɪbən/",
+          "zh": "緞帶"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-20",
+      "date": "2026-08-20",
+      "category": "reading",
+      "en": "This word starts with the same sound.",
+      "zh": "這個字開頭的音是一樣的。",
+      "ipa": "/ðɪs wɝd stɑrts wɪð ðə sem saʊnd/",
+      "vocab": [
+        {
+          "w": "sound",
+          "pos": "n.",
+          "ipa": "/saʊnd/",
+          "zh": "聲音、發音"
+        },
+        {
+          "w": "same",
+          "pos": "adj.",
+          "ipa": "/sem/",
+          "zh": "相同的"
+        }
+      ]
+    }
+  ]
+}
