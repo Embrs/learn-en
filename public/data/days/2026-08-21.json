@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-21",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-21-1",
+      "date": "2026-08-21",
+      "category": "daily-routine",
+      "en": "Line up your slippers by the bed.",
+      "zh": "把拖鞋在床邊排整齊。",
+      "ipa": "/laɪn ʌp jʊr ˈslɪpɚz baɪ ðə bɛd/",
+      "vocab": [
+        {
+          "w": "line up",
+          "pos": "phr.",
+          "ipa": "/laɪn ʌp/",
+          "zh": "排成一列"
+        },
+        {
+          "w": "slipper",
+          "pos": "n.",
+          "ipa": "/ˈslɪpɚ/",
+          "zh": "拖鞋"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-2",
+      "date": "2026-08-21",
+      "category": "meals",
+      "en": "Use your fork for the noodles.",
+      "zh": "吃麵要用叉子喔。",
+      "ipa": "/juz jʊr fɔrk fɔr ðə ˈnudəlz/",
+      "vocab": [
+        {
+          "w": "fork",
+          "pos": "n.",
+          "ipa": "/fɔrk/",
+          "zh": "叉子"
+        },
+        {
+          "w": "noodle",
+          "pos": "n.",
+          "ipa": "/ˈnudəl/",
+          "zh": "麵條"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-3",
+      "date": "2026-08-21",
+      "category": "bath-bedtime",
+      "en": "Your pajamas are warm from the dryer.",
+      "zh": "你的睡衣剛烘好，暖暖的。",
+      "ipa": "/jʊr pəˈdʒɑməz ɑr wɔrm frʌm ðə ˈdraɪɚ/",
+      "vocab": [
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒɑməz/",
+          "zh": "睡衣"
+        },
+        {
+          "w": "dryer",
+          "pos": "n.",
+          "ipa": "/ˈdraɪɚ/",
+          "zh": "烘乾機"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-4",
+      "date": "2026-08-21",
+      "category": "outings",
+      "en": "Keep your hand on the cart.",
+      "zh": "手要一直扶著推車。",
+      "ipa": "/kip jʊr hænd ɑn ðə kɑrt/",
+      "vocab": [
+        {
+          "w": "keep",
+          "pos": "v.",
+          "ipa": "/kip/",
+          "zh": "保持"
+        },
+        {
+          "w": "cart",
+          "pos": "n.",
+          "ipa": "/kɑrt/",
+          "zh": "推車"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-5",
+      "date": "2026-08-21",
+      "category": "playground",
+      "en": "Wait your turn at the slide.",
+      "zh": "溜滑梯要排隊等輪到你。",
+      "ipa": "/wet jʊr tɝn æt ðə slaɪd/",
+      "vocab": [
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪到的一次"
+        },
+        {
+          "w": "slide",
+          "pos": "n.",
+          "ipa": "/slaɪd/",
+          "zh": "溜滑梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-6",
+      "date": "2026-08-21",
+      "category": "school",
+      "en": "What song did you sing today?",
+      "zh": "你今天唱了什麼歌呀？",
+      "ipa": "/hwʌt sɔŋ dɪd ju sɪŋ təˈde/",
+      "vocab": [
+        {
+          "w": "song",
+          "pos": "n.",
+          "ipa": "/sɔŋ/",
+          "zh": "歌曲"
+        },
+        {
+          "w": "sing",
+          "pos": "v.",
+          "ipa": "/sɪŋ/",
+          "zh": "唱歌"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-7",
+      "date": "2026-08-21",
+      "category": "homework",
+      "en": "Erase it gently and try again.",
+      "zh": "輕輕擦掉，再試一次。",
+      "ipa": "/ɪˈres ɪt ˈdʒɛntli ænd traɪ əˈɡɛn/",
+      "vocab": [
+        {
+          "w": "erase",
+          "pos": "v.",
+          "ipa": "/ɪˈres/",
+          "zh": "擦掉"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "輕輕地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-8",
+      "date": "2026-08-21",
+      "category": "toys-sharing",
+      "en": "You can each build half the tower.",
+      "zh": "你們可以一人蓋一半的塔。",
+      "ipa": "/ju kæn itʃ bɪld hæf ðə ˈtaʊɚ/",
+      "vocab": [
+        {
+          "w": "build",
+          "pos": "v.",
+          "ipa": "/bɪld/",
+          "zh": "建造、堆疊"
+        },
+        {
+          "w": "half",
+          "pos": "n.",
+          "ipa": "/hæf/",
+          "zh": "一半"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-9",
+      "date": "2026-08-21",
+      "category": "emotions",
+      "en": "Let your shoulders drop and relax.",
+      "zh": "肩膀放下來，放輕鬆。",
+      "ipa": "/lɛt jʊr ˈʃoldɚz drɑp ænd rɪˈlæks/",
+      "vocab": [
+        {
+          "w": "shoulder",
+          "pos": "n.",
+          "ipa": "/ˈʃoldɚ/",
+          "zh": "肩膀"
+        },
+        {
+          "w": "relax",
+          "pos": "v.",
+          "ipa": "/rɪˈlæks/",
+          "zh": "放鬆"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-10",
+      "date": "2026-08-21",
+      "category": "discipline",
+      "en": "I will wait until you're ready.",
+      "zh": "我會等到你準備好。",
+      "ipa": "/aɪ wɪl wet ənˈtɪl jʊr ˈrɛdi/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        },
+        {
+          "w": "ready",
+          "pos": "adj.",
+          "ipa": "/ˈrɛdi/",
+          "zh": "準備好的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-11",
+      "date": "2026-08-21",
+      "category": "praise",
+      "en": "You cleaned up without being asked.",
+      "zh": "沒人提醒你就自己收好了。",
+      "ipa": "/ju klind ʌp wɪˈðaʊt ˈbiɪŋ æskt/",
+      "vocab": [
+        {
+          "w": "clean up",
+          "pos": "phr.",
+          "ipa": "/klin ʌp/",
+          "zh": "收拾乾淨"
+        },
+        {
+          "w": "without",
+          "pos": "prep.",
+          "ipa": "/wɪˈðaʊt/",
+          "zh": "沒有、不需要"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-12",
+      "date": "2026-08-21",
+      "category": "safety",
+      "en": "Both hands on the handrail, please.",
+      "zh": "請兩隻手都扶好扶手。",
+      "ipa": "/boθ hændz ɑn ðə ˈhændrel pliz/",
+      "vocab": [
+        {
+          "w": "both",
+          "pos": "adj.",
+          "ipa": "/boθ/",
+          "zh": "兩者都"
+        },
+        {
+          "w": "handrail",
+          "pos": "n.",
+          "ipa": "/ˈhændrel/",
+          "zh": "扶手"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-13",
+      "date": "2026-08-21",
+      "category": "health",
+      "en": "Let me wipe your runny nose.",
+      "zh": "我幫你擦一下流鼻水。",
+      "ipa": "/lɛt mi waɪp jʊr ˈrʌni noz/",
+      "vocab": [
+        {
+          "w": "wipe",
+          "pos": "v.",
+          "ipa": "/waɪp/",
+          "zh": "擦拭"
+        },
+        {
+          "w": "runny",
+          "pos": "adj.",
+          "ipa": "/ˈrʌni/",
+          "zh": "流鼻水的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-14",
+      "date": "2026-08-21",
+      "category": "relatives",
+      "en": "Grandma wants to hear your voice.",
+      "zh": "奶奶想聽聽你的聲音。",
+      "ipa": "/ˈɡrænmɑ wɑnts tu hɪr jʊr vɔɪs/",
+      "vocab": [
+        {
+          "w": "hear",
+          "pos": "v.",
+          "ipa": "/hɪr/",
+          "zh": "聽見"
+        },
+        {
+          "w": "voice",
+          "pos": "n.",
+          "ipa": "/vɔɪs/",
+          "zh": "聲音"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-15",
+      "date": "2026-08-21",
+      "category": "friends",
+      "en": "Invite her to sit with us.",
+      "zh": "邀請她過來跟我們一起坐。",
+      "ipa": "/ɪnˈvaɪt hɝ tu sɪt wɪð ʌs/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "sit",
+          "pos": "v.",
+          "ipa": "/sɪt/",
+          "zh": "坐"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-16",
+      "date": "2026-08-21",
+      "category": "manners",
+      "en": "Turn your head away when you sneeze.",
+      "zh": "打噴嚏的時候把頭轉開。",
+      "ipa": "/tɝn jʊr hɛd əˈwe hwɛn ju sniz/",
+      "vocab": [
+        {
+          "w": "turn away",
+          "pos": "phr.",
+          "ipa": "/tɝn əˈwe/",
+          "zh": "轉開"
+        },
+        {
+          "w": "sneeze",
+          "pos": "v.",
+          "ipa": "/sniz/",
+          "zh": "打噴嚏"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-17",
+      "date": "2026-08-21",
+      "category": "weather",
+      "en": "The clouds are getting darker.",
+      "zh": "雲越來越暗了。",
+      "ipa": "/ðə klaʊdz ɑr ˈɡɛtɪŋ ˈdɑrkɚ/",
+      "vocab": [
+        {
+          "w": "cloud",
+          "pos": "n.",
+          "ipa": "/klaʊd/",
+          "zh": "雲"
+        },
+        {
+          "w": "darker",
+          "pos": "adj.",
+          "ipa": "/ˈdɑrkɚ/",
+          "zh": "更暗的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-18",
+      "date": "2026-08-21",
+      "category": "screen-time",
+      "en": "Turn the volume down a little.",
+      "zh": "音量調小聲一點。",
+      "ipa": "/tɝn ðə ˈvɑljum daʊn ə ˈlɪtəl/",
+      "vocab": [
+        {
+          "w": "volume",
+          "pos": "n.",
+          "ipa": "/ˈvɑljum/",
+          "zh": "音量"
+        },
+        {
+          "w": "turn down",
+          "pos": "phr.",
+          "ipa": "/tɝn daʊn/",
+          "zh": "調低"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-19",
+      "date": "2026-08-21",
+      "category": "celebrations",
+      "en": "Help me light the candles.",
+      "zh": "來幫我點蠟燭。",
+      "ipa": "/hɛlp mi laɪt ðə ˈkændəlz/",
+      "vocab": [
+        {
+          "w": "light",
+          "pos": "v.",
+          "ipa": "/laɪt/",
+          "zh": "點燃"
+        },
+        {
+          "w": "candle",
+          "pos": "n.",
+          "ipa": "/ˈkændəl/",
+          "zh": "蠟燭"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-20",
+      "date": "2026-08-21",
+      "category": "reading",
+      "en": "Which character do you like most?",
+      "zh": "你最喜歡哪一個角色呢？",
+      "ipa": "/hwɪtʃ ˈkærɪktɚ du ju laɪk most/",
+      "vocab": [
+        {
+          "w": "character",
+          "pos": "n.",
+          "ipa": "/ˈkærɪktɚ/",
+          "zh": "角色"
+        },
+        {
+          "w": "most",
+          "pos": "adv.",
+          "ipa": "/most/",
+          "zh": "最"
+        }
+      ]
+    }
+  ]
+}
