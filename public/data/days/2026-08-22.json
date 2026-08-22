@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-22",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-22-1",
+      "date": "2026-08-22",
+      "category": "daily-routine",
+      "en": "Roll up the blinds and let the sun in.",
+      "zh": "把百葉窗捲起來，讓陽光進來。",
+      "ipa": "/rol ʌp ðə blaɪndz ænd lɛt ðə sʌn ɪn/",
+      "vocab": [
+        {
+          "w": "blinds",
+          "pos": "n.",
+          "ipa": "/blaɪndz/",
+          "zh": "百葉窗"
+        },
+        {
+          "w": "roll up",
+          "pos": "phr.",
+          "ipa": "/rol ʌp/",
+          "zh": "捲起來"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-2",
+      "date": "2026-08-22",
+      "category": "meals",
+      "en": "Chew slowly so you do not choke.",
+      "zh": "慢慢嚼，才不會噎到。",
+      "ipa": "/tʃu ˈsloli so ju du nɑt tʃok/",
+      "vocab": [
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        },
+        {
+          "w": "choke",
+          "pos": "v.",
+          "ipa": "/tʃok/",
+          "zh": "噎到"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-3",
+      "date": "2026-08-22",
+      "category": "bath-bedtime",
+      "en": "The water is just the right temperature.",
+      "zh": "水溫剛剛好喔。",
+      "ipa": "/ðə ˈwɔtɚ ɪz dʒʌst ðə raɪt ˈtɛmprətʃɚ/",
+      "vocab": [
+        {
+          "w": "temperature",
+          "pos": "n.",
+          "ipa": "/ˈtɛmprətʃɚ/",
+          "zh": "溫度"
+        },
+        {
+          "w": "just right",
+          "pos": "phr.",
+          "ipa": "/dʒʌst raɪt/",
+          "zh": "剛剛好"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-4",
+      "date": "2026-08-22",
+      "category": "outings",
+      "en": "Hold the handrail on the escalator.",
+      "zh": "搭手扶梯要抓好扶手。",
+      "ipa": "/hold ðə ˈhændrel ɑn ði ˈɛskəˌletɚ/",
+      "vocab": [
+        {
+          "w": "handrail",
+          "pos": "n.",
+          "ipa": "/ˈhændrel/",
+          "zh": "扶手"
+        },
+        {
+          "w": "escalator",
+          "pos": "n.",
+          "ipa": "/ˈɛskəˌletɚ/",
+          "zh": "手扶梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-5",
+      "date": "2026-08-22",
+      "category": "playground",
+      "en": "Two more pushes, then it is her turn.",
+      "zh": "再推兩下，就換她了。",
+      "ipa": "/tu mɔr ˈpʊʃɪz ðɛn ɪt ɪz hɝ tɝn/",
+      "vocab": [
+        {
+          "w": "push",
+          "pos": "n.",
+          "ipa": "/pʊʃ/",
+          "zh": "推一下"
+        },
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪到的次序"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-6",
+      "date": "2026-08-22",
+      "category": "school",
+      "en": "Did you say good morning to your teacher?",
+      "zh": "你有跟老師說早安嗎？",
+      "ipa": "/dɪd ju se ɡʊd ˈmɔrnɪŋ tu jʊr ˈtitʃɚ/",
+      "vocab": [
+        {
+          "w": "teacher",
+          "pos": "n.",
+          "ipa": "/ˈtitʃɚ/",
+          "zh": "老師"
+        },
+        {
+          "w": "good morning",
+          "pos": "phr.",
+          "ipa": "/ɡʊd ˈmɔrnɪŋ/",
+          "zh": "早安"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-7",
+      "date": "2026-08-22",
+      "category": "homework",
+      "en": "Erase it gently or the paper will tear.",
+      "zh": "輕輕擦，不然紙會破。",
+      "ipa": "/ɪˈres ɪt ˈdʒɛntli ɔr ðə ˈpepɚ wɪl tɛr/",
+      "vocab": [
+        {
+          "w": "erase",
+          "pos": "v.",
+          "ipa": "/ɪˈres/",
+          "zh": "擦掉"
+        },
+        {
+          "w": "tear",
+          "pos": "v.",
+          "ipa": "/tɛr/",
+          "zh": "撕破"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-8",
+      "date": "2026-08-22",
+      "category": "toys-sharing",
+      "en": "Can you build the blocks with your sister?",
+      "zh": "可以跟妹妹一起堆積木嗎？",
+      "ipa": "/kæn ju bɪld ðə blɑks wɪð jʊr ˈsɪstɚ/",
+      "vocab": [
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        },
+        {
+          "w": "build",
+          "pos": "v.",
+          "ipa": "/bɪld/",
+          "zh": "建造、堆疊"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-9",
+      "date": "2026-08-22",
+      "category": "emotions",
+      "en": "It is okay to feel shy at first.",
+      "zh": "一開始會害羞是沒關係的。",
+      "ipa": "/ɪt ɪz oˈke tu fil ʃaɪ æt fɝst/",
+      "vocab": [
+        {
+          "w": "shy",
+          "pos": "adj.",
+          "ipa": "/ʃaɪ/",
+          "zh": "害羞的"
+        },
+        {
+          "w": "at first",
+          "pos": "phr.",
+          "ipa": "/æt fɝst/",
+          "zh": "一開始"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-10",
+      "date": "2026-08-22",
+      "category": "discipline",
+      "en": "Please use your words, not your hands.",
+      "zh": "請用說的，不要動手。",
+      "ipa": "/pliz juz jʊr wɝdz nɑt jʊr hændz/",
+      "vocab": [
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "話語"
+        },
+        {
+          "w": "hand",
+          "pos": "n.",
+          "ipa": "/hænd/",
+          "zh": "手"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-11",
+      "date": "2026-08-22",
+      "category": "praise",
+      "en": "You waited so patiently. I am proud of you.",
+      "zh": "你等得好有耐心，我以你為榮。",
+      "ipa": "/ju ˈwetɪd so ˈpeʃəntli aɪ æm praʊd ʌv ju/",
+      "vocab": [
+        {
+          "w": "patiently",
+          "pos": "adv.",
+          "ipa": "/ˈpeʃəntli/",
+          "zh": "有耐心地"
+        },
+        {
+          "w": "proud",
+          "pos": "adj.",
+          "ipa": "/praʊd/",
+          "zh": "驕傲的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-12",
+      "date": "2026-08-22",
+      "category": "safety",
+      "en": "Stand back while the gate closes.",
+      "zh": "門在關的時候要退後一點。",
+      "ipa": "/stænd bæk hwaɪl ðə ɡet ˈklozɪz/",
+      "vocab": [
+        {
+          "w": "stand back",
+          "pos": "phr.",
+          "ipa": "/stænd bæk/",
+          "zh": "退後"
+        },
+        {
+          "w": "gate",
+          "pos": "n.",
+          "ipa": "/ɡet/",
+          "zh": "閘門"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-13",
+      "date": "2026-08-22",
+      "category": "health",
+      "en": "Blow your nose and throw the tissue away.",
+      "zh": "擤一擤鼻子，然後把衛生紙丟掉。",
+      "ipa": "/blo jʊr noz ænd θro ðə ˈtɪʃu əˈwe/",
+      "vocab": [
+        {
+          "w": "blow one’s nose",
+          "pos": "phr.",
+          "ipa": "/blo wʌnz noz/",
+          "zh": "擤鼻涕"
+        },
+        {
+          "w": "tissue",
+          "pos": "n.",
+          "ipa": "/ˈtɪʃu/",
+          "zh": "衛生紙"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-14",
+      "date": "2026-08-22",
+      "category": "relatives",
+      "en": "Grandpa saved you a slice of watermelon.",
+      "zh": "爺爺幫你留了一片西瓜。",
+      "ipa": "/ˈɡrænpɑ sevd ju ə slaɪs ʌv ˈwɔtɚˌmɛlən/",
+      "vocab": [
+        {
+          "w": "slice",
+          "pos": "n.",
+          "ipa": "/slaɪs/",
+          "zh": "一片"
+        },
+        {
+          "w": "watermelon",
+          "pos": "n.",
+          "ipa": "/ˈwɔtɚˌmɛlən/",
+          "zh": "西瓜"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-15",
+      "date": "2026-08-22",
+      "category": "friends",
+      "en": "Ask him if he wants to join the game.",
+      "zh": "問問他要不要一起玩。",
+      "ipa": "/æsk hɪm ɪf hi wɑnts tu dʒɔɪn ðə ɡem/",
+      "vocab": [
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        },
+        {
+          "w": "game",
+          "pos": "n.",
+          "ipa": "/ɡem/",
+          "zh": "遊戲"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-16",
+      "date": "2026-08-22",
+      "category": "manners",
+      "en": "Turn your head away before you sneeze.",
+      "zh": "打噴嚏前先把頭轉開。",
+      "ipa": "/tɝn jʊr hɛd əˈwe bɪˈfɔr ju sniz/",
+      "vocab": [
+        {
+          "w": "sneeze",
+          "pos": "v.",
+          "ipa": "/sniz/",
+          "zh": "打噴嚏"
+        },
+        {
+          "w": "turn away",
+          "pos": "phr.",
+          "ipa": "/tɝn əˈwe/",
+          "zh": "把頭轉開"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-17",
+      "date": "2026-08-22",
+      "category": "weather",
+      "en": "The sky is clear, so we can see the stars.",
+      "zh": "天空很晴朗，可以看到星星。",
+      "ipa": "/ðə skaɪ ɪz klɪr so wi kæn si ðə stɑrz/",
+      "vocab": [
+        {
+          "w": "clear",
+          "pos": "adj.",
+          "ipa": "/klɪr/",
+          "zh": "晴朗的"
+        },
+        {
+          "w": "star",
+          "pos": "n.",
+          "ipa": "/stɑr/",
+          "zh": "星星"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-18",
+      "date": "2026-08-22",
+      "category": "screen-time",
+      "en": "Let us pause the video and stretch.",
+      "zh": "我們先暫停影片，動一動。",
+      "ipa": "/lɛt ʌs pɔz ðə ˈvɪdio ænd strɛtʃ/",
+      "vocab": [
+        {
+          "w": "pause",
+          "pos": "v.",
+          "ipa": "/pɔz/",
+          "zh": "暫停"
+        },
+        {
+          "w": "stretch",
+          "pos": "v.",
+          "ipa": "/strɛtʃ/",
+          "zh": "伸展"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-19",
+      "date": "2026-08-22",
+      "category": "celebrations",
+      "en": "Help me tie the ribbon on the gift.",
+      "zh": "幫我把禮物上的緞帶綁好。",
+      "ipa": "/hɛlp mi taɪ ðə ˈrɪbən ɑn ðə ɡɪft/",
+      "vocab": [
+        {
+          "w": "ribbon",
+          "pos": "n.",
+          "ipa": "/ˈrɪbən/",
+          "zh": "緞帶"
+        },
+        {
+          "w": "tie",
+          "pos": "v.",
+          "ipa": "/taɪ/",
+          "zh": "綁"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-20",
+      "date": "2026-08-22",
+      "category": "reading",
+      "en": "Point to the word as I read it.",
+      "zh": "我唸的時候你指著那個字。",
+      "ipa": "/pɔɪnt tu ðə wɝd æz aɪ rid ɪt/",
+      "vocab": [
+        {
+          "w": "point",
+          "pos": "v.",
+          "ipa": "/pɔɪnt/",
+          "zh": "指"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "單字"
+        }
+      ]
+    }
+  ]
+}
