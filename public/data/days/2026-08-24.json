@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-24",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-24-1",
+      "date": "2026-08-24",
+      "category": "daily-routine",
+      "en": "Put your socks in the laundry basket.",
+      "zh": "把襪子放進洗衣籃。",
+      "ipa": "/pʊt jɔr sɑks ɪn ðə ˈlɔndri ˈbæskɪt/",
+      "vocab": [
+        {
+          "w": "socks",
+          "pos": "n.",
+          "ipa": "/sɑks/",
+          "zh": "襪子"
+        },
+        {
+          "w": "laundry basket",
+          "pos": "n.",
+          "ipa": "/ˈlɔndri ˈbæskɪt/",
+          "zh": "洗衣籃"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-2",
+      "date": "2026-08-24",
+      "category": "meals",
+      "en": "Try one bite of the carrot.",
+      "zh": "紅蘿蔔吃一口看看。",
+      "ipa": "/traɪ wʌn baɪt ʌv ðə ˈkærət/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "carrot",
+          "pos": "n.",
+          "ipa": "/ˈkærət/",
+          "zh": "紅蘿蔔"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-3",
+      "date": "2026-08-24",
+      "category": "bath-bedtime",
+      "en": "Let's count to ten and rinse.",
+      "zh": "我們數到十就沖水。",
+      "ipa": "/lɛts kaʊnt tu tɛn ænd rɪns/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "count to ten",
+          "pos": "phr.",
+          "ipa": "/kaʊnt tu tɛn/",
+          "zh": "數到十"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-4",
+      "date": "2026-08-24",
+      "category": "outings",
+      "en": "Let's count how many stops are left.",
+      "zh": "我們數數還剩幾站。",
+      "ipa": "/lɛts kaʊnt haʊ ˈmɛni stɑps ɑr lɛft/",
+      "vocab": [
+        {
+          "w": "stops",
+          "pos": "n.",
+          "ipa": "/stɑps/",
+          "zh": "停靠站"
+        },
+        {
+          "w": "left",
+          "pos": "adj.",
+          "ipa": "/lɛft/",
+          "zh": "剩下的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-5",
+      "date": "2026-08-24",
+      "category": "playground",
+      "en": "Swing gently so you stay safe.",
+      "zh": "輕輕地盪，才安全。",
+      "ipa": "/swɪŋ ˈdʒɛntli so ju ste sef/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "v.",
+          "ipa": "/swɪŋ/",
+          "zh": "盪鞦韆"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "輕輕地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-6",
+      "date": "2026-08-24",
+      "category": "school",
+      "en": "What was the best part of today?",
+      "zh": "今天最棒的是哪個部分？",
+      "ipa": "/wɑt wʌz ðə bɛst pɑrt ʌv təˈde/",
+      "vocab": [
+        {
+          "w": "best",
+          "pos": "adj.",
+          "ipa": "/bɛst/",
+          "zh": "最好的"
+        },
+        {
+          "w": "part",
+          "pos": "n.",
+          "ipa": "/pɑrt/",
+          "zh": "部分"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-7",
+      "date": "2026-08-24",
+      "category": "homework",
+      "en": "Copy this word into your notebook.",
+      "zh": "把這個字抄到筆記本上。",
+      "ipa": "/ˈkɑpi ðɪs wɝd ˈɪntu jɔr ˈnotˌbʊk/",
+      "vocab": [
+        {
+          "w": "copy",
+          "pos": "v.",
+          "ipa": "/ˈkɑpi/",
+          "zh": "抄寫"
+        },
+        {
+          "w": "notebook",
+          "pos": "n.",
+          "ipa": "/ˈnotˌbʊk/",
+          "zh": "筆記本"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-8",
+      "date": "2026-08-24",
+      "category": "toys-sharing",
+      "en": "You can be the driver this time.",
+      "zh": "這次換你當司機。",
+      "ipa": "/ju kæn bi ðə ˈdraɪvɚ ðɪs taɪm/",
+      "vocab": [
+        {
+          "w": "driver",
+          "pos": "n.",
+          "ipa": "/ˈdraɪvɚ/",
+          "zh": "司機"
+        },
+        {
+          "w": "this time",
+          "pos": "phr.",
+          "ipa": "/ðɪs taɪm/",
+          "zh": "這一次"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-9",
+      "date": "2026-08-24",
+      "category": "emotions",
+      "en": "Let's sit here until you feel better.",
+      "zh": "我們坐在這裡，等你好一點。",
+      "ipa": "/lɛts sɪt hɪr ənˈtɪl ju fil ˈbɛtɚ/",
+      "vocab": [
+        {
+          "w": "until",
+          "pos": "conj.",
+          "ipa": "/ənˈtɪl/",
+          "zh": "直到"
+        },
+        {
+          "w": "feel better",
+          "pos": "phr.",
+          "ipa": "/fil ˈbɛtɚ/",
+          "zh": "感覺好一些"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-10",
+      "date": "2026-08-24",
+      "category": "discipline",
+      "en": "Put it back where you found it.",
+      "zh": "從哪裡拿的就放回哪裡。",
+      "ipa": "/pʊt ɪt bæk wɛr ju faʊnd ɪt/",
+      "vocab": [
+        {
+          "w": "put back",
+          "pos": "phr.",
+          "ipa": "/pʊt bæk/",
+          "zh": "放回去"
+        },
+        {
+          "w": "find",
+          "pos": "v.",
+          "ipa": "/faɪnd/",
+          "zh": "找到、拿到"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-11",
+      "date": "2026-08-24",
+      "category": "praise",
+      "en": "You finished that faster than yesterday.",
+      "zh": "你比昨天做得更快了。",
+      "ipa": "/ju ˈfɪnɪʃt ðæt ˈfæstɚ ðæn ˈjɛstɚde/",
+      "vocab": [
+        {
+          "w": "faster",
+          "pos": "adv.",
+          "ipa": "/ˈfæstɚ/",
+          "zh": "更快地"
+        },
+        {
+          "w": "yesterday",
+          "pos": "n.",
+          "ipa": "/ˈjɛstɚde/",
+          "zh": "昨天"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-12",
+      "date": "2026-08-24",
+      "category": "safety",
+      "en": "Keep the cord away from your neck.",
+      "zh": "繩子不要靠近脖子。",
+      "ipa": "/kip ðə kɔrd əˈwe frʌm jɔr nɛk/",
+      "vocab": [
+        {
+          "w": "cord",
+          "pos": "n.",
+          "ipa": "/kɔrd/",
+          "zh": "繩子、電線"
+        },
+        {
+          "w": "neck",
+          "pos": "n.",
+          "ipa": "/nɛk/",
+          "zh": "脖子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-13",
+      "date": "2026-08-24",
+      "category": "health",
+      "en": "Your fever is going down already.",
+      "zh": "你的燒已經在退了。",
+      "ipa": "/jɔr ˈfivɚ ɪz ˈɡoɪŋ daʊn ɔlˈrɛdi/",
+      "vocab": [
+        {
+          "w": "fever",
+          "pos": "n.",
+          "ipa": "/ˈfivɚ/",
+          "zh": "發燒"
+        },
+        {
+          "w": "go down",
+          "pos": "phr.",
+          "ipa": "/ɡo daʊn/",
+          "zh": "下降、退（燒）"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-14",
+      "date": "2026-08-24",
+      "category": "relatives",
+      "en": "Let's take a family photo before we go.",
+      "zh": "走之前我們拍張全家福。",
+      "ipa": "/lɛts tek ə ˈfæməli ˈfoto bɪˈfɔr wi ɡo/",
+      "vocab": [
+        {
+          "w": "family",
+          "pos": "n.",
+          "ipa": "/ˈfæməli/",
+          "zh": "家庭、全家"
+        },
+        {
+          "w": "photo",
+          "pos": "n.",
+          "ipa": "/ˈfoto/",
+          "zh": "照片"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-15",
+      "date": "2026-08-24",
+      "category": "friends",
+      "en": "Wait for your friend to catch up.",
+      "zh": "等你的朋友跟上來。",
+      "ipa": "/wet fɔr jɔr frɛnd tu kætʃ ʌp/",
+      "vocab": [
+        {
+          "w": "wait for",
+          "pos": "phr.",
+          "ipa": "/wet fɔr/",
+          "zh": "等待"
+        },
+        {
+          "w": "catch up",
+          "pos": "phr.",
+          "ipa": "/kætʃ ʌp/",
+          "zh": "趕上、跟上"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-16",
+      "date": "2026-08-24",
+      "category": "manners",
+      "en": "Say hello back when someone greets you.",
+      "zh": "別人跟你打招呼，你也要回應。",
+      "ipa": "/se həˈlo bæk wɛn ˈsʌmwʌn ɡrits ju/",
+      "vocab": [
+        {
+          "w": "greet",
+          "pos": "v.",
+          "ipa": "/ɡrit/",
+          "zh": "打招呼"
+        },
+        {
+          "w": "someone",
+          "pos": "pron.",
+          "ipa": "/ˈsʌmwʌn/",
+          "zh": "某人"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-17",
+      "date": "2026-08-24",
+      "category": "weather",
+      "en": "The grass is wet, watch your step.",
+      "zh": "草地是濕的，走路小心。",
+      "ipa": "/ðə ɡræs ɪz wɛt wɑtʃ jɔr stɛp/",
+      "vocab": [
+        {
+          "w": "grass",
+          "pos": "n.",
+          "ipa": "/ɡræs/",
+          "zh": "草地"
+        },
+        {
+          "w": "watch your step",
+          "pos": "phr.",
+          "ipa": "/wɑtʃ jɔr stɛp/",
+          "zh": "走路小心"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-18",
+      "date": "2026-08-24",
+      "category": "screen-time",
+      "en": "Tell me what happened in the show.",
+      "zh": "跟我說說剛剛那集演了什麼。",
+      "ipa": "/tɛl mi wɑt ˈhæpənd ɪn ðə ʃo/",
+      "vocab": [
+        {
+          "w": "happen",
+          "pos": "v.",
+          "ipa": "/ˈhæpən/",
+          "zh": "發生"
+        },
+        {
+          "w": "show",
+          "pos": "n.",
+          "ipa": "/ʃo/",
+          "zh": "節目"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-19",
+      "date": "2026-08-24",
+      "category": "celebrations",
+      "en": "The dumplings are for the festival tonight.",
+      "zh": "這些餃子是今晚過節要吃的。",
+      "ipa": "/ðə ˈdʌmplɪŋz ɑr fɔr ðə ˈfɛstəvəl təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "dumplings",
+          "pos": "n.",
+          "ipa": "/ˈdʌmplɪŋz/",
+          "zh": "餃子"
+        },
+        {
+          "w": "festival",
+          "pos": "n.",
+          "ipa": "/ˈfɛstəvəl/",
+          "zh": "節慶"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-20",
+      "date": "2026-08-24",
+      "category": "reading",
+      "en": "Let's make up a new ending together.",
+      "zh": "我們一起編一個新的結局。",
+      "ipa": "/lɛts mek ʌp ə nu ˈɛndɪŋ təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "make up",
+          "pos": "phr.",
+          "ipa": "/mek ʌp/",
+          "zh": "編造、想出"
+        },
+        {
+          "w": "ending",
+          "pos": "n.",
+          "ipa": "/ˈɛndɪŋ/",
+          "zh": "結局"
+        }
+      ]
+    }
+  ]
+}

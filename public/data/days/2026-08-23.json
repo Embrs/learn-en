@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-23",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-23-1",
+      "date": "2026-08-23",
+      "category": "daily-routine",
+      "en": "Let's tidy up before we go out.",
+      "zh": "我們出門前先整理一下。",
+      "ipa": "/lɛts ˈtaɪdi ʌp bɪˈfɔr wi ɡo aʊt/",
+      "vocab": [
+        {
+          "w": "tidy up",
+          "pos": "phr.",
+          "ipa": "/ˈtaɪdi ʌp/",
+          "zh": "整理"
+        },
+        {
+          "w": "before",
+          "pos": "conj.",
+          "ipa": "/bɪˈfɔr/",
+          "zh": "在…之前"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-2",
+      "date": "2026-08-23",
+      "category": "meals",
+      "en": "Would you like a little more soup?",
+      "zh": "你要再喝一點湯嗎？",
+      "ipa": "/wʊd ju laɪk ə ˈlɪtəl mɔr sup/",
+      "vocab": [
+        {
+          "w": "soup",
+          "pos": "n.",
+          "ipa": "/sup/",
+          "zh": "湯"
+        },
+        {
+          "w": "a little more",
+          "pos": "phr.",
+          "ipa": "/ə ˈlɪtəl mɔr/",
+          "zh": "再多一點"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-3",
+      "date": "2026-08-23",
+      "category": "bath-bedtime",
+      "en": "Dry your hair before you lie down.",
+      "zh": "躺下前先把頭髮擦乾。",
+      "ipa": "/draɪ jɔr hɛr bɪˈfɔr ju laɪ daʊn/",
+      "vocab": [
+        {
+          "w": "dry",
+          "pos": "v.",
+          "ipa": "/draɪ/",
+          "zh": "弄乾"
+        },
+        {
+          "w": "lie down",
+          "pos": "phr.",
+          "ipa": "/laɪ daʊn/",
+          "zh": "躺下"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-4",
+      "date": "2026-08-23",
+      "category": "outings",
+      "en": "Let's mail this postcard on the way home.",
+      "zh": "我們回家路上把這張明信片寄出去。",
+      "ipa": "/lɛts mel ðɪs ˈpostˌkɑrd ɑn ðə we hom/",
+      "vocab": [
+        {
+          "w": "postcard",
+          "pos": "n.",
+          "ipa": "/ˈpostˌkɑrd/",
+          "zh": "明信片"
+        },
+        {
+          "w": "on the way",
+          "pos": "phr.",
+          "ipa": "/ɑn ðə we/",
+          "zh": "在路上、順路"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-5",
+      "date": "2026-08-23",
+      "category": "playground",
+      "en": "Take turns on the slide, please.",
+      "zh": "溜滑梯要輪流喔。",
+      "ipa": "/tek tɝnz ɑn ðə slaɪd pliz/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "phr.",
+          "ipa": "/tek tɝnz/",
+          "zh": "輪流"
+        },
+        {
+          "w": "slide",
+          "pos": "n.",
+          "ipa": "/slaɪd/",
+          "zh": "溜滑梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-6",
+      "date": "2026-08-23",
+      "category": "school",
+      "en": "Tell me one new word you learned.",
+      "zh": "告訴我一個你今天學到的新單字。",
+      "ipa": "/tɛl mi wʌn nu wɝd ju lɝnd/",
+      "vocab": [
+        {
+          "w": "learn",
+          "pos": "v.",
+          "ipa": "/lɝn/",
+          "zh": "學習"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "單字"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-7",
+      "date": "2026-08-23",
+      "category": "homework",
+      "en": "Which problem was the tricky one?",
+      "zh": "哪一題比較難？",
+      "ipa": "/wɪtʃ ˈprɑbləm wʌz ðə ˈtrɪki wʌn/",
+      "vocab": [
+        {
+          "w": "problem",
+          "pos": "n.",
+          "ipa": "/ˈprɑbləm/",
+          "zh": "題目、問題"
+        },
+        {
+          "w": "tricky",
+          "pos": "adj.",
+          "ipa": "/ˈtrɪki/",
+          "zh": "棘手的、有難度的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-8",
+      "date": "2026-08-23",
+      "category": "toys-sharing",
+      "en": "Can your brother play with it too?",
+      "zh": "弟弟也可以一起玩嗎？",
+      "ipa": "/kæn jɔr ˈbrʌðɚ ple wɪð ɪt tu/",
+      "vocab": [
+        {
+          "w": "brother",
+          "pos": "n.",
+          "ipa": "/ˈbrʌðɚ/",
+          "zh": "兄弟"
+        },
+        {
+          "w": "play with",
+          "pos": "phr.",
+          "ipa": "/ple wɪð/",
+          "zh": "玩（某物）"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-9",
+      "date": "2026-08-23",
+      "category": "emotions",
+      "en": "Do you want space or a hug?",
+      "zh": "你想自己靜一下，還是要抱抱？",
+      "ipa": "/du ju wɑnt spes ɔr ə hʌɡ/",
+      "vocab": [
+        {
+          "w": "space",
+          "pos": "n.",
+          "ipa": "/spes/",
+          "zh": "空間、獨處的時間"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-10",
+      "date": "2026-08-23",
+      "category": "discipline",
+      "en": "You can be upset, but not rude.",
+      "zh": "你可以難過，但不可以沒禮貌。",
+      "ipa": "/ju kæn bi ʌpˈsɛt bʌt nɑt rud/",
+      "vocab": [
+        {
+          "w": "upset",
+          "pos": "adj.",
+          "ipa": "/ʌpˈsɛt/",
+          "zh": "難過的、不高興的"
+        },
+        {
+          "w": "rude",
+          "pos": "adj.",
+          "ipa": "/rud/",
+          "zh": "沒禮貌的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-11",
+      "date": "2026-08-23",
+      "category": "praise",
+      "en": "You stayed focused the whole time.",
+      "zh": "你從頭到尾都很專心。",
+      "ipa": "/ju sted ˈfokəst ðə hol taɪm/",
+      "vocab": [
+        {
+          "w": "focused",
+          "pos": "adj.",
+          "ipa": "/ˈfokəst/",
+          "zh": "專注的"
+        },
+        {
+          "w": "whole",
+          "pos": "adj.",
+          "ipa": "/hol/",
+          "zh": "整個的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-12",
+      "date": "2026-08-23",
+      "category": "safety",
+      "en": "Sit down while the bus is moving.",
+      "zh": "公車在開的時候要坐好。",
+      "ipa": "/sɪt daʊn waɪl ðə bʌs ɪz ˈmuvɪŋ/",
+      "vocab": [
+        {
+          "w": "while",
+          "pos": "conj.",
+          "ipa": "/waɪl/",
+          "zh": "當…的時候"
+        },
+        {
+          "w": "moving",
+          "pos": "adj.",
+          "ipa": "/ˈmuvɪŋ/",
+          "zh": "行進中的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-13",
+      "date": "2026-08-23",
+      "category": "health",
+      "en": "Show me where it hurts.",
+      "zh": "指給我看哪裡痛。",
+      "ipa": "/ʃo mi wɛr ɪt hɝts/",
+      "vocab": [
+        {
+          "w": "hurt",
+          "pos": "v.",
+          "ipa": "/hɝt/",
+          "zh": "疼痛"
+        },
+        {
+          "w": "show",
+          "pos": "v.",
+          "ipa": "/ʃo/",
+          "zh": "指給…看"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-14",
+      "date": "2026-08-23",
+      "category": "relatives",
+      "en": "Grandpa wants to show you his garden.",
+      "zh": "爺爺想帶你去看他的菜園。",
+      "ipa": "/ˈɡrænpɑ wɑnts tu ʃo ju hɪz ˈɡɑrdən/",
+      "vocab": [
+        {
+          "w": "garden",
+          "pos": "n.",
+          "ipa": "/ˈɡɑrdən/",
+          "zh": "花園、菜園"
+        },
+        {
+          "w": "want to",
+          "pos": "phr.",
+          "ipa": "/wɑnt tu/",
+          "zh": "想要"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-15",
+      "date": "2026-08-23",
+      "category": "friends",
+      "en": "Let's save a seat for your friend.",
+      "zh": "我們幫你朋友留個位子。",
+      "ipa": "/lɛts sev ə sit fɔr jɔr frɛnd/",
+      "vocab": [
+        {
+          "w": "save",
+          "pos": "v.",
+          "ipa": "/sev/",
+          "zh": "保留"
+        },
+        {
+          "w": "seat",
+          "pos": "n.",
+          "ipa": "/sit/",
+          "zh": "座位"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-16",
+      "date": "2026-08-23",
+      "category": "manners",
+      "en": "Give the toy back with both hands.",
+      "zh": "用雙手把玩具還給人家。",
+      "ipa": "/ɡɪv ðə tɔɪ bæk wɪð boθ hændz/",
+      "vocab": [
+        {
+          "w": "give back",
+          "pos": "phr.",
+          "ipa": "/ɡɪv bæk/",
+          "zh": "歸還"
+        },
+        {
+          "w": "both",
+          "pos": "adj.",
+          "ipa": "/boθ/",
+          "zh": "兩個、雙"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-17",
+      "date": "2026-08-23",
+      "category": "weather",
+      "en": "The puddles are deep, walk around them.",
+      "zh": "水窪很深，繞過去走。",
+      "ipa": "/ðə ˈpʌdəlz ɑr dip wɔk əˈraʊnd ðɛm/",
+      "vocab": [
+        {
+          "w": "puddles",
+          "pos": "n.",
+          "ipa": "/ˈpʌdəlz/",
+          "zh": "水窪"
+        },
+        {
+          "w": "walk around",
+          "pos": "phr.",
+          "ipa": "/wɔk əˈraʊnd/",
+          "zh": "繞過去"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-18",
+      "date": "2026-08-23",
+      "category": "screen-time",
+      "en": "Let's finish this show tomorrow instead.",
+      "zh": "這部我們明天再看完。",
+      "ipa": "/lɛts ˈfɪnɪʃ ðɪs ʃo təˈmɑro ɪnˈstɛd/",
+      "vocab": [
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "看完、完成"
+        },
+        {
+          "w": "instead",
+          "pos": "adv.",
+          "ipa": "/ɪnˈstɛd/",
+          "zh": "改為、作為替代"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-19",
+      "date": "2026-08-23",
+      "category": "celebrations",
+      "en": "Let's write your name on the card.",
+      "zh": "我們在卡片上寫上你的名字。",
+      "ipa": "/lɛts raɪt jɔr nem ɑn ðə kɑrd/",
+      "vocab": [
+        {
+          "w": "write",
+          "pos": "v.",
+          "ipa": "/raɪt/",
+          "zh": "寫"
+        },
+        {
+          "w": "card",
+          "pos": "n.",
+          "ipa": "/kɑrd/",
+          "zh": "卡片"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-23-20",
+      "date": "2026-08-23",
+      "category": "reading",
+      "en": "Close the book and tell me the ending.",
+      "zh": "把書合起來，跟我說結局。",
+      "ipa": "/kloz ðə bʊk ænd tɛl mi ðə ˈɛndɪŋ/",
+      "vocab": [
+        {
+          "w": "close",
+          "pos": "v.",
+          "ipa": "/kloz/",
+          "zh": "合上、關上"
+        },
+        {
+          "w": "ending",
+          "pos": "n.",
+          "ipa": "/ˈɛndɪŋ/",
+          "zh": "結局"
+        }
+      ]
+    }
+  ]
+}
