@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-25",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-25-1",
+      "date": "2026-08-25",
+      "category": "daily-routine",
+      "en": "Let's pick out tomorrow's clothes tonight.",
+      "zh": "我們今晚先挑好明天的衣服。",
+      "ipa": "/lɛts pɪk aʊt təˈmɑroz kloz təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "pick out",
+          "pos": "phr.",
+          "ipa": "/pɪk aʊt/",
+          "zh": "挑選"
+        },
+        {
+          "w": "clothes",
+          "pos": "n.",
+          "ipa": "/kloz/",
+          "zh": "衣服"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-2",
+      "date": "2026-08-25",
+      "category": "meals",
+      "en": "Save a little room for fruit.",
+      "zh": "留一點肚子吃水果。",
+      "ipa": "/sev ə ˈlɪtəl rum fɔr frut/",
+      "vocab": [
+        {
+          "w": "save room",
+          "pos": "phr.",
+          "ipa": "/sev rum/",
+          "zh": "留點肚子"
+        },
+        {
+          "w": "fruit",
+          "pos": "n.",
+          "ipa": "/frut/",
+          "zh": "水果"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-3",
+      "date": "2026-08-25",
+      "category": "bath-bedtime",
+      "en": "Your pajamas are on the bed.",
+      "zh": "你的睡衣放在床上了。",
+      "ipa": "/jɔr pəˈdʒɑməz ɑr ɑn ðə bɛd/",
+      "vocab": [
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒɑməz/",
+          "zh": "睡衣"
+        },
+        {
+          "w": "bed",
+          "pos": "n.",
+          "ipa": "/bɛd/",
+          "zh": "床"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-4",
+      "date": "2026-08-25",
+      "category": "outings",
+      "en": "Put your ticket in your pocket.",
+      "zh": "把票放進你的口袋。",
+      "ipa": "/pʊt jɔr ˈtɪkɪt ɪn jɔr ˈpɑkɪt/",
+      "vocab": [
+        {
+          "w": "ticket",
+          "pos": "n.",
+          "ipa": "/ˈtɪkɪt/",
+          "zh": "票"
+        },
+        {
+          "w": "pocket",
+          "pos": "n.",
+          "ipa": "/ˈpɑkɪt/",
+          "zh": "口袋"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-5",
+      "date": "2026-08-25",
+      "category": "playground",
+      "en": "Roll the ball back to your friend.",
+      "zh": "把球滾回去給你的朋友。",
+      "ipa": "/rol ðə bɔl bæk tu jɔr frɛnd/",
+      "vocab": [
+        {
+          "w": "roll",
+          "pos": "v.",
+          "ipa": "/rol/",
+          "zh": "滾動"
+        },
+        {
+          "w": "ball",
+          "pos": "n.",
+          "ipa": "/bɔl/",
+          "zh": "球"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-6",
+      "date": "2026-08-25",
+      "category": "school",
+      "en": "Show me what you made today.",
+      "zh": "給我看看你今天做了什麼。",
+      "ipa": "/ʃo mi wʌt ju med təˈde/",
+      "vocab": [
+        {
+          "w": "show",
+          "pos": "v.",
+          "ipa": "/ʃo/",
+          "zh": "展示、給⋯⋯看"
+        },
+        {
+          "w": "made",
+          "pos": "v.",
+          "ipa": "/med/",
+          "zh": "做（make 的過去式）"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-7",
+      "date": "2026-08-25",
+      "category": "homework",
+      "en": "Put your finished paper in the folder.",
+      "zh": "把寫完的考卷放進資料夾。",
+      "ipa": "/pʊt jɔr ˈfɪnɪʃt ˈpepɚ ɪn ðə ˈfoldɚ/",
+      "vocab": [
+        {
+          "w": "finished",
+          "pos": "adj.",
+          "ipa": "/ˈfɪnɪʃt/",
+          "zh": "完成的"
+        },
+        {
+          "w": "folder",
+          "pos": "n.",
+          "ipa": "/ˈfoldɚ/",
+          "zh": "資料夾"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-8",
+      "date": "2026-08-25",
+      "category": "toys-sharing",
+      "en": "You can trade toys with him.",
+      "zh": "你可以跟他交換玩具。",
+      "ipa": "/ju kæn tred tɔɪz wɪð hɪm/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "toy",
+          "pos": "n.",
+          "ipa": "/tɔɪ/",
+          "zh": "玩具"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-9",
+      "date": "2026-08-25",
+      "category": "emotions",
+      "en": "It's okay to feel upset.",
+      "zh": "覺得難過是沒關係的。",
+      "ipa": "/ɪts oˈke tu fil ʌpˈsɛt/",
+      "vocab": [
+        {
+          "w": "upset",
+          "pos": "adj.",
+          "ipa": "/ʌpˈsɛt/",
+          "zh": "難過的、不開心的"
+        },
+        {
+          "w": "feel",
+          "pos": "v.",
+          "ipa": "/fil/",
+          "zh": "感覺"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-10",
+      "date": "2026-08-25",
+      "category": "discipline",
+      "en": "I will count to three, then we go.",
+      "zh": "我數到三，我們就走。",
+      "ipa": "/aɪ wɪl kaʊnt tu θri ðɛn wi ɡo/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數數"
+        },
+        {
+          "w": "three",
+          "pos": "n.",
+          "ipa": "/θri/",
+          "zh": "三"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-11",
+      "date": "2026-08-25",
+      "category": "praise",
+      "en": "Your handwriting looks much neater today.",
+      "zh": "你今天的字寫得整齊多了。",
+      "ipa": "/jɔr ˈhændˌraɪtɪŋ lʊks mʌtʃ ˈnitɚ təˈde/",
+      "vocab": [
+        {
+          "w": "handwriting",
+          "pos": "n.",
+          "ipa": "/ˈhændˌraɪtɪŋ/",
+          "zh": "字跡"
+        },
+        {
+          "w": "neat",
+          "pos": "adj.",
+          "ipa": "/nit/",
+          "zh": "整齊的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-12",
+      "date": "2026-08-25",
+      "category": "safety",
+      "en": "Don't pet the dog without asking.",
+      "zh": "沒問過就不要摸狗狗。",
+      "ipa": "/dont pɛt ðə dɔɡ wɪˈðaʊt ˈæskɪŋ/",
+      "vocab": [
+        {
+          "w": "pet",
+          "pos": "v.",
+          "ipa": "/pɛt/",
+          "zh": "撫摸"
+        },
+        {
+          "w": "without",
+          "pos": "prep.",
+          "ipa": "/wɪˈðaʊt/",
+          "zh": "沒有、未經"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-13",
+      "date": "2026-08-25",
+      "category": "health",
+      "en": "Rinse your mouth after the medicine.",
+      "zh": "吃完藥要漱漱口。",
+      "ipa": "/rɪns jɔr maʊθ ˈæftɚ ðə ˈmɛdəsən/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗、漱"
+        },
+        {
+          "w": "medicine",
+          "pos": "n.",
+          "ipa": "/ˈmɛdəsən/",
+          "zh": "藥"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-14",
+      "date": "2026-08-25",
+      "category": "relatives",
+      "en": "Ask Grandpa what he was like as a kid.",
+      "zh": "問問爺爺他小時候是什麼樣子。",
+      "ipa": "/æsk ˈɡrænpɑ wʌt hi wʌz laɪk æz ə kɪd/",
+      "vocab": [
+        {
+          "w": "grandpa",
+          "pos": "n.",
+          "ipa": "/ˈɡrænpɑ/",
+          "zh": "爺爺、外公"
+        },
+        {
+          "w": "as a kid",
+          "pos": "phr.",
+          "ipa": "/æz ə kɪd/",
+          "zh": "小時候"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-15",
+      "date": "2026-08-25",
+      "category": "friends",
+      "en": "Ask if you can join them.",
+      "zh": "問問看你可不可以加入他們。",
+      "ipa": "/æsk ɪf ju kæn dʒɔɪn ðɛm/",
+      "vocab": [
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        },
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "詢問"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-16",
+      "date": "2026-08-25",
+      "category": "manners",
+      "en": "Wipe your feet on the mat, please.",
+      "zh": "請在踏墊上把腳擦一擦。",
+      "ipa": "/waɪp jɔr fit ɑn ðə mæt pliz/",
+      "vocab": [
+        {
+          "w": "wipe",
+          "pos": "v.",
+          "ipa": "/waɪp/",
+          "zh": "擦拭"
+        },
+        {
+          "w": "mat",
+          "pos": "n.",
+          "ipa": "/mæt/",
+          "zh": "踏墊"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-17",
+      "date": "2026-08-25",
+      "category": "weather",
+      "en": "Shake the rain off your umbrella.",
+      "zh": "把傘上的雨水甩一甩。",
+      "ipa": "/ʃek ðə ren ɔf jɔr ʌmˈbrɛlə/",
+      "vocab": [
+        {
+          "w": "shake off",
+          "pos": "phr.",
+          "ipa": "/ʃek ɔf/",
+          "zh": "甩掉"
+        },
+        {
+          "w": "umbrella",
+          "pos": "n.",
+          "ipa": "/ʌmˈbrɛlə/",
+          "zh": "雨傘"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-18",
+      "date": "2026-08-25",
+      "category": "screen-time",
+      "en": "Ask me before you download anything.",
+      "zh": "要下載東西之前先問我。",
+      "ipa": "/æsk mi bɪˈfɔr ju ˈdaʊnˌlod ˈɛniˌθɪŋ/",
+      "vocab": [
+        {
+          "w": "download",
+          "pos": "v.",
+          "ipa": "/ˈdaʊnˌlod/",
+          "zh": "下載"
+        },
+        {
+          "w": "before",
+          "pos": "conj.",
+          "ipa": "/bɪˈfɔr/",
+          "zh": "在⋯⋯之前"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-19",
+      "date": "2026-08-25",
+      "category": "celebrations",
+      "en": "Let's pick up the wrapping paper.",
+      "zh": "我們把包裝紙收一收。",
+      "ipa": "/lɛts pɪk ʌp ðə ˈræpɪŋ ˈpepɚ/",
+      "vocab": [
+        {
+          "w": "wrapping paper",
+          "pos": "n.",
+          "ipa": "/ˈræpɪŋ ˈpepɚ/",
+          "zh": "包裝紙"
+        },
+        {
+          "w": "pick up",
+          "pos": "phr.",
+          "ipa": "/pɪk ʌp/",
+          "zh": "撿起、收拾"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-20",
+      "date": "2026-08-25",
+      "category": "reading",
+      "en": "Use the bookmark to save our page.",
+      "zh": "用書籤把我們的頁面夾起來。",
+      "ipa": "/juz ðə ˈbʊkˌmɑrk tu sev aʊr pedʒ/",
+      "vocab": [
+        {
+          "w": "bookmark",
+          "pos": "n.",
+          "ipa": "/ˈbʊkˌmɑrk/",
+          "zh": "書籤"
+        },
+        {
+          "w": "page",
+          "pos": "n.",
+          "ipa": "/pedʒ/",
+          "zh": "頁"
+        }
+      ]
+    }
+  ]
+}
