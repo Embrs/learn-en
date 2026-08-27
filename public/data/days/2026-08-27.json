@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-27",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-27-1",
+      "date": "2026-08-27",
+      "category": "daily-routine",
+      "en": "Time to pick out your clothes.",
+      "zh": "該挑今天要穿的衣服囉。",
+      "ipa": "/taɪm tu pɪk aʊt jɔr kloz/",
+      "vocab": [
+        {
+          "w": "pick out",
+          "pos": "phr.",
+          "ipa": "/pɪk aʊt/",
+          "zh": "挑選"
+        },
+        {
+          "w": "clothes",
+          "pos": "n.",
+          "ipa": "/kloz/",
+          "zh": "衣服"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-2",
+      "date": "2026-08-27",
+      "category": "meals",
+      "en": "Take one more bite of your veggies.",
+      "zh": "蔬菜再吃一口好嗎。",
+      "ipa": "/tek wʌn mɔr baɪt ʌv jɔr ˈvɛdʒiz/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "veggies",
+          "pos": "n.",
+          "ipa": "/ˈvɛdʒiz/",
+          "zh": "蔬菜（口語說法）"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-3",
+      "date": "2026-08-27",
+      "category": "bath-bedtime",
+      "en": "Let me rinse the bubbles off your back.",
+      "zh": "我幫你把背上的泡泡沖掉。",
+      "ipa": "/lɛt mi rɪns ðə ˈbʌbəlz ɔf jɔr bæk/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "bubble",
+          "pos": "n.",
+          "ipa": "/ˈbʌbəl/",
+          "zh": "泡泡"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-4",
+      "date": "2026-08-27",
+      "category": "outings",
+      "en": "We're taking the train to the zoo.",
+      "zh": "我們要搭火車去動物園。",
+      "ipa": "/wɪr ˈtekɪŋ ðə tren tu ðə zu/",
+      "vocab": [
+        {
+          "w": "take the train",
+          "pos": "phr.",
+          "ipa": "/tek ðə tren/",
+          "zh": "搭火車"
+        },
+        {
+          "w": "zoo",
+          "pos": "n.",
+          "ipa": "/zu/",
+          "zh": "動物園"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-5",
+      "date": "2026-08-27",
+      "category": "playground",
+      "en": "Hold the rope tight while you climb.",
+      "zh": "爬的時候繩子要抓緊。",
+      "ipa": "/hold ðə rop taɪt waɪl ju klaɪm/",
+      "vocab": [
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "tight",
+          "pos": "adv.",
+          "ipa": "/taɪt/",
+          "zh": "緊緊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-6",
+      "date": "2026-08-27",
+      "category": "school",
+      "en": "Put your name tag on your backpack.",
+      "zh": "把名牌別在書包上。",
+      "ipa": "/pʊt jɔr nem tæɡ ɑn jɔr ˈbækˌpæk/",
+      "vocab": [
+        {
+          "w": "name tag",
+          "pos": "n.",
+          "ipa": "/nem tæɡ/",
+          "zh": "名牌"
+        },
+        {
+          "w": "backpack",
+          "pos": "n.",
+          "ipa": "/ˈbækˌpæk/",
+          "zh": "背包、書包"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-7",
+      "date": "2026-08-27",
+      "category": "homework",
+      "en": "Erase it gently so the paper won't tear.",
+      "zh": "輕輕擦，紙才不會破。",
+      "ipa": "/ɪˈres ɪt ˈdʒɛntli so ðə ˈpepɚ wont tɛr/",
+      "vocab": [
+        {
+          "w": "erase",
+          "pos": "v.",
+          "ipa": "/ɪˈres/",
+          "zh": "擦掉"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "輕輕地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-8",
+      "date": "2026-08-27",
+      "category": "toys-sharing",
+      "en": "You can play with it after her.",
+      "zh": "等她玩完就換你玩。",
+      "ipa": "/ju kæn ple wɪð ɪt ˈæftɚ hɝ/",
+      "vocab": [
+        {
+          "w": "play with",
+          "pos": "phr.",
+          "ipa": "/ple wɪð/",
+          "zh": "玩（某樣東西）"
+        },
+        {
+          "w": "after",
+          "pos": "prep.",
+          "ipa": "/ˈæftɚ/",
+          "zh": "在……之後"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-9",
+      "date": "2026-08-27",
+      "category": "emotions",
+      "en": "Let's take three slow breaths together.",
+      "zh": "我們一起慢慢深呼吸三次。",
+      "ipa": "/lɛts tek θri slo brɛθs təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "breath",
+          "pos": "n.",
+          "ipa": "/brɛθ/",
+          "zh": "呼吸"
+        },
+        {
+          "w": "slow",
+          "pos": "adj.",
+          "ipa": "/slo/",
+          "zh": "慢的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-10",
+      "date": "2026-08-27",
+      "category": "discipline",
+      "en": "We don't throw things indoors.",
+      "zh": "在室內我們不丟東西。",
+      "ipa": "/wi dont θro θɪŋz ˈɪnˈdɔrz/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟、扔"
+        },
+        {
+          "w": "indoors",
+          "pos": "adv.",
+          "ipa": "/ˈɪnˈdɔrz/",
+          "zh": "在室內"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-11",
+      "date": "2026-08-27",
+      "category": "praise",
+      "en": "Nobody could have guessed that but you.",
+      "zh": "只有你猜得到耶。",
+      "ipa": "/ˈnobɑdi kʊd hæv ɡɛst ðæt bʌt ju/",
+      "vocab": [
+        {
+          "w": "guess",
+          "pos": "v.",
+          "ipa": "/ɡɛs/",
+          "zh": "猜"
+        },
+        {
+          "w": "nobody",
+          "pos": "pron.",
+          "ipa": "/ˈnobɑdi/",
+          "zh": "沒有人"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-12",
+      "date": "2026-08-27",
+      "category": "safety",
+      "en": "Buckle up before we drive off.",
+      "zh": "開車前先把安全帶扣好。",
+      "ipa": "/ˈbʌkəl ʌp bɪˈfɔr wi draɪv ɔf/",
+      "vocab": [
+        {
+          "w": "buckle up",
+          "pos": "phr.",
+          "ipa": "/ˈbʌkəl ʌp/",
+          "zh": "繫安全帶"
+        },
+        {
+          "w": "drive off",
+          "pos": "phr.",
+          "ipa": "/draɪv ɔf/",
+          "zh": "開車出發"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-13",
+      "date": "2026-08-27",
+      "category": "health",
+      "en": "Hold still while I take your temperature.",
+      "zh": "我量體溫，你先別動。",
+      "ipa": "/hold stɪl waɪl aɪ tek jɔr ˈtɛmprətʃɚ/",
+      "vocab": [
+        {
+          "w": "hold still",
+          "pos": "phr.",
+          "ipa": "/hold stɪl/",
+          "zh": "保持不動"
+        },
+        {
+          "w": "temperature",
+          "pos": "n.",
+          "ipa": "/ˈtɛmprətʃɚ/",
+          "zh": "體溫"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-14",
+      "date": "2026-08-27",
+      "category": "relatives",
+      "en": "Uncle wants to hear about your day.",
+      "zh": "叔叔想聽你今天發生的事。",
+      "ipa": "/ˈʌŋkəl wɑnts tu hɪr əˈbaʊt jɔr de/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkəl/",
+          "zh": "叔叔、舅舅"
+        },
+        {
+          "w": "hear about",
+          "pos": "phr.",
+          "ipa": "/hɪr əˈbaʊt/",
+          "zh": "聽說、聽聽關於"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-15",
+      "date": "2026-08-27",
+      "category": "friends",
+      "en": "Invite your friend over this weekend.",
+      "zh": "這週末請你的朋友來家裡玩。",
+      "ipa": "/ɪnˈvaɪt jɔr frɛnd ˈovɚ ðɪs ˈwikˌɛnd/",
+      "vocab": [
+        {
+          "w": "invite over",
+          "pos": "phr.",
+          "ipa": "/ɪnˈvaɪt ˈovɚ/",
+          "zh": "邀請到家裡"
+        },
+        {
+          "w": "weekend",
+          "pos": "n.",
+          "ipa": "/ˈwikˌɛnd/",
+          "zh": "週末"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-16",
+      "date": "2026-08-27",
+      "category": "manners",
+      "en": "Wait until everyone is seated.",
+      "zh": "等大家都坐好再開始。",
+      "ipa": "/wet ənˈtɪl ˈɛvriˌwʌn ɪz ˈsitɪd/",
+      "vocab": [
+        {
+          "w": "until",
+          "pos": "conj.",
+          "ipa": "/ənˈtɪl/",
+          "zh": "直到"
+        },
+        {
+          "w": "seated",
+          "pos": "adj.",
+          "ipa": "/ˈsitɪd/",
+          "zh": "就座的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-17",
+      "date": "2026-08-27",
+      "category": "weather",
+      "en": "Grab your umbrella, it looks cloudy.",
+      "zh": "帶把傘吧，天看起來陰陰的。",
+      "ipa": "/ɡræb jɔr ʌmˈbrɛlə, ɪt lʊks ˈklaʊdi/",
+      "vocab": [
+        {
+          "w": "umbrella",
+          "pos": "n.",
+          "ipa": "/ʌmˈbrɛlə/",
+          "zh": "雨傘"
+        },
+        {
+          "w": "cloudy",
+          "pos": "adj.",
+          "ipa": "/ˈklaʊdi/",
+          "zh": "多雲的、陰的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-18",
+      "date": "2026-08-27",
+      "category": "screen-time",
+      "en": "Screens go away during dinner.",
+      "zh": "吃飯的時候３Ｃ要收起來。",
+      "ipa": "/skrinz ɡo əˈwe ˈdʊrɪŋ ˈdɪnɚ/",
+      "vocab": [
+        {
+          "w": "screen",
+          "pos": "n.",
+          "ipa": "/skrin/",
+          "zh": "螢幕"
+        },
+        {
+          "w": "during",
+          "pos": "prep.",
+          "ipa": "/ˈdʊrɪŋ/",
+          "zh": "在……期間"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-19",
+      "date": "2026-08-27",
+      "category": "celebrations",
+      "en": "Let's write a card for the birthday girl.",
+      "zh": "我們來寫張卡片給小壽星。",
+      "ipa": "/lɛts raɪt ə kɑrd fɔr ðə ˈbɝθˌde ɡɝl/",
+      "vocab": [
+        {
+          "w": "card",
+          "pos": "n.",
+          "ipa": "/kɑrd/",
+          "zh": "卡片"
+        },
+        {
+          "w": "birthday",
+          "pos": "n.",
+          "ipa": "/ˈbɝθˌde/",
+          "zh": "生日"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-27-20",
+      "date": "2026-08-27",
+      "category": "reading",
+      "en": "Point to the word as I read.",
+      "zh": "我念的時候你用手指字。",
+      "ipa": "/pɔɪnt tu ðə wɝd æz aɪ rid/",
+      "vocab": [
+        {
+          "w": "point to",
+          "pos": "phr.",
+          "ipa": "/pɔɪnt tu/",
+          "zh": "指向"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "字、單字"
+        }
+      ]
+    }
+  ]
+}
