@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-28",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-28-1",
+      "date": "2026-08-28",
+      "category": "daily-routine",
+      "en": "Don't forget to make your bed.",
+      "zh": "別忘了把床鋪整理好。",
+      "ipa": "/dont fɚˈɡɛt tu mek jɔr bɛd/",
+      "vocab": [
+        {
+          "w": "forget",
+          "pos": "v.",
+          "ipa": "/fɚˈɡɛt/",
+          "zh": "忘記"
+        },
+        {
+          "w": "make the bed",
+          "pos": "phr.",
+          "ipa": "/mek ðə bɛd/",
+          "zh": "整理床鋪"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-2",
+      "date": "2026-08-28",
+      "category": "meals",
+      "en": "Please chew slowly and enjoy it.",
+      "zh": "請慢慢嚼，好好享受。",
+      "ipa": "/pliz tʃu ˈsloli ænd ɪnˈdʒɔɪ ɪt/",
+      "vocab": [
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        },
+        {
+          "w": "slowly",
+          "pos": "adv.",
+          "ipa": "/ˈsloli/",
+          "zh": "慢慢地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-3",
+      "date": "2026-08-28",
+      "category": "bath-bedtime",
+      "en": "Your towel is warm from the dryer.",
+      "zh": "你的毛巾剛烘好，暖暖的。",
+      "ipa": "/jɔr ˈtaʊəl ɪz wɔrm frʌm ðə ˈdraɪɚ/",
+      "vocab": [
+        {
+          "w": "towel",
+          "pos": "n.",
+          "ipa": "/ˈtaʊəl/",
+          "zh": "毛巾"
+        },
+        {
+          "w": "dryer",
+          "pos": "n.",
+          "ipa": "/ˈdraɪɚ/",
+          "zh": "烘乾機"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-4",
+      "date": "2026-08-28",
+      "category": "outings",
+      "en": "Let's roll down the windows a little.",
+      "zh": "我們把車窗搖下來一點。",
+      "ipa": "/lɛts rol daʊn ðə ˈwɪndoz ə ˈlɪtəl/",
+      "vocab": [
+        {
+          "w": "roll down",
+          "pos": "phr.",
+          "ipa": "/rol daʊn/",
+          "zh": "（把車窗）搖下來"
+        },
+        {
+          "w": "window",
+          "pos": "n.",
+          "ipa": "/ˈwɪndo/",
+          "zh": "窗戶"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-5",
+      "date": "2026-08-28",
+      "category": "playground",
+      "en": "Hold the rope tight with both hands.",
+      "zh": "兩隻手把繩子抓緊喔。",
+      "ipa": "/hold ðə rop taɪt wɪð boθ hændz/",
+      "vocab": [
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "tight",
+          "pos": "adv.",
+          "ipa": "/taɪt/",
+          "zh": "緊緊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-6",
+      "date": "2026-08-28",
+      "category": "school",
+      "en": "Show me your drawing from art class.",
+      "zh": "給我看看你美術課畫的圖。",
+      "ipa": "/ʃo mi jɔr ˈdrɔɪŋ frʌm ɑrt klæs/",
+      "vocab": [
+        {
+          "w": "drawing",
+          "pos": "n.",
+          "ipa": "/ˈdrɔɪŋ/",
+          "zh": "圖畫"
+        },
+        {
+          "w": "art class",
+          "pos": "n.",
+          "ipa": "/ɑrt klæs/",
+          "zh": "美術課"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-7",
+      "date": "2026-08-28",
+      "category": "homework",
+      "en": "Sit at the desk, not the couch.",
+      "zh": "坐在書桌前寫，不要坐沙發。",
+      "ipa": "/sɪt æt ðə dɛsk, nɑt ðə kaʊtʃ/",
+      "vocab": [
+        {
+          "w": "desk",
+          "pos": "n.",
+          "ipa": "/dɛsk/",
+          "zh": "書桌"
+        },
+        {
+          "w": "couch",
+          "pos": "n.",
+          "ipa": "/kaʊtʃ/",
+          "zh": "沙發"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-8",
+      "date": "2026-08-28",
+      "category": "toys-sharing",
+      "en": "Can you let her borrow your blocks?",
+      "zh": "可以借她玩你的積木嗎？",
+      "ipa": "/kæn ju lɛt hɚ ˈbɑro jɔr blɑks/",
+      "vocab": [
+        {
+          "w": "borrow",
+          "pos": "v.",
+          "ipa": "/ˈbɑro/",
+          "zh": "借（借入）"
+        },
+        {
+          "w": "blocks",
+          "pos": "n.",
+          "ipa": "/blɑks/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-9",
+      "date": "2026-08-28",
+      "category": "emotions",
+      "en": "You don't have to smile if you're sad.",
+      "zh": "難過的時候不用勉強笑。",
+      "ipa": "/ju dont hæv tu smaɪl ɪf jʊr sæd/",
+      "vocab": [
+        {
+          "w": "smile",
+          "pos": "v.",
+          "ipa": "/smaɪl/",
+          "zh": "微笑"
+        },
+        {
+          "w": "sad",
+          "pos": "adj.",
+          "ipa": "/sæd/",
+          "zh": "難過的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-10",
+      "date": "2026-08-28",
+      "category": "discipline",
+      "en": "One warning, then the toy goes away.",
+      "zh": "先警告一次，再犯玩具就收起來。",
+      "ipa": "/wʌn ˈwɔrnɪŋ, ðɛn ðə tɔɪ ɡoz əˈwe/",
+      "vocab": [
+        {
+          "w": "warning",
+          "pos": "n.",
+          "ipa": "/ˈwɔrnɪŋ/",
+          "zh": "警告"
+        },
+        {
+          "w": "go away",
+          "pos": "phr.",
+          "ipa": "/ɡo əˈwe/",
+          "zh": "被收走、離開"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-11",
+      "date": "2026-08-28",
+      "category": "praise",
+      "en": "You put your shoes on the right feet!",
+      "zh": "你把鞋子左右腳穿對了耶！",
+      "ipa": "/ju pʊt jɔr ʃuz ɑn ðə raɪt fit/",
+      "vocab": [
+        {
+          "w": "right",
+          "pos": "adj.",
+          "ipa": "/raɪt/",
+          "zh": "正確的"
+        },
+        {
+          "w": "feet",
+          "pos": "n.",
+          "ipa": "/fit/",
+          "zh": "腳（複數）"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-12",
+      "date": "2026-08-28",
+      "category": "safety",
+      "en": "Sit all the way back in your seat.",
+      "zh": "整個人往後坐好在椅子裡。",
+      "ipa": "/sɪt ɔl ðə we bæk ɪn jɔr sit/",
+      "vocab": [
+        {
+          "w": "all the way",
+          "pos": "phr.",
+          "ipa": "/ɔl ðə we/",
+          "zh": "完全地、到底"
+        },
+        {
+          "w": "seat",
+          "pos": "n.",
+          "ipa": "/sit/",
+          "zh": "座位"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-13",
+      "date": "2026-08-28",
+      "category": "health",
+      "en": "Spit out the toothpaste, don't swallow.",
+      "zh": "牙膏要吐掉，不可以吞下去。",
+      "ipa": "/spɪt aʊt ðə ˈtuθpest, dont ˈswɑlo/",
+      "vocab": [
+        {
+          "w": "spit out",
+          "pos": "phr.",
+          "ipa": "/spɪt aʊt/",
+          "zh": "吐出來"
+        },
+        {
+          "w": "swallow",
+          "pos": "v.",
+          "ipa": "/ˈswɑlo/",
+          "zh": "吞下"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-14",
+      "date": "2026-08-28",
+      "category": "relatives",
+      "en": "Give Grandma a big hug goodbye.",
+      "zh": "跟奶奶抱一個大大的再見。",
+      "ipa": "/ɡɪv ˈɡrænmɑ ə bɪɡ hʌɡ ˌɡʊdˈbaɪ/",
+      "vocab": [
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        },
+        {
+          "w": "goodbye",
+          "pos": "n.",
+          "ipa": "/ˌɡʊdˈbaɪ/",
+          "zh": "再見"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-15",
+      "date": "2026-08-28",
+      "category": "friends",
+      "en": "Your friend is waiting for his turn.",
+      "zh": "你的朋友在等輪到他喔。",
+      "ipa": "/jɔr frɛnd ɪz ˈwetɪŋ fɔr hɪz tɝn/",
+      "vocab": [
+        {
+          "w": "wait for",
+          "pos": "phr.",
+          "ipa": "/wet fɔr/",
+          "zh": "等待"
+        },
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪到的一次"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-16",
+      "date": "2026-08-28",
+      "category": "manners",
+      "en": "Say excuse me when you need to pass.",
+      "zh": "要經過的時候說聲不好意思。",
+      "ipa": "/se ɪkˈskjuz mi wɛn ju nid tu pæs/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "不好意思、借過"
+        },
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "通過、經過"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-17",
+      "date": "2026-08-28",
+      "category": "weather",
+      "en": "The wind is strong, hold your hat.",
+      "zh": "風好大，帽子要壓好。",
+      "ipa": "/ðə wɪnd ɪz strɔŋ, hold jɔr hæt/",
+      "vocab": [
+        {
+          "w": "wind",
+          "pos": "n.",
+          "ipa": "/wɪnd/",
+          "zh": "風"
+        },
+        {
+          "w": "strong",
+          "pos": "adj.",
+          "ipa": "/strɔŋ/",
+          "zh": "強的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-18",
+      "date": "2026-08-28",
+      "category": "screen-time",
+      "en": "No videos until your teeth are brushed.",
+      "zh": "牙齒刷完才可以看影片。",
+      "ipa": "/no ˈvɪdioz ənˈtɪl jɔr tiθ ɑr brʌʃt/",
+      "vocab": [
+        {
+          "w": "until",
+          "pos": "conj.",
+          "ipa": "/ənˈtɪl/",
+          "zh": "直到……才"
+        },
+        {
+          "w": "brush",
+          "pos": "v.",
+          "ipa": "/brʌʃ/",
+          "zh": "刷"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-19",
+      "date": "2026-08-28",
+      "category": "celebrations",
+      "en": "Help me hang up the paper lanterns.",
+      "zh": "幫我把紙燈籠掛起來。",
+      "ipa": "/hɛlp mi hæŋ ʌp ðə ˈpepɚ ˈlæntɚnz/",
+      "vocab": [
+        {
+          "w": "hang up",
+          "pos": "phr.",
+          "ipa": "/hæŋ ʌp/",
+          "zh": "掛起來"
+        },
+        {
+          "w": "lantern",
+          "pos": "n.",
+          "ipa": "/ˈlæntɚn/",
+          "zh": "燈籠"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-28-20",
+      "date": "2026-08-28",
+      "category": "reading",
+      "en": "Do the voices with me this time.",
+      "zh": "這次跟我一起配聲音演出來。",
+      "ipa": "/du ðə ˈvɔɪsɪz wɪð mi ðɪs taɪm/",
+      "vocab": [
+        {
+          "w": "voice",
+          "pos": "n.",
+          "ipa": "/vɔɪs/",
+          "zh": "聲音、語調"
+        },
+        {
+          "w": "this time",
+          "pos": "phr.",
+          "ipa": "/ðɪs taɪm/",
+          "zh": "這一次"
+        }
+      ]
+    }
+  ]
+}
