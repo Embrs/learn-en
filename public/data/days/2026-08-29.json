@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-29",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-29-1",
+      "date": "2026-08-29",
+      "category": "daily-routine",
+      "en": "Your slippers are by the door.",
+      "zh": "你的拖鞋放在門邊喔。",
+      "ipa": "/jɔr ˈslɪpɚz ɑr baɪ ðə dɔr/",
+      "vocab": [
+        {
+          "w": "slipper",
+          "pos": "n.",
+          "ipa": "/ˈslɪpɚ/",
+          "zh": "拖鞋"
+        },
+        {
+          "w": "by",
+          "pos": "prep.",
+          "ipa": "/baɪ/",
+          "zh": "在⋯⋯旁邊"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-2",
+      "date": "2026-08-29",
+      "category": "meals",
+      "en": "Would you like some more soup?",
+      "zh": "你還想再喝一點湯嗎？",
+      "ipa": "/wʊd ju laɪk sʌm mɔr sup/",
+      "vocab": [
+        {
+          "w": "soup",
+          "pos": "n.",
+          "ipa": "/sup/",
+          "zh": "湯"
+        },
+        {
+          "w": "would like",
+          "pos": "phr.",
+          "ipa": "/wʊd laɪk/",
+          "zh": "想要"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-3",
+      "date": "2026-08-29",
+      "category": "bath-bedtime",
+      "en": "Let's rinse the soap off your back.",
+      "zh": "我們把你背上的泡泡沖掉。",
+      "ipa": "/lɛts rɪns ðə sop ɔf jɔr bæk/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "soap",
+          "pos": "n.",
+          "ipa": "/sop/",
+          "zh": "肥皂"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-4",
+      "date": "2026-08-29",
+      "category": "outings",
+      "en": "The train is coming in five minutes.",
+      "zh": "火車再五分鐘就到了。",
+      "ipa": "/ðə tren ɪz ˈkʌmɪŋ ɪn faɪv ˈmɪnɪts/",
+      "vocab": [
+        {
+          "w": "train",
+          "pos": "n.",
+          "ipa": "/tren/",
+          "zh": "火車"
+        },
+        {
+          "w": "minute",
+          "pos": "n.",
+          "ipa": "/ˈmɪnɪt/",
+          "zh": "分鐘"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-5",
+      "date": "2026-08-29",
+      "category": "playground",
+      "en": "Hold the rope tightly with both hands.",
+      "zh": "兩隻手把繩子抓緊。",
+      "ipa": "/hold ðə rop ˈtaɪtli wɪð boθ hændz/",
+      "vocab": [
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "tightly",
+          "pos": "adv.",
+          "ipa": "/ˈtaɪtli/",
+          "zh": "緊緊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-6",
+      "date": "2026-08-29",
+      "category": "school",
+      "en": "Did the teacher read you a story?",
+      "zh": "老師今天有講故事給你們聽嗎？",
+      "ipa": "/dɪd ðə ˈtitʃɚ rid ju ə ˈstɔri/",
+      "vocab": [
+        {
+          "w": "teacher",
+          "pos": "n.",
+          "ipa": "/ˈtitʃɚ/",
+          "zh": "老師"
+        },
+        {
+          "w": "story",
+          "pos": "n.",
+          "ipa": "/ˈstɔri/",
+          "zh": "故事"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-7",
+      "date": "2026-08-29",
+      "category": "homework",
+      "en": "Erase it neatly and try again.",
+      "zh": "擦乾淨一點，再試一次。",
+      "ipa": "/ɪˈres ɪt ˈnitli ænd traɪ əˈɡɛn/",
+      "vocab": [
+        {
+          "w": "erase",
+          "pos": "v.",
+          "ipa": "/ɪˈres/",
+          "zh": "擦掉"
+        },
+        {
+          "w": "neatly",
+          "pos": "adv.",
+          "ipa": "/ˈnitli/",
+          "zh": "整齊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-8",
+      "date": "2026-08-29",
+      "category": "toys-sharing",
+      "en": "You can trade cars for a while.",
+      "zh": "你們可以交換車車玩一下。",
+      "ipa": "/ju kæn tred kɑrz fɔr ə hwaɪl/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "for a while",
+          "pos": "phr.",
+          "ipa": "/fɔr ə hwaɪl/",
+          "zh": "一陣子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-9",
+      "date": "2026-08-29",
+      "category": "emotions",
+      "en": "It's okay to feel nervous sometimes.",
+      "zh": "偶爾覺得緊張是沒關係的。",
+      "ipa": "/ɪts oˈke tu fil ˈnɝvəs ˈsʌmˌtaɪmz/",
+      "vocab": [
+        {
+          "w": "nervous",
+          "pos": "adj.",
+          "ipa": "/ˈnɝvəs/",
+          "zh": "緊張的"
+        },
+        {
+          "w": "sometimes",
+          "pos": "adv.",
+          "ipa": "/ˈsʌmˌtaɪmz/",
+          "zh": "有時候"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-10",
+      "date": "2026-08-29",
+      "category": "discipline",
+      "en": "Whining won't change my answer.",
+      "zh": "耍賴不會改變我的答案。",
+      "ipa": "/ˈhwaɪnɪŋ wont tʃendʒ maɪ ˈænsɚ/",
+      "vocab": [
+        {
+          "w": "whine",
+          "pos": "v.",
+          "ipa": "/hwaɪn/",
+          "zh": "哭鬧耍賴"
+        },
+        {
+          "w": "change",
+          "pos": "v.",
+          "ipa": "/tʃendʒ/",
+          "zh": "改變"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-11",
+      "date": "2026-08-29",
+      "category": "praise",
+      "en": "Your patience really impressed me.",
+      "zh": "你的耐心讓我好佩服。",
+      "ipa": "/jɔr ˈpeʃəns ˈriəli ɪmˈprɛst mi/",
+      "vocab": [
+        {
+          "w": "patience",
+          "pos": "n.",
+          "ipa": "/ˈpeʃəns/",
+          "zh": "耐心"
+        },
+        {
+          "w": "impress",
+          "pos": "v.",
+          "ipa": "/ɪmˈprɛs/",
+          "zh": "使印象深刻"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-12",
+      "date": "2026-08-29",
+      "category": "safety",
+      "en": "Never touch the stove without me.",
+      "zh": "沒有我在旁邊，絕對不要碰爐子。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə stov wɪˈðaʊt mi/",
+      "vocab": [
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        },
+        {
+          "w": "without",
+          "pos": "prep.",
+          "ipa": "/wɪˈðaʊt/",
+          "zh": "沒有"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-13",
+      "date": "2026-08-29",
+      "category": "health",
+      "en": "Open wide and say ah for me.",
+      "zh": "嘴巴張大，說「啊」給我看。",
+      "ipa": "/ˈopən waɪd ænd se ɑ fɔr mi/",
+      "vocab": [
+        {
+          "w": "wide",
+          "pos": "adv.",
+          "ipa": "/waɪd/",
+          "zh": "張大地"
+        },
+        {
+          "w": "open",
+          "pos": "v.",
+          "ipa": "/ˈopən/",
+          "zh": "打開"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-14",
+      "date": "2026-08-29",
+      "category": "relatives",
+      "en": "Grandpa saved a seat for you.",
+      "zh": "爺爺幫你留了一個位子。",
+      "ipa": "/ˈɡrændpɑ sevd ə sit fɔr ju/",
+      "vocab": [
+        {
+          "w": "grandpa",
+          "pos": "n.",
+          "ipa": "/ˈɡrændpɑ/",
+          "zh": "爺爺、外公"
+        },
+        {
+          "w": "save a seat",
+          "pos": "phr.",
+          "ipa": "/sev ə sit/",
+          "zh": "留位子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-15",
+      "date": "2026-08-29",
+      "category": "friends",
+      "en": "Wave goodbye to your classmates.",
+      "zh": "跟同學揮手說再見。",
+      "ipa": "/wev ˌɡʊdˈbaɪ tu jɔr ˈklæsˌmets/",
+      "vocab": [
+        {
+          "w": "wave",
+          "pos": "v.",
+          "ipa": "/wev/",
+          "zh": "揮手"
+        },
+        {
+          "w": "classmate",
+          "pos": "n.",
+          "ipa": "/ˈklæsˌmet/",
+          "zh": "同學"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-16",
+      "date": "2026-08-29",
+      "category": "manners",
+      "en": "Remember to knock before you enter.",
+      "zh": "記得進去前要先敲門。",
+      "ipa": "/rɪˈmɛmbɚ tu nɑk bɪˈfɔr ju ˈɛntɚ/",
+      "vocab": [
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲（門）"
+        },
+        {
+          "w": "enter",
+          "pos": "v.",
+          "ipa": "/ˈɛntɚ/",
+          "zh": "進入"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-17",
+      "date": "2026-08-29",
+      "category": "weather",
+      "en": "The sun is bright, wear your cap.",
+      "zh": "太陽很大，戴上你的帽子。",
+      "ipa": "/ðə sʌn ɪz braɪt wɛr jɔr kæp/",
+      "vocab": [
+        {
+          "w": "bright",
+          "pos": "adj.",
+          "ipa": "/braɪt/",
+          "zh": "明亮的"
+        },
+        {
+          "w": "cap",
+          "pos": "n.",
+          "ipa": "/kæp/",
+          "zh": "鴨舌帽"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-18",
+      "date": "2026-08-29",
+      "category": "screen-time",
+      "en": "Screens make your eyes tired.",
+      "zh": "看螢幕會讓眼睛很累。",
+      "ipa": "/skrinz mek jɔr aɪz taɪrd/",
+      "vocab": [
+        {
+          "w": "screen",
+          "pos": "n.",
+          "ipa": "/skrin/",
+          "zh": "螢幕"
+        },
+        {
+          "w": "tired",
+          "pos": "adj.",
+          "ipa": "/taɪrd/",
+          "zh": "疲倦的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-19",
+      "date": "2026-08-29",
+      "category": "celebrations",
+      "en": "Help me hang up these balloons.",
+      "zh": "幫我把這些氣球掛起來。",
+      "ipa": "/hɛlp mi hæŋ ʌp ðiz bəˈlunz/",
+      "vocab": [
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        },
+        {
+          "w": "hang up",
+          "pos": "phr.",
+          "ipa": "/hæŋ ʌp/",
+          "zh": "掛起來"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-20",
+      "date": "2026-08-29",
+      "category": "reading",
+      "en": "Let's read this page in funny voices.",
+      "zh": "我們用搞笑的聲音唸這一頁。",
+      "ipa": "/lɛts rid ðɪs pedʒ ɪn ˈfʌni ˈvɔɪsɪz/",
+      "vocab": [
+        {
+          "w": "page",
+          "pos": "n.",
+          "ipa": "/pedʒ/",
+          "zh": "頁"
+        },
+        {
+          "w": "voice",
+          "pos": "n.",
+          "ipa": "/vɔɪs/",
+          "zh": "聲音"
+        }
+      ]
+    }
+  ]
+}
