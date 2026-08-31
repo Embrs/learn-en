@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-31",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-31-1",
+      "date": "2026-08-31",
+      "category": "daily-routine",
+      "en": "Let's tie your shoelaces before we go.",
+      "zh": "出門前先把鞋帶綁好。",
+      "ipa": "/lɛts taɪ jɔr ˈʃuˌlesɪz bɪˈfɔr wi ɡo/",
+      "vocab": [
+        {
+          "w": "tie",
+          "pos": "v.",
+          "ipa": "/taɪ/",
+          "zh": "綁、繫"
+        },
+        {
+          "w": "shoelace",
+          "pos": "n.",
+          "ipa": "/ˈʃuˌles/",
+          "zh": "鞋帶"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-2",
+      "date": "2026-08-31",
+      "category": "meals",
+      "en": "Would you pass me the napkins?",
+      "zh": "可以把餐巾紙遞給我嗎？",
+      "ipa": "/wʊd ju pæs mi ðə ˈnæpkɪnz/",
+      "vocab": [
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "遞、傳"
+        },
+        {
+          "w": "napkin",
+          "pos": "n.",
+          "ipa": "/ˈnæpkɪn/",
+          "zh": "餐巾紙"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-3",
+      "date": "2026-08-31",
+      "category": "bath-bedtime",
+      "en": "Don't forget to brush your tongue.",
+      "zh": "別忘了刷舌頭。",
+      "ipa": "/dont fɚˈɡɛt tu brʌʃ jɔr tʌŋ/",
+      "vocab": [
+        {
+          "w": "forget",
+          "pos": "v.",
+          "ipa": "/fɚˈɡɛt/",
+          "zh": "忘記"
+        },
+        {
+          "w": "tongue",
+          "pos": "n.",
+          "ipa": "/tʌŋ/",
+          "zh": "舌頭"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-4",
+      "date": "2026-08-31",
+      "category": "outings",
+      "en": "Let's park the stroller by the bench.",
+      "zh": "我們把嬰兒車停在長椅旁。",
+      "ipa": "/lɛts pɑrk ðə ˈstrolɚ baɪ ðə bɛntʃ/",
+      "vocab": [
+        {
+          "w": "stroller",
+          "pos": "n.",
+          "ipa": "/ˈstrolɚ/",
+          "zh": "嬰兒推車"
+        },
+        {
+          "w": "bench",
+          "pos": "n.",
+          "ipa": "/bɛntʃ/",
+          "zh": "長椅"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-5",
+      "date": "2026-08-31",
+      "category": "playground",
+      "en": "Hold the bar tightly with both hands.",
+      "zh": "兩隻手把桿子抓緊。",
+      "ipa": "/hold ðə bɑr ˈtaɪtli wɪð boθ hændz/",
+      "vocab": [
+        {
+          "w": "bar",
+          "pos": "n.",
+          "ipa": "/bɑr/",
+          "zh": "橫桿"
+        },
+        {
+          "w": "tightly",
+          "pos": "adv.",
+          "ipa": "/ˈtaɪtli/",
+          "zh": "緊緊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-6",
+      "date": "2026-08-31",
+      "category": "school",
+      "en": "Your teacher said you were helpful.",
+      "zh": "老師說你很樂於助人。",
+      "ipa": "/jɔr ˈtitʃɚ sɛd ju wɚ ˈhɛlpfəl/",
+      "vocab": [
+        {
+          "w": "teacher",
+          "pos": "n.",
+          "ipa": "/ˈtitʃɚ/",
+          "zh": "老師"
+        },
+        {
+          "w": "helpful",
+          "pos": "adj.",
+          "ipa": "/ˈhɛlpfəl/",
+          "zh": "樂於助人的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-7",
+      "date": "2026-08-31",
+      "category": "homework",
+      "en": "Take a short break, then finish it.",
+      "zh": "休息一下下，然後把它寫完。",
+      "ipa": "/tek ə ʃɔrt brek ðɛn ˈfɪnɪʃ ɪt/",
+      "vocab": [
+        {
+          "w": "break",
+          "pos": "n.",
+          "ipa": "/brek/",
+          "zh": "休息"
+        },
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "完成"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-8",
+      "date": "2026-08-31",
+      "category": "toys-sharing",
+      "en": "Line up your cars on the shelf.",
+      "zh": "把你的車子排在架子上。",
+      "ipa": "/laɪn ʌp jɔr kɑrz ɑn ðə ʃɛlf/",
+      "vocab": [
+        {
+          "w": "line up",
+          "pos": "phr.",
+          "ipa": "/laɪn ʌp/",
+          "zh": "排成一列"
+        },
+        {
+          "w": "shelf",
+          "pos": "n.",
+          "ipa": "/ʃɛlf/",
+          "zh": "架子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-9",
+      "date": "2026-08-31",
+      "category": "emotions",
+      "en": "You look tired, do you need a rest?",
+      "zh": "你看起來累了，要不要休息？",
+      "ipa": "/ju lʊk taɪrd du ju nid ə rɛst/",
+      "vocab": [
+        {
+          "w": "tired",
+          "pos": "adj.",
+          "ipa": "/taɪrd/",
+          "zh": "疲倦的"
+        },
+        {
+          "w": "rest",
+          "pos": "n.",
+          "ipa": "/rɛst/",
+          "zh": "休息"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-10",
+      "date": "2026-08-31",
+      "category": "discipline",
+      "en": "Finish what you started, please.",
+      "zh": "請把你開始的事做完。",
+      "ipa": "/ˈfɪnɪʃ wʌt ju ˈstɑrtɪd pliz/",
+      "vocab": [
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "完成"
+        },
+        {
+          "w": "start",
+          "pos": "v.",
+          "ipa": "/stɑrt/",
+          "zh": "開始"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-11",
+      "date": "2026-08-31",
+      "category": "praise",
+      "en": "You spoke up clearly, well done.",
+      "zh": "你講得很清楚，做得好。",
+      "ipa": "/ju spok ʌp ˈklɪrli wɛl dʌn/",
+      "vocab": [
+        {
+          "w": "speak up",
+          "pos": "phr.",
+          "ipa": "/spik ʌp/",
+          "zh": "大聲說出來"
+        },
+        {
+          "w": "clearly",
+          "pos": "adv.",
+          "ipa": "/ˈklɪrli/",
+          "zh": "清楚地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-12",
+      "date": "2026-08-31",
+      "category": "safety",
+      "en": "Never touch the hot kettle.",
+      "zh": "絕對不要碰熱水壺。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə hɑt ˈkɛtl̩/",
+      "vocab": [
+        {
+          "w": "never",
+          "pos": "adv.",
+          "ipa": "/ˈnɛvɚ/",
+          "zh": "絕不"
+        },
+        {
+          "w": "kettle",
+          "pos": "n.",
+          "ipa": "/ˈkɛtl̩/",
+          "zh": "水壺"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-13",
+      "date": "2026-08-31",
+      "category": "health",
+      "en": "Your throat looks a little red.",
+      "zh": "你的喉嚨看起來有點紅。",
+      "ipa": "/jɔr θrot lʊks ə ˈlɪtl̩ rɛd/",
+      "vocab": [
+        {
+          "w": "throat",
+          "pos": "n.",
+          "ipa": "/θrot/",
+          "zh": "喉嚨"
+        },
+        {
+          "w": "a little",
+          "pos": "phr.",
+          "ipa": "/ə ˈlɪtl̩/",
+          "zh": "有一點"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-14",
+      "date": "2026-08-31",
+      "category": "relatives",
+      "en": "Cousin Leo will eat dinner with us.",
+      "zh": "堂哥 Leo 要跟我們一起吃晚餐。",
+      "ipa": "/ˈkʌzn̩ ˈlio wɪl it ˈdɪnɚ wɪð ʌs/",
+      "vocab": [
+        {
+          "w": "cousin",
+          "pos": "n.",
+          "ipa": "/ˈkʌzn̩/",
+          "zh": "堂／表兄弟姊妹"
+        },
+        {
+          "w": "dinner",
+          "pos": "n.",
+          "ipa": "/ˈdɪnɚ/",
+          "zh": "晚餐"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-15",
+      "date": "2026-08-31",
+      "category": "friends",
+      "en": "Say sorry and give him a hug.",
+      "zh": "說聲對不起，然後抱抱他。",
+      "ipa": "/se ˈsɑri ænd ɡɪv hɪm ə hʌɡ/",
+      "vocab": [
+        {
+          "w": "sorry",
+          "pos": "adj.",
+          "ipa": "/ˈsɑri/",
+          "zh": "抱歉的"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-16",
+      "date": "2026-08-31",
+      "category": "manners",
+      "en": "Hold the door open for Grandma.",
+      "zh": "幫奶奶把門扶著。",
+      "ipa": "/hold ðə dɔr ˈopən fɔr ˈɡrænmɑ/",
+      "vocab": [
+        {
+          "w": "hold open",
+          "pos": "phr.",
+          "ipa": "/hold ˈopən/",
+          "zh": "扶著（門）開著"
+        },
+        {
+          "w": "door",
+          "pos": "n.",
+          "ipa": "/dɔr/",
+          "zh": "門"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-17",
+      "date": "2026-08-31",
+      "category": "weather",
+      "en": "The fog will clear by lunchtime.",
+      "zh": "霧到中午就會散了。",
+      "ipa": "/ðə fɑɡ wɪl klɪr baɪ ˈlʌntʃˌtaɪm/",
+      "vocab": [
+        {
+          "w": "fog",
+          "pos": "n.",
+          "ipa": "/fɑɡ/",
+          "zh": "霧"
+        },
+        {
+          "w": "clear",
+          "pos": "v.",
+          "ipa": "/klɪr/",
+          "zh": "放晴、散去"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-18",
+      "date": "2026-08-31",
+      "category": "screen-time",
+      "en": "Read a book while the tablet charges.",
+      "zh": "平板充電的時候看本書。",
+      "ipa": "/rid ə bʊk waɪl ðə ˈtæblɪt ˈtʃɑrdʒɪz/",
+      "vocab": [
+        {
+          "w": "while",
+          "pos": "conj.",
+          "ipa": "/waɪl/",
+          "zh": "當⋯⋯的時候"
+        },
+        {
+          "w": "charge",
+          "pos": "v.",
+          "ipa": "/tʃɑrdʒ/",
+          "zh": "充電"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-19",
+      "date": "2026-08-31",
+      "category": "celebrations",
+      "en": "Let's write a card for Grandpa.",
+      "zh": "我們寫張卡片給爺爺吧。",
+      "ipa": "/lɛts raɪt ə kɑrd fɔr ˈɡrænpɑ/",
+      "vocab": [
+        {
+          "w": "card",
+          "pos": "n.",
+          "ipa": "/kɑrd/",
+          "zh": "卡片"
+        },
+        {
+          "w": "write",
+          "pos": "v.",
+          "ipa": "/raɪt/",
+          "zh": "寫"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-20",
+      "date": "2026-08-31",
+      "category": "reading",
+      "en": "Choose a book with lots of pictures.",
+      "zh": "挑一本圖很多的書。",
+      "ipa": "/tʃuz ə bʊk wɪð lɑts ʌv ˈpɪktʃɚz/",
+      "vocab": [
+        {
+          "w": "choose",
+          "pos": "v.",
+          "ipa": "/tʃuz/",
+          "zh": "選擇"
+        },
+        {
+          "w": "picture",
+          "pos": "n.",
+          "ipa": "/ˈpɪktʃɚ/",
+          "zh": "圖片"
+        }
+      ]
+    }
+  ]
+}

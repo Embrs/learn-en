@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-30",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-08-30-1",
+      "date": "2026-08-30",
+      "category": "daily-routine",
+      "en": "Time to make your bed, sweetie.",
+      "zh": "甜心，該整理你的床鋪囉。",
+      "ipa": "/taɪm tu mek jɔr bɛd ˈswiti/",
+      "vocab": [
+        {
+          "w": "make the bed",
+          "pos": "phr.",
+          "ipa": "/mek ðə bɛd/",
+          "zh": "鋪床、整理床鋪"
+        },
+        {
+          "w": "sweetie",
+          "pos": "n.",
+          "ipa": "/ˈswiti/",
+          "zh": "甜心（暱稱）"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-2",
+      "date": "2026-08-30",
+      "category": "meals",
+      "en": "Your rice bowl is almost empty.",
+      "zh": "你的飯碗快見底了。",
+      "ipa": "/jɔr raɪs bol ɪz ˈɔlmost ˈɛmpti/",
+      "vocab": [
+        {
+          "w": "bowl",
+          "pos": "n.",
+          "ipa": "/bol/",
+          "zh": "碗"
+        },
+        {
+          "w": "empty",
+          "pos": "adj.",
+          "ipa": "/ˈɛmpti/",
+          "zh": "空的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-3",
+      "date": "2026-08-30",
+      "category": "bath-bedtime",
+      "en": "Hop out before the water gets cold.",
+      "zh": "水變冷之前趕快起來。",
+      "ipa": "/hɑp aʊt bɪˈfɔr ðə ˈwɔtɚ ɡɛts kold/",
+      "vocab": [
+        {
+          "w": "hop out",
+          "pos": "phr.",
+          "ipa": "/hɑp aʊt/",
+          "zh": "跳出來"
+        },
+        {
+          "w": "cold",
+          "pos": "adj.",
+          "ipa": "/kold/",
+          "zh": "冷的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-4",
+      "date": "2026-08-30",
+      "category": "outings",
+      "en": "We're taking the train downtown today.",
+      "zh": "我們今天要搭火車去市區。",
+      "ipa": "/wɪr ˈtekɪŋ ðə tren ˈdaʊnˌtaʊn təˈde/",
+      "vocab": [
+        {
+          "w": "train",
+          "pos": "n.",
+          "ipa": "/tren/",
+          "zh": "火車"
+        },
+        {
+          "w": "downtown",
+          "pos": "adv.",
+          "ipa": "/ˈdaʊnˌtaʊn/",
+          "zh": "往市中心"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-5",
+      "date": "2026-08-30",
+      "category": "playground",
+      "en": "Let's collect leaves under the big tree.",
+      "zh": "我們到大樹下撿葉子。",
+      "ipa": "/lɛts kəˈlɛkt livz ˈʌndɚ ðə bɪɡ tri/",
+      "vocab": [
+        {
+          "w": "collect",
+          "pos": "v.",
+          "ipa": "/kəˈlɛkt/",
+          "zh": "收集"
+        },
+        {
+          "w": "leaf",
+          "pos": "n.",
+          "ipa": "/lif/",
+          "zh": "葉子"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-6",
+      "date": "2026-08-30",
+      "category": "school",
+      "en": "Did anyone share a snack with you?",
+      "zh": "有人跟你分享點心嗎？",
+      "ipa": "/dɪd ˈɛniˌwʌn ʃɛr ə snæk wɪð ju/",
+      "vocab": [
+        {
+          "w": "anyone",
+          "pos": "pron.",
+          "ipa": "/ˈɛniˌwʌn/",
+          "zh": "任何人"
+        },
+        {
+          "w": "snack",
+          "pos": "n.",
+          "ipa": "/snæk/",
+          "zh": "點心"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-7",
+      "date": "2026-08-30",
+      "category": "homework",
+      "en": "Let's line up the numbers neatly.",
+      "zh": "我們把數字排整齊。",
+      "ipa": "/lɛts laɪn ʌp ðə ˈnʌmbɚz ˈnitli/",
+      "vocab": [
+        {
+          "w": "line up",
+          "pos": "phr.",
+          "ipa": "/laɪn ʌp/",
+          "zh": "排成一列"
+        },
+        {
+          "w": "neatly",
+          "pos": "adv.",
+          "ipa": "/ˈnitli/",
+          "zh": "整齊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-8",
+      "date": "2026-08-30",
+      "category": "toys-sharing",
+      "en": "Can you trade blocks with your brother?",
+      "zh": "你可以跟哥哥交換積木嗎？",
+      "ipa": "/kæn ju tred blɑks wɪð jɔr ˈbrʌðɚ/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-9",
+      "date": "2026-08-30",
+      "category": "emotions",
+      "en": "Tell me one thing that felt hard today.",
+      "zh": "跟我說一件今天覺得辛苦的事。",
+      "ipa": "/tɛl mi wʌn θɪŋ ðæt fɛlt hɑrd təˈde/",
+      "vocab": [
+        {
+          "w": "felt",
+          "pos": "v.",
+          "ipa": "/fɛlt/",
+          "zh": "感覺（feel 過去式）"
+        },
+        {
+          "w": "hard",
+          "pos": "adj.",
+          "ipa": "/hɑrd/",
+          "zh": "困難的"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-10",
+      "date": "2026-08-30",
+      "category": "discipline",
+      "en": "We don't jump on the sofa.",
+      "zh": "我們不可以在沙發上跳。",
+      "ipa": "/wi dont dʒʌmp ɑn ðə ˈsofə/",
+      "vocab": [
+        {
+          "w": "jump",
+          "pos": "v.",
+          "ipa": "/dʒʌmp/",
+          "zh": "跳"
+        },
+        {
+          "w": "sofa",
+          "pos": "n.",
+          "ipa": "/ˈsofə/",
+          "zh": "沙發"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-11",
+      "date": "2026-08-30",
+      "category": "praise",
+      "en": "That was a brave thing to try.",
+      "zh": "那是很勇敢的嘗試。",
+      "ipa": "/ðæt wʌz ə brev θɪŋ tu traɪ/",
+      "vocab": [
+        {
+          "w": "brave",
+          "pos": "adj.",
+          "ipa": "/brev/",
+          "zh": "勇敢的"
+        },
+        {
+          "w": "try",
+          "pos": "v.",
+          "ipa": "/traɪ/",
+          "zh": "嘗試"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-12",
+      "date": "2026-08-30",
+      "category": "safety",
+      "en": "Don't lean over the balcony railing.",
+      "zh": "不要靠在陽台欄杆上。",
+      "ipa": "/dont lin ˈovɚ ðə ˈbælkəni ˈrelɪŋ/",
+      "vocab": [
+        {
+          "w": "lean",
+          "pos": "v.",
+          "ipa": "/lin/",
+          "zh": "傾靠"
+        },
+        {
+          "w": "railing",
+          "pos": "n.",
+          "ipa": "/ˈrelɪŋ/",
+          "zh": "欄杆"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-13",
+      "date": "2026-08-30",
+      "category": "health",
+      "en": "Take your medicine with a sip of water.",
+      "zh": "配一口水把藥吃下去。",
+      "ipa": "/tek jɔr ˈmɛdəsn̩ wɪð ə sɪp ʌv ˈwɔtɚ/",
+      "vocab": [
+        {
+          "w": "medicine",
+          "pos": "n.",
+          "ipa": "/ˈmɛdəsn̩/",
+          "zh": "藥"
+        },
+        {
+          "w": "sip",
+          "pos": "n.",
+          "ipa": "/sɪp/",
+          "zh": "一小口"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-14",
+      "date": "2026-08-30",
+      "category": "relatives",
+      "en": "Let's help Grandma water her plants.",
+      "zh": "我們幫奶奶澆花吧。",
+      "ipa": "/lɛts hɛlp ˈɡrænmɑ ˈwɔtɚ hɚ plænts/",
+      "vocab": [
+        {
+          "w": "water",
+          "pos": "v.",
+          "ipa": "/ˈwɔtɚ/",
+          "zh": "澆水"
+        },
+        {
+          "w": "plant",
+          "pos": "n.",
+          "ipa": "/plænt/",
+          "zh": "植物"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-15",
+      "date": "2026-08-30",
+      "category": "friends",
+      "en": "Let's invite Mia over to play.",
+      "zh": "我們邀請 Mia 來家裡玩吧。",
+      "ipa": "/lɛts ɪnˈvaɪt ˈmiə ˈovɚ tu ple/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "come over",
+          "pos": "phr.",
+          "ipa": "/kʌm ˈovɚ/",
+          "zh": "過來（某人家）"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-16",
+      "date": "2026-08-30",
+      "category": "manners",
+      "en": "Remember to say good morning.",
+      "zh": "記得要說早安。",
+      "ipa": "/rɪˈmɛmbɚ tu se ɡʊd ˈmɔrnɪŋ/",
+      "vocab": [
+        {
+          "w": "remember",
+          "pos": "v.",
+          "ipa": "/rɪˈmɛmbɚ/",
+          "zh": "記得"
+        },
+        {
+          "w": "good morning",
+          "pos": "phr.",
+          "ipa": "/ɡʊd ˈmɔrnɪŋ/",
+          "zh": "早安"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-17",
+      "date": "2026-08-30",
+      "category": "weather",
+      "en": "The morning air smells like rain.",
+      "zh": "早上的空氣聞起來像要下雨。",
+      "ipa": "/ðə ˈmɔrnɪŋ ɛr smɛlz laɪk ren/",
+      "vocab": [
+        {
+          "w": "air",
+          "pos": "n.",
+          "ipa": "/ɛr/",
+          "zh": "空氣"
+        },
+        {
+          "w": "smell",
+          "pos": "v.",
+          "ipa": "/smɛl/",
+          "zh": "聞起來"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-18",
+      "date": "2026-08-30",
+      "category": "screen-time",
+      "en": "You can watch after your bath.",
+      "zh": "洗完澡才可以看。",
+      "ipa": "/ju kæn wɑtʃ ˈæftɚ jɔr bæθ/",
+      "vocab": [
+        {
+          "w": "watch",
+          "pos": "v.",
+          "ipa": "/wɑtʃ/",
+          "zh": "觀看"
+        },
+        {
+          "w": "after",
+          "pos": "prep.",
+          "ipa": "/ˈæftɚ/",
+          "zh": "在⋯⋯之後"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-19",
+      "date": "2026-08-30",
+      "category": "celebrations",
+      "en": "Let's stir the batter for the cake.",
+      "zh": "我們來攪拌蛋糕的麵糊。",
+      "ipa": "/lɛts stɝ ðə ˈbætɚ fɔr ðə kek/",
+      "vocab": [
+        {
+          "w": "stir",
+          "pos": "v.",
+          "ipa": "/stɝ/",
+          "zh": "攪拌"
+        },
+        {
+          "w": "batter",
+          "pos": "n.",
+          "ipa": "/ˈbætɚ/",
+          "zh": "麵糊"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-30-20",
+      "date": "2026-08-30",
+      "category": "reading",
+      "en": "Let's read this one twice tonight.",
+      "zh": "我們今晚把這本讀兩遍。",
+      "ipa": "/lɛts rid ðɪs wʌn twaɪs təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "twice",
+          "pos": "adv.",
+          "ipa": "/twaɪs/",
+          "zh": "兩次"
+        },
+        {
+          "w": "tonight",
+          "pos": "adv.",
+          "ipa": "/təˈnaɪt/",
+          "zh": "今晚"
+        }
+      ]
+    }
+  ]
+}
