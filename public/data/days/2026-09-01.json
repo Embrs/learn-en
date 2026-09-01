@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-01",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-01-1",
+      "date": "2026-09-01",
+      "category": "daily-routine",
+      "en": "Button up your shirt from the bottom.",
+      "zh": "把襯衫從最下面一顆釦子扣起來。",
+      "ipa": "/ˈbʌtn̩ ʌp jɔr ʃɝt frʌm ðə ˈbɑtəm/",
+      "vocab": [
+        {
+          "w": "button up",
+          "pos": "phr.",
+          "ipa": "/ˈbʌtn̩ ʌp/",
+          "zh": "扣上釦子"
+        },
+        {
+          "w": "bottom",
+          "pos": "n.",
+          "ipa": "/ˈbɑtəm/",
+          "zh": "最下面、底部"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-2",
+      "date": "2026-09-01",
+      "category": "meals",
+      "en": "Take one more bite of the carrots.",
+      "zh": "再吃一口紅蘿蔔。",
+      "ipa": "/tek wʌn mɔr baɪt ʌv ðə ˈkærəts/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "carrot",
+          "pos": "n.",
+          "ipa": "/ˈkærət/",
+          "zh": "紅蘿蔔"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-3",
+      "date": "2026-09-01",
+      "category": "bath-bedtime",
+      "en": "Squeeze the water out of your hair.",
+      "zh": "把頭髮上的水擠乾。",
+      "ipa": "/skwiz ðə ˈwɔtɚ aʊt ʌv jɔr hɛr/",
+      "vocab": [
+        {
+          "w": "squeeze",
+          "pos": "v.",
+          "ipa": "/skwiz/",
+          "zh": "擠、捏"
+        },
+        {
+          "w": "hair",
+          "pos": "n.",
+          "ipa": "/hɛr/",
+          "zh": "頭髮"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-4",
+      "date": "2026-09-01",
+      "category": "outings",
+      "en": "We'll be home before it gets dark.",
+      "zh": "我們會在天黑前回到家。",
+      "ipa": "/wil bi hom bɪˈfɔr ɪt ɡɛts dɑrk/",
+      "vocab": [
+        {
+          "w": "dark",
+          "pos": "adj.",
+          "ipa": "/dɑrk/",
+          "zh": "天黑的"
+        },
+        {
+          "w": "get home",
+          "pos": "phr.",
+          "ipa": "/ɡɛt hom/",
+          "zh": "回到家"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-5",
+      "date": "2026-09-01",
+      "category": "playground",
+      "en": "Brush the sand off your knees.",
+      "zh": "把膝蓋上的沙子拍掉。",
+      "ipa": "/brʌʃ ðə sænd ɔf jɔr niz/",
+      "vocab": [
+        {
+          "w": "brush off",
+          "pos": "phr.",
+          "ipa": "/brʌʃ ɔf/",
+          "zh": "拍掉、刷掉"
+        },
+        {
+          "w": "knee",
+          "pos": "n.",
+          "ipa": "/ni/",
+          "zh": "膝蓋"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-6",
+      "date": "2026-09-01",
+      "category": "school",
+      "en": "Did you make any new friends today?",
+      "zh": "你今天有交到新朋友嗎？",
+      "ipa": "/dɪd ju mek ˈɛni nu frɛndz təˈde/",
+      "vocab": [
+        {
+          "w": "make friends",
+          "pos": "phr.",
+          "ipa": "/mek frɛndz/",
+          "zh": "交朋友"
+        },
+        {
+          "w": "new",
+          "pos": "adj.",
+          "ipa": "/nu/",
+          "zh": "新的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-7",
+      "date": "2026-09-01",
+      "category": "homework",
+      "en": "Close the book and try from memory.",
+      "zh": "把書闔起來，憑印象試試看。",
+      "ipa": "/kloz ðə bʊk ænd traɪ frʌm ˈmɛməri/",
+      "vocab": [
+        {
+          "w": "memory",
+          "pos": "n.",
+          "ipa": "/ˈmɛməri/",
+          "zh": "記憶"
+        },
+        {
+          "w": "close",
+          "pos": "v.",
+          "ipa": "/kloz/",
+          "zh": "闔上"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-8",
+      "date": "2026-09-01",
+      "category": "toys-sharing",
+      "en": "You can trade toys with your sister.",
+      "zh": "你可以跟姐姐交換玩具。",
+      "ipa": "/ju kæn tred tɔɪz wɪð jɔr ˈsɪstɚ/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "sister",
+          "pos": "n.",
+          "ipa": "/ˈsɪstɚ/",
+          "zh": "姐姐、妹妹"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-9",
+      "date": "2026-09-01",
+      "category": "emotions",
+      "en": "You can be mad and still be kind.",
+      "zh": "你可以生氣，但還是要善良。",
+      "ipa": "/ju kæn bi mæd ænd stɪl bi kaɪnd/",
+      "vocab": [
+        {
+          "w": "mad",
+          "pos": "adj.",
+          "ipa": "/mæd/",
+          "zh": "生氣的"
+        },
+        {
+          "w": "kind",
+          "pos": "adj.",
+          "ipa": "/kaɪnd/",
+          "zh": "善良的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-10",
+      "date": "2026-09-01",
+      "category": "discipline",
+      "en": "We use gentle hands with the cat.",
+      "zh": "對貓咪要輕輕地摸。",
+      "ipa": "/wi juz ˈdʒɛntl̩ hændz wɪð ðə kæt/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl̩/",
+          "zh": "溫柔的"
+        },
+        {
+          "w": "use",
+          "pos": "v.",
+          "ipa": "/juz/",
+          "zh": "使用"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-11",
+      "date": "2026-09-01",
+      "category": "praise",
+      "en": "You made that look easy!",
+      "zh": "你把它做得好輕鬆！",
+      "ipa": "/ju med ðæt lʊk ˈizi/",
+      "vocab": [
+        {
+          "w": "easy",
+          "pos": "adj.",
+          "ipa": "/ˈizi/",
+          "zh": "容易的"
+        },
+        {
+          "w": "look",
+          "pos": "v.",
+          "ipa": "/lʊk/",
+          "zh": "看起來"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-12",
+      "date": "2026-09-01",
+      "category": "safety",
+      "en": "Never touch the stove when it's hot.",
+      "zh": "爐子燙的時候絕對不能碰。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə stov wɛn ɪts hɑt/",
+      "vocab": [
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        },
+        {
+          "w": "never",
+          "pos": "adv.",
+          "ipa": "/ˈnɛvɚ/",
+          "zh": "絕對不"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-13",
+      "date": "2026-09-01",
+      "category": "health",
+      "en": "Keep the bandage dry until tomorrow.",
+      "zh": "OK 繃要保持乾的，撐到明天。",
+      "ipa": "/kip ðə ˈbændɪdʒ draɪ ənˈtɪl təˈmɑro/",
+      "vocab": [
+        {
+          "w": "bandage",
+          "pos": "n.",
+          "ipa": "/ˈbændɪdʒ/",
+          "zh": "OK 繃、繃帶"
+        },
+        {
+          "w": "dry",
+          "pos": "adj.",
+          "ipa": "/draɪ/",
+          "zh": "乾的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-14",
+      "date": "2026-09-01",
+      "category": "relatives",
+      "en": "Grandpa saved a seat next to him.",
+      "zh": "爺爺在他旁邊留了個位子。",
+      "ipa": "/ˈɡrænpɑ sevd ə sit nɛkst tu hɪm/",
+      "vocab": [
+        {
+          "w": "save a seat",
+          "pos": "phr.",
+          "ipa": "/sev ə sit/",
+          "zh": "留位子"
+        },
+        {
+          "w": "next to",
+          "pos": "phr.",
+          "ipa": "/nɛkst tu/",
+          "zh": "在旁邊"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-15",
+      "date": "2026-09-01",
+      "category": "friends",
+      "en": "Ask him nicely if you can join.",
+      "zh": "客氣地問他你能不能加入。",
+      "ipa": "/æsk hɪm ˈnaɪsli ɪf ju kæn dʒɔɪn/",
+      "vocab": [
+        {
+          "w": "nicely",
+          "pos": "adv.",
+          "ipa": "/ˈnaɪsli/",
+          "zh": "客氣地"
+        },
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-16",
+      "date": "2026-09-01",
+      "category": "manners",
+      "en": "Take off your shoes when you visit.",
+      "zh": "去別人家作客要脫鞋。",
+      "ipa": "/tek ɔf jɔr ʃuz wɛn ju ˈvɪzɪt/",
+      "vocab": [
+        {
+          "w": "take off",
+          "pos": "phr.",
+          "ipa": "/tek ɔf/",
+          "zh": "脫掉"
+        },
+        {
+          "w": "visit",
+          "pos": "v.",
+          "ipa": "/ˈvɪzɪt/",
+          "zh": "拜訪、作客"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-17",
+      "date": "2026-09-01",
+      "category": "weather",
+      "en": "The clouds look heavy this morning.",
+      "zh": "今天早上雲層很厚。",
+      "ipa": "/ðə klaʊdz lʊk ˈhɛvi ðɪs ˈmɔrnɪŋ/",
+      "vocab": [
+        {
+          "w": "cloud",
+          "pos": "n.",
+          "ipa": "/klaʊd/",
+          "zh": "雲"
+        },
+        {
+          "w": "heavy",
+          "pos": "adj.",
+          "ipa": "/ˈhɛvi/",
+          "zh": "厚重的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-18",
+      "date": "2026-09-01",
+      "category": "screen-time",
+      "en": "Let's pause the show and stretch.",
+      "zh": "我們先暫停節目，動一動。",
+      "ipa": "/lɛts pɔz ðə ʃo ænd strɛtʃ/",
+      "vocab": [
+        {
+          "w": "pause",
+          "pos": "v.",
+          "ipa": "/pɔz/",
+          "zh": "暫停"
+        },
+        {
+          "w": "stretch",
+          "pos": "v.",
+          "ipa": "/strɛtʃ/",
+          "zh": "伸展"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-19",
+      "date": "2026-09-01",
+      "category": "celebrations",
+      "en": "Help me hang up these decorations.",
+      "zh": "幫我把這些裝飾掛上去。",
+      "ipa": "/hɛlp mi hæŋ ʌp ðiz ˌdɛkəˈreʃənz/",
+      "vocab": [
+        {
+          "w": "decoration",
+          "pos": "n.",
+          "ipa": "/ˌdɛkəˈreʃən/",
+          "zh": "裝飾品"
+        },
+        {
+          "w": "hang up",
+          "pos": "phr.",
+          "ipa": "/hæŋ ʌp/",
+          "zh": "掛起來"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-20",
+      "date": "2026-09-01",
+      "category": "reading",
+      "en": "Show me the funniest picture in here.",
+      "zh": "指給我看裡面最好笑的一張圖。",
+      "ipa": "/ʃo mi ðə ˈfʌniɪst ˈpɪktʃɚ ɪn hɪr/",
+      "vocab": [
+        {
+          "w": "funny",
+          "pos": "adj.",
+          "ipa": "/ˈfʌni/",
+          "zh": "好笑的"
+        },
+        {
+          "w": "picture",
+          "pos": "n.",
+          "ipa": "/ˈpɪktʃɚ/",
+          "zh": "圖片"
+        }
+      ]
+    }
+  ]
+}
