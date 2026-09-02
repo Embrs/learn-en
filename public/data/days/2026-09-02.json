@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-02",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-02-1",
+      "date": "2026-09-02",
+      "category": "daily-routine",
+      "en": "Hang your towel on the hook, please.",
+      "zh": "請把毛巾掛到掛鉤上。",
+      "ipa": "/hæŋ jɔr ˈtaʊəl ɑn ðə hʊk pliz/",
+      "vocab": [
+        {
+          "w": "hang",
+          "pos": "v.",
+          "ipa": "/hæŋ/",
+          "zh": "掛起來"
+        },
+        {
+          "w": "hook",
+          "pos": "n.",
+          "ipa": "/hʊk/",
+          "zh": "掛鉤"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-2",
+      "date": "2026-09-02",
+      "category": "meals",
+      "en": "Blow on your soup before you sip it.",
+      "zh": "喝湯之前先吹一吹。",
+      "ipa": "/blo ɑn jɔr sup bɪˈfɔr ju sɪp ɪt/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹氣"
+        },
+        {
+          "w": "sip",
+          "pos": "v.",
+          "ipa": "/sɪp/",
+          "zh": "小口喝"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-3",
+      "date": "2026-09-02",
+      "category": "bath-bedtime",
+      "en": "The bubbles are tickling your toes.",
+      "zh": "泡泡在搔你的腳趾頭喔。",
+      "ipa": "/ðə ˈbʌbl̩z ɑr ˈtɪklɪŋ jɔr toz/",
+      "vocab": [
+        {
+          "w": "bubble",
+          "pos": "n.",
+          "ipa": "/ˈbʌbl̩/",
+          "zh": "泡泡"
+        },
+        {
+          "w": "tickle",
+          "pos": "v.",
+          "ipa": "/ˈtɪkl̩/",
+          "zh": "搔癢"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-4",
+      "date": "2026-09-02",
+      "category": "outings",
+      "en": "Hold the railing while we go down.",
+      "zh": "下去的時候扶著扶手。",
+      "ipa": "/hold ðə ˈrelɪŋ waɪl wi ɡo daʊn/",
+      "vocab": [
+        {
+          "w": "railing",
+          "pos": "n.",
+          "ipa": "/ˈrelɪŋ/",
+          "zh": "扶手、欄杆"
+        },
+        {
+          "w": "hold",
+          "pos": "v.",
+          "ipa": "/hold/",
+          "zh": "握住、扶著"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-5",
+      "date": "2026-09-02",
+      "category": "playground",
+      "en": "Slide down feet first, not head first.",
+      "zh": "溜滑梯要腳先下去，不要頭先下去。",
+      "ipa": "/slaɪd daʊn fit fɝst nɑt hɛd fɝst/",
+      "vocab": [
+        {
+          "w": "slide down",
+          "pos": "phr.",
+          "ipa": "/slaɪd daʊn/",
+          "zh": "滑下去"
+        },
+        {
+          "w": "feet first",
+          "pos": "phr.",
+          "ipa": "/fit fɝst/",
+          "zh": "腳先"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-6",
+      "date": "2026-09-02",
+      "category": "school",
+      "en": "Did you find your name on the list?",
+      "zh": "你有在名單上找到你的名字嗎？",
+      "ipa": "/dɪd ju faɪnd jɔr nem ɑn ðə lɪst/",
+      "vocab": [
+        {
+          "w": "list",
+          "pos": "n.",
+          "ipa": "/lɪst/",
+          "zh": "名單、清單"
+        },
+        {
+          "w": "find",
+          "pos": "v.",
+          "ipa": "/faɪnd/",
+          "zh": "找到"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-7",
+      "date": "2026-09-02",
+      "category": "homework",
+      "en": "Read the question out loud one more time.",
+      "zh": "把題目再大聲念一次。",
+      "ipa": "/rid ðə ˈkwɛstʃən aʊt laʊd wʌn mɔr taɪm/",
+      "vocab": [
+        {
+          "w": "out loud",
+          "pos": "phr.",
+          "ipa": "/aʊt laʊd/",
+          "zh": "大聲地"
+        },
+        {
+          "w": "question",
+          "pos": "n.",
+          "ipa": "/ˈkwɛstʃən/",
+          "zh": "題目、問題"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-8",
+      "date": "2026-09-02",
+      "category": "toys-sharing",
+      "en": "Let's build the tower together.",
+      "zh": "我們一起蓋這座塔吧。",
+      "ipa": "/lɛts bɪld ðə ˈtaʊɚ təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "tower",
+          "pos": "n.",
+          "ipa": "/ˈtaʊɚ/",
+          "zh": "塔"
+        },
+        {
+          "w": "together",
+          "pos": "adv.",
+          "ipa": "/təˈɡɛðɚ/",
+          "zh": "一起"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-9",
+      "date": "2026-09-02",
+      "category": "emotions",
+      "en": "It's okay to feel shy at first.",
+      "zh": "一開始會害羞是很正常的。",
+      "ipa": "/ɪts oˈke tu fil ʃaɪ æt fɝst/",
+      "vocab": [
+        {
+          "w": "shy",
+          "pos": "adj.",
+          "ipa": "/ʃaɪ/",
+          "zh": "害羞的"
+        },
+        {
+          "w": "at first",
+          "pos": "phr.",
+          "ipa": "/æt fɝst/",
+          "zh": "一開始"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-10",
+      "date": "2026-09-02",
+      "category": "discipline",
+      "en": "Yelling won't get you what you want.",
+      "zh": "用吼的沒辦法得到你想要的東西。",
+      "ipa": "/ˈjɛlɪŋ wont ɡɛt ju wʌt ju wɑnt/",
+      "vocab": [
+        {
+          "w": "yell",
+          "pos": "v.",
+          "ipa": "/jɛl/",
+          "zh": "大吼大叫"
+        },
+        {
+          "w": "want",
+          "pos": "v.",
+          "ipa": "/wɑnt/",
+          "zh": "想要"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-11",
+      "date": "2026-09-02",
+      "category": "praise",
+      "en": "You kept trying even when it was hard.",
+      "zh": "就算很難你還是一直努力，很棒。",
+      "ipa": "/ju kɛpt ˈtraɪɪŋ ˈivɪn wɛn ɪt wʌz hɑrd/",
+      "vocab": [
+        {
+          "w": "keep trying",
+          "pos": "phr.",
+          "ipa": "/kip ˈtraɪɪŋ/",
+          "zh": "持續嘗試"
+        },
+        {
+          "w": "hard",
+          "pos": "adj.",
+          "ipa": "/hɑrd/",
+          "zh": "困難的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-12",
+      "date": "2026-09-02",
+      "category": "safety",
+      "en": "Scissors stay on the table, please.",
+      "zh": "剪刀要放在桌上喔。",
+      "ipa": "/ˈsɪzɚz ste ɑn ðə ˈtebl̩ pliz/",
+      "vocab": [
+        {
+          "w": "scissors",
+          "pos": "n.",
+          "ipa": "/ˈsɪzɚz/",
+          "zh": "剪刀"
+        },
+        {
+          "w": "stay",
+          "pos": "v.",
+          "ipa": "/ste/",
+          "zh": "待著、留在"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-13",
+      "date": "2026-09-02",
+      "category": "health",
+      "en": "Let me put a bandage on your knee.",
+      "zh": "我幫你在膝蓋貼個 OK 繃。",
+      "ipa": "/lɛt mi pʊt ə ˈbændɪdʒ ɑn jɔr ni/",
+      "vocab": [
+        {
+          "w": "bandage",
+          "pos": "n.",
+          "ipa": "/ˈbændɪdʒ/",
+          "zh": "OK 繃、繃帶"
+        },
+        {
+          "w": "knee",
+          "pos": "n.",
+          "ipa": "/ni/",
+          "zh": "膝蓋"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-14",
+      "date": "2026-09-02",
+      "category": "relatives",
+      "en": "Auntie brought your favorite fruit.",
+      "zh": "阿姨帶了你最愛的水果來。",
+      "ipa": "/ˈænti brɔt jɔr ˈfevərɪt frut/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨、姑姑"
+        },
+        {
+          "w": "favorite",
+          "pos": "adj.",
+          "ipa": "/ˈfevərɪt/",
+          "zh": "最喜歡的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-15",
+      "date": "2026-09-02",
+      "category": "friends",
+      "en": "Your friend is waiting by the gate.",
+      "zh": "你的朋友在門口等你。",
+      "ipa": "/jɔr frɛnd ɪz ˈwetɪŋ baɪ ðə ɡet/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        },
+        {
+          "w": "gate",
+          "pos": "n.",
+          "ipa": "/ɡet/",
+          "zh": "大門"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-16",
+      "date": "2026-09-02",
+      "category": "manners",
+      "en": "Let the grown-ups finish talking first.",
+      "zh": "先讓大人把話說完。",
+      "ipa": "/lɛt ðə ˈɡron ʌps ˈfɪnɪʃ ˈtɔkɪŋ fɝst/",
+      "vocab": [
+        {
+          "w": "grown-up",
+          "pos": "n.",
+          "ipa": "/ˈɡron ʌp/",
+          "zh": "大人"
+        },
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "完成、說完"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-17",
+      "date": "2026-09-02",
+      "category": "weather",
+      "en": "The wind is chilly, zip up your jacket.",
+      "zh": "風有點涼，把外套拉鍊拉起來。",
+      "ipa": "/ðə wɪnd ɪz ˈtʃɪli zɪp ʌp jɔr ˈdʒækɪt/",
+      "vocab": [
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "涼颼颼的"
+        },
+        {
+          "w": "zip up",
+          "pos": "phr.",
+          "ipa": "/zɪp ʌp/",
+          "zh": "拉上拉鍊"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-18",
+      "date": "2026-09-02",
+      "category": "screen-time",
+      "en": "Pause the video and come to the table.",
+      "zh": "把影片暫停，過來餐桌這邊。",
+      "ipa": "/pɔz ðə ˈvɪdɪo ænd kʌm tu ðə ˈtebl̩/",
+      "vocab": [
+        {
+          "w": "pause",
+          "pos": "v.",
+          "ipa": "/pɔz/",
+          "zh": "暫停"
+        },
+        {
+          "w": "table",
+          "pos": "n.",
+          "ipa": "/ˈtebl̩/",
+          "zh": "桌子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-19",
+      "date": "2026-09-02",
+      "category": "celebrations",
+      "en": "Let's wrap the gift with this ribbon.",
+      "zh": "我們用這條緞帶把禮物包起來。",
+      "ipa": "/lɛts ræp ðə ɡɪft wɪð ðɪs ˈrɪbən/",
+      "vocab": [
+        {
+          "w": "wrap",
+          "pos": "v.",
+          "ipa": "/ræp/",
+          "zh": "包裝"
+        },
+        {
+          "w": "ribbon",
+          "pos": "n.",
+          "ipa": "/ˈrɪbən/",
+          "zh": "緞帶"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-02-20",
+      "date": "2026-09-02",
+      "category": "reading",
+      "en": "This book smells like the library.",
+      "zh": "這本書聞起來有圖書館的味道。",
+      "ipa": "/ðɪs bʊk smɛlz laɪk ðə ˈlaɪbrɛri/",
+      "vocab": [
+        {
+          "w": "smell like",
+          "pos": "phr.",
+          "ipa": "/smɛl laɪk/",
+          "zh": "聞起來像"
+        },
+        {
+          "w": "library",
+          "pos": "n.",
+          "ipa": "/ˈlaɪbrɛri/",
+          "zh": "圖書館"
+        }
+      ]
+    }
+  ]
+}
