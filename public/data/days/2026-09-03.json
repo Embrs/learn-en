@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-03",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-03-1",
+      "date": "2026-09-03",
+      "category": "daily-routine",
+      "en": "Your socks go on before your shoes.",
+      "zh": "先穿襪子再穿鞋子。",
+      "ipa": "/jɔr sɑks ɡo ɑn bɪˈfɔr jɔr ʃuz/",
+      "vocab": [
+        {
+          "w": "sock",
+          "pos": "n.",
+          "ipa": "/sɑk/",
+          "zh": "襪子"
+        },
+        {
+          "w": "before",
+          "pos": "prep.",
+          "ipa": "/bɪˈfɔr/",
+          "zh": "在…之前"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-2",
+      "date": "2026-09-03",
+      "category": "meals",
+      "en": "Take one more bite of your carrots.",
+      "zh": "再吃一口紅蘿蔔喔。",
+      "ipa": "/tek wʌn mɔr baɪt ʌv jɔr ˈkærəts/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "carrot",
+          "pos": "n.",
+          "ipa": "/ˈkærət/",
+          "zh": "紅蘿蔔"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-3",
+      "date": "2026-09-03",
+      "category": "bath-bedtime",
+      "en": "Your pillow is waiting for you.",
+      "zh": "你的枕頭在等你囉。",
+      "ipa": "/jɔr ˈpɪlo ɪz ˈwetɪŋ fɔr ju/",
+      "vocab": [
+        {
+          "w": "pillow",
+          "pos": "n.",
+          "ipa": "/ˈpɪlo/",
+          "zh": "枕頭"
+        },
+        {
+          "w": "wait for",
+          "pos": "phr.",
+          "ipa": "/wet fɔr/",
+          "zh": "等待"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-4",
+      "date": "2026-09-03",
+      "category": "outings",
+      "en": "Stay close to me in the market.",
+      "zh": "在市場裡要跟緊我。",
+      "ipa": "/ste klos tu mi ɪn ðə ˈmɑrkɪt/",
+      "vocab": [
+        {
+          "w": "stay close",
+          "pos": "phr.",
+          "ipa": "/ste klos/",
+          "zh": "待在附近"
+        },
+        {
+          "w": "market",
+          "pos": "n.",
+          "ipa": "/ˈmɑrkɪt/",
+          "zh": "市場"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-5",
+      "date": "2026-09-03",
+      "category": "playground",
+      "en": "Hold the rope tight and swing gently.",
+      "zh": "抓緊繩子，慢慢盪。",
+      "ipa": "/hold ðə rop taɪt ənd swɪŋ ˈdʒɛntli/",
+      "vocab": [
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "輕輕地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-6",
+      "date": "2026-09-03",
+      "category": "school",
+      "en": "Did you say hello to your teacher?",
+      "zh": "你有跟老師問好嗎？",
+      "ipa": "/dɪd ju se həˈlo tu jɔr ˈtitʃɚ/",
+      "vocab": [
+        {
+          "w": "say hello",
+          "pos": "phr.",
+          "ipa": "/se həˈlo/",
+          "zh": "打招呼"
+        },
+        {
+          "w": "teacher",
+          "pos": "n.",
+          "ipa": "/ˈtitʃɚ/",
+          "zh": "老師"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-7",
+      "date": "2026-09-03",
+      "category": "homework",
+      "en": "Erase it softly so the paper stays nice.",
+      "zh": "輕輕擦掉，紙才不會破。",
+      "ipa": "/ɪˈres ɪt ˈsɔftli so ðə ˈpepɚ stez naɪs/",
+      "vocab": [
+        {
+          "w": "erase",
+          "pos": "v.",
+          "ipa": "/ɪˈres/",
+          "zh": "擦掉"
+        },
+        {
+          "w": "softly",
+          "pos": "adv.",
+          "ipa": "/ˈsɔftli/",
+          "zh": "輕柔地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-8",
+      "date": "2026-09-03",
+      "category": "toys-sharing",
+      "en": "Can your bear have a turn too?",
+      "zh": "可以也讓小熊玩一次嗎？",
+      "ipa": "/kæn jɔr bɛr hæv ə tɝn tu/",
+      "vocab": [
+        {
+          "w": "bear",
+          "pos": "n.",
+          "ipa": "/bɛr/",
+          "zh": "熊、熊玩偶"
+        },
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪流的一次"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-9",
+      "date": "2026-09-03",
+      "category": "emotions",
+      "en": "Tell me what made you giggle.",
+      "zh": "跟我說是什麼讓你咯咯笑。",
+      "ipa": "/tɛl mi wʌt med ju ˈɡɪɡl̩/",
+      "vocab": [
+        {
+          "w": "giggle",
+          "pos": "v.",
+          "ipa": "/ˈɡɪɡl̩/",
+          "zh": "咯咯笑"
+        },
+        {
+          "w": "make",
+          "pos": "v.",
+          "ipa": "/mek/",
+          "zh": "使、讓"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-10",
+      "date": "2026-09-03",
+      "category": "discipline",
+      "en": "Please use your indoor voice.",
+      "zh": "在室內請小聲說話。",
+      "ipa": "/pliz juz jɔr ˈɪnˌdɔr vɔɪs/",
+      "vocab": [
+        {
+          "w": "indoor",
+          "pos": "adj.",
+          "ipa": "/ˈɪnˌdɔr/",
+          "zh": "室內的"
+        },
+        {
+          "w": "voice",
+          "pos": "n.",
+          "ipa": "/vɔɪs/",
+          "zh": "聲音"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-11",
+      "date": "2026-09-03",
+      "category": "praise",
+      "en": "I noticed you shared without being asked.",
+      "zh": "我注意到你沒人提醒就主動分享了。",
+      "ipa": "/aɪ ˈnotɪst ju ʃɛrd wɪˈðaʊt ˈbiɪŋ æskt/",
+      "vocab": [
+        {
+          "w": "notice",
+          "pos": "v.",
+          "ipa": "/ˈnotɪs/",
+          "zh": "注意到"
+        },
+        {
+          "w": "share",
+          "pos": "v.",
+          "ipa": "/ʃɛr/",
+          "zh": "分享"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-12",
+      "date": "2026-09-03",
+      "category": "safety",
+      "en": "Never touch the stove, it's hot.",
+      "zh": "絕對不要碰爐子，很燙。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə stov ɪts hɑt/",
+      "vocab": [
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        },
+        {
+          "w": "never",
+          "pos": "adv.",
+          "ipa": "/ˈnɛvɚ/",
+          "zh": "絕不"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-13",
+      "date": "2026-09-03",
+      "category": "health",
+      "en": "Rest a bit and your tummy will feel better.",
+      "zh": "休息一下，肚子就會舒服一點。",
+      "ipa": "/rɛst ə bɪt ənd jɔr ˈtʌmi wɪl fil ˈbɛtɚ/",
+      "vocab": [
+        {
+          "w": "rest",
+          "pos": "v.",
+          "ipa": "/rɛst/",
+          "zh": "休息"
+        },
+        {
+          "w": "tummy",
+          "pos": "n.",
+          "ipa": "/ˈtʌmi/",
+          "zh": "肚子（幼兒用語）"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-14",
+      "date": "2026-09-03",
+      "category": "relatives",
+      "en": "Uncle brought you a little gift.",
+      "zh": "叔叔帶了一個小禮物給你。",
+      "ipa": "/ˈʌŋkl̩ brɔt ju ə ˈlɪtl̩ ɡɪft/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkl̩/",
+          "zh": "叔叔、舅舅"
+        },
+        {
+          "w": "gift",
+          "pos": "n.",
+          "ipa": "/ɡɪft/",
+          "zh": "禮物"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-15",
+      "date": "2026-09-03",
+      "category": "friends",
+      "en": "You two make a great team.",
+      "zh": "你們兩個真是好搭檔。",
+      "ipa": "/ju tu mek ə ɡret tim/",
+      "vocab": [
+        {
+          "w": "team",
+          "pos": "n.",
+          "ipa": "/tim/",
+          "zh": "團隊、搭檔"
+        },
+        {
+          "w": "great",
+          "pos": "adj.",
+          "ipa": "/ɡret/",
+          "zh": "很棒的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-16",
+      "date": "2026-09-03",
+      "category": "manners",
+      "en": "Knock on the door before you go in.",
+      "zh": "進去之前先敲門。",
+      "ipa": "/nɑk ɑn ðə dɔr bɪˈfɔr ju ɡo ɪn/",
+      "vocab": [
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲"
+        },
+        {
+          "w": "go in",
+          "pos": "phr.",
+          "ipa": "/ɡo ɪn/",
+          "zh": "進去"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-17",
+      "date": "2026-09-03",
+      "category": "weather",
+      "en": "The breeze feels so cool today.",
+      "zh": "今天的微風好涼快。",
+      "ipa": "/ðə briz filz so kul təˈde/",
+      "vocab": [
+        {
+          "w": "breeze",
+          "pos": "n.",
+          "ipa": "/briz/",
+          "zh": "微風"
+        },
+        {
+          "w": "cool",
+          "pos": "adj.",
+          "ipa": "/kul/",
+          "zh": "涼爽的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-18",
+      "date": "2026-09-03",
+      "category": "screen-time",
+      "en": "Sit farther back from the screen.",
+      "zh": "坐離螢幕遠一點。",
+      "ipa": "/sɪt ˈfɑrðɚ bæk frʌm ðə skrin/",
+      "vocab": [
+        {
+          "w": "farther",
+          "pos": "adv.",
+          "ipa": "/ˈfɑrðɚ/",
+          "zh": "更遠地"
+        },
+        {
+          "w": "screen",
+          "pos": "n.",
+          "ipa": "/skrin/",
+          "zh": "螢幕"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-19",
+      "date": "2026-09-03",
+      "category": "celebrations",
+      "en": "Let's wrap this present together.",
+      "zh": "我們一起把這個禮物包起來。",
+      "ipa": "/lɛts ræp ðɪs ˈprɛznt təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "wrap",
+          "pos": "v.",
+          "ipa": "/ræp/",
+          "zh": "包裝"
+        },
+        {
+          "w": "present",
+          "pos": "n.",
+          "ipa": "/ˈprɛznt/",
+          "zh": "禮物"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-20",
+      "date": "2026-09-03",
+      "category": "reading",
+      "en": "Point to the letter that starts your name.",
+      "zh": "指一指你名字開頭的那個字母。",
+      "ipa": "/pɔɪnt tu ðə ˈlɛtɚ ðæt stɑrts jɔr nem/",
+      "vocab": [
+        {
+          "w": "point to",
+          "pos": "phr.",
+          "ipa": "/pɔɪnt tu/",
+          "zh": "指向"
+        },
+        {
+          "w": "letter",
+          "pos": "n.",
+          "ipa": "/ˈlɛtɚ/",
+          "zh": "字母"
+        }
+      ]
+    }
+  ]
+}
