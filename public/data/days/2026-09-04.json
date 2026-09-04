@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-04",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-04-1",
+      "date": "2026-09-04",
+      "category": "daily-routine",
+      "en": "Let's fold the blanket together.",
+      "zh": "我們一起把毯子摺好。",
+      "ipa": "/lɛts fold ðə ˈblæŋkɪt təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/fold/",
+          "zh": "摺疊"
+        },
+        {
+          "w": "blanket",
+          "pos": "n.",
+          "ipa": "/ˈblæŋkɪt/",
+          "zh": "毯子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-2",
+      "date": "2026-09-04",
+      "category": "meals",
+      "en": "Blow on the soup so it cools down.",
+      "zh": "吹一吹湯，讓它涼一點。",
+      "ipa": "/blo ɑn ðə sup so ɪt kulz daʊn/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹氣"
+        },
+        {
+          "w": "cool down",
+          "pos": "phr.",
+          "ipa": "/kul daʊn/",
+          "zh": "變涼"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-3",
+      "date": "2026-09-04",
+      "category": "bath-bedtime",
+      "en": "Rinse the bubbles off your arms.",
+      "zh": "把手臂上的泡泡沖乾淨。",
+      "ipa": "/rɪns ðə ˈbʌblz ɔf jɔr ɑrmz/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "bubble",
+          "pos": "n.",
+          "ipa": "/ˈbʌbl̩/",
+          "zh": "泡泡"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-4",
+      "date": "2026-09-04",
+      "category": "outings",
+      "en": "Stay close to me in the parking lot.",
+      "zh": "在停車場要靠我近一點。",
+      "ipa": "/ste klos tu mi ɪn ðə ˈpɑrkɪŋ lɑt/",
+      "vocab": [
+        {
+          "w": "stay close",
+          "pos": "phr.",
+          "ipa": "/ste klos/",
+          "zh": "靠近待著"
+        },
+        {
+          "w": "parking lot",
+          "pos": "n.",
+          "ipa": "/ˈpɑrkɪŋ lɑt/",
+          "zh": "停車場"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-5",
+      "date": "2026-09-04",
+      "category": "playground",
+      "en": "Hold the bar tightly on the swing.",
+      "zh": "盪鞦韆時要抓緊桿子。",
+      "ipa": "/hold ðə bɑr ˈtaɪtli ɑn ðə swɪŋ/",
+      "vocab": [
+        {
+          "w": "bar",
+          "pos": "n.",
+          "ipa": "/bɑr/",
+          "zh": "桿子"
+        },
+        {
+          "w": "tightly",
+          "pos": "adv.",
+          "ipa": "/ˈtaɪtli/",
+          "zh": "緊緊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-6",
+      "date": "2026-09-04",
+      "category": "school",
+      "en": "Did you say goodbye to your teacher?",
+      "zh": "你跟老師說再見了嗎？",
+      "ipa": "/dɪd ju se ɡʊdˈbaɪ tu jɔr ˈtitʃɚ/",
+      "vocab": [
+        {
+          "w": "goodbye",
+          "pos": "int.",
+          "ipa": "/ɡʊdˈbaɪ/",
+          "zh": "再見"
+        },
+        {
+          "w": "teacher",
+          "pos": "n.",
+          "ipa": "/ˈtitʃɚ/",
+          "zh": "老師"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-7",
+      "date": "2026-09-04",
+      "category": "homework",
+      "en": "Erase it gently so the paper stays nice.",
+      "zh": "輕輕擦掉，紙才不會破。",
+      "ipa": "/ɪˈres ɪt ˈdʒɛntli so ðə ˈpepɚ stez naɪs/",
+      "vocab": [
+        {
+          "w": "erase",
+          "pos": "v.",
+          "ipa": "/ɪˈres/",
+          "zh": "擦掉"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "輕輕地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-8",
+      "date": "2026-09-04",
+      "category": "toys-sharing",
+      "en": "You can trade blocks with your brother.",
+      "zh": "你可以跟哥哥交換積木。",
+      "ipa": "/ju kæn tred blɑks wɪð jɔr ˈbrʌðɚ/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-9",
+      "date": "2026-09-04",
+      "category": "emotions",
+      "en": "Being nervous is part of trying new things.",
+      "zh": "緊張是嘗試新事物的一部分。",
+      "ipa": "/ˈbiɪŋ ˈnɝvəs ɪz pɑrt ʌv ˈtraɪɪŋ nu θɪŋz/",
+      "vocab": [
+        {
+          "w": "nervous",
+          "pos": "adj.",
+          "ipa": "/ˈnɝvəs/",
+          "zh": "緊張的"
+        },
+        {
+          "w": "part",
+          "pos": "n.",
+          "ipa": "/pɑrt/",
+          "zh": "一部分"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-10",
+      "date": "2026-09-04",
+      "category": "discipline",
+      "en": "Inside voices, please.",
+      "zh": "在室內請小聲說話。",
+      "ipa": "/ˈɪnˌsaɪd ˈvɔɪsɪz pliz/",
+      "vocab": [
+        {
+          "w": "inside",
+          "pos": "adj.",
+          "ipa": "/ˈɪnˌsaɪd/",
+          "zh": "室內的"
+        },
+        {
+          "w": "voice",
+          "pos": "n.",
+          "ipa": "/vɔɪs/",
+          "zh": "聲音"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-11",
+      "date": "2026-09-04",
+      "category": "praise",
+      "en": "You never gave up. I'm proud of you.",
+      "zh": "你都沒放棄，我很以你為榮。",
+      "ipa": "/ju ˈnɛvɚ ɡev ʌp aɪm praʊd ʌv ju/",
+      "vocab": [
+        {
+          "w": "give up",
+          "pos": "phr.",
+          "ipa": "/ɡɪv ʌp/",
+          "zh": "放棄"
+        },
+        {
+          "w": "proud",
+          "pos": "adj.",
+          "ipa": "/praʊd/",
+          "zh": "感到驕傲的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-12",
+      "date": "2026-09-04",
+      "category": "safety",
+      "en": "The stove is hot, please step back.",
+      "zh": "爐子很燙，請退後一點。",
+      "ipa": "/ðə stov ɪz hɑt pliz stɛp bæk/",
+      "vocab": [
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        },
+        {
+          "w": "step back",
+          "pos": "phr.",
+          "ipa": "/stɛp bæk/",
+          "zh": "退後"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-13",
+      "date": "2026-09-04",
+      "category": "health",
+      "en": "The doctor just wants to check your throat.",
+      "zh": "醫生只是要看看你的喉嚨。",
+      "ipa": "/ðə ˈdɑktɚ dʒʌst wɑnts tu tʃɛk jɔr θrot/",
+      "vocab": [
+        {
+          "w": "check",
+          "pos": "v.",
+          "ipa": "/tʃɛk/",
+          "zh": "檢查"
+        },
+        {
+          "w": "throat",
+          "pos": "n.",
+          "ipa": "/θrot/",
+          "zh": "喉嚨"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-14",
+      "date": "2026-09-04",
+      "category": "relatives",
+      "en": "Uncle brought us a big watermelon.",
+      "zh": "叔叔帶了一顆大西瓜給我們。",
+      "ipa": "/ˈʌŋkl̩ brɔt ʌs ə bɪɡ ˈwɔtɚˌmɛlən/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkl̩/",
+          "zh": "叔叔、舅舅"
+        },
+        {
+          "w": "watermelon",
+          "pos": "n.",
+          "ipa": "/ˈwɔtɚˌmɛlən/",
+          "zh": "西瓜"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-15",
+      "date": "2026-09-04",
+      "category": "friends",
+      "en": "Ask her if she wants to join us.",
+      "zh": "問問她想不想加入我們。",
+      "ipa": "/æsk hɝ ɪf ʃi wɑnts tu dʒɔɪn ʌs/",
+      "vocab": [
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "詢問"
+        },
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-16",
+      "date": "2026-09-04",
+      "category": "manners",
+      "en": "Chew with your lips closed, please.",
+      "zh": "請閉著嘴巴咀嚼。",
+      "ipa": "/tʃu wɪð jɔr lɪps klozd pliz/",
+      "vocab": [
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        },
+        {
+          "w": "lip",
+          "pos": "n.",
+          "ipa": "/lɪp/",
+          "zh": "嘴唇"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-17",
+      "date": "2026-09-04",
+      "category": "weather",
+      "en": "The wind is strong, zip up your jacket.",
+      "zh": "風很大，把外套拉鍊拉起來。",
+      "ipa": "/ðə wɪnd ɪz strɔŋ zɪp ʌp jɔr ˈdʒækɪt/",
+      "vocab": [
+        {
+          "w": "wind",
+          "pos": "n.",
+          "ipa": "/wɪnd/",
+          "zh": "風"
+        },
+        {
+          "w": "zip up",
+          "pos": "phr.",
+          "ipa": "/zɪp ʌp/",
+          "zh": "拉上拉鍊"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-18",
+      "date": "2026-09-04",
+      "category": "screen-time",
+      "en": "Sit farther away from the screen.",
+      "zh": "坐離螢幕遠一點。",
+      "ipa": "/sɪt ˈfɑrðɚ əˈwe frʌm ðə skrin/",
+      "vocab": [
+        {
+          "w": "farther",
+          "pos": "adv.",
+          "ipa": "/ˈfɑrðɚ/",
+          "zh": "更遠地"
+        },
+        {
+          "w": "screen",
+          "pos": "n.",
+          "ipa": "/skrin/",
+          "zh": "螢幕"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-19",
+      "date": "2026-09-04",
+      "category": "celebrations",
+      "en": "Let's wrap this gift with a ribbon.",
+      "zh": "我們用緞帶把禮物包起來。",
+      "ipa": "/lɛts ræp ðɪs ɡɪft wɪð ə ˈrɪbən/",
+      "vocab": [
+        {
+          "w": "wrap",
+          "pos": "v.",
+          "ipa": "/ræp/",
+          "zh": "包裝"
+        },
+        {
+          "w": "ribbon",
+          "pos": "n.",
+          "ipa": "/ˈrɪbən/",
+          "zh": "緞帶"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-20",
+      "date": "2026-09-04",
+      "category": "reading",
+      "en": "Which page was your favorite tonight?",
+      "zh": "今晚你最喜歡哪一頁？",
+      "ipa": "/wɪtʃ pedʒ wʌz jɔr ˈfevərɪt təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "page",
+          "pos": "n.",
+          "ipa": "/pedʒ/",
+          "zh": "頁"
+        },
+        {
+          "w": "favorite",
+          "pos": "adj.",
+          "ipa": "/ˈfevərɪt/",
+          "zh": "最喜歡的"
+        }
+      ]
+    }
+  ]
+}
