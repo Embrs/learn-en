@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-05",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-05-1",
+      "date": "2026-09-05",
+      "category": "daily-routine",
+      "en": "Roll up your sleeves before we start.",
+      "zh": "開始前把袖子捲起來。",
+      "ipa": "/rol ʌp jɔr slivz bɪˈfɔr wi stɑrt/",
+      "vocab": [
+        {
+          "w": "roll up",
+          "pos": "phr.",
+          "ipa": "/rol ʌp/",
+          "zh": "捲起"
+        },
+        {
+          "w": "sleeve",
+          "pos": "n.",
+          "ipa": "/sliv/",
+          "zh": "袖子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-2",
+      "date": "2026-09-05",
+      "category": "meals",
+      "en": "Chew slowly, there's no rush.",
+      "zh": "慢慢嚼，不用急。",
+      "ipa": "/tʃu ˈsloli ðɛrz no rʌʃ/",
+      "vocab": [
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        },
+        {
+          "w": "rush",
+          "pos": "n.",
+          "ipa": "/rʌʃ/",
+          "zh": "匆忙"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-3",
+      "date": "2026-09-05",
+      "category": "bath-bedtime",
+      "en": "The water is just right, hop in.",
+      "zh": "水溫剛剛好，進來吧。",
+      "ipa": "/ðə ˈwɔtɚ ɪz dʒʌst raɪt hɑp ɪn/",
+      "vocab": [
+        {
+          "w": "just right",
+          "pos": "phr.",
+          "ipa": "/dʒʌst raɪt/",
+          "zh": "剛剛好"
+        },
+        {
+          "w": "hop in",
+          "pos": "phr.",
+          "ipa": "/hɑp ɪn/",
+          "zh": "跳進去"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-4",
+      "date": "2026-09-05",
+      "category": "outings",
+      "en": "Hold the railing on the escalator.",
+      "zh": "在手扶梯上要抓好扶手。",
+      "ipa": "/hold ðə ˈrelɪŋ ɑn ðɪ ˈɛskəˌletɚ/",
+      "vocab": [
+        {
+          "w": "railing",
+          "pos": "n.",
+          "ipa": "/ˈrelɪŋ/",
+          "zh": "扶手"
+        },
+        {
+          "w": "escalator",
+          "pos": "n.",
+          "ipa": "/ˈɛskəˌletɚ/",
+          "zh": "手扶梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-5",
+      "date": "2026-09-05",
+      "category": "playground",
+      "en": "Push the swing gently for your friend.",
+      "zh": "輕輕地幫朋友推鞦韆。",
+      "ipa": "/pʊʃ ðə swɪŋ ˈdʒɛntli fɔr jɔr frɛnd/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "輕輕地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-6",
+      "date": "2026-09-05",
+      "category": "school",
+      "en": "Zip up your backpack before we go.",
+      "zh": "出發前把書包拉鍊拉好。",
+      "ipa": "/zɪp ʌp jɔr ˈbækˌpæk bɪˈfɔr wi ɡo/",
+      "vocab": [
+        {
+          "w": "zip up",
+          "pos": "phr.",
+          "ipa": "/zɪp ʌp/",
+          "zh": "拉上拉鍊"
+        },
+        {
+          "w": "backpack",
+          "pos": "n.",
+          "ipa": "/ˈbækˌpæk/",
+          "zh": "背包"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-7",
+      "date": "2026-09-05",
+      "category": "homework",
+      "en": "Keep your paper flat while you write.",
+      "zh": "寫字的時候把紙壓平。",
+      "ipa": "/kip jɔr ˈpepɚ flæt waɪl ju raɪt/",
+      "vocab": [
+        {
+          "w": "flat",
+          "pos": "adj.",
+          "ipa": "/flæt/",
+          "zh": "平的"
+        },
+        {
+          "w": "paper",
+          "pos": "n.",
+          "ipa": "/ˈpepɚ/",
+          "zh": "紙"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-8",
+      "date": "2026-09-05",
+      "category": "toys-sharing",
+      "en": "Let's trade toys for a little while.",
+      "zh": "我們交換玩具玩一下下。",
+      "ipa": "/lɛts tred tɔɪz fɔr ə ˈlɪtl waɪl/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "a little while",
+          "pos": "phr.",
+          "ipa": "/ə ˈlɪtl waɪl/",
+          "zh": "一會兒"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-9",
+      "date": "2026-09-05",
+      "category": "emotions",
+      "en": "Would a quiet corner help right now?",
+      "zh": "現在到安靜的角落待一下好嗎？",
+      "ipa": "/wʊd ə ˈkwaɪət ˈkɔrnɚ hɛlp raɪt naʊ/",
+      "vocab": [
+        {
+          "w": "quiet",
+          "pos": "adj.",
+          "ipa": "/ˈkwaɪət/",
+          "zh": "安靜的"
+        },
+        {
+          "w": "corner",
+          "pos": "n.",
+          "ipa": "/ˈkɔrnɚ/",
+          "zh": "角落"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-10",
+      "date": "2026-09-05",
+      "category": "discipline",
+      "en": "Please speak kindly to your sister.",
+      "zh": "請好好地跟妹妹說話。",
+      "ipa": "/pliz spik ˈkaɪndli tu jɔr ˈsɪstɚ/",
+      "vocab": [
+        {
+          "w": "kindly",
+          "pos": "adv.",
+          "ipa": "/ˈkaɪndli/",
+          "zh": "親切地"
+        },
+        {
+          "w": "speak",
+          "pos": "v.",
+          "ipa": "/spik/",
+          "zh": "說話"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-11",
+      "date": "2026-09-05",
+      "category": "praise",
+      "en": "That was a smart idea!",
+      "zh": "那真是個聰明的點子！",
+      "ipa": "/ðæt wɑz ə smɑrt aɪˈdiə/",
+      "vocab": [
+        {
+          "w": "smart",
+          "pos": "adj.",
+          "ipa": "/smɑrt/",
+          "zh": "聰明的"
+        },
+        {
+          "w": "idea",
+          "pos": "n.",
+          "ipa": "/aɪˈdiə/",
+          "zh": "主意"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-12",
+      "date": "2026-09-05",
+      "category": "safety",
+      "en": "Keep your fingers out of the drawer.",
+      "zh": "手指不要放進抽屜裡。",
+      "ipa": "/kip jɔr ˈfɪŋɡɚz aʊt ʌv ðə drɔr/",
+      "vocab": [
+        {
+          "w": "finger",
+          "pos": "n.",
+          "ipa": "/ˈfɪŋɡɚ/",
+          "zh": "手指"
+        },
+        {
+          "w": "drawer",
+          "pos": "n.",
+          "ipa": "/drɔr/",
+          "zh": "抽屜"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-13",
+      "date": "2026-09-05",
+      "category": "health",
+      "en": "Your forehead feels a little warm.",
+      "zh": "你的額頭有點熱熱的。",
+      "ipa": "/jɔr ˈfɔrɪd filz ə ˈlɪtl wɔrm/",
+      "vocab": [
+        {
+          "w": "forehead",
+          "pos": "n.",
+          "ipa": "/ˈfɔrɪd/",
+          "zh": "額頭"
+        },
+        {
+          "w": "warm",
+          "pos": "adj.",
+          "ipa": "/wɔrm/",
+          "zh": "溫熱的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-14",
+      "date": "2026-09-05",
+      "category": "relatives",
+      "en": "Let's write Grandma a thank-you note.",
+      "zh": "我們寫張感謝卡給奶奶。",
+      "ipa": "/lɛts raɪt ˈɡrændmɑ ə ˈθæŋk ju not/",
+      "vocab": [
+        {
+          "w": "thank-you note",
+          "pos": "n.",
+          "ipa": "/ˈθæŋk ju not/",
+          "zh": "感謝卡"
+        },
+        {
+          "w": "write",
+          "pos": "v.",
+          "ipa": "/raɪt/",
+          "zh": "寫"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-15",
+      "date": "2026-09-05",
+      "category": "friends",
+      "en": "Save a spot for your friend.",
+      "zh": "幫你的朋友留個位置。",
+      "ipa": "/sev ə spɑt fɔr jɔr frɛnd/",
+      "vocab": [
+        {
+          "w": "spot",
+          "pos": "n.",
+          "ipa": "/spɑt/",
+          "zh": "位置"
+        },
+        {
+          "w": "save",
+          "pos": "v.",
+          "ipa": "/sev/",
+          "zh": "保留"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-16",
+      "date": "2026-09-05",
+      "category": "manners",
+      "en": "Thank the host before we leave.",
+      "zh": "走之前跟主人道謝。",
+      "ipa": "/θæŋk ðə host bɪˈfɔr wi liv/",
+      "vocab": [
+        {
+          "w": "thank",
+          "pos": "v.",
+          "ipa": "/θæŋk/",
+          "zh": "感謝"
+        },
+        {
+          "w": "host",
+          "pos": "n.",
+          "ipa": "/host/",
+          "zh": "主人"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-17",
+      "date": "2026-09-05",
+      "category": "weather",
+      "en": "The wind is chilly this morning.",
+      "zh": "今天早上的風有點涼。",
+      "ipa": "/ðə wɪnd ɪz ˈtʃɪli ðɪs ˈmɔrnɪŋ/",
+      "vocab": [
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "寒冷的"
+        },
+        {
+          "w": "wind",
+          "pos": "n.",
+          "ipa": "/wɪnd/",
+          "zh": "風"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-18",
+      "date": "2026-09-05",
+      "category": "screen-time",
+      "en": "One more song, then we turn it off.",
+      "zh": "再聽一首歌，我們就關掉。",
+      "ipa": "/wʌn mɔr sɔŋ ðɛn wi tɝn ɪt ɔf/",
+      "vocab": [
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        },
+        {
+          "w": "song",
+          "pos": "n.",
+          "ipa": "/sɔŋ/",
+          "zh": "歌曲"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-19",
+      "date": "2026-09-05",
+      "category": "celebrations",
+      "en": "Help me tie the balloons together.",
+      "zh": "幫我把氣球綁在一起。",
+      "ipa": "/hɛlp mi taɪ ðə bəˈlunz təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "tie",
+          "pos": "v.",
+          "ipa": "/taɪ/",
+          "zh": "綁"
+        },
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-05-20",
+      "date": "2026-09-05",
+      "category": "reading",
+      "en": "Which picture do you like best?",
+      "zh": "你最喜歡哪一張圖？",
+      "ipa": "/wɪtʃ ˈpɪktʃɚ du ju laɪk bɛst/",
+      "vocab": [
+        {
+          "w": "picture",
+          "pos": "n.",
+          "ipa": "/ˈpɪktʃɚ/",
+          "zh": "圖片"
+        },
+        {
+          "w": "best",
+          "pos": "adv.",
+          "ipa": "/bɛst/",
+          "zh": "最"
+        }
+      ]
+    }
+  ]
+}

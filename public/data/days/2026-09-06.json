@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-06",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-06-1",
+      "date": "2026-09-06",
+      "category": "daily-routine",
+      "en": "Time to change out of your pajamas.",
+      "zh": "該把睡衣換下來囉。",
+      "ipa": "/taɪm tu tʃendʒ aʊt ʌv jɔr pəˈdʒɑməz/",
+      "vocab": [
+        {
+          "w": "change",
+          "pos": "v.",
+          "ipa": "/tʃendʒ/",
+          "zh": "更換"
+        },
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒɑməz/",
+          "zh": "睡衣"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-2",
+      "date": "2026-09-06",
+      "category": "meals",
+      "en": "Would you like more rice?",
+      "zh": "你還要再一點飯嗎？",
+      "ipa": "/wʊd ju laɪk mɔr raɪs/",
+      "vocab": [
+        {
+          "w": "would like",
+          "pos": "phr.",
+          "ipa": "/wʊd laɪk/",
+          "zh": "想要"
+        },
+        {
+          "w": "rice",
+          "pos": "n.",
+          "ipa": "/raɪs/",
+          "zh": "米飯"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-3",
+      "date": "2026-09-06",
+      "category": "bath-bedtime",
+      "en": "Let's read one story before lights out.",
+      "zh": "關燈前我們讀一個故事。",
+      "ipa": "/lɛts rid wʌn ˈstɔri bɪˈfɔr laɪts aʊt/",
+      "vocab": [
+        {
+          "w": "story",
+          "pos": "n.",
+          "ipa": "/ˈstɔri/",
+          "zh": "故事"
+        },
+        {
+          "w": "lights out",
+          "pos": "phr.",
+          "ipa": "/laɪts aʊt/",
+          "zh": "熄燈"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-4",
+      "date": "2026-09-06",
+      "category": "outings",
+      "en": "Let's find a shady bench to rest.",
+      "zh": "我們找張陰涼的長椅休息。",
+      "ipa": "/lɛts faɪnd ə ˈʃedi bɛntʃ tu rɛst/",
+      "vocab": [
+        {
+          "w": "shady",
+          "pos": "adj.",
+          "ipa": "/ˈʃedi/",
+          "zh": "陰涼的"
+        },
+        {
+          "w": "bench",
+          "pos": "n.",
+          "ipa": "/bɛntʃ/",
+          "zh": "長椅"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-5",
+      "date": "2026-09-06",
+      "category": "playground",
+      "en": "Climb up carefully, one step at a time.",
+      "zh": "小心地爬，一步一步來。",
+      "ipa": "/klaɪm ʌp ˈkɛrfəli wʌn stɛp æt ə taɪm/",
+      "vocab": [
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "攀爬"
+        },
+        {
+          "w": "carefully",
+          "pos": "adv.",
+          "ipa": "/ˈkɛrfəli/",
+          "zh": "小心地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-6",
+      "date": "2026-09-06",
+      "category": "school",
+      "en": "Which classmate made you laugh today?",
+      "zh": "今天哪個同學讓你笑了？",
+      "ipa": "/wɪtʃ ˈklæsˌmet med ju læf təˈde/",
+      "vocab": [
+        {
+          "w": "classmate",
+          "pos": "n.",
+          "ipa": "/ˈklæsˌmet/",
+          "zh": "同學"
+        },
+        {
+          "w": "laugh",
+          "pos": "v.",
+          "ipa": "/læf/",
+          "zh": "笑"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-7",
+      "date": "2026-09-06",
+      "category": "homework",
+      "en": "Let's finish this page, then take a break.",
+      "zh": "寫完這一頁我們就休息。",
+      "ipa": "/lɛts ˈfɪnɪʃ ðɪs pedʒ ðɛn tek ə brek/",
+      "vocab": [
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "完成"
+        },
+        {
+          "w": "break",
+          "pos": "n.",
+          "ipa": "/brek/",
+          "zh": "休息"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-8",
+      "date": "2026-09-06",
+      "category": "toys-sharing",
+      "en": "There are enough blocks for both of you.",
+      "zh": "積木夠你們兩個一起玩。",
+      "ipa": "/ðɛr ɑr ɪˈnʌf blɑks fɔr boθ ʌv ju/",
+      "vocab": [
+        {
+          "w": "enough",
+          "pos": "adj.",
+          "ipa": "/ɪˈnʌf/",
+          "zh": "足夠的"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-9",
+      "date": "2026-09-06",
+      "category": "emotions",
+      "en": "You look a little frustrated.",
+      "zh": "你看起來有點沮喪。",
+      "ipa": "/ju lʊk ə ˈlɪtl ˈfrʌsˌtretɪd/",
+      "vocab": [
+        {
+          "w": "frustrated",
+          "pos": "adj.",
+          "ipa": "/ˈfrʌsˌtretɪd/",
+          "zh": "沮喪的"
+        },
+        {
+          "w": "look",
+          "pos": "v.",
+          "ipa": "/lʊk/",
+          "zh": "看起來"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-10",
+      "date": "2026-09-06",
+      "category": "discipline",
+      "en": "If you throw it, we put it away.",
+      "zh": "如果你亂丟，我們就要收起來。",
+      "ipa": "/ɪf ju θro ɪt wi pʊt ɪt əˈwe/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟"
+        },
+        {
+          "w": "put away",
+          "pos": "phr.",
+          "ipa": "/pʊt əˈwe/",
+          "zh": "收起來"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-11",
+      "date": "2026-09-06",
+      "category": "praise",
+      "en": "I love how patient you were.",
+      "zh": "我好喜歡你這麼有耐心。",
+      "ipa": "/aɪ lʌv haʊ ˈpeʃənt ju wɝ/",
+      "vocab": [
+        {
+          "w": "patient",
+          "pos": "adj.",
+          "ipa": "/ˈpeʃənt/",
+          "zh": "有耐心的"
+        },
+        {
+          "w": "love",
+          "pos": "v.",
+          "ipa": "/lʌv/",
+          "zh": "喜愛"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-12",
+      "date": "2026-09-06",
+      "category": "safety",
+      "en": "Keep the scissors pointing down.",
+      "zh": "剪刀的尖端要朝下。",
+      "ipa": "/kip ðə ˈsɪzɚz ˈpɔɪntɪŋ daʊn/",
+      "vocab": [
+        {
+          "w": "scissors",
+          "pos": "n.",
+          "ipa": "/ˈsɪzɚz/",
+          "zh": "剪刀"
+        },
+        {
+          "w": "point",
+          "pos": "v.",
+          "ipa": "/pɔɪnt/",
+          "zh": "指向"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-13",
+      "date": "2026-09-06",
+      "category": "health",
+      "en": "Let me put a bandage on it.",
+      "zh": "我幫你貼個 OK 繃。",
+      "ipa": "/lɛt mi pʊt ə ˈbændɪdʒ ɑn ɪt/",
+      "vocab": [
+        {
+          "w": "bandage",
+          "pos": "n.",
+          "ipa": "/ˈbændɪdʒ/",
+          "zh": "繃帶"
+        },
+        {
+          "w": "put on",
+          "pos": "phr.",
+          "ipa": "/pʊt ɑn/",
+          "zh": "貼上"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-14",
+      "date": "2026-09-06",
+      "category": "relatives",
+      "en": "Cousin is coming over this weekend.",
+      "zh": "表哥這個週末會來家裡。",
+      "ipa": "/ˈkʌzn ɪz ˈkʌmɪŋ ˈovɚ ðɪs ˈwikˌɛnd/",
+      "vocab": [
+        {
+          "w": "cousin",
+          "pos": "n.",
+          "ipa": "/ˈkʌzn/",
+          "zh": "表兄弟姊妹"
+        },
+        {
+          "w": "come over",
+          "pos": "phr.",
+          "ipa": "/kʌm ˈovɚ/",
+          "zh": "來訪"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-15",
+      "date": "2026-09-06",
+      "category": "friends",
+      "en": "You two play so well together.",
+      "zh": "你們兩個一起玩得真好。",
+      "ipa": "/ju tu ple so wɛl təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "together",
+          "pos": "adv.",
+          "ipa": "/təˈɡɛðɚ/",
+          "zh": "一起"
+        },
+        {
+          "w": "well",
+          "pos": "adv.",
+          "ipa": "/wɛl/",
+          "zh": "好地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-16",
+      "date": "2026-09-06",
+      "category": "manners",
+      "en": "Wipe your feet on the mat.",
+      "zh": "在踏墊上把腳擦一擦。",
+      "ipa": "/waɪp jɔr fit ɑn ðə mæt/",
+      "vocab": [
+        {
+          "w": "wipe",
+          "pos": "v.",
+          "ipa": "/waɪp/",
+          "zh": "擦"
+        },
+        {
+          "w": "mat",
+          "pos": "n.",
+          "ipa": "/mæt/",
+          "zh": "踏墊"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-17",
+      "date": "2026-09-06",
+      "category": "weather",
+      "en": "Look, there's a rainbow outside!",
+      "zh": "你看，外面有彩虹！",
+      "ipa": "/lʊk ðɛrz ə ˈrenˌbo ˌaʊtˈsaɪd/",
+      "vocab": [
+        {
+          "w": "rainbow",
+          "pos": "n.",
+          "ipa": "/ˈrenˌbo/",
+          "zh": "彩虹"
+        },
+        {
+          "w": "outside",
+          "pos": "adv.",
+          "ipa": "/ˌaʊtˈsaɪd/",
+          "zh": "外面"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-18",
+      "date": "2026-09-06",
+      "category": "screen-time",
+      "en": "Sit back from the screen a bit.",
+      "zh": "離螢幕坐遠一點。",
+      "ipa": "/sɪt bæk frʌm ðə skrin ə bɪt/",
+      "vocab": [
+        {
+          "w": "screen",
+          "pos": "n.",
+          "ipa": "/skrin/",
+          "zh": "螢幕"
+        },
+        {
+          "w": "a bit",
+          "pos": "phr.",
+          "ipa": "/ə bɪt/",
+          "zh": "一點"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-19",
+      "date": "2026-09-06",
+      "category": "celebrations",
+      "en": "Make a wish and blow out the candles.",
+      "zh": "許個願，然後吹蠟燭。",
+      "ipa": "/mek ə wɪʃ ænd blo aʊt ðə ˈkændlz/",
+      "vocab": [
+        {
+          "w": "wish",
+          "pos": "n.",
+          "ipa": "/wɪʃ/",
+          "zh": "願望"
+        },
+        {
+          "w": "candle",
+          "pos": "n.",
+          "ipa": "/ˈkændl/",
+          "zh": "蠟燭"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-06-20",
+      "date": "2026-09-06",
+      "category": "reading",
+      "en": "Can you find the letter B?",
+      "zh": "你可以找到字母 B 嗎？",
+      "ipa": "/kæn ju faɪnd ðə ˈlɛtɚ bi/",
+      "vocab": [
+        {
+          "w": "letter",
+          "pos": "n.",
+          "ipa": "/ˈlɛtɚ/",
+          "zh": "字母"
+        },
+        {
+          "w": "find",
+          "pos": "v.",
+          "ipa": "/faɪnd/",
+          "zh": "找到"
+        }
+      ]
+    }
+  ]
+}

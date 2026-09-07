@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-07",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-07-1",
+      "date": "2026-09-07",
+      "category": "daily-routine",
+      "en": "Put your dirty clothes in the basket.",
+      "zh": "把髒衣服放進籃子裡。",
+      "ipa": "/pʊt jɔr ˈdɝti kloz ɪn ðə ˈbæskɪt/",
+      "vocab": [
+        {
+          "w": "dirty",
+          "pos": "adj.",
+          "ipa": "/ˈdɝti/",
+          "zh": "髒的"
+        },
+        {
+          "w": "basket",
+          "pos": "n.",
+          "ipa": "/ˈbæskɪt/",
+          "zh": "籃子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-2",
+      "date": "2026-09-07",
+      "category": "meals",
+      "en": "Please pass me your empty plate.",
+      "zh": "請把你的空盤子遞給我。",
+      "ipa": "/pliz pæs mi jɔr ˈɛmpti plet/",
+      "vocab": [
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "遞"
+        },
+        {
+          "w": "empty",
+          "pos": "adj.",
+          "ipa": "/ˈɛmpti/",
+          "zh": "空的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-3",
+      "date": "2026-09-07",
+      "category": "bath-bedtime",
+      "en": "Your hair is still wet, let's dry it.",
+      "zh": "你的頭髮還濕濕的，我們吹乾。",
+      "ipa": "/jɔr hɛr ɪz stɪl wɛt lɛts draɪ ɪt/",
+      "vocab": [
+        {
+          "w": "wet",
+          "pos": "adj.",
+          "ipa": "/wɛt/",
+          "zh": "濕的"
+        },
+        {
+          "w": "dry",
+          "pos": "v.",
+          "ipa": "/draɪ/",
+          "zh": "弄乾"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-4",
+      "date": "2026-09-07",
+      "category": "outings",
+      "en": "Let's take the stairs today.",
+      "zh": "我們今天走樓梯吧。",
+      "ipa": "/lɛts tek ðə stɛrz təˈde/",
+      "vocab": [
+        {
+          "w": "stairs",
+          "pos": "n.",
+          "ipa": "/stɛrz/",
+          "zh": "樓梯"
+        },
+        {
+          "w": "take",
+          "pos": "v.",
+          "ipa": "/tek/",
+          "zh": "走（樓梯）"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-5",
+      "date": "2026-09-07",
+      "category": "playground",
+      "en": "Watch out for the kids behind you.",
+      "zh": "注意你後面的小朋友。",
+      "ipa": "/wɑtʃ aʊt fɔr ðə kɪdz bɪˈhaɪnd ju/",
+      "vocab": [
+        {
+          "w": "watch out",
+          "pos": "phr.",
+          "ipa": "/wɑtʃ aʊt/",
+          "zh": "小心"
+        },
+        {
+          "w": "behind",
+          "pos": "prep.",
+          "ipa": "/bɪˈhaɪnd/",
+          "zh": "在⋯後面"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-6",
+      "date": "2026-09-07",
+      "category": "school",
+      "en": "Tell me one fun thing from school.",
+      "zh": "跟我說一件學校好玩的事。",
+      "ipa": "/tɛl mi wʌn fʌn θɪŋ frʌm skul/",
+      "vocab": [
+        {
+          "w": "fun",
+          "pos": "adj.",
+          "ipa": "/fʌn/",
+          "zh": "有趣的"
+        },
+        {
+          "w": "school",
+          "pos": "n.",
+          "ipa": "/skul/",
+          "zh": "學校"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-7",
+      "date": "2026-09-07",
+      "category": "homework",
+      "en": "Tell me the answer in a full sentence.",
+      "zh": "用完整的句子告訴我答案。",
+      "ipa": "/tɛl mi ðɪ ˈænsɚ ɪn ə fʊl ˈsɛntəns/",
+      "vocab": [
+        {
+          "w": "full",
+          "pos": "adj.",
+          "ipa": "/fʊl/",
+          "zh": "完整的"
+        },
+        {
+          "w": "sentence",
+          "pos": "n.",
+          "ipa": "/ˈsɛntəns/",
+          "zh": "句子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-8",
+      "date": "2026-09-07",
+      "category": "toys-sharing",
+      "en": "Can you lend her your crayons?",
+      "zh": "你可以借她蠟筆嗎？",
+      "ipa": "/kæn ju lɛnd hɚ jɔr ˈkreɑnz/",
+      "vocab": [
+        {
+          "w": "lend",
+          "pos": "v.",
+          "ipa": "/lɛnd/",
+          "zh": "借出"
+        },
+        {
+          "w": "crayon",
+          "pos": "n.",
+          "ipa": "/ˈkreɑn/",
+          "zh": "蠟筆"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-9",
+      "date": "2026-09-07",
+      "category": "emotions",
+      "en": "It's hard to wait, I know.",
+      "zh": "我知道等待很不容易。",
+      "ipa": "/ɪts hɑrd tu wet aɪ no/",
+      "vocab": [
+        {
+          "w": "hard",
+          "pos": "adj.",
+          "ipa": "/hɑrd/",
+          "zh": "困難的"
+        },
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-10",
+      "date": "2026-09-07",
+      "category": "discipline",
+      "en": "That's not how we treat books.",
+      "zh": "我們不是這樣對待書本的。",
+      "ipa": "/ðæts nɑt haʊ wi trit bʊks/",
+      "vocab": [
+        {
+          "w": "treat",
+          "pos": "v.",
+          "ipa": "/trit/",
+          "zh": "對待"
+        },
+        {
+          "w": "book",
+          "pos": "n.",
+          "ipa": "/bʊk/",
+          "zh": "書本"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-11",
+      "date": "2026-09-07",
+      "category": "praise",
+      "en": "Look how neat your desk is!",
+      "zh": "你看你的書桌多整齊！",
+      "ipa": "/lʊk haʊ nit jɔr dɛsk ɪz/",
+      "vocab": [
+        {
+          "w": "neat",
+          "pos": "adj.",
+          "ipa": "/nit/",
+          "zh": "整齊的"
+        },
+        {
+          "w": "desk",
+          "pos": "n.",
+          "ipa": "/dɛsk/",
+          "zh": "書桌"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-12",
+      "date": "2026-09-07",
+      "category": "safety",
+      "en": "Buckle your seat belt, please.",
+      "zh": "請把安全帶扣好。",
+      "ipa": "/ˈbʌkl jɔr sit bɛlt pliz/",
+      "vocab": [
+        {
+          "w": "buckle",
+          "pos": "v.",
+          "ipa": "/ˈbʌkl/",
+          "zh": "扣上"
+        },
+        {
+          "w": "seat belt",
+          "pos": "n.",
+          "ipa": "/sit bɛlt/",
+          "zh": "安全帶"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-13",
+      "date": "2026-09-07",
+      "category": "health",
+      "en": "Rest a while and you'll feel better.",
+      "zh": "休息一下就會舒服一點。",
+      "ipa": "/rɛst ə waɪl ænd jul fil ˈbɛtɚ/",
+      "vocab": [
+        {
+          "w": "rest",
+          "pos": "v.",
+          "ipa": "/rɛst/",
+          "zh": "休息"
+        },
+        {
+          "w": "better",
+          "pos": "adj.",
+          "ipa": "/ˈbɛtɚ/",
+          "zh": "好一些的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-14",
+      "date": "2026-09-07",
+      "category": "relatives",
+      "en": "Let's video call Grandma tonight.",
+      "zh": "我們今晚跟奶奶視訊吧。",
+      "ipa": "/lɛts ˈvɪdio kɔl ˈɡrændmɑ təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "video call",
+          "pos": "phr.",
+          "ipa": "/ˈvɪdio kɔl/",
+          "zh": "視訊通話"
+        },
+        {
+          "w": "tonight",
+          "pos": "adv.",
+          "ipa": "/təˈnaɪt/",
+          "zh": "今晚"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-15",
+      "date": "2026-09-07",
+      "category": "friends",
+      "en": "Say sorry and give her a hug.",
+      "zh": "說對不起，然後抱抱她。",
+      "ipa": "/se ˈsɑri ænd ɡɪv hɚ ə hʌɡ/",
+      "vocab": [
+        {
+          "w": "sorry",
+          "pos": "adj.",
+          "ipa": "/ˈsɑri/",
+          "zh": "抱歉的"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-16",
+      "date": "2026-09-07",
+      "category": "manners",
+      "en": "It's polite to greet the neighbors.",
+      "zh": "跟鄰居打招呼是有禮貌的。",
+      "ipa": "/ɪts pəˈlaɪt tu ɡrit ðə ˈnebɚz/",
+      "vocab": [
+        {
+          "w": "polite",
+          "pos": "adj.",
+          "ipa": "/pəˈlaɪt/",
+          "zh": "有禮貌的"
+        },
+        {
+          "w": "greet",
+          "pos": "v.",
+          "ipa": "/ɡrit/",
+          "zh": "打招呼"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-17",
+      "date": "2026-09-07",
+      "category": "weather",
+      "en": "The sun is really strong today.",
+      "zh": "今天太陽好大。",
+      "ipa": "/ðə sʌn ɪz ˈrɪli strɔŋ təˈde/",
+      "vocab": [
+        {
+          "w": "strong",
+          "pos": "adj.",
+          "ipa": "/strɔŋ/",
+          "zh": "強烈的"
+        },
+        {
+          "w": "sun",
+          "pos": "n.",
+          "ipa": "/sʌn/",
+          "zh": "太陽"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-18",
+      "date": "2026-09-07",
+      "category": "screen-time",
+      "en": "Let's watch just one short video.",
+      "zh": "我們只看一支短片。",
+      "ipa": "/lɛts wɑtʃ dʒʌst wʌn ʃɔrt ˈvɪdio/",
+      "vocab": [
+        {
+          "w": "short",
+          "pos": "adj.",
+          "ipa": "/ʃɔrt/",
+          "zh": "短的"
+        },
+        {
+          "w": "video",
+          "pos": "n.",
+          "ipa": "/ˈvɪdio/",
+          "zh": "影片"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-19",
+      "date": "2026-09-07",
+      "category": "celebrations",
+      "en": "We're going to sing a birthday song.",
+      "zh": "我們要唱生日快樂歌。",
+      "ipa": "/wɪr ˈɡoɪŋ tu sɪŋ ə ˈbɝθˌde sɔŋ/",
+      "vocab": [
+        {
+          "w": "sing",
+          "pos": "v.",
+          "ipa": "/sɪŋ/",
+          "zh": "唱"
+        },
+        {
+          "w": "birthday",
+          "pos": "n.",
+          "ipa": "/ˈbɝθˌde/",
+          "zh": "生日"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-20",
+      "date": "2026-09-07",
+      "category": "reading",
+      "en": "Let's look at the cover first.",
+      "zh": "我們先看看封面。",
+      "ipa": "/lɛts lʊk æt ðə ˈkʌvɚ fɝst/",
+      "vocab": [
+        {
+          "w": "cover",
+          "pos": "n.",
+          "ipa": "/ˈkʌvɚ/",
+          "zh": "封面"
+        },
+        {
+          "w": "first",
+          "pos": "adv.",
+          "ipa": "/fɝst/",
+          "zh": "先"
+        }
+      ]
+    }
+  ]
+}
