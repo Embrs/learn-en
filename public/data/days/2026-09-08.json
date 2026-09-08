@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-08",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-08-1",
+      "date": "2026-09-08",
+      "category": "daily-routine",
+      "en": "Wipe the sink after you brush.",
+      "zh": "刷完牙要把水槽擦乾淨。",
+      "ipa": "/waɪp ðə sɪŋk ˈæftɚ ju brʌʃ/",
+      "vocab": [
+        {
+          "w": "wipe",
+          "pos": "v.",
+          "ipa": "/waɪp/",
+          "zh": "擦拭"
+        },
+        {
+          "w": "sink",
+          "pos": "n.",
+          "ipa": "/sɪŋk/",
+          "zh": "水槽；洗手台"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-2",
+      "date": "2026-09-08",
+      "category": "meals",
+      "en": "Take a small bite and chew slowly.",
+      "zh": "咬一小口，慢慢咀嚼。",
+      "ipa": "/tek ə smɔl baɪt ænd tʃu ˈsloli/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-3",
+      "date": "2026-09-08",
+      "category": "bath-bedtime",
+      "en": "The water is warm, hop in the tub.",
+      "zh": "水溫剛好，快進浴缸裡。",
+      "ipa": "/ðə ˈwɔtɚ ɪz wɔrm hɑp ɪn ðə tʌb/",
+      "vocab": [
+        {
+          "w": "hop in",
+          "pos": "phr.",
+          "ipa": "/hɑp ɪn/",
+          "zh": "快進去；跳進去"
+        },
+        {
+          "w": "tub",
+          "pos": "n.",
+          "ipa": "/tʌb/",
+          "zh": "浴缸"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-4",
+      "date": "2026-09-08",
+      "category": "outings",
+      "en": "We are taking the bus downtown today.",
+      "zh": "我們今天要搭公車去市區。",
+      "ipa": "/wi ɑr ˈtekɪŋ ðə bʌs ˈdaʊnˈtaʊn təˈde/",
+      "vocab": [
+        {
+          "w": "take the bus",
+          "pos": "phr.",
+          "ipa": "/tek ðə bʌs/",
+          "zh": "搭公車"
+        },
+        {
+          "w": "downtown",
+          "pos": "adv.",
+          "ipa": "/ˈdaʊnˈtaʊn/",
+          "zh": "往市區"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-5",
+      "date": "2026-09-08",
+      "category": "playground",
+      "en": "Climb up carefully and hold the bars.",
+      "zh": "小心往上爬，抓緊欄杆。",
+      "ipa": "/klaɪm ʌp ˈkɛrfəli ænd hold ðə bɑrz/",
+      "vocab": [
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "攀爬"
+        },
+        {
+          "w": "bar",
+          "pos": "n.",
+          "ipa": "/bɑr/",
+          "zh": "橫桿；欄杆"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-6",
+      "date": "2026-09-08",
+      "category": "school",
+      "en": "Was the classroom noisy or quiet today?",
+      "zh": "今天教室裡是吵吵的還是安靜的？",
+      "ipa": "/wɑz ðə ˈklæsˌrum ˈnɔɪzi ɔr ˈkwaɪət təˈde/",
+      "vocab": [
+        {
+          "w": "classroom",
+          "pos": "n.",
+          "ipa": "/ˈklæsˌrum/",
+          "zh": "教室"
+        },
+        {
+          "w": "noisy",
+          "pos": "adj.",
+          "ipa": "/ˈnɔɪzi/",
+          "zh": "吵鬧的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-7",
+      "date": "2026-09-08",
+      "category": "homework",
+      "en": "Hold your pencil like this, see?",
+      "zh": "鉛筆這樣拿，看到了嗎？",
+      "ipa": "/hold jɔr ˈpɛnsəl laɪk ðɪs si/",
+      "vocab": [
+        {
+          "w": "hold",
+          "pos": "v.",
+          "ipa": "/hold/",
+          "zh": "握住；拿"
+        },
+        {
+          "w": "pencil",
+          "pos": "n.",
+          "ipa": "/ˈpɛnsəl/",
+          "zh": "鉛筆"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-8",
+      "date": "2026-09-08",
+      "category": "toys-sharing",
+      "en": "Let your sister play with it too.",
+      "zh": "也讓妹妹一起玩。",
+      "ipa": "/lɛt jɔr ˈsɪstɚ ple wɪð ɪt tu/",
+      "vocab": [
+        {
+          "w": "let",
+          "pos": "v.",
+          "ipa": "/lɛt/",
+          "zh": "讓"
+        },
+        {
+          "w": "too",
+          "pos": "adv.",
+          "ipa": "/tu/",
+          "zh": "也"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-9",
+      "date": "2026-09-08",
+      "category": "emotions",
+      "en": "Do you want to talk or just sit?",
+      "zh": "你想說說話，還是先靜靜坐一下？",
+      "ipa": "/du ju wɑnt tu tɔk ɔr dʒʌst sɪt/",
+      "vocab": [
+        {
+          "w": "talk",
+          "pos": "v.",
+          "ipa": "/tɔk/",
+          "zh": "說話"
+        },
+        {
+          "w": "just",
+          "pos": "adv.",
+          "ipa": "/dʒʌst/",
+          "zh": "只是"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-10",
+      "date": "2026-09-08",
+      "category": "discipline",
+      "en": "We do not throw things inside the house.",
+      "zh": "在家裡我們不亂丟東西。",
+      "ipa": "/wi du nɑt θro θɪŋz ɪnˈsaɪd ðə haʊs/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟；扔"
+        },
+        {
+          "w": "inside",
+          "pos": "prep.",
+          "ipa": "/ɪnˈsaɪd/",
+          "zh": "在…裡面"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-11",
+      "date": "2026-09-08",
+      "category": "praise",
+      "en": "You worked so hard on that drawing.",
+      "zh": "那張畫你真的很用心。",
+      "ipa": "/ju wɝkt so hɑrd ɑn ðæt ˈdrɔɪŋ/",
+      "vocab": [
+        {
+          "w": "work hard",
+          "pos": "phr.",
+          "ipa": "/wɝk hɑrd/",
+          "zh": "努力；用心"
+        },
+        {
+          "w": "drawing",
+          "pos": "n.",
+          "ipa": "/ˈdrɔɪŋ/",
+          "zh": "圖畫"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-12",
+      "date": "2026-09-08",
+      "category": "safety",
+      "en": "Wait on the sidewalk until I catch up.",
+      "zh": "在人行道上等我追上來。",
+      "ipa": "/wet ɑn ðə ˈsaɪdˌwɔk ənˈtɪl aɪ kætʃ ʌp/",
+      "vocab": [
+        {
+          "w": "sidewalk",
+          "pos": "n.",
+          "ipa": "/ˈsaɪdˌwɔk/",
+          "zh": "人行道"
+        },
+        {
+          "w": "catch up",
+          "pos": "phr.",
+          "ipa": "/kætʃ ʌp/",
+          "zh": "趕上；追上"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-13",
+      "date": "2026-09-08",
+      "category": "health",
+      "en": "Sleep early tonight so your body can heal.",
+      "zh": "今晚早點睡，身體才會快點好。",
+      "ipa": "/slip ˈɝli təˈnaɪt so jɔr ˈbɑdi kæn hil/",
+      "vocab": [
+        {
+          "w": "early",
+          "pos": "adv.",
+          "ipa": "/ˈɝli/",
+          "zh": "早地"
+        },
+        {
+          "w": "heal",
+          "pos": "v.",
+          "ipa": "/hil/",
+          "zh": "復原；痊癒"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-14",
+      "date": "2026-09-08",
+      "category": "relatives",
+      "en": "Grandma made this sweater for you.",
+      "zh": "這件毛衣是奶奶做給你的。",
+      "ipa": "/ˈɡrænmɑ med ðɪs ˈswɛtɚ fɔr ju/",
+      "vocab": [
+        {
+          "w": "grandma",
+          "pos": "n.",
+          "ipa": "/ˈɡrænmɑ/",
+          "zh": "奶奶；外婆"
+        },
+        {
+          "w": "sweater",
+          "pos": "n.",
+          "ipa": "/ˈswɛtɚ/",
+          "zh": "毛衣"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-15",
+      "date": "2026-09-08",
+      "category": "friends",
+      "en": "Ask him nicely if he wants to join.",
+      "zh": "客氣地問問他要不要一起玩。",
+      "ipa": "/æsk hɪm ˈnaɪsli ɪf hi wɑnts tu dʒɔɪn/",
+      "vocab": [
+        {
+          "w": "nicely",
+          "pos": "adv.",
+          "ipa": "/ˈnaɪsli/",
+          "zh": "有禮貌地"
+        },
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-16",
+      "date": "2026-09-08",
+      "category": "manners",
+      "en": "Use both hands when you receive something.",
+      "zh": "接東西的時候要用雙手。",
+      "ipa": "/juz boθ hændz hwɛn ju rɪˈsiv ˈsʌmθɪŋ/",
+      "vocab": [
+        {
+          "w": "both",
+          "pos": "adj.",
+          "ipa": "/boθ/",
+          "zh": "兩個都"
+        },
+        {
+          "w": "receive",
+          "pos": "v.",
+          "ipa": "/rɪˈsiv/",
+          "zh": "接受；收下"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-17",
+      "date": "2026-09-08",
+      "category": "weather",
+      "en": "Let's listen to the thunder from inside.",
+      "zh": "我們在屋裡聽打雷的聲音。",
+      "ipa": "/lɛts ˈlɪsən tu ðə ˈθʌndɚ frʌm ɪnˈsaɪd/",
+      "vocab": [
+        {
+          "w": "listen to",
+          "pos": "phr.",
+          "ipa": "/ˈlɪsən tu/",
+          "zh": "聆聽"
+        },
+        {
+          "w": "thunder",
+          "pos": "n.",
+          "ipa": "/ˈθʌndɚ/",
+          "zh": "雷聲"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-18",
+      "date": "2026-09-08",
+      "category": "screen-time",
+      "en": "Blink your eyes a few times now.",
+      "zh": "現在眨眨眼睛休息一下。",
+      "ipa": "/blɪŋk jɔr aɪz ə fju taɪmz naʊ/",
+      "vocab": [
+        {
+          "w": "blink",
+          "pos": "v.",
+          "ipa": "/blɪŋk/",
+          "zh": "眨眼"
+        },
+        {
+          "w": "a few",
+          "pos": "phr.",
+          "ipa": "/ə fju/",
+          "zh": "幾個"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-19",
+      "date": "2026-09-08",
+      "category": "celebrations",
+      "en": "Let's wrap this gift together.",
+      "zh": "我們一起把禮物包起來。",
+      "ipa": "/lɛts ræp ðɪs ɡɪft təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "wrap",
+          "pos": "v.",
+          "ipa": "/ræp/",
+          "zh": "包裝"
+        },
+        {
+          "w": "gift",
+          "pos": "n.",
+          "ipa": "/ɡɪft/",
+          "zh": "禮物"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-20",
+      "date": "2026-09-08",
+      "category": "reading",
+      "en": "Let's borrow three books from the library.",
+      "zh": "我們去圖書館借三本書。",
+      "ipa": "/lɛts ˈbɑro θri bʊks frʌm ðə ˈlaɪˌbrɛri/",
+      "vocab": [
+        {
+          "w": "borrow",
+          "pos": "v.",
+          "ipa": "/ˈbɑro/",
+          "zh": "借入"
+        },
+        {
+          "w": "library",
+          "pos": "n.",
+          "ipa": "/ˈlaɪˌbrɛri/",
+          "zh": "圖書館"
+        }
+      ]
+    }
+  ]
+}
