@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-09",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-09-1",
+      "date": "2026-09-09",
+      "category": "daily-routine",
+      "en": "Let's open the curtains and greet the sun.",
+      "zh": "我們把窗簾拉開，跟太陽問好。",
+      "ipa": "/lɛts ˈopən ðə ˈkɝtənz ænd ɡrit ðə sʌn/",
+      "vocab": [
+        {
+          "w": "curtain",
+          "pos": "n.",
+          "ipa": "/ˈkɝtən/",
+          "zh": "窗簾"
+        },
+        {
+          "w": "greet",
+          "pos": "v.",
+          "ipa": "/ɡrit/",
+          "zh": "打招呼；問好"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-2",
+      "date": "2026-09-09",
+      "category": "meals",
+      "en": "Pass me your bowl for more noodles.",
+      "zh": "把碗遞給我，再加一些麵。",
+      "ipa": "/pæs mi jʊr bol fɔr mɔr ˈnudəlz/",
+      "vocab": [
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "傳遞"
+        },
+        {
+          "w": "noodle",
+          "pos": "n.",
+          "ipa": "/ˈnudəl/",
+          "zh": "麵條"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-3",
+      "date": "2026-09-09",
+      "category": "bath-bedtime",
+      "en": "Your nightlight is on, don't worry.",
+      "zh": "小夜燈開著，不用擔心。",
+      "ipa": "/jʊr ˈnaɪtˌlaɪt ɪz ɑn dont ˈwɝi/",
+      "vocab": [
+        {
+          "w": "nightlight",
+          "pos": "n.",
+          "ipa": "/ˈnaɪtˌlaɪt/",
+          "zh": "小夜燈"
+        },
+        {
+          "w": "worry",
+          "pos": "v.",
+          "ipa": "/ˈwɝi/",
+          "zh": "擔心"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-4",
+      "date": "2026-09-09",
+      "category": "outings",
+      "en": "Hold the handrail while we ride down.",
+      "zh": "我們下去的時候要扶著扶手。",
+      "ipa": "/hold ðə ˈhændˌrel waɪl wi raɪd daʊn/",
+      "vocab": [
+        {
+          "w": "handrail",
+          "pos": "n.",
+          "ipa": "/ˈhændˌrel/",
+          "zh": "扶手"
+        },
+        {
+          "w": "ride",
+          "pos": "v.",
+          "ipa": "/raɪd/",
+          "zh": "搭乘"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-5",
+      "date": "2026-09-09",
+      "category": "playground",
+      "en": "Wait for your turn at the seesaw.",
+      "zh": "在蹺蹺板這裡要等輪到你。",
+      "ipa": "/wet fɔr jʊr tɝn æt ðə ˈsiˌsɔ/",
+      "vocab": [
+        {
+          "w": "seesaw",
+          "pos": "n.",
+          "ipa": "/ˈsiˌsɔ/",
+          "zh": "蹺蹺板"
+        },
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪次；輪到"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-6",
+      "date": "2026-09-09",
+      "category": "school",
+      "en": "Raise your hand before you speak in class.",
+      "zh": "在課堂上發言前要先舉手。",
+      "ipa": "/rez jʊr hænd bɪˈfɔr ju spik ɪn klæs/",
+      "vocab": [
+        {
+          "w": "raise",
+          "pos": "v.",
+          "ipa": "/rez/",
+          "zh": "舉起"
+        },
+        {
+          "w": "class",
+          "pos": "n.",
+          "ipa": "/klæs/",
+          "zh": "課堂；班級"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-7",
+      "date": "2026-09-09",
+      "category": "homework",
+      "en": "Sharpen your pencil before we begin.",
+      "zh": "開始之前先把鉛筆削尖。",
+      "ipa": "/ˈʃɑrpən jʊr ˈpɛnsəl bɪˈfɔr wi bɪˈɡɪn/",
+      "vocab": [
+        {
+          "w": "sharpen",
+          "pos": "v.",
+          "ipa": "/ˈʃɑrpən/",
+          "zh": "削尖；使銳利"
+        },
+        {
+          "w": "begin",
+          "pos": "v.",
+          "ipa": "/bɪˈɡɪn/",
+          "zh": "開始"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-8",
+      "date": "2026-09-09",
+      "category": "toys-sharing",
+      "en": "Trade cars with him for a few minutes.",
+      "zh": "跟他交換小汽車玩幾分鐘吧。",
+      "ipa": "/tred kɑrz wɪð hɪm fɔr ə fju ˈmɪnɪts/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "a few",
+          "pos": "phr.",
+          "ipa": "/ə fju/",
+          "zh": "幾個；少數"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-9",
+      "date": "2026-09-09",
+      "category": "emotions",
+      "en": "Tell me what made your heart heavy.",
+      "zh": "告訴我是什麼讓你心裡悶悶的。",
+      "ipa": "/tɛl mi wɑt med jʊr hɑrt ˈhɛvi/",
+      "vocab": [
+        {
+          "w": "heart",
+          "pos": "n.",
+          "ipa": "/hɑrt/",
+          "zh": "心；內心"
+        },
+        {
+          "w": "heavy",
+          "pos": "adj.",
+          "ipa": "/ˈhɛvi/",
+          "zh": "沉重的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-10",
+      "date": "2026-09-09",
+      "category": "discipline",
+      "en": "Use a gentle voice, not a shout.",
+      "zh": "用溫和的聲音說話，不要大吼。",
+      "ipa": "/juz ə ˈdʒɛntəl vɔɪs nɑt ə ʃaʊt/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntəl/",
+          "zh": "溫和的；輕柔的"
+        },
+        {
+          "w": "shout",
+          "pos": "n.",
+          "ipa": "/ʃaʊt/",
+          "zh": "大叫；吼聲"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-11",
+      "date": "2026-09-09",
+      "category": "praise",
+      "en": "You kept trying, and that makes me proud.",
+      "zh": "你一直努力嘗試，我真為你驕傲。",
+      "ipa": "/ju kɛpt ˈtraɪɪŋ ænd ðæt meks mi praʊd/",
+      "vocab": [
+        {
+          "w": "keep trying",
+          "pos": "phr.",
+          "ipa": "/kip ˈtraɪɪŋ/",
+          "zh": "持續嘗試"
+        },
+        {
+          "w": "proud",
+          "pos": "adj.",
+          "ipa": "/praʊd/",
+          "zh": "驕傲的；自豪的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-12",
+      "date": "2026-09-09",
+      "category": "safety",
+      "en": "Never touch the stove knobs, please.",
+      "zh": "請絕對不要碰爐子的開關。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə stov nɑbz pliz/",
+      "vocab": [
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子；瓦斯爐"
+        },
+        {
+          "w": "knob",
+          "pos": "n.",
+          "ipa": "/nɑb/",
+          "zh": "旋鈕；開關"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-13",
+      "date": "2026-09-09",
+      "category": "health",
+      "en": "Your cough sounds better than yesterday.",
+      "zh": "你的咳嗽聽起來比昨天好了。",
+      "ipa": "/jʊr kɔf saʊndz ˈbɛtɚ ðæn ˈjɛstɚˌde/",
+      "vocab": [
+        {
+          "w": "cough",
+          "pos": "n.",
+          "ipa": "/kɔf/",
+          "zh": "咳嗽"
+        },
+        {
+          "w": "better",
+          "pos": "adj.",
+          "ipa": "/ˈbɛtɚ/",
+          "zh": "較好的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-14",
+      "date": "2026-09-09",
+      "category": "relatives",
+      "en": "Auntie brought you a gift from her trip.",
+      "zh": "阿姨旅行回來帶了禮物給你。",
+      "ipa": "/ˈænti brɔt ju ə ɡɪft frʌm hɝ trɪp/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨；姑姑"
+        },
+        {
+          "w": "trip",
+          "pos": "n.",
+          "ipa": "/trɪp/",
+          "zh": "旅行"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-15",
+      "date": "2026-09-09",
+      "category": "friends",
+      "en": "Invite her over to build blocks with us.",
+      "zh": "邀請她過來和我們一起蓋積木。",
+      "ipa": "/ɪnˈvaɪt hɝ ˈovɚ tu bɪld blɑks wɪð ʌs/",
+      "vocab": [
+        {
+          "w": "invite over",
+          "pos": "phr.",
+          "ipa": "/ɪnˈvaɪt ˈovɚ/",
+          "zh": "邀請（來家裡）"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-16",
+      "date": "2026-09-09",
+      "category": "manners",
+      "en": "Say excuse me when you squeeze past.",
+      "zh": "要從旁邊擠過去時要說不好意思。",
+      "ipa": "/se ɪkˈskjuz mi wɛn ju skwiz pæst/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "不好意思；借過"
+        },
+        {
+          "w": "squeeze",
+          "pos": "v.",
+          "ipa": "/skwiz/",
+          "zh": "擠；穿過"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-17",
+      "date": "2026-09-09",
+      "category": "weather",
+      "en": "The breeze feels cool this morning.",
+      "zh": "今天早上的微風好涼爽。",
+      "ipa": "/ðə briz filz kul ðɪs ˈmɔrnɪŋ/",
+      "vocab": [
+        {
+          "w": "breeze",
+          "pos": "n.",
+          "ipa": "/briz/",
+          "zh": "微風"
+        },
+        {
+          "w": "cool",
+          "pos": "adj.",
+          "ipa": "/kul/",
+          "zh": "涼爽的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-18",
+      "date": "2026-09-09",
+      "category": "screen-time",
+      "en": "The tablet goes back on the shelf now.",
+      "zh": "平板現在要放回架子上了。",
+      "ipa": "/ðə ˈtæblɪt ɡoz bæk ɑn ðə ʃɛlf naʊ/",
+      "vocab": [
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        },
+        {
+          "w": "shelf",
+          "pos": "n.",
+          "ipa": "/ʃɛlf/",
+          "zh": "架子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-19",
+      "date": "2026-09-09",
+      "category": "celebrations",
+      "en": "Let's hang the balloons by the window.",
+      "zh": "我們把氣球掛在窗邊吧。",
+      "ipa": "/lɛts hæŋ ðə bəˈlunz baɪ ðə ˈwɪndo/",
+      "vocab": [
+        {
+          "w": "hang",
+          "pos": "v.",
+          "ipa": "/hæŋ/",
+          "zh": "懸掛"
+        },
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-20",
+      "date": "2026-09-09",
+      "category": "reading",
+      "en": "Trace the letters with your finger.",
+      "zh": "用你的手指描一描這些字母。",
+      "ipa": "/tres ðə ˈlɛtɚz wɪð jʊr ˈfɪŋɡɚ/",
+      "vocab": [
+        {
+          "w": "trace",
+          "pos": "v.",
+          "ipa": "/tres/",
+          "zh": "描；描摹"
+        },
+        {
+          "w": "letter",
+          "pos": "n.",
+          "ipa": "/ˈlɛtɚ/",
+          "zh": "字母"
+        }
+      ]
+    }
+  ]
+}
