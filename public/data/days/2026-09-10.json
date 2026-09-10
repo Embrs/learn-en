@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-10",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-10-1",
+      "date": "2026-09-10",
+      "category": "daily-routine",
+      "en": "Hang your towel back on the hook, please.",
+      "zh": "請把你的毛巾掛回掛鉤上。",
+      "ipa": "/hæŋ jʊr ˈtaʊəl bæk ɑn ðə hʊk pliz/",
+      "vocab": [
+        {
+          "w": "towel",
+          "pos": "n.",
+          "ipa": "/ˈtaʊəl/",
+          "zh": "毛巾"
+        },
+        {
+          "w": "hook",
+          "pos": "n.",
+          "ipa": "/hʊk/",
+          "zh": "掛鉤"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-2",
+      "date": "2026-09-10",
+      "category": "meals",
+      "en": "Blow on your soup, it's still steaming.",
+      "zh": "湯還在冒煙，吹一吹再喝。",
+      "ipa": "/blo ɑn jʊr sup ɪts stɪl ˈstimɪŋ/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "steaming",
+          "pos": "adj.",
+          "ipa": "/ˈstimɪŋ/",
+          "zh": "冒熱氣的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-3",
+      "date": "2026-09-10",
+      "category": "bath-bedtime",
+      "en": "Let's rinse the bubbles out of your hair.",
+      "zh": "我們把你頭髮上的泡泡沖乾淨。",
+      "ipa": "/lɛts rɪns ðə ˈbʌbəlz aʊt ʌv jʊr hɛr/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "bubble",
+          "pos": "n.",
+          "ipa": "/ˈbʌbəl/",
+          "zh": "泡泡"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-4",
+      "date": "2026-09-10",
+      "category": "outings",
+      "en": "Stay where I can see you at the market.",
+      "zh": "在市場裡待在我看得到的地方。",
+      "ipa": "/ste hwɛr aɪ kæn si ju æt ðə ˈmɑrkɪt/",
+      "vocab": [
+        {
+          "w": "market",
+          "pos": "n.",
+          "ipa": "/ˈmɑrkɪt/",
+          "zh": "市場"
+        },
+        {
+          "w": "stay",
+          "pos": "v.",
+          "ipa": "/ste/",
+          "zh": "待著；停留"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-5",
+      "date": "2026-09-10",
+      "category": "playground",
+      "en": "Wait for the swing to stop before you grab it.",
+      "zh": "等鞦韆停下來再去抓它。",
+      "ipa": "/wet fɔr ðə swɪŋ tu stɑp bɪˈfɔr ju ɡræb ɪt/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        },
+        {
+          "w": "grab",
+          "pos": "v.",
+          "ipa": "/ɡræb/",
+          "zh": "抓住"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-6",
+      "date": "2026-09-10",
+      "category": "school",
+      "en": "Did your teacher hand out any notices?",
+      "zh": "老師有發什麼通知單嗎？",
+      "ipa": "/dɪd jʊr ˈtitʃɚ hænd aʊt ˈɛni ˈnotɪsɪz/",
+      "vocab": [
+        {
+          "w": "hand out",
+          "pos": "phr.",
+          "ipa": "/hænd aʊt/",
+          "zh": "發放"
+        },
+        {
+          "w": "notice",
+          "pos": "n.",
+          "ipa": "/ˈnotɪs/",
+          "zh": "通知單"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-7",
+      "date": "2026-09-10",
+      "category": "homework",
+      "en": "Check your answers once, then you are free.",
+      "zh": "把答案檢查一遍，然後就可以去玩了。",
+      "ipa": "/tʃɛk jʊr ˈænsɚz wʌns ðɛn ju ɑr fri/",
+      "vocab": [
+        {
+          "w": "check",
+          "pos": "v.",
+          "ipa": "/tʃɛk/",
+          "zh": "檢查"
+        },
+        {
+          "w": "answer",
+          "pos": "n.",
+          "ipa": "/ˈænsɚ/",
+          "zh": "答案"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-8",
+      "date": "2026-09-10",
+      "category": "toys-sharing",
+      "en": "There is enough clay for both of you.",
+      "zh": "黏土夠你們兩個一起玩。",
+      "ipa": "/ðɛr ɪz ɪˈnʌf kle fɔr boθ ʌv ju/",
+      "vocab": [
+        {
+          "w": "clay",
+          "pos": "n.",
+          "ipa": "/kle/",
+          "zh": "黏土"
+        },
+        {
+          "w": "enough",
+          "pos": "adj.",
+          "ipa": "/ɪˈnʌf/",
+          "zh": "足夠的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-9",
+      "date": "2026-09-10",
+      "category": "emotions",
+      "en": "Your face looks worried, want to tell me why?",
+      "zh": "你看起來很擔心，要跟我說為什麼嗎？",
+      "ipa": "/jʊr fes lʊks ˈwɝid wɑnt tu tɛl mi waɪ/",
+      "vocab": [
+        {
+          "w": "worried",
+          "pos": "adj.",
+          "ipa": "/ˈwɝid/",
+          "zh": "擔心的"
+        },
+        {
+          "w": "face",
+          "pos": "n.",
+          "ipa": "/fes/",
+          "zh": "臉；表情"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-10",
+      "date": "2026-09-10",
+      "category": "discipline",
+      "en": "Words, not hands, when you are upset.",
+      "zh": "生氣的時候用說的，不要動手。",
+      "ipa": "/wɝdz nɑt hændz hwɛn ju ɑr ʌpˈsɛt/",
+      "vocab": [
+        {
+          "w": "upset",
+          "pos": "adj.",
+          "ipa": "/ʌpˈsɛt/",
+          "zh": "難過的；生氣的"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "話語"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-11",
+      "date": "2026-09-10",
+      "category": "praise",
+      "en": "That was a very thoughtful thing to do.",
+      "zh": "你這麼做真的很貼心。",
+      "ipa": "/ðæt wʌz ə ˈvɛri ˈθɔtfəl θɪŋ tu du/",
+      "vocab": [
+        {
+          "w": "thoughtful",
+          "pos": "adj.",
+          "ipa": "/ˈθɔtfəl/",
+          "zh": "貼心的；周到的"
+        },
+        {
+          "w": "that",
+          "pos": "pron.",
+          "ipa": "/ðæt/",
+          "zh": "那件事"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-12",
+      "date": "2026-09-10",
+      "category": "safety",
+      "en": "Never touch the stove, it gets very hot.",
+      "zh": "絕對不要碰爐子，它會很燙。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə stov ɪt ɡɛts ˈvɛri hɑt/",
+      "vocab": [
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        },
+        {
+          "w": "touch",
+          "pos": "v.",
+          "ipa": "/tʌtʃ/",
+          "zh": "碰觸"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-13",
+      "date": "2026-09-10",
+      "category": "health",
+      "en": "Show me where it hurts with your finger.",
+      "zh": "用手指給我看哪裡痛。",
+      "ipa": "/ʃo mi hwɛr ɪt hɝts wɪð jʊr ˈfɪŋɡɚ/",
+      "vocab": [
+        {
+          "w": "hurt",
+          "pos": "v.",
+          "ipa": "/hɝt/",
+          "zh": "疼痛"
+        },
+        {
+          "w": "finger",
+          "pos": "n.",
+          "ipa": "/ˈfɪŋɡɚ/",
+          "zh": "手指"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-14",
+      "date": "2026-09-10",
+      "category": "relatives",
+      "en": "Grandpa is teaching you how to fold paper.",
+      "zh": "爺爺在教你怎麼摺紙。",
+      "ipa": "/ˈɡrænpɑ ɪz ˈtitʃɪŋ ju haʊ tu fold ˈpepɚ/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/fold/",
+          "zh": "摺；折疊"
+        },
+        {
+          "w": "grandpa",
+          "pos": "n.",
+          "ipa": "/ˈɡrænpɑ/",
+          "zh": "爺爺；外公"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-15",
+      "date": "2026-09-10",
+      "category": "friends",
+      "en": "Ask him if he wants to join your game.",
+      "zh": "問問他要不要加入你們的遊戲。",
+      "ipa": "/æsk hɪm ɪf hi wɑnts tu dʒɔɪn jʊr ɡem/",
+      "vocab": [
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        },
+        {
+          "w": "game",
+          "pos": "n.",
+          "ipa": "/ɡem/",
+          "zh": "遊戲"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-16",
+      "date": "2026-09-10",
+      "category": "manners",
+      "en": "Cover your mouth when you cough, sweetie.",
+      "zh": "咳嗽的時候要遮住嘴巴喔，寶貝。",
+      "ipa": "/ˈkʌvɚ jʊr maʊθ hwɛn ju kɔf ˈswiti/",
+      "vocab": [
+        {
+          "w": "cough",
+          "pos": "v.",
+          "ipa": "/kɔf/",
+          "zh": "咳嗽"
+        },
+        {
+          "w": "cover",
+          "pos": "v.",
+          "ipa": "/ˈkʌvɚ/",
+          "zh": "遮住"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-17",
+      "date": "2026-09-10",
+      "category": "weather",
+      "en": "The wind is strong, hold onto your hat.",
+      "zh": "風很大，把帽子抓好。",
+      "ipa": "/ðə wɪnd ɪz strɔŋ hold ˈɑntu jʊr hæt/",
+      "vocab": [
+        {
+          "w": "wind",
+          "pos": "n.",
+          "ipa": "/wɪnd/",
+          "zh": "風"
+        },
+        {
+          "w": "hold onto",
+          "pos": "phr.",
+          "ipa": "/hold ˈɑntu/",
+          "zh": "抓緊；握住"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-18",
+      "date": "2026-09-10",
+      "category": "screen-time",
+      "en": "Blink your eyes and look out the window.",
+      "zh": "眨眨眼睛，看看窗外。",
+      "ipa": "/blɪŋk jʊr aɪz ænd lʊk aʊt ðə ˈwɪndo/",
+      "vocab": [
+        {
+          "w": "blink",
+          "pos": "v.",
+          "ipa": "/blɪŋk/",
+          "zh": "眨眼"
+        },
+        {
+          "w": "window",
+          "pos": "n.",
+          "ipa": "/ˈwɪndo/",
+          "zh": "窗戶"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-19",
+      "date": "2026-09-10",
+      "category": "celebrations",
+      "en": "Help me tie the balloons to the chair.",
+      "zh": "幫我把氣球綁在椅子上。",
+      "ipa": "/hɛlp mi taɪ ðə bəˈlunz tu ðə tʃɛr/",
+      "vocab": [
+        {
+          "w": "tie",
+          "pos": "v.",
+          "ipa": "/taɪ/",
+          "zh": "綁"
+        },
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-20",
+      "date": "2026-09-10",
+      "category": "reading",
+      "en": "Which character do you like best so far?",
+      "zh": "到目前為止你最喜歡哪個角色？",
+      "ipa": "/hwɪtʃ ˈkærɪktɚ du ju laɪk bɛst so fɑr/",
+      "vocab": [
+        {
+          "w": "character",
+          "pos": "n.",
+          "ipa": "/ˈkærɪktɚ/",
+          "zh": "角色"
+        },
+        {
+          "w": "so far",
+          "pos": "phr.",
+          "ipa": "/so fɑr/",
+          "zh": "到目前為止"
+        }
+      ]
+    }
+  ]
+}
