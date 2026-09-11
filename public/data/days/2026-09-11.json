@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-11",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-11-1",
+      "date": "2026-09-11",
+      "category": "daily-routine",
+      "en": "Time to tie your shoelaces before we leave.",
+      "zh": "出門前該把鞋帶綁好囉。",
+      "ipa": "/taɪm tu taɪ jʊr ˈʃulesɪz bɪˈfɔr wi liv/",
+      "vocab": [
+        {
+          "w": "tie",
+          "pos": "v.",
+          "ipa": "/taɪ/",
+          "zh": "綁、繫"
+        },
+        {
+          "w": "shoelace",
+          "pos": "n.",
+          "ipa": "/ˈʃules/",
+          "zh": "鞋帶"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-2",
+      "date": "2026-09-11",
+      "category": "meals",
+      "en": "Take one more bite of your broccoli.",
+      "zh": "再吃一口你的花椰菜。",
+      "ipa": "/tek wʌn mɔr baɪt ʌv jʊr ˈbrɑkəli/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "broccoli",
+          "pos": "n.",
+          "ipa": "/ˈbrɑkəli/",
+          "zh": "花椰菜"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-3",
+      "date": "2026-09-11",
+      "category": "bath-bedtime",
+      "en": "Squeeze the sponge and wash your back.",
+      "zh": "把海綿擠一擠，洗洗你的背。",
+      "ipa": "/skwiz ðə spʌndʒ ænd wɑʃ jʊr bæk/",
+      "vocab": [
+        {
+          "w": "squeeze",
+          "pos": "v.",
+          "ipa": "/skwiz/",
+          "zh": "擠壓"
+        },
+        {
+          "w": "sponge",
+          "pos": "n.",
+          "ipa": "/spʌndʒ/",
+          "zh": "海綿"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-4",
+      "date": "2026-09-11",
+      "category": "outings",
+      "en": "Let's take the escalator down to the exit.",
+      "zh": "我們搭手扶梯下去到出口。",
+      "ipa": "/lɛts tek ði ˈɛskəletɚ daʊn tu ði ˈɛɡzɪt/",
+      "vocab": [
+        {
+          "w": "escalator",
+          "pos": "n.",
+          "ipa": "/ˈɛskəletɚ/",
+          "zh": "手扶梯"
+        },
+        {
+          "w": "exit",
+          "pos": "n.",
+          "ipa": "/ˈɛɡzɪt/",
+          "zh": "出口"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-5",
+      "date": "2026-09-11",
+      "category": "playground",
+      "en": "Hold the rope tight and climb slowly.",
+      "zh": "抓緊繩子，慢慢爬上去。",
+      "ipa": "/hold ðə rop taɪt ænd klaɪm ˈsloli/",
+      "vocab": [
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "攀爬"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-6",
+      "date": "2026-09-11",
+      "category": "school",
+      "en": "Did your teacher hand out any notices today?",
+      "zh": "老師今天有發什麼通知單嗎？",
+      "ipa": "/dɪd jʊr ˈtitʃɚ hænd aʊt ˈɛni ˈnotɪsɪz təˈde/",
+      "vocab": [
+        {
+          "w": "hand out",
+          "pos": "phr.",
+          "ipa": "/hænd aʊt/",
+          "zh": "發放"
+        },
+        {
+          "w": "notice",
+          "pos": "n.",
+          "ipa": "/ˈnotɪs/",
+          "zh": "通知單"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-7",
+      "date": "2026-09-11",
+      "category": "homework",
+      "en": "Sharpen your pencil before you start writing.",
+      "zh": "開始寫之前先把鉛筆削尖。",
+      "ipa": "/ˈʃɑrpən jʊr ˈpɛnsəl bɪˈfɔr ju stɑrt ˈraɪtɪŋ/",
+      "vocab": [
+        {
+          "w": "sharpen",
+          "pos": "v.",
+          "ipa": "/ˈʃɑrpən/",
+          "zh": "削尖"
+        },
+        {
+          "w": "pencil",
+          "pos": "n.",
+          "ipa": "/ˈpɛnsəl/",
+          "zh": "鉛筆"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-8",
+      "date": "2026-09-11",
+      "category": "toys-sharing",
+      "en": "Can you trade blocks with your little brother?",
+      "zh": "你可以跟弟弟交換積木嗎？",
+      "ipa": "/kæn ju tred blɑks wɪð jʊr ˈlɪtəl ˈbrʌðɚ/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-9",
+      "date": "2026-09-11",
+      "category": "emotions",
+      "en": "It's okay to feel nervous about new things.",
+      "zh": "對新的事情感到緊張是沒關係的。",
+      "ipa": "/ɪts oˈke tu fil ˈnɝvəs əˈbaʊt nu θɪŋz/",
+      "vocab": [
+        {
+          "w": "nervous",
+          "pos": "adj.",
+          "ipa": "/ˈnɝvəs/",
+          "zh": "緊張的"
+        },
+        {
+          "w": "feel",
+          "pos": "v.",
+          "ipa": "/fil/",
+          "zh": "感覺"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-10",
+      "date": "2026-09-11",
+      "category": "discipline",
+      "en": "We use gentle hands, not rough ones.",
+      "zh": "我們要輕輕地用手，不可以粗魯。",
+      "ipa": "/wi juz ˈdʒɛntəl hændz nɑt rʌf wʌnz/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntəl/",
+          "zh": "溫柔的"
+        },
+        {
+          "w": "rough",
+          "pos": "adj.",
+          "ipa": "/rʌf/",
+          "zh": "粗魯的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-11",
+      "date": "2026-09-11",
+      "category": "praise",
+      "en": "You worked really hard on that, I noticed.",
+      "zh": "我有看到，你真的很努力。",
+      "ipa": "/ju wɝkt ˈrɪli hɑrd ɑn ðæt aɪ ˈnotɪst/",
+      "vocab": [
+        {
+          "w": "notice",
+          "pos": "v.",
+          "ipa": "/ˈnotɪs/",
+          "zh": "注意到"
+        },
+        {
+          "w": "work hard",
+          "pos": "phr.",
+          "ipa": "/wɝk hɑrd/",
+          "zh": "努力"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-12",
+      "date": "2026-09-11",
+      "category": "safety",
+      "en": "Stay behind the yellow line, sweetie.",
+      "zh": "寶貝，站在黃線後面。",
+      "ipa": "/ste bɪˈhaɪnd ðə ˈjɛlo laɪn ˈswiti/",
+      "vocab": [
+        {
+          "w": "stay behind",
+          "pos": "phr.",
+          "ipa": "/ste bɪˈhaɪnd/",
+          "zh": "待在…後面"
+        },
+        {
+          "w": "line",
+          "pos": "n.",
+          "ipa": "/laɪn/",
+          "zh": "線"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-13",
+      "date": "2026-09-11",
+      "category": "health",
+      "en": "Open wide so the doctor can look inside.",
+      "zh": "嘴巴張大，讓醫生看看裡面。",
+      "ipa": "/ˈopən waɪd so ðə ˈdɑktɚ kæn lʊk ɪnˈsaɪd/",
+      "vocab": [
+        {
+          "w": "open wide",
+          "pos": "phr.",
+          "ipa": "/ˈopən waɪd/",
+          "zh": "張大嘴"
+        },
+        {
+          "w": "inside",
+          "pos": "adv.",
+          "ipa": "/ɪnˈsaɪd/",
+          "zh": "裡面"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-14",
+      "date": "2026-09-11",
+      "category": "relatives",
+      "en": "Grandpa saved a seat for you at the table.",
+      "zh": "爺爺在桌邊幫你留了個位子。",
+      "ipa": "/ˈɡrænpɑ sevd ə sit fɔr ju æt ðə ˈtebəl/",
+      "vocab": [
+        {
+          "w": "save a seat",
+          "pos": "phr.",
+          "ipa": "/sev ə sit/",
+          "zh": "留位子"
+        },
+        {
+          "w": "grandpa",
+          "pos": "n.",
+          "ipa": "/ˈɡrænpɑ/",
+          "zh": "爺爺"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-15",
+      "date": "2026-09-11",
+      "category": "friends",
+      "en": "Invite your classmate to join the game.",
+      "zh": "邀請你同學一起加入遊戲。",
+      "ipa": "/ɪnˈvaɪt jʊr ˈklæsmet tu dʒɔɪn ðə ɡem/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "classmate",
+          "pos": "n.",
+          "ipa": "/ˈklæsmet/",
+          "zh": "同學"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-16",
+      "date": "2026-09-11",
+      "category": "manners",
+      "en": "Remember to knock before you open the door.",
+      "zh": "記得開門前要先敲門。",
+      "ipa": "/rɪˈmɛmbɚ tu nɑk bɪˈfɔr ju ˈopən ðə dɔr/",
+      "vocab": [
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲門"
+        },
+        {
+          "w": "remember",
+          "pos": "v.",
+          "ipa": "/rɪˈmɛmbɚ/",
+          "zh": "記得"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-17",
+      "date": "2026-09-11",
+      "category": "weather",
+      "en": "Those clouds look gray, bring the umbrella.",
+      "zh": "雲看起來灰灰的，帶把雨傘吧。",
+      "ipa": "/ðoz klaʊdz lʊk ɡre brɪŋ ði ʌmˈbrɛlə/",
+      "vocab": [
+        {
+          "w": "cloud",
+          "pos": "n.",
+          "ipa": "/klaʊd/",
+          "zh": "雲"
+        },
+        {
+          "w": "umbrella",
+          "pos": "n.",
+          "ipa": "/ʌmˈbrɛlə/",
+          "zh": "雨傘"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-18",
+      "date": "2026-09-11",
+      "category": "screen-time",
+      "en": "Pause the video and give your eyes a break.",
+      "zh": "把影片暫停，讓眼睛休息一下。",
+      "ipa": "/pɔz ðə ˈvidio ænd ɡɪv jʊr aɪz ə brek/",
+      "vocab": [
+        {
+          "w": "pause",
+          "pos": "v.",
+          "ipa": "/pɔz/",
+          "zh": "暫停"
+        },
+        {
+          "w": "break",
+          "pos": "n.",
+          "ipa": "/brek/",
+          "zh": "休息"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-19",
+      "date": "2026-09-11",
+      "category": "celebrations",
+      "en": "Let's hang the balloons above the doorway.",
+      "zh": "我們把氣球掛在門口上方。",
+      "ipa": "/lɛts hæŋ ðə bəˈlunz əˈbʌv ðə ˈdɔrwe/",
+      "vocab": [
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        },
+        {
+          "w": "doorway",
+          "pos": "n.",
+          "ipa": "/ˈdɔrwe/",
+          "zh": "門口"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-20",
+      "date": "2026-09-11",
+      "category": "reading",
+      "en": "Point to the word while I read it.",
+      "zh": "我念的時候，你指著那個字。",
+      "ipa": "/pɔɪnt tu ðə wɝd waɪl aɪ rid ɪt/",
+      "vocab": [
+        {
+          "w": "point",
+          "pos": "v.",
+          "ipa": "/pɔɪnt/",
+          "zh": "指"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "字、單字"
+        }
+      ]
+    }
+  ]
+}
