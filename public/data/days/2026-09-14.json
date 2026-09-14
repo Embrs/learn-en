@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-14",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-14-1",
+      "date": "2026-09-14",
+      "category": "daily-routine",
+      "en": "Make your bed before breakfast.",
+      "zh": "早餐前把床鋪整理好。",
+      "ipa": "/mek jʊr bɛd bɪˈfɔr ˈbrɛkfəst/",
+      "vocab": [
+        {
+          "w": "make the bed",
+          "pos": "phr.",
+          "ipa": "/mek ðə bɛd/",
+          "zh": "鋪床"
+        },
+        {
+          "w": "breakfast",
+          "pos": "n.",
+          "ipa": "/ˈbrɛkfəst/",
+          "zh": "早餐"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-2",
+      "date": "2026-09-14",
+      "category": "meals",
+      "en": "Would you like rice or noodles?",
+      "zh": "你想吃飯還是麵？",
+      "ipa": "/wʊd ju laɪk raɪs ɔr ˈnudəlz/",
+      "vocab": [
+        {
+          "w": "rice",
+          "pos": "n.",
+          "ipa": "/raɪs/",
+          "zh": "米飯"
+        },
+        {
+          "w": "noodle",
+          "pos": "n.",
+          "ipa": "/ˈnudəl/",
+          "zh": "麵條"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-3",
+      "date": "2026-09-14",
+      "category": "bath-bedtime",
+      "en": "Tuck the blanket under your chin.",
+      "zh": "把被子蓋到下巴這裡。",
+      "ipa": "/tʌk ðə ˈblæŋkɪt ˈʌndɚ jʊr tʃɪn/",
+      "vocab": [
+        {
+          "w": "tuck",
+          "pos": "v.",
+          "ipa": "/tʌk/",
+          "zh": "塞好、蓋好"
+        },
+        {
+          "w": "blanket",
+          "pos": "n.",
+          "ipa": "/ˈblæŋkɪt/",
+          "zh": "被子、毯子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-4",
+      "date": "2026-09-14",
+      "category": "outings",
+      "en": "Let's ride the escalator carefully.",
+      "zh": "我們小心地搭手扶梯。",
+      "ipa": "/lɛts raɪd ðə ˈɛskəˌletɚ ˈkɛrfəli/",
+      "vocab": [
+        {
+          "w": "escalator",
+          "pos": "n.",
+          "ipa": "/ˈɛskəˌletɚ/",
+          "zh": "手扶梯"
+        },
+        {
+          "w": "carefully",
+          "pos": "adv.",
+          "ipa": "/ˈkɛrfəli/",
+          "zh": "小心地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-5",
+      "date": "2026-09-14",
+      "category": "playground",
+      "en": "Shake the sand off your shoes.",
+      "zh": "把鞋子上的沙子抖掉。",
+      "ipa": "/ʃek ðə sænd ɔf jʊr ʃuz/",
+      "vocab": [
+        {
+          "w": "shake off",
+          "pos": "phr.",
+          "ipa": "/ʃek ɔf/",
+          "zh": "抖掉"
+        },
+        {
+          "w": "sand",
+          "pos": "n.",
+          "ipa": "/sænd/",
+          "zh": "沙子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-6",
+      "date": "2026-09-14",
+      "category": "school",
+      "en": "Your lunch box is already in your bag.",
+      "zh": "你的便當盒已經放進書包了。",
+      "ipa": "/jʊr lʌntʃ bɑks ɪz ɔlˈrɛdi ɪn jʊr bæɡ/",
+      "vocab": [
+        {
+          "w": "lunch box",
+          "pos": "n.",
+          "ipa": "/lʌntʃ bɑks/",
+          "zh": "便當盒"
+        },
+        {
+          "w": "already",
+          "pos": "adv.",
+          "ipa": "/ɔlˈrɛdi/",
+          "zh": "已經"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-7",
+      "date": "2026-09-14",
+      "category": "homework",
+      "en": "Circle the word you don't understand.",
+      "zh": "把你看不懂的字圈起來。",
+      "ipa": "/ˈsɝkəl ðə wɝd ju dont ˌʌndɚˈstænd/",
+      "vocab": [
+        {
+          "w": "circle",
+          "pos": "v.",
+          "ipa": "/ˈsɝkəl/",
+          "zh": "圈起來"
+        },
+        {
+          "w": "understand",
+          "pos": "v.",
+          "ipa": "/ˌʌndɚˈstænd/",
+          "zh": "理解"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-8",
+      "date": "2026-09-14",
+      "category": "toys-sharing",
+      "en": "Count to twenty, then it's her turn.",
+      "zh": "數到二十，然後換她玩。",
+      "ipa": "/kaʊnt tu ˈtwɛnti ðɛn ɪts hɝ tɝn/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數數"
+        },
+        {
+          "w": "twenty",
+          "pos": "n.",
+          "ipa": "/ˈtwɛnti/",
+          "zh": "二十"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-9",
+      "date": "2026-09-14",
+      "category": "emotions",
+      "en": "I can see you're disappointed.",
+      "zh": "我看得出來你很失望。",
+      "ipa": "/aɪ kæn si jʊr ˌdɪsəˈpɔɪntɪd/",
+      "vocab": [
+        {
+          "w": "disappointed",
+          "pos": "adj.",
+          "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+          "zh": "失望的"
+        },
+        {
+          "w": "see",
+          "pos": "v.",
+          "ipa": "/si/",
+          "zh": "看出、明白"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-10",
+      "date": "2026-09-14",
+      "category": "discipline",
+      "en": "Ask me first before you open it.",
+      "zh": "打開之前要先問我。",
+      "ipa": "/æsk mi fɝst bɪˈfɔr ju ˈopən ɪt/",
+      "vocab": [
+        {
+          "w": "first",
+          "pos": "adv.",
+          "ipa": "/fɝst/",
+          "zh": "先"
+        },
+        {
+          "w": "open",
+          "pos": "v.",
+          "ipa": "/ˈopən/",
+          "zh": "打開"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-11",
+      "date": "2026-09-14",
+      "category": "praise",
+      "en": "That was a very kind thing to do.",
+      "zh": "你剛剛做的事情好貼心。",
+      "ipa": "/ðæt wʌz ə ˈvɛri kaɪnd θɪŋ tu du/",
+      "vocab": [
+        {
+          "w": "kind",
+          "pos": "adj.",
+          "ipa": "/kaɪnd/",
+          "zh": "善良的、貼心的"
+        },
+        {
+          "w": "very",
+          "pos": "adv.",
+          "ipa": "/ˈvɛri/",
+          "zh": "非常"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-12",
+      "date": "2026-09-14",
+      "category": "safety",
+      "en": "Hold the handrail all the way down.",
+      "zh": "下樓梯全程要扶著扶手。",
+      "ipa": "/hold ðə ˈhændrel ɔl ðə we daʊn/",
+      "vocab": [
+        {
+          "w": "handrail",
+          "pos": "n.",
+          "ipa": "/ˈhændrel/",
+          "zh": "扶手"
+        },
+        {
+          "w": "all the way",
+          "pos": "phr.",
+          "ipa": "/ɔl ðə we/",
+          "zh": "一路、全程"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-13",
+      "date": "2026-09-14",
+      "category": "health",
+      "en": "Drink some warm water for your throat.",
+      "zh": "喝點溫水對你的喉嚨好。",
+      "ipa": "/drɪŋk sʌm wɔrm ˈwɔtɚ fɔr jʊr θrot/",
+      "vocab": [
+        {
+          "w": "warm",
+          "pos": "adj.",
+          "ipa": "/wɔrm/",
+          "zh": "溫的"
+        },
+        {
+          "w": "throat",
+          "pos": "n.",
+          "ipa": "/θrot/",
+          "zh": "喉嚨"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-14",
+      "date": "2026-09-14",
+      "category": "relatives",
+      "en": "Grandma wants to see your new dance.",
+      "zh": "奶奶想看你的新舞步。",
+      "ipa": "/ˈɡrænmɑ wɑnts tu si jʊr nu dæns/",
+      "vocab": [
+        {
+          "w": "grandma",
+          "pos": "n.",
+          "ipa": "/ˈɡrænmɑ/",
+          "zh": "奶奶、外婆"
+        },
+        {
+          "w": "dance",
+          "pos": "n.",
+          "ipa": "/dæns/",
+          "zh": "舞蹈"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-15",
+      "date": "2026-09-14",
+      "category": "friends",
+      "en": "Your friend is waving at you, wave back.",
+      "zh": "你朋友在跟你揮手，揮回去吧。",
+      "ipa": "/jʊr frɛnd ɪz ˈwevɪŋ æt ju wev bæk/",
+      "vocab": [
+        {
+          "w": "wave",
+          "pos": "v.",
+          "ipa": "/wev/",
+          "zh": "揮手"
+        },
+        {
+          "w": "friend",
+          "pos": "n.",
+          "ipa": "/frɛnd/",
+          "zh": "朋友"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-16",
+      "date": "2026-09-14",
+      "category": "manners",
+      "en": "Look at people's eyes when you thank them.",
+      "zh": "跟人道謝時要看著對方的眼睛。",
+      "ipa": "/lʊk æt ˈpipəlz aɪz hwɛn ju θæŋk ðɛm/",
+      "vocab": [
+        {
+          "w": "thank",
+          "pos": "v.",
+          "ipa": "/θæŋk/",
+          "zh": "感謝"
+        },
+        {
+          "w": "eye",
+          "pos": "n.",
+          "ipa": "/aɪ/",
+          "zh": "眼睛"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-17",
+      "date": "2026-09-14",
+      "category": "weather",
+      "en": "Splash in the puddles with your rain boots.",
+      "zh": "穿著雨鞋去踩水窪吧。",
+      "ipa": "/splæʃ ɪn ðə ˈpʌdəlz wɪð jʊr ren buts/",
+      "vocab": [
+        {
+          "w": "puddle",
+          "pos": "n.",
+          "ipa": "/ˈpʌdəl/",
+          "zh": "水窪"
+        },
+        {
+          "w": "rain boots",
+          "pos": "n.",
+          "ipa": "/ren buts/",
+          "zh": "雨鞋"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-18",
+      "date": "2026-09-14",
+      "category": "screen-time",
+      "en": "When the song ends, the tablet goes away.",
+      "zh": "這首歌結束，平板就要收起來。",
+      "ipa": "/hwɛn ðə sɔŋ ɛndz ðə ˈtæblɪt ɡoz əˈwe/",
+      "vocab": [
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        },
+        {
+          "w": "end",
+          "pos": "v.",
+          "ipa": "/ɛnd/",
+          "zh": "結束"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-19",
+      "date": "2026-09-14",
+      "category": "celebrations",
+      "en": "Make a wish before you blow the candles.",
+      "zh": "吹蠟燭前先許個願。",
+      "ipa": "/mek ə wɪʃ bɪˈfɔr ju blo ðə ˈkændəlz/",
+      "vocab": [
+        {
+          "w": "wish",
+          "pos": "n.",
+          "ipa": "/wɪʃ/",
+          "zh": "願望"
+        },
+        {
+          "w": "candle",
+          "pos": "n.",
+          "ipa": "/ˈkændəl/",
+          "zh": "蠟燭"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-14-20",
+      "date": "2026-09-14",
+      "category": "reading",
+      "en": "Which story should we pick tonight?",
+      "zh": "今晚我們要挑哪個故事？",
+      "ipa": "/hwɪtʃ ˈstɔri ʃʊd wi pɪk təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "story",
+          "pos": "n.",
+          "ipa": "/ˈstɔri/",
+          "zh": "故事"
+        },
+        {
+          "w": "pick",
+          "pos": "v.",
+          "ipa": "/pɪk/",
+          "zh": "挑選"
+        }
+      ]
+    }
+  ]
+}

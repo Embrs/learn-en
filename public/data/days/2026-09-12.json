@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-12",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-12-1",
+      "date": "2026-09-12",
+      "category": "daily-routine",
+      "en": "Let's open the curtains and greet the morning.",
+      "zh": "我們把窗簾拉開，跟早晨打個招呼。",
+      "ipa": "/lɛts ˈopən ðə ˈkɝtənz ænd ɡrit ðə ˈmɔrnɪŋ/",
+      "vocab": [
+        {
+          "w": "curtain",
+          "pos": "n.",
+          "ipa": "/ˈkɝtən/",
+          "zh": "窗簾"
+        },
+        {
+          "w": "greet",
+          "pos": "v.",
+          "ipa": "/ɡrit/",
+          "zh": "問候、迎接"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-2",
+      "date": "2026-09-12",
+      "category": "meals",
+      "en": "Blow on the soup so it won't burn you.",
+      "zh": "吹一吹湯，才不會燙到你。",
+      "ipa": "/blo ɑn ðə sup so ɪt wont bɝn ju/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "burn",
+          "pos": "v.",
+          "ipa": "/bɝn/",
+          "zh": "燙傷"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-3",
+      "date": "2026-09-12",
+      "category": "bath-bedtime",
+      "en": "Let me test the water with my elbow.",
+      "zh": "我用手肘試一下水溫。",
+      "ipa": "/lɛt mi tɛst ðə ˈwɔtɚ wɪð maɪ ˈɛlbo/",
+      "vocab": [
+        {
+          "w": "test",
+          "pos": "v.",
+          "ipa": "/tɛst/",
+          "zh": "測試"
+        },
+        {
+          "w": "elbow",
+          "pos": "n.",
+          "ipa": "/ˈɛlbo/",
+          "zh": "手肘"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-4",
+      "date": "2026-09-12",
+      "category": "outings",
+      "en": "Let's take the train to the zoo today.",
+      "zh": "我們今天搭火車去動物園吧。",
+      "ipa": "/lɛts tek ðə tren tu ðə zu təˈde/",
+      "vocab": [
+        {
+          "w": "train",
+          "pos": "n.",
+          "ipa": "/tren/",
+          "zh": "火車"
+        },
+        {
+          "w": "zoo",
+          "pos": "n.",
+          "ipa": "/zu/",
+          "zh": "動物園"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-5",
+      "date": "2026-09-12",
+      "category": "playground",
+      "en": "Hold the rope tight when you climb.",
+      "zh": "爬的時候把繩子抓緊。",
+      "ipa": "/hold ðə rop taɪt hwɛn ju klaɪm/",
+      "vocab": [
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "攀爬"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-6",
+      "date": "2026-09-12",
+      "category": "school",
+      "en": "Did you sharpen your pencils for class?",
+      "zh": "你上課要用的鉛筆削好了嗎？",
+      "ipa": "/dɪd ju ˈʃɑrpən jʊr ˈpɛnsəlz fɔr klæs/",
+      "vocab": [
+        {
+          "w": "sharpen",
+          "pos": "v.",
+          "ipa": "/ˈʃɑrpən/",
+          "zh": "削尖"
+        },
+        {
+          "w": "pencil",
+          "pos": "n.",
+          "ipa": "/ˈpɛnsəl/",
+          "zh": "鉛筆"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-7",
+      "date": "2026-09-12",
+      "category": "homework",
+      "en": "Read the question slowly one more time.",
+      "zh": "把題目再慢慢讀一遍。",
+      "ipa": "/rid ðə ˈkwɛstʃən ˈsloli wʌn mɔr taɪm/",
+      "vocab": [
+        {
+          "w": "question",
+          "pos": "n.",
+          "ipa": "/ˈkwɛstʃən/",
+          "zh": "題目、問題"
+        },
+        {
+          "w": "slowly",
+          "pos": "adv.",
+          "ipa": "/ˈsloli/",
+          "zh": "慢慢地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-8",
+      "date": "2026-09-12",
+      "category": "toys-sharing",
+      "en": "You can trade cars with your cousin.",
+      "zh": "你可以跟表哥交換小汽車玩。",
+      "ipa": "/ju kæn tred kɑrz wɪð jʊr ˈkʌzən/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "cousin",
+          "pos": "n.",
+          "ipa": "/ˈkʌzən/",
+          "zh": "堂／表兄弟姊妹"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-9",
+      "date": "2026-09-12",
+      "category": "emotions",
+      "en": "Your feelings make sense to me.",
+      "zh": "你的感受我懂。",
+      "ipa": "/jʊr ˈfilɪŋz mek sɛns tu mi/",
+      "vocab": [
+        {
+          "w": "feeling",
+          "pos": "n.",
+          "ipa": "/ˈfilɪŋ/",
+          "zh": "感受"
+        },
+        {
+          "w": "make sense",
+          "pos": "phr.",
+          "ipa": "/mek sɛns/",
+          "zh": "說得通、可以理解"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-10",
+      "date": "2026-09-12",
+      "category": "discipline",
+      "en": "Chairs are for sitting, not standing.",
+      "zh": "椅子是用來坐的，不是站的。",
+      "ipa": "/tʃɛrz ɑr fɔr ˈsɪtɪŋ nɑt ˈstændɪŋ/",
+      "vocab": [
+        {
+          "w": "chair",
+          "pos": "n.",
+          "ipa": "/tʃɛr/",
+          "zh": "椅子"
+        },
+        {
+          "w": "stand",
+          "pos": "v.",
+          "ipa": "/stænd/",
+          "zh": "站立"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-11",
+      "date": "2026-09-12",
+      "category": "praise",
+      "en": "You solved that puzzle all by yourself!",
+      "zh": "你自己把那個拼圖解開了耶！",
+      "ipa": "/ju sɑlvd ðæt ˈpʌzəl ɔl baɪ jʊrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "solve",
+          "pos": "v.",
+          "ipa": "/sɑlv/",
+          "zh": "解開、解決"
+        },
+        {
+          "w": "puzzle",
+          "pos": "n.",
+          "ipa": "/ˈpʌzəl/",
+          "zh": "拼圖、謎題"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-12",
+      "date": "2026-09-12",
+      "category": "safety",
+      "en": "Watch your fingers when I shut the drawer.",
+      "zh": "我關抽屜的時候小心手指。",
+      "ipa": "/wɑtʃ jʊr ˈfɪŋɡɚz hwɛn aɪ ʃʌt ðə drɔr/",
+      "vocab": [
+        {
+          "w": "shut",
+          "pos": "v.",
+          "ipa": "/ʃʌt/",
+          "zh": "關上"
+        },
+        {
+          "w": "drawer",
+          "pos": "n.",
+          "ipa": "/drɔr/",
+          "zh": "抽屜"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-13",
+      "date": "2026-09-12",
+      "category": "health",
+      "en": "The nurse will weigh you in a minute.",
+      "zh": "護理師等一下會幫你量體重。",
+      "ipa": "/ðə nɝs wɪl we ju ɪn ə ˈmɪnɪt/",
+      "vocab": [
+        {
+          "w": "nurse",
+          "pos": "n.",
+          "ipa": "/nɝs/",
+          "zh": "護理師"
+        },
+        {
+          "w": "weigh",
+          "pos": "v.",
+          "ipa": "/we/",
+          "zh": "量體重"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-14",
+      "date": "2026-09-12",
+      "category": "relatives",
+      "en": "Grandpa wants to hear about your week.",
+      "zh": "爺爺想聽聽你這禮拜的事。",
+      "ipa": "/ˈɡrænpɑ wɑnts tu hɪr əˈbaʊt jʊr wik/",
+      "vocab": [
+        {
+          "w": "hear about",
+          "pos": "phr.",
+          "ipa": "/hɪr əˈbaʊt/",
+          "zh": "聽說…的事"
+        },
+        {
+          "w": "week",
+          "pos": "n.",
+          "ipa": "/wik/",
+          "zh": "一週"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-15",
+      "date": "2026-09-12",
+      "category": "friends",
+      "en": "Invite him to sit beside you at lunch.",
+      "zh": "午餐時邀他坐在你旁邊。",
+      "ipa": "/ɪnˈvaɪt hɪm tu sɪt bɪˈsaɪd ju æt lʌntʃ/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "beside",
+          "pos": "prep.",
+          "ipa": "/bɪˈsaɪd/",
+          "zh": "在…旁邊"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-16",
+      "date": "2026-09-12",
+      "category": "manners",
+      "en": "Hold the door for the person behind you.",
+      "zh": "幫後面的人扶著門。",
+      "ipa": "/hold ðə dɔr fɔr ðə ˈpɝsən bɪˈhaɪnd ju/",
+      "vocab": [
+        {
+          "w": "hold",
+          "pos": "v.",
+          "ipa": "/hold/",
+          "zh": "扶住"
+        },
+        {
+          "w": "behind",
+          "pos": "prep.",
+          "ipa": "/bɪˈhaɪnd/",
+          "zh": "在…後面"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-17",
+      "date": "2026-09-12",
+      "category": "weather",
+      "en": "Those gray clouds mean rain is coming.",
+      "zh": "那些灰雲代表要下雨了。",
+      "ipa": "/ðoz ɡre klaʊdz min ren ɪz ˈkʌmɪŋ/",
+      "vocab": [
+        {
+          "w": "cloud",
+          "pos": "n.",
+          "ipa": "/klaʊd/",
+          "zh": "雲"
+        },
+        {
+          "w": "gray",
+          "pos": "adj.",
+          "ipa": "/ɡre/",
+          "zh": "灰色的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-18",
+      "date": "2026-09-12",
+      "category": "screen-time",
+      "en": "Pause the video and come eat first.",
+      "zh": "影片先暫停，過來吃東西。",
+      "ipa": "/pɔz ðə ˈvɪdio ænd kʌm it fɝst/",
+      "vocab": [
+        {
+          "w": "pause",
+          "pos": "v.",
+          "ipa": "/pɔz/",
+          "zh": "暫停"
+        },
+        {
+          "w": "video",
+          "pos": "n.",
+          "ipa": "/ˈvɪdio/",
+          "zh": "影片"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-19",
+      "date": "2026-09-12",
+      "category": "celebrations",
+      "en": "You can pass out the party hats.",
+      "zh": "你可以幫忙發派對帽。",
+      "ipa": "/ju kæn pæs aʊt ðə ˈpɑrti hæts/",
+      "vocab": [
+        {
+          "w": "pass out",
+          "pos": "phr.",
+          "ipa": "/pæs aʊt/",
+          "zh": "分發"
+        },
+        {
+          "w": "party hat",
+          "pos": "n.",
+          "ipa": "/ˈpɑrti hæt/",
+          "zh": "派對帽"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-12-20",
+      "date": "2026-09-12",
+      "category": "reading",
+      "en": "Find the little mouse hiding on this page.",
+      "zh": "找找看這一頁躲著的小老鼠。",
+      "ipa": "/faɪnd ðə ˈlɪtəl maʊs ˈhaɪdɪŋ ɑn ðɪs pedʒ/",
+      "vocab": [
+        {
+          "w": "hide",
+          "pos": "v.",
+          "ipa": "/haɪd/",
+          "zh": "躲藏"
+        },
+        {
+          "w": "page",
+          "pos": "n.",
+          "ipa": "/pedʒ/",
+          "zh": "頁"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-13",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-13-1",
+      "date": "2026-09-13",
+      "category": "daily-routine",
+      "en": "Please put your pajamas in the basket.",
+      "zh": "請把睡衣放進籃子裡。",
+      "ipa": "/pliz pʊt jʊr pəˈdʒɑməz ɪn ðə ˈbæskɪt/",
+      "vocab": [
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒɑməz/",
+          "zh": "睡衣"
+        },
+        {
+          "w": "basket",
+          "pos": "n.",
+          "ipa": "/ˈbæskɪt/",
+          "zh": "籃子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-2",
+      "date": "2026-09-13",
+      "category": "meals",
+      "en": "Push your plate away when you're finished.",
+      "zh": "吃完了就把盤子推開。",
+      "ipa": "/pʊʃ jʊr plet əˈwe hwɛn jʊr ˈfɪnɪʃt/",
+      "vocab": [
+        {
+          "w": "plate",
+          "pos": "n.",
+          "ipa": "/plet/",
+          "zh": "盤子"
+        },
+        {
+          "w": "finished",
+          "pos": "adj.",
+          "ipa": "/ˈfɪnɪʃt/",
+          "zh": "吃完的、完成的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-3",
+      "date": "2026-09-13",
+      "category": "bath-bedtime",
+      "en": "Let me dry your hair with a towel.",
+      "zh": "我用毛巾幫你把頭髮擦乾。",
+      "ipa": "/lɛt mi draɪ jʊr hɛr wɪð ə ˈtaʊəl/",
+      "vocab": [
+        {
+          "w": "dry",
+          "pos": "v.",
+          "ipa": "/draɪ/",
+          "zh": "弄乾"
+        },
+        {
+          "w": "towel",
+          "pos": "n.",
+          "ipa": "/ˈtaʊəl/",
+          "zh": "毛巾"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-4",
+      "date": "2026-09-13",
+      "category": "outings",
+      "en": "The bus comes in five minutes, let's hurry.",
+      "zh": "公車五分鐘後就來，我們快一點。",
+      "ipa": "/ðə bʌs kʌmz ɪn faɪv ˈmɪnɪts lɛts ˈhɝi/",
+      "vocab": [
+        {
+          "w": "bus",
+          "pos": "n.",
+          "ipa": "/bʌs/",
+          "zh": "公車"
+        },
+        {
+          "w": "hurry",
+          "pos": "v.",
+          "ipa": "/ˈhɝi/",
+          "zh": "趕快"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-5",
+      "date": "2026-09-13",
+      "category": "playground",
+      "en": "Both feet on the slide before you let go.",
+      "zh": "放手前兩隻腳要踩在溜滑梯上。",
+      "ipa": "/boθ fit ɑn ðə slaɪd bɪˈfɔr ju lɛt ɡo/",
+      "vocab": [
+        {
+          "w": "slide",
+          "pos": "n.",
+          "ipa": "/slaɪd/",
+          "zh": "溜滑梯"
+        },
+        {
+          "w": "let go",
+          "pos": "phr.",
+          "ipa": "/lɛt ɡo/",
+          "zh": "放手"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-6",
+      "date": "2026-09-13",
+      "category": "school",
+      "en": "Tell me one thing you learned today.",
+      "zh": "跟我說一件你今天學到的事。",
+      "ipa": "/tɛl mi wʌn θɪŋ ju lɝnd təˈde/",
+      "vocab": [
+        {
+          "w": "learn",
+          "pos": "v.",
+          "ipa": "/lɝn/",
+          "zh": "學會"
+        },
+        {
+          "w": "thing",
+          "pos": "n.",
+          "ipa": "/θɪŋ/",
+          "zh": "事情"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-7",
+      "date": "2026-09-13",
+      "category": "homework",
+      "en": "Write your name on the top line.",
+      "zh": "在最上面那一行寫名字。",
+      "ipa": "/raɪt jʊr nem ɑn ðə tɑp laɪn/",
+      "vocab": [
+        {
+          "w": "line",
+          "pos": "n.",
+          "ipa": "/laɪn/",
+          "zh": "行、線"
+        },
+        {
+          "w": "top",
+          "pos": "adj.",
+          "ipa": "/tɑp/",
+          "zh": "最上面的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-8",
+      "date": "2026-09-13",
+      "category": "toys-sharing",
+      "en": "Two people can share one big box.",
+      "zh": "兩個人可以一起玩同一個大箱子。",
+      "ipa": "/tu ˈpipəl kæn ʃɛr wʌn bɪɡ bɑks/",
+      "vocab": [
+        {
+          "w": "share",
+          "pos": "v.",
+          "ipa": "/ʃɛr/",
+          "zh": "分享"
+        },
+        {
+          "w": "box",
+          "pos": "n.",
+          "ipa": "/bɑks/",
+          "zh": "箱子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-9",
+      "date": "2026-09-13",
+      "category": "emotions",
+      "en": "Squeeze my hand if you feel nervous.",
+      "zh": "緊張的話就捏捏我的手。",
+      "ipa": "/skwiz maɪ hænd ɪf ju fil ˈnɝvəs/",
+      "vocab": [
+        {
+          "w": "squeeze",
+          "pos": "v.",
+          "ipa": "/skwiz/",
+          "zh": "捏、握緊"
+        },
+        {
+          "w": "nervous",
+          "pos": "adj.",
+          "ipa": "/ˈnɝvəs/",
+          "zh": "緊張的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-10",
+      "date": "2026-09-13",
+      "category": "discipline",
+      "en": "Inside voice, please, the baby is sleeping.",
+      "zh": "請小聲一點，寶寶在睡覺。",
+      "ipa": "/ˈɪnsaɪd vɔɪs pliz ðə ˈbebi ɪz ˈslipɪŋ/",
+      "vocab": [
+        {
+          "w": "inside voice",
+          "pos": "phr.",
+          "ipa": "/ˈɪnsaɪd vɔɪs/",
+          "zh": "室內音量、小聲說話"
+        },
+        {
+          "w": "baby",
+          "pos": "n.",
+          "ipa": "/ˈbebi/",
+          "zh": "寶寶"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-11",
+      "date": "2026-09-13",
+      "category": "praise",
+      "en": "Look how neat your handwriting is today.",
+      "zh": "看你今天的字寫得多整齊。",
+      "ipa": "/lʊk haʊ nit jʊr ˈhændˌraɪtɪŋ ɪz təˈde/",
+      "vocab": [
+        {
+          "w": "neat",
+          "pos": "adj.",
+          "ipa": "/nit/",
+          "zh": "整齊的"
+        },
+        {
+          "w": "handwriting",
+          "pos": "n.",
+          "ipa": "/ˈhændˌraɪtɪŋ/",
+          "zh": "字跡"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-12",
+      "date": "2026-09-13",
+      "category": "safety",
+      "en": "Never touch the stove, it's very hot.",
+      "zh": "絕對不要碰爐子，很燙。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə stov ɪts ˈvɛri hɑt/",
+      "vocab": [
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        },
+        {
+          "w": "touch",
+          "pos": "v.",
+          "ipa": "/tʌtʃ/",
+          "zh": "碰觸"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-13",
+      "date": "2026-09-13",
+      "category": "health",
+      "en": "I'll clean the scrape and blow on it.",
+      "zh": "我幫你把擦傷清乾淨，再吹一吹。",
+      "ipa": "/aɪl klin ðə skrep ænd blo ɑn ɪt/",
+      "vocab": [
+        {
+          "w": "scrape",
+          "pos": "n.",
+          "ipa": "/skrep/",
+          "zh": "擦傷"
+        },
+        {
+          "w": "clean",
+          "pos": "v.",
+          "ipa": "/klin/",
+          "zh": "清理"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-14",
+      "date": "2026-09-13",
+      "category": "relatives",
+      "en": "Give your aunt a big hug goodbye.",
+      "zh": "給阿姨一個大大的擁抱說再見。",
+      "ipa": "/ɡɪv jʊr ænt ə bɪɡ hʌɡ ɡʊdˈbaɪ/",
+      "vocab": [
+        {
+          "w": "aunt",
+          "pos": "n.",
+          "ipa": "/ænt/",
+          "zh": "阿姨、姑姑"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-15",
+      "date": "2026-09-13",
+      "category": "friends",
+      "en": "You two can take turns being the leader.",
+      "zh": "你們兩個可以輪流當隊長。",
+      "ipa": "/ju tu kæn tek tɝnz ˈbiɪŋ ðə ˈlidɚ/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "phr.",
+          "ipa": "/tek tɝnz/",
+          "zh": "輪流"
+        },
+        {
+          "w": "leader",
+          "pos": "n.",
+          "ipa": "/ˈlidɚ/",
+          "zh": "領導者、隊長"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-16",
+      "date": "2026-09-13",
+      "category": "manners",
+      "en": "Say excuse me when you walk past.",
+      "zh": "從人家旁邊經過要說「借過」。",
+      "ipa": "/se ɪkˈskjuz mi hwɛn ju wɔk pæst/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "不好意思、借過"
+        },
+        {
+          "w": "walk past",
+          "pos": "phr.",
+          "ipa": "/wɔk pæst/",
+          "zh": "走過去"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-17",
+      "date": "2026-09-13",
+      "category": "weather",
+      "en": "It's chilly outside, put on your socks.",
+      "zh": "外面有點涼，把襪子穿上。",
+      "ipa": "/ɪts ˈtʃɪli ˈaʊtˈsaɪd pʊt ɑn jʊr sɑks/",
+      "vocab": [
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "微涼的"
+        },
+        {
+          "w": "sock",
+          "pos": "n.",
+          "ipa": "/sɑk/",
+          "zh": "襪子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-18",
+      "date": "2026-09-13",
+      "category": "screen-time",
+      "en": "Lower the sound so we can talk.",
+      "zh": "把聲音關小一點，我們才能講話。",
+      "ipa": "/ˈloɚ ðə saʊnd so wi kæn tɔk/",
+      "vocab": [
+        {
+          "w": "lower",
+          "pos": "v.",
+          "ipa": "/ˈloɚ/",
+          "zh": "調低"
+        },
+        {
+          "w": "sound",
+          "pos": "n.",
+          "ipa": "/saʊnd/",
+          "zh": "聲音"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-19",
+      "date": "2026-09-13",
+      "category": "celebrations",
+      "en": "Let's wrap this gift for your teacher.",
+      "zh": "我們來把這個禮物包給老師。",
+      "ipa": "/lɛts ræp ðɪs ɡɪft fɔr jʊr ˈtitʃɚ/",
+      "vocab": [
+        {
+          "w": "wrap",
+          "pos": "v.",
+          "ipa": "/ræp/",
+          "zh": "包裝"
+        },
+        {
+          "w": "gift",
+          "pos": "n.",
+          "ipa": "/ɡɪft/",
+          "zh": "禮物"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-13-20",
+      "date": "2026-09-13",
+      "category": "reading",
+      "en": "This book is about a brave little turtle.",
+      "zh": "這本書講的是一隻勇敢的小烏龜。",
+      "ipa": "/ðɪs bʊk ɪz əˈbaʊt ə brev ˈlɪtəl ˈtɝtəl/",
+      "vocab": [
+        {
+          "w": "brave",
+          "pos": "adj.",
+          "ipa": "/brev/",
+          "zh": "勇敢的"
+        },
+        {
+          "w": "turtle",
+          "pos": "n.",
+          "ipa": "/ˈtɝtəl/",
+          "zh": "烏龜"
+        }
+      ]
+    }
+  ]
+}
