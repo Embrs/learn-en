@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-15",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-15-1",
+      "date": "2026-09-15",
+      "category": "daily-routine",
+      "en": "Turn off the light when you leave.",
+      "zh": "離開的時候把燈關掉。",
+      "ipa": "/tɝn ɔf ðə laɪt wɛn ju liv/",
+      "vocab": [
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        },
+        {
+          "w": "leave",
+          "pos": "v.",
+          "ipa": "/liv/",
+          "zh": "離開"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-2",
+      "date": "2026-09-15",
+      "category": "meals",
+      "en": "Scoop the rice with your spoon.",
+      "zh": "用湯匙舀飯。",
+      "ipa": "/skup ðə raɪs wɪð jʊr spun/",
+      "vocab": [
+        {
+          "w": "scoop",
+          "pos": "v.",
+          "ipa": "/skup/",
+          "zh": "舀"
+        },
+        {
+          "w": "spoon",
+          "pos": "n.",
+          "ipa": "/spun/",
+          "zh": "湯匙"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-3",
+      "date": "2026-09-15",
+      "category": "bath-bedtime",
+      "en": "Scrub behind your ears, please.",
+      "zh": "耳朵後面也要搓一搓喔。",
+      "ipa": "/skrʌb bɪˈhaɪnd jʊr ɪrz pliz/",
+      "vocab": [
+        {
+          "w": "scrub",
+          "pos": "v.",
+          "ipa": "/skrʌb/",
+          "zh": "搓洗"
+        },
+        {
+          "w": "behind",
+          "pos": "prep.",
+          "ipa": "/bɪˈhaɪnd/",
+          "zh": "在⋯⋯後面"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-4",
+      "date": "2026-09-15",
+      "category": "outings",
+      "en": "Let's buy our tickets at the counter.",
+      "zh": "我們去櫃台買票吧。",
+      "ipa": "/lɛts baɪ aʊr ˈtɪkɪts æt ðə ˈkaʊntɚ/",
+      "vocab": [
+        {
+          "w": "ticket",
+          "pos": "n.",
+          "ipa": "/ˈtɪkɪt/",
+          "zh": "票"
+        },
+        {
+          "w": "counter",
+          "pos": "n.",
+          "ipa": "/ˈkaʊntɚ/",
+          "zh": "櫃台"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-5",
+      "date": "2026-09-15",
+      "category": "playground",
+      "en": "Keep the sand inside the sandbox.",
+      "zh": "沙子要留在沙坑裡。",
+      "ipa": "/kip ðə sænd ɪnˈsaɪd ðə ˈsændˌbɑks/",
+      "vocab": [
+        {
+          "w": "sand",
+          "pos": "n.",
+          "ipa": "/sænd/",
+          "zh": "沙子"
+        },
+        {
+          "w": "sandbox",
+          "pos": "n.",
+          "ipa": "/ˈsændˌbɑks/",
+          "zh": "沙坑"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-6",
+      "date": "2026-09-15",
+      "category": "school",
+      "en": "Did you hand in your permission slip?",
+      "zh": "你把同意書交出去了嗎？",
+      "ipa": "/dɪd ju hænd ɪn jʊr pɚˈmɪʃən slɪp/",
+      "vocab": [
+        {
+          "w": "hand in",
+          "pos": "phr.",
+          "ipa": "/hænd ɪn/",
+          "zh": "繳交"
+        },
+        {
+          "w": "permission slip",
+          "pos": "n.",
+          "ipa": "/pɚˈmɪʃən slɪp/",
+          "zh": "家長同意書"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-7",
+      "date": "2026-09-15",
+      "category": "homework",
+      "en": "Count on your fingers if you need to.",
+      "zh": "需要的話可以用手指數。",
+      "ipa": "/kaʊnt ɑn jʊr ˈfɪŋɡɚz ɪf ju nid tu/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數"
+        },
+        {
+          "w": "finger",
+          "pos": "n.",
+          "ipa": "/ˈfɪŋɡɚ/",
+          "zh": "手指"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-8",
+      "date": "2026-09-15",
+      "category": "toys-sharing",
+      "en": "You can trade blocks with him.",
+      "zh": "你可以跟他交換積木。",
+      "ipa": "/ju kæn tred blɑks wɪð hɪm/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-9",
+      "date": "2026-09-15",
+      "category": "emotions",
+      "en": "Would you like to draw how you feel?",
+      "zh": "你想不想把心情畫出來？",
+      "ipa": "/wʊd ju laɪk tu drɔ haʊ ju fil/",
+      "vocab": [
+        {
+          "w": "draw",
+          "pos": "v.",
+          "ipa": "/drɔ/",
+          "zh": "畫"
+        },
+        {
+          "w": "feel",
+          "pos": "v.",
+          "ipa": "/fil/",
+          "zh": "感覺"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-10",
+      "date": "2026-09-15",
+      "category": "discipline",
+      "en": "Indoor voice, please.",
+      "zh": "在室內請小聲說話。",
+      "ipa": "/ˈɪnˌdɔr vɔɪs pliz/",
+      "vocab": [
+        {
+          "w": "indoor",
+          "pos": "adj.",
+          "ipa": "/ˈɪnˌdɔr/",
+          "zh": "室內的"
+        },
+        {
+          "w": "voice",
+          "pos": "n.",
+          "ipa": "/vɔɪs/",
+          "zh": "聲音；嗓音"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-11",
+      "date": "2026-09-15",
+      "category": "praise",
+      "en": "Your idea made everyone smile.",
+      "zh": "你的點子讓大家都笑了。",
+      "ipa": "/jʊr aɪˈdiə med ˈɛvriˌwʌn smaɪl/",
+      "vocab": [
+        {
+          "w": "idea",
+          "pos": "n.",
+          "ipa": "/aɪˈdiə/",
+          "zh": "點子；想法"
+        },
+        {
+          "w": "smile",
+          "pos": "v.",
+          "ipa": "/smaɪl/",
+          "zh": "微笑"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-12",
+      "date": "2026-09-15",
+      "category": "safety",
+      "en": "Never put small things in your mouth.",
+      "zh": "絕對不可以把小東西放進嘴巴。",
+      "ipa": "/ˈnɛvɚ pʊt smɔl θɪŋz ɪn jʊr maʊθ/",
+      "vocab": [
+        {
+          "w": "never",
+          "pos": "adv.",
+          "ipa": "/ˈnɛvɚ/",
+          "zh": "絕不"
+        },
+        {
+          "w": "mouth",
+          "pos": "n.",
+          "ipa": "/maʊθ/",
+          "zh": "嘴巴"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-13",
+      "date": "2026-09-15",
+      "category": "health",
+      "en": "Gargle with warm water after dinner.",
+      "zh": "晚餐後用溫水漱漱口。",
+      "ipa": "/ˈɡɑrɡəl wɪð wɔrm ˈwɔtɚ ˈæftɚ ˈdɪnɚ/",
+      "vocab": [
+        {
+          "w": "gargle",
+          "pos": "v.",
+          "ipa": "/ˈɡɑrɡəl/",
+          "zh": "漱口"
+        },
+        {
+          "w": "warm",
+          "pos": "adj.",
+          "ipa": "/wɔrm/",
+          "zh": "溫暖的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-14",
+      "date": "2026-09-15",
+      "category": "relatives",
+      "en": "Let's ask Auntie about her new job.",
+      "zh": "我們問問阿姨她的新工作吧。",
+      "ipa": "/lɛts æsk ˈænti əˈbaʊt hɝ nu dʒɑb/",
+      "vocab": [
+        {
+          "w": "ask about",
+          "pos": "phr.",
+          "ipa": "/æsk əˈbaʊt/",
+          "zh": "詢問關於"
+        },
+        {
+          "w": "job",
+          "pos": "n.",
+          "ipa": "/dʒɑb/",
+          "zh": "工作"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-15",
+      "date": "2026-09-15",
+      "category": "friends",
+      "en": "Tell your friend you had fun today.",
+      "zh": "跟朋友說你今天玩得很開心。",
+      "ipa": "/tɛl jʊr frɛnd ju hæd fʌn təˈde/",
+      "vocab": [
+        {
+          "w": "have fun",
+          "pos": "phr.",
+          "ipa": "/hæv fʌn/",
+          "zh": "玩得開心"
+        },
+        {
+          "w": "friend",
+          "pos": "n.",
+          "ipa": "/frɛnd/",
+          "zh": "朋友"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-16",
+      "date": "2026-09-15",
+      "category": "manners",
+      "en": "Let the person behind you go first.",
+      "zh": "讓後面的人先過。",
+      "ipa": "/lɛt ðə ˈpɝsən bɪˈhaɪnd ju ɡo fɝst/",
+      "vocab": [
+        {
+          "w": "person",
+          "pos": "n.",
+          "ipa": "/ˈpɝsən/",
+          "zh": "人"
+        },
+        {
+          "w": "go first",
+          "pos": "phr.",
+          "ipa": "/ɡo fɝst/",
+          "zh": "先走；先請"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-17",
+      "date": "2026-09-15",
+      "category": "weather",
+      "en": "The rain stopped, let's go outside.",
+      "zh": "雨停了，我們出去吧。",
+      "ipa": "/ðə ren stɑpt lɛts ɡo ˈaʊtˈsaɪd/",
+      "vocab": [
+        {
+          "w": "rain",
+          "pos": "n.",
+          "ipa": "/ren/",
+          "zh": "雨"
+        },
+        {
+          "w": "stop",
+          "pos": "v.",
+          "ipa": "/stɑp/",
+          "zh": "停止"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-18",
+      "date": "2026-09-15",
+      "category": "screen-time",
+      "en": "Turn the screen brightness down a little.",
+      "zh": "把螢幕亮度調暗一點。",
+      "ipa": "/tɝn ðə skrin ˈbraɪtnɪs daʊn ə ˈlɪtəl/",
+      "vocab": [
+        {
+          "w": "brightness",
+          "pos": "n.",
+          "ipa": "/ˈbraɪtnɪs/",
+          "zh": "亮度"
+        },
+        {
+          "w": "screen",
+          "pos": "n.",
+          "ipa": "/skrin/",
+          "zh": "螢幕"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-19",
+      "date": "2026-09-15",
+      "category": "celebrations",
+      "en": "Save the ribbon, we can use it again.",
+      "zh": "緞帶留下來，還可以再用。",
+      "ipa": "/sev ðə ˈrɪbən wi kæn juz ɪt əˈɡɛn/",
+      "vocab": [
+        {
+          "w": "ribbon",
+          "pos": "n.",
+          "ipa": "/ˈrɪbən/",
+          "zh": "緞帶"
+        },
+        {
+          "w": "save",
+          "pos": "v.",
+          "ipa": "/sev/",
+          "zh": "保留"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-15-20",
+      "date": "2026-09-15",
+      "category": "reading",
+      "en": "Put the book back on the shelf afterward.",
+      "zh": "看完把書放回架子上。",
+      "ipa": "/pʊt ðə bʊk bæk ɑn ðə ʃɛlf ˈæftɚwɚd/",
+      "vocab": [
+        {
+          "w": "shelf",
+          "pos": "n.",
+          "ipa": "/ʃɛlf/",
+          "zh": "架子"
+        },
+        {
+          "w": "afterward",
+          "pos": "adv.",
+          "ipa": "/ˈæftɚwɚd/",
+          "zh": "之後"
+        }
+      ]
+    }
+  ]
+}
