@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-16",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-16-1",
+      "date": "2026-09-16",
+      "category": "daily-routine",
+      "en": "Turn your socks right side out.",
+      "zh": "把襪子翻回正面。",
+      "ipa": "/tɝn jʊr sɑks raɪt saɪd aʊt/",
+      "vocab": [
+        {
+          "w": "sock",
+          "pos": "n.",
+          "ipa": "/sɑk/",
+          "zh": "襪子"
+        },
+        {
+          "w": "right side out",
+          "pos": "phr.",
+          "ipa": "/raɪt saɪd aʊt/",
+          "zh": "正面朝外"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-2",
+      "date": "2026-09-16",
+      "category": "meals",
+      "en": "Blow on it, it's still hot.",
+      "zh": "吹一吹，還很燙喔。",
+      "ipa": "/blo ɑn ɪt ɪts stɪl hɑt/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "still",
+          "pos": "adv.",
+          "ipa": "/stɪl/",
+          "zh": "還、仍然"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-3",
+      "date": "2026-09-16",
+      "category": "bath-bedtime",
+      "en": "Let's dry your hair before bed.",
+      "zh": "睡覺前先把頭髮吹乾。",
+      "ipa": "/lɛts draɪ jʊr hɛr bɪˈfɔr bɛd/",
+      "vocab": [
+        {
+          "w": "dry",
+          "pos": "v.",
+          "ipa": "/draɪ/",
+          "zh": "弄乾"
+        },
+        {
+          "w": "hair",
+          "pos": "n.",
+          "ipa": "/hɛr/",
+          "zh": "頭髮"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-4",
+      "date": "2026-09-16",
+      "category": "outings",
+      "en": "Don't forget your water bottle for the trip.",
+      "zh": "別忘了帶水壺出門。",
+      "ipa": "/dont fɚˈɡɛt jʊr ˈwɔtɚ ˈbɑtl fɔr ðə trɪp/",
+      "vocab": [
+        {
+          "w": "forget",
+          "pos": "v.",
+          "ipa": "/fɚˈɡɛt/",
+          "zh": "忘記"
+        },
+        {
+          "w": "bottle",
+          "pos": "n.",
+          "ipa": "/ˈbɑtl/",
+          "zh": "瓶子、水壺"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-5",
+      "date": "2026-09-16",
+      "category": "playground",
+      "en": "Don't run near the swings.",
+      "zh": "不要在鞦韆旁邊跑。",
+      "ipa": "/dont rʌn nɪr ðə swɪŋz/",
+      "vocab": [
+        {
+          "w": "near",
+          "pos": "prep.",
+          "ipa": "/nɪr/",
+          "zh": "靠近、在⋯⋯附近"
+        },
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-6",
+      "date": "2026-09-16",
+      "category": "school",
+      "en": "Did you finish your lunch at school?",
+      "zh": "你在學校有把午餐吃完嗎？",
+      "ipa": "/dɪd ju ˈfɪnɪʃ jʊr lʌntʃ æt skul/",
+      "vocab": [
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "吃完、完成"
+        },
+        {
+          "w": "lunch",
+          "pos": "n.",
+          "ipa": "/lʌntʃ/",
+          "zh": "午餐"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-7",
+      "date": "2026-09-16",
+      "category": "homework",
+      "en": "Let's put your homework in your bag now.",
+      "zh": "現在把功課放進書包吧。",
+      "ipa": "/lɛts pʊt jʊr ˈhomˌwɝk ɪn jʊr bæɡ naʊ/",
+      "vocab": [
+        {
+          "w": "homework",
+          "pos": "n.",
+          "ipa": "/ˈhomˌwɝk/",
+          "zh": "功課"
+        },
+        {
+          "w": "bag",
+          "pos": "n.",
+          "ipa": "/bæɡ/",
+          "zh": "書包、袋子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-8",
+      "date": "2026-09-16",
+      "category": "toys-sharing",
+      "en": "Ask him nicely if you want the truck.",
+      "zh": "想要那台卡車就好好跟他說。",
+      "ipa": "/æsk hɪm ˈnaɪsli ɪf ju wɑnt ðə trʌk/",
+      "vocab": [
+        {
+          "w": "nicely",
+          "pos": "adv.",
+          "ipa": "/ˈnaɪsli/",
+          "zh": "有禮貌地、好好地"
+        },
+        {
+          "w": "truck",
+          "pos": "n.",
+          "ipa": "/trʌk/",
+          "zh": "卡車"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-9",
+      "date": "2026-09-16",
+      "category": "emotions",
+      "en": "Let's shake out the grumpy feeling.",
+      "zh": "我們把鬧脾氣的感覺甩掉吧。",
+      "ipa": "/lɛts ʃek aʊt ðə ˈɡrʌmpi ˈfilɪŋ/",
+      "vocab": [
+        {
+          "w": "shake out",
+          "pos": "phr.",
+          "ipa": "/ʃek aʊt/",
+          "zh": "甩掉、抖掉"
+        },
+        {
+          "w": "grumpy",
+          "pos": "adj.",
+          "ipa": "/ˈɡrʌmpi/",
+          "zh": "鬧脾氣的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-10",
+      "date": "2026-09-16",
+      "category": "discipline",
+      "en": "Feet stay off the table, please.",
+      "zh": "腳不要放到桌子上喔。",
+      "ipa": "/fit ste ɔf ðə ˈtebl pliz/",
+      "vocab": [
+        {
+          "w": "stay off",
+          "pos": "phr.",
+          "ipa": "/ste ɔf/",
+          "zh": "別放上去、遠離"
+        },
+        {
+          "w": "table",
+          "pos": "n.",
+          "ipa": "/ˈtebl/",
+          "zh": "桌子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-11",
+      "date": "2026-09-16",
+      "category": "praise",
+      "en": "Thank you for waiting so quietly.",
+      "zh": "謝謝你這麼安靜地等待。",
+      "ipa": "/θæŋk ju fɔr ˈwetɪŋ so ˈkwaɪətli/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        },
+        {
+          "w": "quietly",
+          "pos": "adv.",
+          "ipa": "/ˈkwaɪətli/",
+          "zh": "安靜地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-12",
+      "date": "2026-09-16",
+      "category": "safety",
+      "en": "Tell a grown-up if you smell smoke.",
+      "zh": "聞到煙味要馬上告訴大人。",
+      "ipa": "/tɛl ə ɡron ʌp ɪf ju smɛl smok/",
+      "vocab": [
+        {
+          "w": "grown-up",
+          "pos": "n.",
+          "ipa": "/ɡron ʌp/",
+          "zh": "大人"
+        },
+        {
+          "w": "smoke",
+          "pos": "n.",
+          "ipa": "/smok/",
+          "zh": "煙"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-13",
+      "date": "2026-09-16",
+      "category": "health",
+      "en": "Your bandage needs changing today.",
+      "zh": "你的 OK 繃今天要換新的。",
+      "ipa": "/jʊr ˈbændɪdʒ nidz ˈtʃendʒɪŋ təˈde/",
+      "vocab": [
+        {
+          "w": "bandage",
+          "pos": "n.",
+          "ipa": "/ˈbændɪdʒ/",
+          "zh": "OK 繃、繃帶"
+        },
+        {
+          "w": "change",
+          "pos": "v.",
+          "ipa": "/tʃendʒ/",
+          "zh": "更換"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-14",
+      "date": "2026-09-16",
+      "category": "relatives",
+      "en": "Let's send Grandpa a photo of you.",
+      "zh": "我們傳一張你的照片給爺爺吧。",
+      "ipa": "/lɛts sɛnd ˈɡrænpɑ ə ˈfoto ʌv ju/",
+      "vocab": [
+        {
+          "w": "send",
+          "pos": "v.",
+          "ipa": "/sɛnd/",
+          "zh": "寄、傳送"
+        },
+        {
+          "w": "photo",
+          "pos": "n.",
+          "ipa": "/ˈfoto/",
+          "zh": "照片"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-15",
+      "date": "2026-09-16",
+      "category": "friends",
+      "en": "Invite your friend to play with us.",
+      "zh": "邀請你的朋友一起來玩。",
+      "ipa": "/ɪnˈvaɪt jʊr frɛnd tu ple wɪð ʌs/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "friend",
+          "pos": "n.",
+          "ipa": "/frɛnd/",
+          "zh": "朋友"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-16",
+      "date": "2026-09-16",
+      "category": "manners",
+      "en": "Say excuse me when you pass by.",
+      "zh": "要從別人旁邊過去時要說「借過」。",
+      "ipa": "/se ɪkˈskjuz mi wɛn ju pæs baɪ/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "借過、不好意思"
+        },
+        {
+          "w": "pass by",
+          "pos": "phr.",
+          "ipa": "/pæs baɪ/",
+          "zh": "經過"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-17",
+      "date": "2026-09-16",
+      "category": "weather",
+      "en": "The rain is tapping on the window.",
+      "zh": "雨滴正在敲窗戶呢。",
+      "ipa": "/ðə ren ɪz ˈtæpɪŋ ɑn ðə ˈwɪndo/",
+      "vocab": [
+        {
+          "w": "tap",
+          "pos": "v.",
+          "ipa": "/tæp/",
+          "zh": "輕敲"
+        },
+        {
+          "w": "window",
+          "pos": "n.",
+          "ipa": "/ˈwɪndo/",
+          "zh": "窗戶"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-18",
+      "date": "2026-09-16",
+      "category": "screen-time",
+      "en": "Five more minutes, then we turn it off.",
+      "zh": "再五分鐘，然後我們就關掉。",
+      "ipa": "/faɪv mɔr ˈmɪnɪts ðɛn wi tɝn ɪt ɔf/",
+      "vocab": [
+        {
+          "w": "minute",
+          "pos": "n.",
+          "ipa": "/ˈmɪnɪt/",
+          "zh": "分鐘"
+        },
+        {
+          "w": "then",
+          "pos": "adv.",
+          "ipa": "/ðɛn/",
+          "zh": "然後"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-19",
+      "date": "2026-09-16",
+      "category": "celebrations",
+      "en": "Let's make a card for the party.",
+      "zh": "我們來做一張派對的卡片吧。",
+      "ipa": "/lɛts mek ə kɑrd fɔr ðə ˈpɑrti/",
+      "vocab": [
+        {
+          "w": "card",
+          "pos": "n.",
+          "ipa": "/kɑrd/",
+          "zh": "卡片"
+        },
+        {
+          "w": "party",
+          "pos": "n.",
+          "ipa": "/ˈpɑrti/",
+          "zh": "派對"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-20",
+      "date": "2026-09-16",
+      "category": "reading",
+      "en": "Which story do you want tonight?",
+      "zh": "今天晚上想聽哪一個故事？",
+      "ipa": "/wɪtʃ ˈstɔri du ju wɑnt təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "which",
+          "pos": "adj.",
+          "ipa": "/wɪtʃ/",
+          "zh": "哪一個"
+        },
+        {
+          "w": "tonight",
+          "pos": "adv.",
+          "ipa": "/təˈnaɪt/",
+          "zh": "今晚"
+        }
+      ]
+    }
+  ]
+}
