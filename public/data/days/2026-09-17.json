@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-17",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-17-1",
+      "date": "2026-09-17",
+      "category": "daily-routine",
+      "en": "Let's tie your shoelaces tighter.",
+      "zh": "我們把鞋帶綁緊一點。",
+      "ipa": "/lɛts taɪ jʊr ˈʃuˌlesɪz ˈtaɪtɚ/",
+      "vocab": [
+        {
+          "w": "shoelace",
+          "pos": "n.",
+          "ipa": "/ˈʃuˌles/",
+          "zh": "鞋帶"
+        },
+        {
+          "w": "tighter",
+          "pos": "adj.",
+          "ipa": "/ˈtaɪtɚ/",
+          "zh": "更緊的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-2",
+      "date": "2026-09-17",
+      "category": "meals",
+      "en": "Use your spoon, not your fingers.",
+      "zh": "用湯匙，不要用手抓。",
+      "ipa": "/juz jʊr spun nɑt jʊr ˈfɪŋɡɚz/",
+      "vocab": [
+        {
+          "w": "spoon",
+          "pos": "n.",
+          "ipa": "/spun/",
+          "zh": "湯匙"
+        },
+        {
+          "w": "finger",
+          "pos": "n.",
+          "ipa": "/ˈfɪŋɡɚ/",
+          "zh": "手指"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-3",
+      "date": "2026-09-17",
+      "category": "bath-bedtime",
+      "en": "The water is just right now.",
+      "zh": "現在水溫剛剛好。",
+      "ipa": "/ðə ˈwɔtɚ ɪz dʒʌst raɪt naʊ/",
+      "vocab": [
+        {
+          "w": "just right",
+          "pos": "phr.",
+          "ipa": "/dʒʌst raɪt/",
+          "zh": "剛剛好"
+        },
+        {
+          "w": "water",
+          "pos": "n.",
+          "ipa": "/ˈwɔtɚ/",
+          "zh": "水"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-4",
+      "date": "2026-09-17",
+      "category": "outings",
+      "en": "Look both ways at the corner.",
+      "zh": "轉角要左右看一看。",
+      "ipa": "/lʊk boθ wez æt ðə ˈkɔrnɚ/",
+      "vocab": [
+        {
+          "w": "both ways",
+          "pos": "phr.",
+          "ipa": "/boθ wez/",
+          "zh": "兩邊、左右"
+        },
+        {
+          "w": "corner",
+          "pos": "n.",
+          "ipa": "/ˈkɔrnɚ/",
+          "zh": "轉角"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-5",
+      "date": "2026-09-17",
+      "category": "playground",
+      "en": "One at a time on the ladder.",
+      "zh": "爬梯子要一個一個來。",
+      "ipa": "/wʌn æt ə taɪm ɑn ðə ˈlædɚ/",
+      "vocab": [
+        {
+          "w": "one at a time",
+          "pos": "phr.",
+          "ipa": "/wʌn æt ə taɪm/",
+          "zh": "一次一個"
+        },
+        {
+          "w": "ladder",
+          "pos": "n.",
+          "ipa": "/ˈlædɚ/",
+          "zh": "梯子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-6",
+      "date": "2026-09-17",
+      "category": "school",
+      "en": "Tell me one fun thing today.",
+      "zh": "說一件今天好玩的事。",
+      "ipa": "/tɛl mi wʌn fʌn θɪŋ təˈde/",
+      "vocab": [
+        {
+          "w": "fun",
+          "pos": "adj.",
+          "ipa": "/fʌn/",
+          "zh": "好玩的"
+        },
+        {
+          "w": "tell",
+          "pos": "v.",
+          "ipa": "/tɛl/",
+          "zh": "告訴、說"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-7",
+      "date": "2026-09-17",
+      "category": "homework",
+      "en": "Check your answers one by one.",
+      "zh": "答案一題一題檢查。",
+      "ipa": "/tʃɛk jʊr ˈænsɚz wʌn baɪ wʌn/",
+      "vocab": [
+        {
+          "w": "answer",
+          "pos": "n.",
+          "ipa": "/ˈænsɚ/",
+          "zh": "答案"
+        },
+        {
+          "w": "one by one",
+          "pos": "phr.",
+          "ipa": "/wʌn baɪ wʌn/",
+          "zh": "一個一個"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-8",
+      "date": "2026-09-17",
+      "category": "toys-sharing",
+      "en": "Put the blocks back in the bin.",
+      "zh": "把積木放回箱子裡。",
+      "ipa": "/pʊt ðə blɑks bæk ɪn ðə bɪn/",
+      "vocab": [
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        },
+        {
+          "w": "bin",
+          "pos": "n.",
+          "ipa": "/bɪn/",
+          "zh": "箱子、收納盒"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-9",
+      "date": "2026-09-17",
+      "category": "emotions",
+      "en": "I'm right here if you need me.",
+      "zh": "需要我的話，我就在旁邊。",
+      "ipa": "/aɪm raɪt hɪr ɪf ju nid mi/",
+      "vocab": [
+        {
+          "w": "right here",
+          "pos": "phr.",
+          "ipa": "/raɪt hɪr/",
+          "zh": "就在這裡"
+        },
+        {
+          "w": "need",
+          "pos": "v.",
+          "ipa": "/nid/",
+          "zh": "需要"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-10",
+      "date": "2026-09-17",
+      "category": "discipline",
+      "en": "I'll count to three, then we go.",
+      "zh": "我數到三，我們就走。",
+      "ipa": "/aɪl kaʊnt tu θri ðɛn wi ɡo/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數數"
+        },
+        {
+          "w": "then",
+          "pos": "adv.",
+          "ipa": "/ðɛn/",
+          "zh": "然後"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-11",
+      "date": "2026-09-17",
+      "category": "praise",
+      "en": "You were such a good helper today.",
+      "zh": "你今天真是個好幫手。",
+      "ipa": "/ju wɚ sʌtʃ ə ɡʊd ˈhɛlpɚ təˈde/",
+      "vocab": [
+        {
+          "w": "helper",
+          "pos": "n.",
+          "ipa": "/ˈhɛlpɚ/",
+          "zh": "幫手"
+        },
+        {
+          "w": "such",
+          "pos": "adj.",
+          "ipa": "/sʌtʃ/",
+          "zh": "如此、真是"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-12",
+      "date": "2026-09-17",
+      "category": "safety",
+      "en": "Hold the railing going down.",
+      "zh": "下樓的時候扶著扶手。",
+      "ipa": "/hold ðə ˈrelɪŋ ˈɡoɪŋ daʊn/",
+      "vocab": [
+        {
+          "w": "railing",
+          "pos": "n.",
+          "ipa": "/ˈrelɪŋ/",
+          "zh": "扶手、欄杆"
+        },
+        {
+          "w": "go down",
+          "pos": "phr.",
+          "ipa": "/ɡo daʊn/",
+          "zh": "下去、下樓"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-13",
+      "date": "2026-09-17",
+      "category": "health",
+      "en": "Drink a little more warm water.",
+      "zh": "再多喝一點溫開水。",
+      "ipa": "/drɪŋk ə ˈlɪtl mɔr wɔrm ˈwɔtɚ/",
+      "vocab": [
+        {
+          "w": "warm",
+          "pos": "adj.",
+          "ipa": "/wɔrm/",
+          "zh": "溫的"
+        },
+        {
+          "w": "drink",
+          "pos": "v.",
+          "ipa": "/drɪŋk/",
+          "zh": "喝"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-14",
+      "date": "2026-09-17",
+      "category": "relatives",
+      "en": "Tell Grandma about your new school.",
+      "zh": "跟奶奶說說你的新學校。",
+      "ipa": "/tɛl ˈɡrænmɑ əˈbaʊt jʊr nu skul/",
+      "vocab": [
+        {
+          "w": "grandma",
+          "pos": "n.",
+          "ipa": "/ˈɡrænmɑ/",
+          "zh": "奶奶、外婆"
+        },
+        {
+          "w": "about",
+          "pos": "prep.",
+          "ipa": "/əˈbaʊt/",
+          "zh": "關於"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-15",
+      "date": "2026-09-17",
+      "category": "friends",
+      "en": "Ask her if she wants to join.",
+      "zh": "問問看她想不想一起玩。",
+      "ipa": "/æsk hɝ ɪf ʃi wɑnts tu dʒɔɪn/",
+      "vocab": [
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入、一起"
+        },
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "問"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-16",
+      "date": "2026-09-17",
+      "category": "manners",
+      "en": "Wait until she finishes talking.",
+      "zh": "等她說完再說。",
+      "ipa": "/wet ʌnˈtɪl ʃi ˈfɪnɪʃɪz ˈtɔkɪŋ/",
+      "vocab": [
+        {
+          "w": "until",
+          "pos": "conj.",
+          "ipa": "/ʌnˈtɪl/",
+          "zh": "直到"
+        },
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "說完、完成"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-17",
+      "date": "2026-09-17",
+      "category": "weather",
+      "en": "Grab your jacket, it's windy out.",
+      "zh": "拿件外套，外面風很大。",
+      "ipa": "/ɡræb jʊr ˈdʒækɪt ɪts ˈwɪndi aʊt/",
+      "vocab": [
+        {
+          "w": "jacket",
+          "pos": "n.",
+          "ipa": "/ˈdʒækɪt/",
+          "zh": "外套"
+        },
+        {
+          "w": "windy",
+          "pos": "adj.",
+          "ipa": "/ˈwɪndi/",
+          "zh": "風大的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-18",
+      "date": "2026-09-17",
+      "category": "screen-time",
+      "en": "Pause it and come eat.",
+      "zh": "先暫停，過來吃飯。",
+      "ipa": "/pɔz ɪt ænd kʌm it/",
+      "vocab": [
+        {
+          "w": "pause",
+          "pos": "v.",
+          "ipa": "/pɔz/",
+          "zh": "暫停"
+        },
+        {
+          "w": "come",
+          "pos": "v.",
+          "ipa": "/kʌm/",
+          "zh": "過來"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-19",
+      "date": "2026-09-17",
+      "category": "celebrations",
+      "en": "Help me hang the balloons.",
+      "zh": "幫我把氣球掛起來。",
+      "ipa": "/hɛlp mi hæŋ ðə bəˈlunz/",
+      "vocab": [
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        },
+        {
+          "w": "help",
+          "pos": "v.",
+          "ipa": "/hɛlp/",
+          "zh": "幫忙"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-20",
+      "date": "2026-09-17",
+      "category": "reading",
+      "en": "Can you find the little mouse?",
+      "zh": "你找得到那隻小老鼠嗎？",
+      "ipa": "/kæn ju faɪnd ðə ˈlɪtl maʊs/",
+      "vocab": [
+        {
+          "w": "find",
+          "pos": "v.",
+          "ipa": "/faɪnd/",
+          "zh": "找到"
+        },
+        {
+          "w": "mouse",
+          "pos": "n.",
+          "ipa": "/maʊs/",
+          "zh": "老鼠"
+        }
+      ]
+    }
+  ]
+}
