@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-18",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-18-1",
+      "date": "2026-09-18",
+      "category": "daily-routine",
+      "en": "Time to comb your hair neatly.",
+      "zh": "該把頭髮梳整齊囉。",
+      "ipa": "/taɪm tu kom jʊr hɛr ˈnitli/",
+      "vocab": [
+        {
+          "w": "comb",
+          "pos": "v.",
+          "ipa": "/kom/",
+          "zh": "梳（頭髮）"
+        },
+        {
+          "w": "neatly",
+          "pos": "adv.",
+          "ipa": "/ˈnitli/",
+          "zh": "整齊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-2",
+      "date": "2026-09-18",
+      "category": "meals",
+      "en": "Scoop up the last few peas.",
+      "zh": "把最後幾顆豌豆舀起來。",
+      "ipa": "/skup ʌp ðə læst fju piz/",
+      "vocab": [
+        {
+          "w": "scoop",
+          "pos": "v.",
+          "ipa": "/skup/",
+          "zh": "舀"
+        },
+        {
+          "w": "pea",
+          "pos": "n.",
+          "ipa": "/pi/",
+          "zh": "豌豆"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-3",
+      "date": "2026-09-18",
+      "category": "bath-bedtime",
+      "en": "Let's rinse the bubbles off your back.",
+      "zh": "我們把背上的泡泡沖掉。",
+      "ipa": "/lɛts rɪns ðə ˈbʌblz ɔf jʊr bæk/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "bubble",
+          "pos": "n.",
+          "ipa": "/ˈbʌbl/",
+          "zh": "泡泡"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-4",
+      "date": "2026-09-18",
+      "category": "outings",
+      "en": "Let's stop by the bakery on the way.",
+      "zh": "我們順路去一下麵包店。",
+      "ipa": "/lɛts stɑp baɪ ðə ˈbekəri ɑn ðə we/",
+      "vocab": [
+        {
+          "w": "bakery",
+          "pos": "n.",
+          "ipa": "/ˈbekəri/",
+          "zh": "麵包店"
+        },
+        {
+          "w": "stop by",
+          "pos": "phr.",
+          "ipa": "/stɑp baɪ/",
+          "zh": "順道去"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-5",
+      "date": "2026-09-18",
+      "category": "playground",
+      "en": "Hold the bar with both hands.",
+      "zh": "兩隻手都要抓住桿子。",
+      "ipa": "/hold ðə bɑr wɪð boθ hændz/",
+      "vocab": [
+        {
+          "w": "bar",
+          "pos": "n.",
+          "ipa": "/bɑr/",
+          "zh": "橫桿"
+        },
+        {
+          "w": "both",
+          "pos": "adj.",
+          "ipa": "/boθ/",
+          "zh": "兩個都"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-6",
+      "date": "2026-09-18",
+      "category": "school",
+      "en": "Did you hand in your worksheet?",
+      "zh": "你的學習單交出去了嗎？",
+      "ipa": "/dɪd ju hænd ɪn jʊr ˈwɝkˌʃit/",
+      "vocab": [
+        {
+          "w": "hand in",
+          "pos": "phr.",
+          "ipa": "/hænd ɪn/",
+          "zh": "繳交"
+        },
+        {
+          "w": "worksheet",
+          "pos": "n.",
+          "ipa": "/ˈwɝkˌʃit/",
+          "zh": "學習單"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-7",
+      "date": "2026-09-18",
+      "category": "homework",
+      "en": "Try the easy problems first.",
+      "zh": "先做簡單的題目。",
+      "ipa": "/traɪ ði ˈizi ˈprɑbləmz fɝst/",
+      "vocab": [
+        {
+          "w": "easy",
+          "pos": "adj.",
+          "ipa": "/ˈizi/",
+          "zh": "簡單的"
+        },
+        {
+          "w": "problem",
+          "pos": "n.",
+          "ipa": "/ˈprɑbləm/",
+          "zh": "題目、問題"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-8",
+      "date": "2026-09-18",
+      "category": "toys-sharing",
+      "en": "You can trade toys for a while.",
+      "zh": "你們可以交換玩具玩一下。",
+      "ipa": "/ju kæn tred tɔɪz fɔr ə waɪl/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "for a while",
+          "pos": "phr.",
+          "ipa": "/fɔr ə waɪl/",
+          "zh": "一陣子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-9",
+      "date": "2026-09-18",
+      "category": "emotions",
+      "en": "Everybody has grumpy days sometimes.",
+      "zh": "每個人都有心情不好的日子。",
+      "ipa": "/ˈɛvriˌbɑdi hæz ˈɡrʌmpi dez ˈsʌmˌtaɪmz/",
+      "vocab": [
+        {
+          "w": "grumpy",
+          "pos": "adj.",
+          "ipa": "/ˈɡrʌmpi/",
+          "zh": "鬧脾氣的"
+        },
+        {
+          "w": "sometimes",
+          "pos": "adv.",
+          "ipa": "/ˈsʌmˌtaɪmz/",
+          "zh": "有時候"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-10",
+      "date": "2026-09-18",
+      "category": "discipline",
+      "en": "Two more minutes, then we stop.",
+      "zh": "再兩分鐘，我們就停。",
+      "ipa": "/tu mɔr ˈmɪnɪts ðɛn wi stɑp/",
+      "vocab": [
+        {
+          "w": "minute",
+          "pos": "n.",
+          "ipa": "/ˈmɪnɪt/",
+          "zh": "分鐘"
+        },
+        {
+          "w": "stop",
+          "pos": "v.",
+          "ipa": "/stɑp/",
+          "zh": "停止"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-11",
+      "date": "2026-09-18",
+      "category": "praise",
+      "en": "You never gave up. I'm proud.",
+      "zh": "你都沒有放棄，我很驕傲。",
+      "ipa": "/ju ˈnɛvɚ ɡev ʌp aɪm praʊd/",
+      "vocab": [
+        {
+          "w": "give up",
+          "pos": "phr.",
+          "ipa": "/ɡɪv ʌp/",
+          "zh": "放棄"
+        },
+        {
+          "w": "proud",
+          "pos": "adj.",
+          "ipa": "/praʊd/",
+          "zh": "驕傲的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-12",
+      "date": "2026-09-18",
+      "category": "safety",
+      "en": "Wait for me before you open the gate.",
+      "zh": "開大門之前要等我。",
+      "ipa": "/wet fɔr mi bɪˈfɔr ju ˈopən ðə ɡet/",
+      "vocab": [
+        {
+          "w": "gate",
+          "pos": "n.",
+          "ipa": "/ɡet/",
+          "zh": "大門、柵門"
+        },
+        {
+          "w": "wait for",
+          "pos": "phr.",
+          "ipa": "/wet fɔr/",
+          "zh": "等待"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-13",
+      "date": "2026-09-18",
+      "category": "health",
+      "en": "Roll up your sleeve for the nurse.",
+      "zh": "把袖子捲起來給護理師看。",
+      "ipa": "/rol ʌp jʊr sliv fɔr ðə nɝs/",
+      "vocab": [
+        {
+          "w": "sleeve",
+          "pos": "n.",
+          "ipa": "/sliv/",
+          "zh": "袖子"
+        },
+        {
+          "w": "nurse",
+          "pos": "n.",
+          "ipa": "/nɝs/",
+          "zh": "護理師"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-14",
+      "date": "2026-09-18",
+      "category": "relatives",
+      "en": "Grandma is knitting you a scarf.",
+      "zh": "奶奶正在幫你織圍巾。",
+      "ipa": "/ˈɡrænmɑ ɪz ˈnɪtɪŋ ju ə skɑrf/",
+      "vocab": [
+        {
+          "w": "knit",
+          "pos": "v.",
+          "ipa": "/nɪt/",
+          "zh": "編織"
+        },
+        {
+          "w": "scarf",
+          "pos": "n.",
+          "ipa": "/skɑrf/",
+          "zh": "圍巾"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-15",
+      "date": "2026-09-18",
+      "category": "friends",
+      "en": "Tell me one funny thing your friend said.",
+      "zh": "說一件你朋友講過的好笑的事。",
+      "ipa": "/tɛl mi wʌn ˈfʌni θɪŋ jʊr frɛnd sɛd/",
+      "vocab": [
+        {
+          "w": "funny",
+          "pos": "adj.",
+          "ipa": "/ˈfʌni/",
+          "zh": "好笑的"
+        },
+        {
+          "w": "friend",
+          "pos": "n.",
+          "ipa": "/frɛnd/",
+          "zh": "朋友"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-16",
+      "date": "2026-09-18",
+      "category": "manners",
+      "en": "Say bless you when someone sneezes.",
+      "zh": "有人打噴嚏時說聲保重。",
+      "ipa": "/se blɛs ju wɛn ˈsʌmˌwʌn ˈsnizɪz/",
+      "vocab": [
+        {
+          "w": "bless you",
+          "pos": "phr.",
+          "ipa": "/blɛs ju/",
+          "zh": "（對打噴嚏者說）保重"
+        },
+        {
+          "w": "sneeze",
+          "pos": "v.",
+          "ipa": "/sniz/",
+          "zh": "打噴嚏"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-17",
+      "date": "2026-09-18",
+      "category": "weather",
+      "en": "The wind is strong. Zip up.",
+      "zh": "風很大，把拉鍊拉上。",
+      "ipa": "/ðə wɪnd ɪz strɔŋ zɪp ʌp/",
+      "vocab": [
+        {
+          "w": "wind",
+          "pos": "n.",
+          "ipa": "/wɪnd/",
+          "zh": "風"
+        },
+        {
+          "w": "zip up",
+          "pos": "phr.",
+          "ipa": "/zɪp ʌp/",
+          "zh": "拉上拉鍊"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-18",
+      "date": "2026-09-18",
+      "category": "screen-time",
+      "en": "Sit back. You're too close.",
+      "zh": "坐後面一點，你靠太近了。",
+      "ipa": "/sɪt bæk jʊr tu klos/",
+      "vocab": [
+        {
+          "w": "sit back",
+          "pos": "phr.",
+          "ipa": "/sɪt bæk/",
+          "zh": "往後坐"
+        },
+        {
+          "w": "close",
+          "pos": "adj.",
+          "ipa": "/klos/",
+          "zh": "近的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-19",
+      "date": "2026-09-18",
+      "category": "celebrations",
+      "en": "Let's tidy up before the guests arrive.",
+      "zh": "客人來之前我們先整理一下。",
+      "ipa": "/lɛts ˈtaɪdi ʌp bɪˈfɔr ðə ɡɛsts əˈraɪv/",
+      "vocab": [
+        {
+          "w": "tidy up",
+          "pos": "phr.",
+          "ipa": "/ˈtaɪdi ʌp/",
+          "zh": "整理"
+        },
+        {
+          "w": "guest",
+          "pos": "n.",
+          "ipa": "/ɡɛst/",
+          "zh": "客人"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-20",
+      "date": "2026-09-18",
+      "category": "reading",
+      "en": "Whose turn is it to read?",
+      "zh": "換誰唸了呢？",
+      "ipa": "/huz tɝn ɪz ɪt tu rid/",
+      "vocab": [
+        {
+          "w": "whose",
+          "pos": "pron.",
+          "ipa": "/huz/",
+          "zh": "誰的"
+        },
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪到的次序"
+        }
+      ]
+    }
+  ]
+}
