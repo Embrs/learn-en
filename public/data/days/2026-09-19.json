@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-19",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-19-1",
+      "date": "2026-09-19",
+      "category": "daily-routine",
+      "en": "Tuck your shirt in before we leave.",
+      "zh": "出門前把上衣塞好。",
+      "ipa": "/tʌk jʊr ʃɝt ɪn bɪˈfɔr wi liv/",
+      "vocab": [
+        {
+          "w": "tuck in",
+          "pos": "phr.",
+          "ipa": "/tʌk ɪn/",
+          "zh": "塞進去"
+        },
+        {
+          "w": "shirt",
+          "pos": "n.",
+          "ipa": "/ʃɝt/",
+          "zh": "上衣"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-2",
+      "date": "2026-09-19",
+      "category": "meals",
+      "en": "Try three bites of the carrot.",
+      "zh": "紅蘿蔔試著吃三口。",
+      "ipa": "/traɪ θri baɪts ʌv ðə ˈkærət/",
+      "vocab": [
+        {
+          "w": "try",
+          "pos": "v.",
+          "ipa": "/traɪ/",
+          "zh": "試試看"
+        },
+        {
+          "w": "carrot",
+          "pos": "n.",
+          "ipa": "/ˈkærət/",
+          "zh": "紅蘿蔔"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-3",
+      "date": "2026-09-19",
+      "category": "bath-bedtime",
+      "en": "Squeeze the sponge over your arms.",
+      "zh": "把海綿擠在手臂上。",
+      "ipa": "/skwiz ðə spʌndʒ ˈovɚ jʊr ɑrmz/",
+      "vocab": [
+        {
+          "w": "squeeze",
+          "pos": "v.",
+          "ipa": "/skwiz/",
+          "zh": "擠"
+        },
+        {
+          "w": "sponge",
+          "pos": "n.",
+          "ipa": "/spʌndʒ/",
+          "zh": "海綿"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-4",
+      "date": "2026-09-19",
+      "category": "outings",
+      "en": "The train ride takes ten minutes.",
+      "zh": "搭火車只要十分鐘喔。",
+      "ipa": "/ðə tren raɪd teks tɛn ˈmɪnɪts/",
+      "vocab": [
+        {
+          "w": "ride",
+          "pos": "n.",
+          "ipa": "/raɪd/",
+          "zh": "乘車行程"
+        },
+        {
+          "w": "take",
+          "pos": "v.",
+          "ipa": "/tek/",
+          "zh": "花費（時間）"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-5",
+      "date": "2026-09-19",
+      "category": "playground",
+      "en": "Climb up one step at a time.",
+      "zh": "一次爬一階就好。",
+      "ipa": "/klaɪm ʌp wʌn stɛp æt ə taɪm/",
+      "vocab": [
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "爬"
+        },
+        {
+          "w": "step",
+          "pos": "n.",
+          "ipa": "/stɛp/",
+          "zh": "階梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-6",
+      "date": "2026-09-19",
+      "category": "school",
+      "en": "Show me your name on the drawing.",
+      "zh": "指給我看你畫上的名字。",
+      "ipa": "/ʃo mi jʊr nem ɑn ðə ˈdrɔɪŋ/",
+      "vocab": [
+        {
+          "w": "show",
+          "pos": "v.",
+          "ipa": "/ʃo/",
+          "zh": "給…看"
+        },
+        {
+          "w": "drawing",
+          "pos": "n.",
+          "ipa": "/ˈdrɔɪŋ/",
+          "zh": "圖畫"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-7",
+      "date": "2026-09-19",
+      "category": "homework",
+      "en": "Sound out this word slowly.",
+      "zh": "把這個字慢慢拼讀出來。",
+      "ipa": "/saʊnd aʊt ðɪs wɝd ˈsloli/",
+      "vocab": [
+        {
+          "w": "sound out",
+          "pos": "phr.",
+          "ipa": "/saʊnd aʊt/",
+          "zh": "拼讀出聲"
+        },
+        {
+          "w": "slowly",
+          "pos": "adv.",
+          "ipa": "/ˈsloli/",
+          "zh": "慢慢地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-8",
+      "date": "2026-09-19",
+      "category": "toys-sharing",
+      "en": "Trade your car for his truck.",
+      "zh": "用你的小車跟他換卡車。",
+      "ipa": "/tred jʊr kɑr fɔr hɪz trʌk/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "truck",
+          "pos": "n.",
+          "ipa": "/trʌk/",
+          "zh": "卡車"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-9",
+      "date": "2026-09-19",
+      "category": "emotions",
+      "en": "It's okay to feel shy today.",
+      "zh": "今天覺得害羞也沒關係。",
+      "ipa": "/ɪts oˈke tu fil ʃaɪ təˈde/",
+      "vocab": [
+        {
+          "w": "shy",
+          "pos": "adj.",
+          "ipa": "/ʃaɪ/",
+          "zh": "害羞的"
+        },
+        {
+          "w": "feel",
+          "pos": "v.",
+          "ipa": "/fil/",
+          "zh": "感覺"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-10",
+      "date": "2026-09-19",
+      "category": "discipline",
+      "en": "Walk inside. Running is for outdoors.",
+      "zh": "室內用走的，跑步留到外面。",
+      "ipa": "/wɔk ɪnˈsaɪd ˈrʌnɪŋ ɪz fɔr ˈaʊtdɔrz/",
+      "vocab": [
+        {
+          "w": "inside",
+          "pos": "adv.",
+          "ipa": "/ɪnˈsaɪd/",
+          "zh": "在室內"
+        },
+        {
+          "w": "outdoors",
+          "pos": "adv.",
+          "ipa": "/ˈaʊtdɔrz/",
+          "zh": "戶外"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-11",
+      "date": "2026-09-19",
+      "category": "praise",
+      "en": "You waited so patiently today.",
+      "zh": "你今天等得好有耐心。",
+      "ipa": "/ju ˈwetɪd so ˈpeʃəntli təˈde/",
+      "vocab": [
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        },
+        {
+          "w": "patiently",
+          "pos": "adv.",
+          "ipa": "/ˈpeʃəntli/",
+          "zh": "有耐心地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-12",
+      "date": "2026-09-19",
+      "category": "safety",
+      "en": "Ask me before you use scissors.",
+      "zh": "要用剪刀前先問我。",
+      "ipa": "/æsk mi bɪˈfɔr ju juz ˈsɪzɚz/",
+      "vocab": [
+        {
+          "w": "scissors",
+          "pos": "n.",
+          "ipa": "/ˈsɪzɚz/",
+          "zh": "剪刀"
+        },
+        {
+          "w": "use",
+          "pos": "v.",
+          "ipa": "/juz/",
+          "zh": "使用"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-13",
+      "date": "2026-09-19",
+      "category": "health",
+      "en": "Tell me if the bandage feels too tight.",
+      "zh": "如果繃帶太緊要跟我說。",
+      "ipa": "/tɛl mi ɪf ðə ˈbændɪdʒ filz tu taɪt/",
+      "vocab": [
+        {
+          "w": "bandage",
+          "pos": "n.",
+          "ipa": "/ˈbændɪdʒ/",
+          "zh": "繃帶"
+        },
+        {
+          "w": "tight",
+          "pos": "adj.",
+          "ipa": "/taɪt/",
+          "zh": "緊的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-14",
+      "date": "2026-09-19",
+      "category": "relatives",
+      "en": "Grandma saved you a sweet treat.",
+      "zh": "奶奶留了一個甜點心給你。",
+      "ipa": "/ˈɡrænmɑ sevd ju ə swit trit/",
+      "vocab": [
+        {
+          "w": "save",
+          "pos": "v.",
+          "ipa": "/sev/",
+          "zh": "留下"
+        },
+        {
+          "w": "treat",
+          "pos": "n.",
+          "ipa": "/trit/",
+          "zh": "小點心"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-15",
+      "date": "2026-09-19",
+      "category": "friends",
+      "en": "Wait for your friend by the gate.",
+      "zh": "在大門邊等你的朋友。",
+      "ipa": "/wet fɔr jʊr frɛnd baɪ ðə ɡet/",
+      "vocab": [
+        {
+          "w": "wait for",
+          "pos": "phr.",
+          "ipa": "/wet fɔr/",
+          "zh": "等候"
+        },
+        {
+          "w": "gate",
+          "pos": "n.",
+          "ipa": "/ɡet/",
+          "zh": "大門"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-16",
+      "date": "2026-09-19",
+      "category": "manners",
+      "en": "Pass the plate with both hands, please.",
+      "zh": "請用兩隻手把盤子遞過去。",
+      "ipa": "/pæs ðə plet wɪð boθ hændz pliz/",
+      "vocab": [
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "遞"
+        },
+        {
+          "w": "plate",
+          "pos": "n.",
+          "ipa": "/plet/",
+          "zh": "盤子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-17",
+      "date": "2026-09-19",
+      "category": "weather",
+      "en": "Zip your jacket. The wind is chilly.",
+      "zh": "把外套拉鍊拉上，風有點涼。",
+      "ipa": "/zɪp jʊr ˈdʒækɪt ðə wɪnd ɪz ˈtʃɪli/",
+      "vocab": [
+        {
+          "w": "zip",
+          "pos": "v.",
+          "ipa": "/zɪp/",
+          "zh": "拉上拉鍊"
+        },
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "涼颼颼的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-18",
+      "date": "2026-09-19",
+      "category": "screen-time",
+      "en": "One short video, then we turn it off.",
+      "zh": "看一支短影片，然後就關掉。",
+      "ipa": "/wʌn ʃɔrt ˈvɪdio ðɛn wi tɝn ɪt ɔf/",
+      "vocab": [
+        {
+          "w": "short",
+          "pos": "adj.",
+          "ipa": "/ʃɔrt/",
+          "zh": "短的"
+        },
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-19",
+      "date": "2026-09-19",
+      "category": "celebrations",
+      "en": "We'll light the candles after dinner.",
+      "zh": "晚餐後我們來點蠟燭。",
+      "ipa": "/wil laɪt ðə ˈkændl̩z ˈæftɚ ˈdɪnɚ/",
+      "vocab": [
+        {
+          "w": "light",
+          "pos": "v.",
+          "ipa": "/laɪt/",
+          "zh": "點燃"
+        },
+        {
+          "w": "candle",
+          "pos": "n.",
+          "ipa": "/ˈkændl̩/",
+          "zh": "蠟燭"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-20",
+      "date": "2026-09-19",
+      "category": "reading",
+      "en": "Which character do you like best?",
+      "zh": "你最喜歡哪個角色？",
+      "ipa": "/hwɪtʃ ˈkɛrɪktɚ du ju laɪk bɛst/",
+      "vocab": [
+        {
+          "w": "character",
+          "pos": "n.",
+          "ipa": "/ˈkɛrɪktɚ/",
+          "zh": "角色"
+        },
+        {
+          "w": "best",
+          "pos": "adv.",
+          "ipa": "/bɛst/",
+          "zh": "最"
+        }
+      ]
+    }
+  ]
+}

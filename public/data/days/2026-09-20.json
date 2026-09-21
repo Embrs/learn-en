@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-20",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-20-1",
+      "date": "2026-09-20",
+      "category": "daily-routine",
+      "en": "Put your dirty socks in the basket.",
+      "zh": "把髒襪子放進籃子裡。",
+      "ipa": "/pʊt jʊr ˈdɝti sɑks ɪn ðə ˈbæskɪt/",
+      "vocab": [
+        {
+          "w": "dirty",
+          "pos": "adj.",
+          "ipa": "/ˈdɝti/",
+          "zh": "髒的"
+        },
+        {
+          "w": "basket",
+          "pos": "n.",
+          "ipa": "/ˈbæskɪt/",
+          "zh": "籃子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-2",
+      "date": "2026-09-20",
+      "category": "meals",
+      "en": "Stir your soup so it cools down.",
+      "zh": "攪一攪湯，讓它涼一點。",
+      "ipa": "/stɝ jʊr sup so ɪt kulz daʊn/",
+      "vocab": [
+        {
+          "w": "stir",
+          "pos": "v.",
+          "ipa": "/stɝ/",
+          "zh": "攪拌"
+        },
+        {
+          "w": "cool down",
+          "pos": "phr.",
+          "ipa": "/kul daʊn/",
+          "zh": "變涼"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-3",
+      "date": "2026-09-20",
+      "category": "bath-bedtime",
+      "en": "Dry between your toes.",
+      "zh": "腳趾縫也要擦乾。",
+      "ipa": "/draɪ bɪˈtwin jʊr toz/",
+      "vocab": [
+        {
+          "w": "dry",
+          "pos": "v.",
+          "ipa": "/draɪ/",
+          "zh": "擦乾"
+        },
+        {
+          "w": "toe",
+          "pos": "n.",
+          "ipa": "/to/",
+          "zh": "腳趾"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-4",
+      "date": "2026-09-20",
+      "category": "outings",
+      "en": "Stay close while we cross the street.",
+      "zh": "過馬路時要靠緊我。",
+      "ipa": "/ste klos hwaɪl wi krɔs ðə strit/",
+      "vocab": [
+        {
+          "w": "stay close",
+          "pos": "phr.",
+          "ipa": "/ste klos/",
+          "zh": "待在旁邊"
+        },
+        {
+          "w": "cross",
+          "pos": "v.",
+          "ipa": "/krɔs/",
+          "zh": "穿越"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-5",
+      "date": "2026-09-20",
+      "category": "playground",
+      "en": "Push the merry-go-round gently.",
+      "zh": "旋轉遊具要輕輕推。",
+      "ipa": "/pʊʃ ðə ˈmɛri ɡo raʊnd ˈdʒɛntli/",
+      "vocab": [
+        {
+          "w": "merry-go-round",
+          "pos": "n.",
+          "ipa": "/ˈmɛri ɡo raʊnd/",
+          "zh": "旋轉遊具"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "輕輕地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-6",
+      "date": "2026-09-20",
+      "category": "school",
+      "en": "Did you finish your snack at school?",
+      "zh": "你在學校把點心吃完了嗎？",
+      "ipa": "/dɪd ju ˈfɪnɪʃ jʊr snæk æt skul/",
+      "vocab": [
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "吃完、完成"
+        },
+        {
+          "w": "snack",
+          "pos": "n.",
+          "ipa": "/snæk/",
+          "zh": "點心"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-7",
+      "date": "2026-09-20",
+      "category": "homework",
+      "en": "Write the numbers inside the boxes.",
+      "zh": "把數字寫在格子裡面。",
+      "ipa": "/raɪt ðə ˈnʌmbɚz ɪnˈsaɪd ðə ˈbɑksɪz/",
+      "vocab": [
+        {
+          "w": "number",
+          "pos": "n.",
+          "ipa": "/ˈnʌmbɚ/",
+          "zh": "數字"
+        },
+        {
+          "w": "box",
+          "pos": "n.",
+          "ipa": "/bɑks/",
+          "zh": "格子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-8",
+      "date": "2026-09-20",
+      "category": "toys-sharing",
+      "en": "Let him build the tower with you.",
+      "zh": "讓他跟你一起蓋高塔。",
+      "ipa": "/lɛt hɪm bɪld ðə ˈtaʊɚ wɪð ju/",
+      "vocab": [
+        {
+          "w": "build",
+          "pos": "v.",
+          "ipa": "/bɪld/",
+          "zh": "建造"
+        },
+        {
+          "w": "tower",
+          "pos": "n.",
+          "ipa": "/ˈtaʊɚ/",
+          "zh": "高塔"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-9",
+      "date": "2026-09-20",
+      "category": "emotions",
+      "en": "Take a slow breath with me.",
+      "zh": "跟我一起慢慢吸一口氣。",
+      "ipa": "/tek ə slo brɛθ wɪð mi/",
+      "vocab": [
+        {
+          "w": "breath",
+          "pos": "n.",
+          "ipa": "/brɛθ/",
+          "zh": "呼吸"
+        },
+        {
+          "w": "slow",
+          "pos": "adj.",
+          "ipa": "/slo/",
+          "zh": "慢的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-10",
+      "date": "2026-09-20",
+      "category": "discipline",
+      "en": "Toys go back before the next game.",
+      "zh": "玩下一個遊戲前先把玩具收好。",
+      "ipa": "/tɔɪz ɡo bæk bɪˈfɔr ðə nɛkst ɡem/",
+      "vocab": [
+        {
+          "w": "go back",
+          "pos": "phr.",
+          "ipa": "/ɡo bæk/",
+          "zh": "放回去"
+        },
+        {
+          "w": "before",
+          "pos": "prep.",
+          "ipa": "/bɪˈfɔr/",
+          "zh": "在…之前"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-11",
+      "date": "2026-09-20",
+      "category": "praise",
+      "en": "You kept trying and it worked.",
+      "zh": "你一直努力，結果成功了。",
+      "ipa": "/ju kɛpt ˈtraɪɪŋ ænd ɪt wɝkt/",
+      "vocab": [
+        {
+          "w": "keep",
+          "pos": "v.",
+          "ipa": "/kip/",
+          "zh": "持續"
+        },
+        {
+          "w": "work",
+          "pos": "v.",
+          "ipa": "/wɝk/",
+          "zh": "奏效"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-12",
+      "date": "2026-09-20",
+      "category": "safety",
+      "en": "Never touch the hot pot handle.",
+      "zh": "絕對不要碰熱鍋的把手。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə hɑt pɑt ˈhændl̩/",
+      "vocab": [
+        {
+          "w": "touch",
+          "pos": "v.",
+          "ipa": "/tʌtʃ/",
+          "zh": "碰"
+        },
+        {
+          "w": "handle",
+          "pos": "n.",
+          "ipa": "/ˈhændl̩/",
+          "zh": "把手"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-13",
+      "date": "2026-09-20",
+      "category": "health",
+      "en": "Open wide so I can see your throat.",
+      "zh": "嘴巴張大，我看看你的喉嚨。",
+      "ipa": "/ˈopən waɪd so aɪ kæn si jʊr θrot/",
+      "vocab": [
+        {
+          "w": "wide",
+          "pos": "adv.",
+          "ipa": "/waɪd/",
+          "zh": "大大地"
+        },
+        {
+          "w": "throat",
+          "pos": "n.",
+          "ipa": "/θrot/",
+          "zh": "喉嚨"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-14",
+      "date": "2026-09-20",
+      "category": "relatives",
+      "en": "Give Grandpa a big hug goodbye.",
+      "zh": "給爺爺一個大大的擁抱說再見。",
+      "ipa": "/ɡɪv ˈɡrænpɑ ə bɪɡ hʌɡ ɡʊdˈbaɪ/",
+      "vocab": [
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        },
+        {
+          "w": "goodbye",
+          "pos": "n.",
+          "ipa": "/ɡʊdˈbaɪ/",
+          "zh": "再見"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-15",
+      "date": "2026-09-20",
+      "category": "friends",
+      "en": "You can invite him over on Sunday.",
+      "zh": "星期天你可以邀他來家裡。",
+      "ipa": "/ju kæn ɪnˈvaɪt hɪm ˈovɚ ɑn ˈsʌnde/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "over",
+          "pos": "adv.",
+          "ipa": "/ˈovɚ/",
+          "zh": "到家裡來"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-16",
+      "date": "2026-09-20",
+      "category": "manners",
+      "en": "Let Grandma go first.",
+      "zh": "讓奶奶先走。",
+      "ipa": "/lɛt ˈɡrænmɑ ɡo fɝst/",
+      "vocab": [
+        {
+          "w": "let",
+          "pos": "v.",
+          "ipa": "/lɛt/",
+          "zh": "讓"
+        },
+        {
+          "w": "first",
+          "pos": "adv.",
+          "ipa": "/fɝst/",
+          "zh": "先"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-17",
+      "date": "2026-09-20",
+      "category": "weather",
+      "en": "It's sunny. Grab your hat.",
+      "zh": "今天出太陽，拿上帽子。",
+      "ipa": "/ɪts ˈsʌni ɡræb jʊr hæt/",
+      "vocab": [
+        {
+          "w": "sunny",
+          "pos": "adj.",
+          "ipa": "/ˈsʌni/",
+          "zh": "晴朗的"
+        },
+        {
+          "w": "grab",
+          "pos": "v.",
+          "ipa": "/ɡræb/",
+          "zh": "拿、抓"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-18",
+      "date": "2026-09-20",
+      "category": "screen-time",
+      "en": "Let's give our eyes a break.",
+      "zh": "我們讓眼睛休息一下。",
+      "ipa": "/lɛts ɡɪv aʊr aɪz ə brek/",
+      "vocab": [
+        {
+          "w": "eye",
+          "pos": "n.",
+          "ipa": "/aɪ/",
+          "zh": "眼睛"
+        },
+        {
+          "w": "break",
+          "pos": "n.",
+          "ipa": "/brek/",
+          "zh": "休息"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-19",
+      "date": "2026-09-20",
+      "category": "celebrations",
+      "en": "Let's write a card for the party.",
+      "zh": "我們來寫一張派對卡片。",
+      "ipa": "/lɛts raɪt ə kɑrd fɔr ðə ˈpɑrti/",
+      "vocab": [
+        {
+          "w": "card",
+          "pos": "n.",
+          "ipa": "/kɑrd/",
+          "zh": "卡片"
+        },
+        {
+          "w": "party",
+          "pos": "n.",
+          "ipa": "/ˈpɑrti/",
+          "zh": "派對"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-20",
+      "date": "2026-09-20",
+      "category": "reading",
+      "en": "Point to the word you know.",
+      "zh": "指出你認得的那個字。",
+      "ipa": "/pɔɪnt tu ðə wɝd ju no/",
+      "vocab": [
+        {
+          "w": "point",
+          "pos": "v.",
+          "ipa": "/pɔɪnt/",
+          "zh": "指"
+        },
+        {
+          "w": "know",
+          "pos": "v.",
+          "ipa": "/no/",
+          "zh": "認得"
+        }
+      ]
+    }
+  ]
+}

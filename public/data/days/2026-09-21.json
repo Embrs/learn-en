@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-21",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-21-1",
+      "date": "2026-09-21",
+      "category": "daily-routine",
+      "en": "Fold your blanket before breakfast.",
+      "zh": "吃早餐前先把毯子摺好。",
+      "ipa": "/fold jʊr ˈblæŋkɪt bɪˈfɔr ˈbrɛkfəst/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/fold/",
+          "zh": "摺疊"
+        },
+        {
+          "w": "blanket",
+          "pos": "n.",
+          "ipa": "/ˈblæŋkɪt/",
+          "zh": "毯子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-2",
+      "date": "2026-09-21",
+      "category": "meals",
+      "en": "Pour the milk slowly into your cup.",
+      "zh": "把牛奶慢慢倒進你的杯子。",
+      "ipa": "/pɔr ðə mɪlk ˈsloli ˈɪntu jʊr kʌp/",
+      "vocab": [
+        {
+          "w": "pour",
+          "pos": "v.",
+          "ipa": "/pɔr/",
+          "zh": "倒"
+        },
+        {
+          "w": "cup",
+          "pos": "n.",
+          "ipa": "/kʌp/",
+          "zh": "杯子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-3",
+      "date": "2026-09-21",
+      "category": "bath-bedtime",
+      "en": "Pick a bedtime story from the shelf.",
+      "zh": "從架上挑一本睡前故事。",
+      "ipa": "/pɪk ə ˈbɛdtaɪm ˈstɔri frʌm ðə ʃɛlf/",
+      "vocab": [
+        {
+          "w": "pick",
+          "pos": "v.",
+          "ipa": "/pɪk/",
+          "zh": "挑選"
+        },
+        {
+          "w": "shelf",
+          "pos": "n.",
+          "ipa": "/ʃɛlf/",
+          "zh": "架子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-4",
+      "date": "2026-09-21",
+      "category": "outings",
+      "en": "Don't forget the water bottle.",
+      "zh": "別忘了帶水壺。",
+      "ipa": "/dont fɚˈɡɛt ðə ˈwɔtɚ ˈbɑtl̩/",
+      "vocab": [
+        {
+          "w": "forget",
+          "pos": "v.",
+          "ipa": "/fɚˈɡɛt/",
+          "zh": "忘記"
+        },
+        {
+          "w": "bottle",
+          "pos": "n.",
+          "ipa": "/ˈbɑtl̩/",
+          "zh": "瓶子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-5",
+      "date": "2026-09-21",
+      "category": "playground",
+      "en": "Slide down feet first, please.",
+      "zh": "溜滑梯要腳先下去喔。",
+      "ipa": "/slaɪd daʊn fit fɝst pliz/",
+      "vocab": [
+        {
+          "w": "slide",
+          "pos": "v.",
+          "ipa": "/slaɪd/",
+          "zh": "滑下"
+        },
+        {
+          "w": "feet",
+          "pos": "n.",
+          "ipa": "/fit/",
+          "zh": "雙腳"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-6",
+      "date": "2026-09-21",
+      "category": "school",
+      "en": "Your teacher said you helped clean up.",
+      "zh": "老師說你幫忙收拾了。",
+      "ipa": "/jʊr ˈtitʃɚ sɛd ju hɛlpt klin ʌp/",
+      "vocab": [
+        {
+          "w": "teacher",
+          "pos": "n.",
+          "ipa": "/ˈtitʃɚ/",
+          "zh": "老師"
+        },
+        {
+          "w": "clean up",
+          "pos": "phr.",
+          "ipa": "/klin ʌp/",
+          "zh": "收拾"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-7",
+      "date": "2026-09-21",
+      "category": "homework",
+      "en": "Count the apples in the picture.",
+      "zh": "數數看圖片裡有幾顆蘋果。",
+      "ipa": "/kaʊnt ðə ˈæplz ɪn ðə ˈpɪktʃɚ/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數"
+        },
+        {
+          "w": "picture",
+          "pos": "n.",
+          "ipa": "/ˈpɪktʃɚ/",
+          "zh": "圖片"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-8",
+      "date": "2026-09-21",
+      "category": "toys-sharing",
+      "en": "There's enough clay for everyone.",
+      "zh": "黏土夠大家一起玩。",
+      "ipa": "/ðɛrz ɪˈnʌf kle fɔr ˈɛvriwʌn/",
+      "vocab": [
+        {
+          "w": "enough",
+          "pos": "adj.",
+          "ipa": "/ɪˈnʌf/",
+          "zh": "足夠的"
+        },
+        {
+          "w": "clay",
+          "pos": "n.",
+          "ipa": "/kle/",
+          "zh": "黏土"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-9",
+      "date": "2026-09-21",
+      "category": "emotions",
+      "en": "Tell me what made you upset.",
+      "zh": "告訴我是什麼讓你不開心。",
+      "ipa": "/tɛl mi hwʌt med ju ʌpˈsɛt/",
+      "vocab": [
+        {
+          "w": "upset",
+          "pos": "adj.",
+          "ipa": "/ʌpˈsɛt/",
+          "zh": "難過的"
+        },
+        {
+          "w": "make",
+          "pos": "v.",
+          "ipa": "/mek/",
+          "zh": "使得"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-10",
+      "date": "2026-09-21",
+      "category": "discipline",
+      "en": "Ask nicely and I will listen.",
+      "zh": "好好說，我就會聽。",
+      "ipa": "/æsk ˈnaɪsli ænd aɪ wɪl ˈlɪsn̩/",
+      "vocab": [
+        {
+          "w": "nicely",
+          "pos": "adv.",
+          "ipa": "/ˈnaɪsli/",
+          "zh": "好好地"
+        },
+        {
+          "w": "listen",
+          "pos": "v.",
+          "ipa": "/ˈlɪsn̩/",
+          "zh": "聆聽"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-11",
+      "date": "2026-09-21",
+      "category": "praise",
+      "en": "Your patience really paid off.",
+      "zh": "你的耐心真的有回報。",
+      "ipa": "/jʊr ˈpeʃəns ˈrɪli ped ɔf/",
+      "vocab": [
+        {
+          "w": "patience",
+          "pos": "n.",
+          "ipa": "/ˈpeʃəns/",
+          "zh": "耐心"
+        },
+        {
+          "w": "pay off",
+          "pos": "phr.",
+          "ipa": "/pe ɔf/",
+          "zh": "有回報"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-12",
+      "date": "2026-09-21",
+      "category": "safety",
+      "en": "Hold the railing going down the stairs.",
+      "zh": "下樓梯時要扶著扶手。",
+      "ipa": "/hold ðə ˈrelɪŋ ˈɡoɪŋ daʊn ðə stɛrz/",
+      "vocab": [
+        {
+          "w": "railing",
+          "pos": "n.",
+          "ipa": "/ˈrelɪŋ/",
+          "zh": "扶手"
+        },
+        {
+          "w": "stairs",
+          "pos": "n.",
+          "ipa": "/stɛrz/",
+          "zh": "樓梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-13",
+      "date": "2026-09-21",
+      "category": "health",
+      "en": "Rest on the sofa for a while.",
+      "zh": "在沙發上休息一會兒。",
+      "ipa": "/rɛst ɑn ðə ˈsofə fɔr ə hwaɪl/",
+      "vocab": [
+        {
+          "w": "rest",
+          "pos": "v.",
+          "ipa": "/rɛst/",
+          "zh": "休息"
+        },
+        {
+          "w": "a while",
+          "pos": "phr.",
+          "ipa": "/ə hwaɪl/",
+          "zh": "一會兒"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-14",
+      "date": "2026-09-21",
+      "category": "relatives",
+      "en": "Auntie brought you a new picture book.",
+      "zh": "阿姨帶了一本新繪本給你。",
+      "ipa": "/ˈænti brɔt ju ə nu ˈpɪktʃɚ bʊk/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨"
+        },
+        {
+          "w": "bring",
+          "pos": "v.",
+          "ipa": "/brɪŋ/",
+          "zh": "帶來"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-15",
+      "date": "2026-09-21",
+      "category": "friends",
+      "en": "Take turns choosing the next game.",
+      "zh": "輪流決定下一個遊戲。",
+      "ipa": "/tek tɝnz ˈtʃuzɪŋ ðə nɛkst ɡem/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "phr.",
+          "ipa": "/tek tɝnz/",
+          "zh": "輪流"
+        },
+        {
+          "w": "choose",
+          "pos": "v.",
+          "ipa": "/tʃuz/",
+          "zh": "選擇"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-16",
+      "date": "2026-09-21",
+      "category": "manners",
+      "en": "Look at people when they talk to you.",
+      "zh": "別人跟你說話時要看著他。",
+      "ipa": "/lʊk æt ˈpipl̩ hwɛn ðe tɔk tu ju/",
+      "vocab": [
+        {
+          "w": "look at",
+          "pos": "phr.",
+          "ipa": "/lʊk æt/",
+          "zh": "看著"
+        },
+        {
+          "w": "talk",
+          "pos": "v.",
+          "ipa": "/tɔk/",
+          "zh": "說話"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-17",
+      "date": "2026-09-21",
+      "category": "weather",
+      "en": "The ground is wet. Walk carefully.",
+      "zh": "地上濕濕的，要小心走。",
+      "ipa": "/ðə ɡraʊnd ɪz wɛt wɔk ˈkɛrfəli/",
+      "vocab": [
+        {
+          "w": "ground",
+          "pos": "n.",
+          "ipa": "/ɡraʊnd/",
+          "zh": "地面"
+        },
+        {
+          "w": "carefully",
+          "pos": "adv.",
+          "ipa": "/ˈkɛrfəli/",
+          "zh": "小心地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-18",
+      "date": "2026-09-21",
+      "category": "screen-time",
+      "en": "Let's put the tablet away and play.",
+      "zh": "我們把平板收起來去玩吧。",
+      "ipa": "/lɛts pʊt ðə ˈtæblɪt əˈwe ænd ple/",
+      "vocab": [
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板"
+        },
+        {
+          "w": "put away",
+          "pos": "phr.",
+          "ipa": "/pʊt əˈwe/",
+          "zh": "收起來"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-19",
+      "date": "2026-09-21",
+      "category": "celebrations",
+      "en": "We're making mooncakes this afternoon.",
+      "zh": "我們今天下午要做月餅。",
+      "ipa": "/wɪr ˈmekɪŋ ˈmunkeks ðɪs ˌæftɚˈnun/",
+      "vocab": [
+        {
+          "w": "mooncake",
+          "pos": "n.",
+          "ipa": "/ˈmunkek/",
+          "zh": "月餅"
+        },
+        {
+          "w": "afternoon",
+          "pos": "n.",
+          "ipa": "/ˌæftɚˈnun/",
+          "zh": "下午"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21-20",
+      "date": "2026-09-21",
+      "category": "reading",
+      "en": "Read this line with me together.",
+      "zh": "跟我一起讀這一行。",
+      "ipa": "/rid ðɪs laɪn wɪð mi təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "line",
+          "pos": "n.",
+          "ipa": "/laɪn/",
+          "zh": "一行"
+        },
+        {
+          "w": "together",
+          "pos": "adv.",
+          "ipa": "/təˈɡɛðɚ/",
+          "zh": "一起"
+        }
+      ]
+    }
+  ]
+}
