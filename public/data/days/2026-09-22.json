@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-22",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-22-1",
+      "date": "2026-09-22",
+      "category": "daily-routine",
+      "en": "Empty your pockets before I wash it.",
+      "zh": "洗衣服前先把口袋清空。",
+      "ipa": "/ˈɛmpti jʊr ˈpɑkɪts bɪˈfɔr aɪ wɑʃ ɪt/",
+      "vocab": [
+        {
+          "w": "empty",
+          "pos": "v.",
+          "ipa": "/ˈɛmpti/",
+          "zh": "清空"
+        },
+        {
+          "w": "pocket",
+          "pos": "n.",
+          "ipa": "/ˈpɑkɪt/",
+          "zh": "口袋"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-2",
+      "date": "2026-09-22",
+      "category": "meals",
+      "en": "Chew your carrots well before swallowing.",
+      "zh": "紅蘿蔔要嚼碎再吞下去。",
+      "ipa": "/tʃu jʊr ˈkærəts wɛl bɪˈfɔr ˈswɑloɪŋ/",
+      "vocab": [
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        },
+        {
+          "w": "swallow",
+          "pos": "v.",
+          "ipa": "/ˈswɑlo/",
+          "zh": "吞嚥"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-3",
+      "date": "2026-09-22",
+      "category": "bath-bedtime",
+      "en": "Let the water drain before you step out.",
+      "zh": "等水放掉再踏出來。",
+      "ipa": "/lɛt ðə ˈwɔtɚ dren bɪˈfɔr ju stɛp aʊt/",
+      "vocab": [
+        {
+          "w": "drain",
+          "pos": "v.",
+          "ipa": "/dren/",
+          "zh": "排掉水"
+        },
+        {
+          "w": "step out",
+          "pos": "phr.",
+          "ipa": "/stɛp aʊt/",
+          "zh": "走出來"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-4",
+      "date": "2026-09-22",
+      "category": "outings",
+      "en": "Wear your cap, the sun is strong.",
+      "zh": "戴上帽子，太陽很大。",
+      "ipa": "/wɛr jʊr kæp ðə sʌn ɪz strɔŋ/",
+      "vocab": [
+        {
+          "w": "cap",
+          "pos": "n.",
+          "ipa": "/kæp/",
+          "zh": "鴨舌帽"
+        },
+        {
+          "w": "strong",
+          "pos": "adj.",
+          "ipa": "/strɔŋ/",
+          "zh": "強烈的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-5",
+      "date": "2026-09-22",
+      "category": "playground",
+      "en": "Touch the slide first, it may be hot.",
+      "zh": "先摸一下滑梯，可能很燙。",
+      "ipa": "/tʌtʃ ðə slaɪd fɝst ɪt me bi hɑt/",
+      "vocab": [
+        {
+          "w": "touch",
+          "pos": "v.",
+          "ipa": "/tʌtʃ/",
+          "zh": "觸摸"
+        },
+        {
+          "w": "hot",
+          "pos": "adj.",
+          "ipa": "/hɑt/",
+          "zh": "燙的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-6",
+      "date": "2026-09-22",
+      "category": "school",
+      "en": "Put your name on the worksheet.",
+      "zh": "在學習單上寫上你的名字。",
+      "ipa": "/pʊt jʊr nem ɑn ðə ˈwɝkʃit/",
+      "vocab": [
+        {
+          "w": "worksheet",
+          "pos": "n.",
+          "ipa": "/ˈwɝkʃit/",
+          "zh": "學習單"
+        },
+        {
+          "w": "put",
+          "pos": "v.",
+          "ipa": "/pʊt/",
+          "zh": "放、寫上"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-7",
+      "date": "2026-09-22",
+      "category": "homework",
+      "en": "Put a star next to the hard ones.",
+      "zh": "在比較難的題目旁邊畫顆星星。",
+      "ipa": "/pʊt ə stɑr nɛkst tu ðə hɑrd wʌnz/",
+      "vocab": [
+        {
+          "w": "star",
+          "pos": "n.",
+          "ipa": "/stɑr/",
+          "zh": "星星"
+        },
+        {
+          "w": "next to",
+          "pos": "phr.",
+          "ipa": "/nɛkst tu/",
+          "zh": "在⋯旁邊"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-8",
+      "date": "2026-09-22",
+      "category": "toys-sharing",
+      "en": "You can trade cars with your friend.",
+      "zh": "你可以跟朋友交換車車。",
+      "ipa": "/ju kæn tred kɑrz wɪð jʊr frɛnd/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "friend",
+          "pos": "n.",
+          "ipa": "/frɛnd/",
+          "zh": "朋友"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-9",
+      "date": "2026-09-22",
+      "category": "emotions",
+      "en": "Let's put the worry in a box tonight.",
+      "zh": "今晚我們把煩惱收進盒子裡。",
+      "ipa": "/lɛts pʊt ðə ˈwɝi ɪn ə bɑks təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "worry",
+          "pos": "n.",
+          "ipa": "/ˈwɝi/",
+          "zh": "擔心的事"
+        },
+        {
+          "w": "box",
+          "pos": "n.",
+          "ipa": "/bɑks/",
+          "zh": "盒子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-10",
+      "date": "2026-09-22",
+      "category": "discipline",
+      "en": "We don't throw toys when we're upset.",
+      "zh": "生氣的時候我們不丟玩具。",
+      "ipa": "/wi dont θro tɔɪz wɛn wɪr ʌpˈsɛt/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟"
+        },
+        {
+          "w": "upset",
+          "pos": "adj.",
+          "ipa": "/ʌpˈsɛt/",
+          "zh": "不開心的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-11",
+      "date": "2026-09-22",
+      "category": "praise",
+      "en": "You waited so patiently just now.",
+      "zh": "你剛剛等得好有耐心。",
+      "ipa": "/ju ˈwetɪd so ˈpeʃəntli dʒʌst naʊ/",
+      "vocab": [
+        {
+          "w": "patiently",
+          "pos": "adv.",
+          "ipa": "/ˈpeʃəntli/",
+          "zh": "有耐心地"
+        },
+        {
+          "w": "just now",
+          "pos": "phr.",
+          "ipa": "/dʒʌst naʊ/",
+          "zh": "剛剛"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-12",
+      "date": "2026-09-22",
+      "category": "safety",
+      "en": "Never run behind a parked car.",
+      "zh": "絕對不要在停好的車子後面跑。",
+      "ipa": "/ˈnɛvɚ rʌn bɪˈhaɪnd ə pɑrkt kɑr/",
+      "vocab": [
+        {
+          "w": "behind",
+          "pos": "prep.",
+          "ipa": "/bɪˈhaɪnd/",
+          "zh": "在⋯後面"
+        },
+        {
+          "w": "parked",
+          "pos": "adj.",
+          "ipa": "/pɑrkt/",
+          "zh": "停放的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-13",
+      "date": "2026-09-22",
+      "category": "health",
+      "en": "Stick out your tongue for the doctor.",
+      "zh": "把舌頭伸出來給醫生看。",
+      "ipa": "/stɪk aʊt jʊr tʌŋ fɔr ðə ˈdɑktɚ/",
+      "vocab": [
+        {
+          "w": "tongue",
+          "pos": "n.",
+          "ipa": "/tʌŋ/",
+          "zh": "舌頭"
+        },
+        {
+          "w": "stick out",
+          "pos": "phr.",
+          "ipa": "/stɪk aʊt/",
+          "zh": "伸出來"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-14",
+      "date": "2026-09-22",
+      "category": "relatives",
+      "en": "Let's bring Grandma some fresh oranges.",
+      "zh": "我們帶一些新鮮橘子給奶奶。",
+      "ipa": "/lɛts brɪŋ ˈɡrænmɑ sʌm frɛʃ ˈɔrɪndʒɪz/",
+      "vocab": [
+        {
+          "w": "fresh",
+          "pos": "adj.",
+          "ipa": "/frɛʃ/",
+          "zh": "新鮮的"
+        },
+        {
+          "w": "orange",
+          "pos": "n.",
+          "ipa": "/ˈɔrɪndʒ/",
+          "zh": "橘子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-15",
+      "date": "2026-09-22",
+      "category": "friends",
+      "en": "Your friend saved you a seat.",
+      "zh": "你的朋友幫你留了位子。",
+      "ipa": "/jʊr frɛnd sevd ju ə sit/",
+      "vocab": [
+        {
+          "w": "save",
+          "pos": "v.",
+          "ipa": "/sev/",
+          "zh": "保留"
+        },
+        {
+          "w": "seat",
+          "pos": "n.",
+          "ipa": "/sit/",
+          "zh": "座位"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-16",
+      "date": "2026-09-22",
+      "category": "manners",
+      "en": "Use your napkin, not your sleeve.",
+      "zh": "要用餐巾，不要用袖子。",
+      "ipa": "/juz jʊr ˈnæpkɪn nɑt jʊr sliv/",
+      "vocab": [
+        {
+          "w": "napkin",
+          "pos": "n.",
+          "ipa": "/ˈnæpkɪn/",
+          "zh": "餐巾"
+        },
+        {
+          "w": "sleeve",
+          "pos": "n.",
+          "ipa": "/sliv/",
+          "zh": "袖子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-17",
+      "date": "2026-09-22",
+      "category": "weather",
+      "en": "The sky looks gray this morning.",
+      "zh": "今天早上天空看起來灰灰的。",
+      "ipa": "/ðə skaɪ lʊks ɡre ðɪs ˈmɔrnɪŋ/",
+      "vocab": [
+        {
+          "w": "gray",
+          "pos": "adj.",
+          "ipa": "/ɡre/",
+          "zh": "灰色的"
+        },
+        {
+          "w": "sky",
+          "pos": "n.",
+          "ipa": "/skaɪ/",
+          "zh": "天空"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-18",
+      "date": "2026-09-22",
+      "category": "screen-time",
+      "en": "Plug the tablet in when you're done.",
+      "zh": "用完要把平板插上充電。",
+      "ipa": "/plʌɡ ðə ˈtæblɪt ɪn wɛn jʊr dʌn/",
+      "vocab": [
+        {
+          "w": "plug in",
+          "pos": "phr.",
+          "ipa": "/plʌɡ ɪn/",
+          "zh": "插上插頭"
+        },
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-19",
+      "date": "2026-09-22",
+      "category": "celebrations",
+      "en": "Hand a goodie bag to each guest.",
+      "zh": "發一個小禮袋給每位客人。",
+      "ipa": "/hænd ə ˈɡʊdi bæɡ tu itʃ ɡɛst/",
+      "vocab": [
+        {
+          "w": "guest",
+          "pos": "n.",
+          "ipa": "/ɡɛst/",
+          "zh": "客人"
+        },
+        {
+          "w": "hand",
+          "pos": "v.",
+          "ipa": "/hænd/",
+          "zh": "遞給"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-20",
+      "date": "2026-09-22",
+      "category": "reading",
+      "en": "Point to the word you don't know.",
+      "zh": "指出你不認識的那個字。",
+      "ipa": "/pɔɪnt tu ðə wɝd ju dont no/",
+      "vocab": [
+        {
+          "w": "point",
+          "pos": "v.",
+          "ipa": "/pɔɪnt/",
+          "zh": "指"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "字、單字"
+        }
+      ]
+    }
+  ]
+}
