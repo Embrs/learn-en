@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-23",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-23-1",
+      "date": "2026-09-23",
+      "category": "daily-routine",
+      "en": "Wipe your glasses before you put them on.",
+      "zh": "戴眼鏡前先把鏡片擦一擦。",
+      "ipa": "/waɪp jʊr ˈɡlæsɪz bɪˈfɔr ju pʊt ðɛm ɑn/",
+      "vocab": [
+        {
+          "w": "wipe",
+          "pos": "v.",
+          "ipa": "/waɪp/",
+          "zh": "擦拭"
+        },
+        {
+          "w": "glasses",
+          "pos": "n.",
+          "ipa": "/ˈɡlæsɪz/",
+          "zh": "眼鏡"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-2",
+      "date": "2026-09-23",
+      "category": "meals",
+      "en": "Sprinkle a little cheese on your pasta.",
+      "zh": "在義大利麵上撒一點起司。",
+      "ipa": "/ˈsprɪŋkəl ə ˈlɪtəl tʃiz ɑn jʊr ˈpɑstə/",
+      "vocab": [
+        {
+          "w": "sprinkle",
+          "pos": "v.",
+          "ipa": "/ˈsprɪŋkəl/",
+          "zh": "撒上"
+        },
+        {
+          "w": "cheese",
+          "pos": "n.",
+          "ipa": "/tʃiz/",
+          "zh": "起司"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-3",
+      "date": "2026-09-23",
+      "category": "bath-bedtime",
+      "en": "I'll warm up your pajamas for you.",
+      "zh": "我幫你把睡衣弄暖。",
+      "ipa": "/aɪl wɔrm ʌp jʊr pəˈdʒɑməz fɔr ju/",
+      "vocab": [
+        {
+          "w": "warm up",
+          "pos": "phr.",
+          "ipa": "/wɔrm ʌp/",
+          "zh": "弄暖、加溫"
+        },
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒɑməz/",
+          "zh": "睡衣"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-4",
+      "date": "2026-09-23",
+      "category": "outings",
+      "en": "Let's return the shopping cart together.",
+      "zh": "我們一起把推車推回去。",
+      "ipa": "/lɛts rɪˈtɝn ðə ˈʃɑpɪŋ kɑrt təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "return",
+          "pos": "v.",
+          "ipa": "/rɪˈtɝn/",
+          "zh": "歸還"
+        },
+        {
+          "w": "cart",
+          "pos": "n.",
+          "ipa": "/kɑrt/",
+          "zh": "推車"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-5",
+      "date": "2026-09-23",
+      "category": "playground",
+      "en": "Let's see how long you can hang there.",
+      "zh": "看看你可以吊多久。",
+      "ipa": "/lɛts si haʊ lɔŋ ju kæn hæŋ ðɛr/",
+      "vocab": [
+        {
+          "w": "hang",
+          "pos": "v.",
+          "ipa": "/hæŋ/",
+          "zh": "吊掛、懸著"
+        },
+        {
+          "w": "how long",
+          "pos": "phr.",
+          "ipa": "/haʊ lɔŋ/",
+          "zh": "多久"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-6",
+      "date": "2026-09-23",
+      "category": "school",
+      "en": "Tell me one new thing you learned.",
+      "zh": "跟我說一件你今天學到的新事情。",
+      "ipa": "/tɛl mi wʌn nu θɪŋ ju lɝnd/",
+      "vocab": [
+        {
+          "w": "learn",
+          "pos": "v.",
+          "ipa": "/lɝn/",
+          "zh": "學到"
+        },
+        {
+          "w": "thing",
+          "pos": "n.",
+          "ipa": "/θɪŋ/",
+          "zh": "事情"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-7",
+      "date": "2026-09-23",
+      "category": "homework",
+      "en": "Read the question out loud again.",
+      "zh": "把題目再大聲念一次。",
+      "ipa": "/rid ðə ˈkwɛstʃən aʊt laʊd əˈɡɛn/",
+      "vocab": [
+        {
+          "w": "question",
+          "pos": "n.",
+          "ipa": "/ˈkwɛstʃən/",
+          "zh": "題目、問題"
+        },
+        {
+          "w": "out loud",
+          "pos": "phr.",
+          "ipa": "/aʊt laʊd/",
+          "zh": "大聲地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-8",
+      "date": "2026-09-23",
+      "category": "toys-sharing",
+      "en": "Trade toys instead of grabbing.",
+      "zh": "用交換的，不要用搶的。",
+      "ipa": "/tred tɔɪz ɪnˈstɛd ʌv ˈɡræbɪŋ/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "grab",
+          "pos": "v.",
+          "ipa": "/ɡræb/",
+          "zh": "搶奪"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-9",
+      "date": "2026-09-23",
+      "category": "emotions",
+      "en": "Your face tells me something is bothering you.",
+      "zh": "你的表情告訴我有事困擾你。",
+      "ipa": "/jʊr fes tɛlz mi ˈsʌmθɪŋ ɪz ˈbɑðərɪŋ ju/",
+      "vocab": [
+        {
+          "w": "bother",
+          "pos": "v.",
+          "ipa": "/ˈbɑðɚ/",
+          "zh": "困擾"
+        },
+        {
+          "w": "face",
+          "pos": "n.",
+          "ipa": "/fes/",
+          "zh": "臉、表情"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-10",
+      "date": "2026-09-23",
+      "category": "discipline",
+      "en": "Use words first, hands never.",
+      "zh": "先用說的，手絕對不可以動。",
+      "ipa": "/juz wɝdz fɝst, hændz ˈnɛvɚ/",
+      "vocab": [
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "話語、字"
+        },
+        {
+          "w": "never",
+          "pos": "adv.",
+          "ipa": "/ˈnɛvɚ/",
+          "zh": "絕不"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-11",
+      "date": "2026-09-23",
+      "category": "praise",
+      "en": "You noticed that all by yourself.",
+      "zh": "你自己就發現了耶。",
+      "ipa": "/ju ˈnotɪst ðæt ɔl baɪ jɚˈsɛlf/",
+      "vocab": [
+        {
+          "w": "notice",
+          "pos": "v.",
+          "ipa": "/ˈnotɪs/",
+          "zh": "注意到、發現"
+        },
+        {
+          "w": "by yourself",
+          "pos": "phr.",
+          "ipa": "/baɪ jɚˈsɛlf/",
+          "zh": "靠你自己"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-12",
+      "date": "2026-09-23",
+      "category": "safety",
+      "en": "Blow out the candle before you leave the room.",
+      "zh": "離開房間前先把蠟燭吹熄。",
+      "ipa": "/blo aʊt ðə ˈkændəl bɪˈfɔr ju liv ðə rum/",
+      "vocab": [
+        {
+          "w": "blow out",
+          "pos": "phr.",
+          "ipa": "/blo aʊt/",
+          "zh": "吹熄"
+        },
+        {
+          "w": "candle",
+          "pos": "n.",
+          "ipa": "/ˈkændəl/",
+          "zh": "蠟燭"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-13",
+      "date": "2026-09-23",
+      "category": "health",
+      "en": "Drink some water, your lips look dry.",
+      "zh": "喝點水，你的嘴唇看起來好乾。",
+      "ipa": "/drɪŋk sʌm ˈwɔtɚ, jʊr lɪps lʊk draɪ/",
+      "vocab": [
+        {
+          "w": "lip",
+          "pos": "n.",
+          "ipa": "/lɪp/",
+          "zh": "嘴唇"
+        },
+        {
+          "w": "dry",
+          "pos": "adj.",
+          "ipa": "/draɪ/",
+          "zh": "乾的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-14",
+      "date": "2026-09-23",
+      "category": "relatives",
+      "en": "Auntie brought you a little surprise.",
+      "zh": "阿姨帶了一個小驚喜給你。",
+      "ipa": "/ˈænti brɔt ju ə ˈlɪtəl sɚˈpraɪz/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨、姑姑"
+        },
+        {
+          "w": "surprise",
+          "pos": "n.",
+          "ipa": "/sɚˈpraɪz/",
+          "zh": "驚喜"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-15",
+      "date": "2026-09-23",
+      "category": "friends",
+      "en": "You two make a good team.",
+      "zh": "你們兩個真是好搭檔。",
+      "ipa": "/ju tu mek ə ɡʊd tim/",
+      "vocab": [
+        {
+          "w": "team",
+          "pos": "n.",
+          "ipa": "/tim/",
+          "zh": "團隊、搭檔"
+        },
+        {
+          "w": "make",
+          "pos": "v.",
+          "ipa": "/mek/",
+          "zh": "組成、成為"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-16",
+      "date": "2026-09-23",
+      "category": "manners",
+      "en": "Knock before you open a closed door.",
+      "zh": "門關著的時候要先敲門。",
+      "ipa": "/nɑk bɪˈfɔr ju ˈopən ə klozd dɔr/",
+      "vocab": [
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲門"
+        },
+        {
+          "w": "closed",
+          "pos": "adj.",
+          "ipa": "/klozd/",
+          "zh": "關著的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-17",
+      "date": "2026-09-23",
+      "category": "weather",
+      "en": "The sun is going down, it will cool off soon.",
+      "zh": "太陽下山了，等一下就會涼。",
+      "ipa": "/ðə sʌn ɪz ˈɡoɪŋ daʊn, ɪt wɪl kul ɔf sun/",
+      "vocab": [
+        {
+          "w": "cool off",
+          "pos": "phr.",
+          "ipa": "/kul ɔf/",
+          "zh": "變涼"
+        },
+        {
+          "w": "sun",
+          "pos": "n.",
+          "ipa": "/sʌn/",
+          "zh": "太陽"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-18",
+      "date": "2026-09-23",
+      "category": "screen-time",
+      "en": "Pause it and come eat first.",
+      "zh": "先暫停，過來吃飯。",
+      "ipa": "/pɔz ɪt ænd kʌm it fɝst/",
+      "vocab": [
+        {
+          "w": "pause",
+          "pos": "v.",
+          "ipa": "/pɔz/",
+          "zh": "暫停"
+        },
+        {
+          "w": "first",
+          "pos": "adv.",
+          "ipa": "/fɝst/",
+          "zh": "先、首先"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-19",
+      "date": "2026-09-23",
+      "category": "celebrations",
+      "en": "Write your name on the card yourself.",
+      "zh": "卡片上的名字自己寫喔。",
+      "ipa": "/raɪt jʊr nem ɑn ðə kɑrd jɚˈsɛlf/",
+      "vocab": [
+        {
+          "w": "write",
+          "pos": "v.",
+          "ipa": "/raɪt/",
+          "zh": "寫"
+        },
+        {
+          "w": "card",
+          "pos": "n.",
+          "ipa": "/kɑrd/",
+          "zh": "卡片"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-20",
+      "date": "2026-09-23",
+      "category": "reading",
+      "en": "Point to the word as you read.",
+      "zh": "一邊念一邊用手指著字。",
+      "ipa": "/pɔɪnt tu ðə wɝd æz ju rid/",
+      "vocab": [
+        {
+          "w": "point",
+          "pos": "v.",
+          "ipa": "/pɔɪnt/",
+          "zh": "指、指向"
+        },
+        {
+          "w": "as",
+          "pos": "conj.",
+          "ipa": "/æz/",
+          "zh": "當⋯⋯的時候"
+        }
+      ]
+    }
+  ]
+}
