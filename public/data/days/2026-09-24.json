@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-24",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-24-1",
+      "date": "2026-09-24",
+      "category": "daily-routine",
+      "en": "Fold your blanket after you get up.",
+      "zh": "起床後把你的被子摺好。",
+      "ipa": "/fold jʊr ˈblæŋkɪt ˈæftɚ ju ɡɛt ʌp/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/fold/",
+          "zh": "摺疊"
+        },
+        {
+          "w": "blanket",
+          "pos": "n.",
+          "ipa": "/ˈblæŋkɪt/",
+          "zh": "毯子、被子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-2",
+      "date": "2026-09-24",
+      "category": "meals",
+      "en": "Chew slowly so your tummy feels good.",
+      "zh": "慢慢咬，肚子才會舒服。",
+      "ipa": "/tʃu ˈslolɪ so jʊr ˈtʌmɪ filz ɡʊd/",
+      "vocab": [
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        },
+        {
+          "w": "tummy",
+          "pos": "n.",
+          "ipa": "/ˈtʌmɪ/",
+          "zh": "肚子（兒語）"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-3",
+      "date": "2026-09-24",
+      "category": "bath-bedtime",
+      "en": "Tip your head back so the bubbles stay out of your eyes.",
+      "zh": "頭往後仰，泡泡才不會跑進眼睛。",
+      "ipa": "/tɪp jʊr hɛd bæk so ðə ˈbʌbəlz ste aʊt ʌv jʊr aɪz/",
+      "vocab": [
+        {
+          "w": "tip back",
+          "pos": "phr.",
+          "ipa": "/tɪp bæk/",
+          "zh": "往後仰"
+        },
+        {
+          "w": "bubble",
+          "pos": "n.",
+          "ipa": "/ˈbʌbəl/",
+          "zh": "泡泡"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-4",
+      "date": "2026-09-24",
+      "category": "outings",
+      "en": "Let's count how many red cars we pass.",
+      "zh": "我們來數數經過幾台紅色的車。",
+      "ipa": "/lɛts kaʊnt haʊ ˈmɛnɪ rɛd kɑrz wi pæs/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數、計算"
+        },
+        {
+          "w": "how many",
+          "pos": "phr.",
+          "ipa": "/haʊ ˈmɛnɪ/",
+          "zh": "多少個"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-5",
+      "date": "2026-09-24",
+      "category": "playground",
+      "en": "Wait until the swing stops before you jump off.",
+      "zh": "等鞦韆停下來再跳下來。",
+      "ipa": "/wet ənˈtɪl ðə swɪŋ stɑps bɪˈfɔr ju dʒʌmp ɔf/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        },
+        {
+          "w": "jump off",
+          "pos": "phr.",
+          "ipa": "/dʒʌmp ɔf/",
+          "zh": "跳下"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-6",
+      "date": "2026-09-24",
+      "category": "school",
+      "en": "Did you remember to give your teacher the note?",
+      "zh": "你有記得把紙條交給老師嗎？",
+      "ipa": "/dɪd ju rɪˈmɛmbɚ tu ɡɪv jʊr ˈtitʃɚ ðə not/",
+      "vocab": [
+        {
+          "w": "remember",
+          "pos": "v.",
+          "ipa": "/rɪˈmɛmbɚ/",
+          "zh": "記得"
+        },
+        {
+          "w": "note",
+          "pos": "n.",
+          "ipa": "/not/",
+          "zh": "紙條、便條"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-7",
+      "date": "2026-09-24",
+      "category": "homework",
+      "en": "Line up the numbers neatly before you add them.",
+      "zh": "加起來之前，先把數字對齊寫整齊。",
+      "ipa": "/laɪn ʌp ðə ˈnʌmbɚz ˈnitlɪ bɪˈfɔr ju æd ðɛm/",
+      "vocab": [
+        {
+          "w": "line up",
+          "pos": "phr.",
+          "ipa": "/laɪn ʌp/",
+          "zh": "對齊、排好"
+        },
+        {
+          "w": "neatly",
+          "pos": "adv.",
+          "ipa": "/ˈnitlɪ/",
+          "zh": "整齊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-8",
+      "date": "2026-09-24",
+      "category": "toys-sharing",
+      "en": "Let's put the blocks in the middle so everyone can reach.",
+      "zh": "我們把積木放中間，大家都拿得到。",
+      "ipa": "/lɛts pʊt ðə blɑks ɪn ðə ˈmɪdəl so ˈɛvrɪˌwʌn kæn ritʃ/",
+      "vocab": [
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        },
+        {
+          "w": "reach",
+          "pos": "v.",
+          "ipa": "/ritʃ/",
+          "zh": "搆到、拿到"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-9",
+      "date": "2026-09-24",
+      "category": "emotions",
+      "en": "It's okay to feel nervous before something new.",
+      "zh": "面對新事物前會緊張是沒關係的。",
+      "ipa": "/ɪts oˈke tu fil ˈnɝvəs bɪˈfɔr ˈsʌmθɪŋ nu/",
+      "vocab": [
+        {
+          "w": "nervous",
+          "pos": "adj.",
+          "ipa": "/ˈnɝvəs/",
+          "zh": "緊張的"
+        },
+        {
+          "w": "something new",
+          "pos": "phr.",
+          "ipa": "/ˈsʌmθɪŋ nu/",
+          "zh": "新的事物"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-10",
+      "date": "2026-09-24",
+      "category": "discipline",
+      "en": "If you throw the sand again, we'll leave the sandbox.",
+      "zh": "如果你再丟沙子，我們就離開沙坑。",
+      "ipa": "/ɪf ju θro ðə sænd əˈɡɛn, wil liv ðə ˈsændˌbɑks/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟、扔"
+        },
+        {
+          "w": "sandbox",
+          "pos": "n.",
+          "ipa": "/ˈsændˌbɑks/",
+          "zh": "沙坑"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-11",
+      "date": "2026-09-24",
+      "category": "praise",
+      "en": "I love how carefully you colored inside the lines.",
+      "zh": "我好喜歡你這麼仔細地塗在線裡面。",
+      "ipa": "/aɪ lʌv haʊ ˈkɛrfəlɪ ju ˈkʌlɚd ɪnˈsaɪd ðə laɪnz/",
+      "vocab": [
+        {
+          "w": "carefully",
+          "pos": "adv.",
+          "ipa": "/ˈkɛrfəlɪ/",
+          "zh": "仔細地"
+        },
+        {
+          "w": "color",
+          "pos": "v.",
+          "ipa": "/ˈkʌlɚ/",
+          "zh": "塗顏色"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-12",
+      "date": "2026-09-24",
+      "category": "safety",
+      "en": "Never open the door to strangers.",
+      "zh": "絕對不要幫陌生人開門。",
+      "ipa": "/ˈnɛvɚ ˈopən ðə dɔr tu ˈstrendʒɚz/",
+      "vocab": [
+        {
+          "w": "stranger",
+          "pos": "n.",
+          "ipa": "/ˈstrendʒɚ/",
+          "zh": "陌生人"
+        },
+        {
+          "w": "open the door",
+          "pos": "phr.",
+          "ipa": "/ˈopən ðə dɔr/",
+          "zh": "開門"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-13",
+      "date": "2026-09-24",
+      "category": "health",
+      "en": "Cover your mouth with your elbow when you cough.",
+      "zh": "咳嗽時用手肘遮住嘴巴。",
+      "ipa": "/ˈkʌvɚ jʊr maʊθ wɪð jʊr ˈɛlbo hwɛn ju kɔf/",
+      "vocab": [
+        {
+          "w": "elbow",
+          "pos": "n.",
+          "ipa": "/ˈɛlbo/",
+          "zh": "手肘"
+        },
+        {
+          "w": "cough",
+          "pos": "v.",
+          "ipa": "/kɔf/",
+          "zh": "咳嗽"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-14",
+      "date": "2026-09-24",
+      "category": "relatives",
+      "en": "Let's send Grandpa a photo of your drawing.",
+      "zh": "我們把你的畫拍照傳給爺爺看。",
+      "ipa": "/lɛts sɛnd ˈɡrænˌpɑ ə ˈfoto ʌv jʊr ˈdrɔɪŋ/",
+      "vocab": [
+        {
+          "w": "photo",
+          "pos": "n.",
+          "ipa": "/ˈfoto/",
+          "zh": "照片"
+        },
+        {
+          "w": "drawing",
+          "pos": "n.",
+          "ipa": "/ˈdrɔɪŋ/",
+          "zh": "圖畫"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-15",
+      "date": "2026-09-24",
+      "category": "friends",
+      "en": "Ask your friend what game she wants to play.",
+      "zh": "問問你的朋友她想玩什麼遊戲。",
+      "ipa": "/æsk jʊr frɛnd hwɑt ɡem ʃi wɑnts tu ple/",
+      "vocab": [
+        {
+          "w": "game",
+          "pos": "n.",
+          "ipa": "/ɡem/",
+          "zh": "遊戲"
+        },
+        {
+          "w": "want to",
+          "pos": "phr.",
+          "ipa": "/wɑnt tu/",
+          "zh": "想要"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-16",
+      "date": "2026-09-24",
+      "category": "manners",
+      "en": "Wait for your turn to talk, then share your idea.",
+      "zh": "等輪到你再說，然後分享你的想法。",
+      "ipa": "/wet fɔr jʊr tɝn tu tɔk, ðɛn ʃɛr jʊr aɪˈdiə/",
+      "vocab": [
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪到的機會"
+        },
+        {
+          "w": "idea",
+          "pos": "n.",
+          "ipa": "/aɪˈdiə/",
+          "zh": "想法"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-17",
+      "date": "2026-09-24",
+      "category": "weather",
+      "en": "The leaves are changing color, fall is here.",
+      "zh": "樹葉在變色了，秋天來了。",
+      "ipa": "/ðə livz ɑr ˈtʃendʒɪŋ ˈkʌlɚ, fɔl ɪz hɪr/",
+      "vocab": [
+        {
+          "w": "leaves",
+          "pos": "n.",
+          "ipa": "/livz/",
+          "zh": "樹葉（複數）"
+        },
+        {
+          "w": "fall",
+          "pos": "n.",
+          "ipa": "/fɔl/",
+          "zh": "秋天"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-18",
+      "date": "2026-09-24",
+      "category": "screen-time",
+      "en": "Let's turn the brightness down to rest your eyes.",
+      "zh": "把亮度調低，讓眼睛休息一下。",
+      "ipa": "/lɛts tɝn ðə ˈbraɪtnɪs daʊn tu rɛst jʊr aɪz/",
+      "vocab": [
+        {
+          "w": "brightness",
+          "pos": "n.",
+          "ipa": "/ˈbraɪtnɪs/",
+          "zh": "亮度"
+        },
+        {
+          "w": "turn down",
+          "pos": "phr.",
+          "ipa": "/tɝn daʊn/",
+          "zh": "調低"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-19",
+      "date": "2026-09-24",
+      "category": "celebrations",
+      "en": "Let's hang up the lanterns for the Moon Festival.",
+      "zh": "我們來掛中秋節的燈籠吧。",
+      "ipa": "/lɛts hæŋ ʌp ðə ˈlæntɚnz fɔr ðə mun ˈfɛstəvəl/",
+      "vocab": [
+        {
+          "w": "lantern",
+          "pos": "n.",
+          "ipa": "/ˈlæntɚn/",
+          "zh": "燈籠"
+        },
+        {
+          "w": "Moon Festival",
+          "pos": "n.",
+          "ipa": "/mun ˈfɛstəvəl/",
+          "zh": "中秋節"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-20",
+      "date": "2026-09-24",
+      "category": "reading",
+      "en": "Which character in this story do you like best?",
+      "zh": "這個故事裡你最喜歡哪個角色？",
+      "ipa": "/hwɪtʃ ˈkærɪktɚ ɪn ðɪs ˈstorɪ du ju laɪk bɛst/",
+      "vocab": [
+        {
+          "w": "character",
+          "pos": "n.",
+          "ipa": "/ˈkærɪktɚ/",
+          "zh": "角色"
+        },
+        {
+          "w": "story",
+          "pos": "n.",
+          "ipa": "/ˈstorɪ/",
+          "zh": "故事"
+        }
+      ]
+    }
+  ]
+}
