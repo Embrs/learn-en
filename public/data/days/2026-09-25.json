@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-25",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-25-1",
+      "date": "2026-09-25",
+      "category": "daily-routine",
+      "en": "Put your pajamas under your pillow, please.",
+      "zh": "請把睡衣放到枕頭下面。",
+      "ipa": "/pʊt jʊr pəˈdʒæməz ˈʌndɚ jʊr ˈpɪlo, pliz/",
+      "vocab": [
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒæməz/",
+          "zh": "睡衣"
+        },
+        {
+          "w": "pillow",
+          "pos": "n.",
+          "ipa": "/ˈpɪlo/",
+          "zh": "枕頭"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-2",
+      "date": "2026-09-25",
+      "category": "meals",
+      "en": "Would you like more rice or more soup?",
+      "zh": "你想再多吃點飯還是多喝點湯？",
+      "ipa": "/wʊd ju laɪk mɔr raɪs ɔr mɔr sup/",
+      "vocab": [
+        {
+          "w": "would you like",
+          "pos": "phr.",
+          "ipa": "/wʊd ju laɪk/",
+          "zh": "你想要…嗎"
+        },
+        {
+          "w": "soup",
+          "pos": "n.",
+          "ipa": "/sup/",
+          "zh": "湯"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-3",
+      "date": "2026-09-25",
+      "category": "bath-bedtime",
+      "en": "Let me dry your hair before you lie down.",
+      "zh": "你躺下之前，我先幫你把頭髮吹乾。",
+      "ipa": "/lɛt mi draɪ jʊr hɛr bɪˈfɔr ju laɪ daʊn/",
+      "vocab": [
+        {
+          "w": "dry",
+          "pos": "v.",
+          "ipa": "/draɪ/",
+          "zh": "弄乾、吹乾"
+        },
+        {
+          "w": "lie down",
+          "pos": "phr.",
+          "ipa": "/laɪ daʊn/",
+          "zh": "躺下"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-4",
+      "date": "2026-09-25",
+      "category": "outings",
+      "en": "Hold the map and tell me which way to go.",
+      "zh": "你拿著地圖，告訴我要往哪邊走。",
+      "ipa": "/hold ðə mæp ænd tɛl mi hwɪtʃ we tu ɡo/",
+      "vocab": [
+        {
+          "w": "map",
+          "pos": "n.",
+          "ipa": "/mæp/",
+          "zh": "地圖"
+        },
+        {
+          "w": "which way",
+          "pos": "phr.",
+          "ipa": "/hwɪtʃ we/",
+          "zh": "哪個方向"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-5",
+      "date": "2026-09-25",
+      "category": "playground",
+      "en": "Hold both ropes tight on the rope bridge.",
+      "zh": "走吊橋的時候，兩邊繩子都要抓緊。",
+      "ipa": "/hold boθ rops taɪt ɑn ðə rop brɪdʒ/",
+      "vocab": [
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "tight",
+          "pos": "adv.",
+          "ipa": "/taɪt/",
+          "zh": "緊緊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-6",
+      "date": "2026-09-25",
+      "category": "school",
+      "en": "Who did you sit next to at lunch today?",
+      "zh": "你今天午餐坐在誰旁邊？",
+      "ipa": "/hu dɪd ju sɪt nɛkst tu æt lʌntʃ təˈde/",
+      "vocab": [
+        {
+          "w": "next to",
+          "pos": "phr.",
+          "ipa": "/nɛkst tu/",
+          "zh": "在…旁邊"
+        },
+        {
+          "w": "lunch",
+          "pos": "n.",
+          "ipa": "/lʌntʃ/",
+          "zh": "午餐"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-7",
+      "date": "2026-09-25",
+      "category": "homework",
+      "en": "Read the question twice before you answer it.",
+      "zh": "回答之前，先把題目讀兩遍。",
+      "ipa": "/rid ðə ˈkwɛstʃən twaɪs bɪˈfɔr ju ˈænsɚ ɪt/",
+      "vocab": [
+        {
+          "w": "question",
+          "pos": "n.",
+          "ipa": "/ˈkwɛstʃən/",
+          "zh": "題目、問題"
+        },
+        {
+          "w": "twice",
+          "pos": "adv.",
+          "ipa": "/twaɪs/",
+          "zh": "兩次"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-8",
+      "date": "2026-09-25",
+      "category": "toys-sharing",
+      "en": "You can use the red crayon after your sister.",
+      "zh": "姊姊用完之後，你就可以用紅色蠟筆。",
+      "ipa": "/ju kæn juz ðə rɛd ˈkreən ˈæftɚ jʊr ˈsɪstɚ/",
+      "vocab": [
+        {
+          "w": "crayon",
+          "pos": "n.",
+          "ipa": "/ˈkreən/",
+          "zh": "蠟筆"
+        },
+        {
+          "w": "after",
+          "pos": "prep.",
+          "ipa": "/ˈæftɚ/",
+          "zh": "在…之後"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-9",
+      "date": "2026-09-25",
+      "category": "emotions",
+      "en": "You look proud of yourself, and you should be!",
+      "zh": "你看起來很得意，你本來就該這樣！",
+      "ipa": "/ju lʊk praʊd ʌv jʊrˈsɛlf, ænd ju ʃʊd bi/",
+      "vocab": [
+        {
+          "w": "proud",
+          "pos": "adj.",
+          "ipa": "/praʊd/",
+          "zh": "驕傲的、自豪的"
+        },
+        {
+          "w": "yourself",
+          "pos": "pron.",
+          "ipa": "/jʊrˈsɛlf/",
+          "zh": "你自己"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-10",
+      "date": "2026-09-25",
+      "category": "discipline",
+      "en": "We use soft voices inside the library.",
+      "zh": "在圖書館裡我們要小聲說話。",
+      "ipa": "/wi juz sɔft ˈvɔɪsɪz ɪnˈsaɪd ðə ˈlaɪˌbrɛrɪ/",
+      "vocab": [
+        {
+          "w": "soft voice",
+          "pos": "phr.",
+          "ipa": "/sɔft vɔɪs/",
+          "zh": "輕聲、小聲"
+        },
+        {
+          "w": "library",
+          "pos": "n.",
+          "ipa": "/ˈlaɪˌbrɛrɪ/",
+          "zh": "圖書館"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-11",
+      "date": "2026-09-25",
+      "category": "praise",
+      "en": "You tied your shoelaces all by yourself today!",
+      "zh": "你今天自己一個人綁好鞋帶了耶！",
+      "ipa": "/ju taɪd jʊr ˈʃuˌlesɪz ɔl baɪ jʊrˈsɛlf təˈde/",
+      "vocab": [
+        {
+          "w": "shoelace",
+          "pos": "n.",
+          "ipa": "/ˈʃuˌles/",
+          "zh": "鞋帶"
+        },
+        {
+          "w": "by yourself",
+          "pos": "phr.",
+          "ipa": "/baɪ jʊrˈsɛlf/",
+          "zh": "靠你自己"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-12",
+      "date": "2026-09-25",
+      "category": "safety",
+      "en": "Stay where I can see you at the night market.",
+      "zh": "在夜市裡要待在我看得到的地方。",
+      "ipa": "/ste hwɛr aɪ kæn si ju æt ðə naɪt ˈmɑrkɪt/",
+      "vocab": [
+        {
+          "w": "stay",
+          "pos": "v.",
+          "ipa": "/ste/",
+          "zh": "停留、待著"
+        },
+        {
+          "w": "night market",
+          "pos": "n.",
+          "ipa": "/naɪt ˈmɑrkɪt/",
+          "zh": "夜市"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-13",
+      "date": "2026-09-25",
+      "category": "health",
+      "en": "Tell me if your ear starts to hurt.",
+      "zh": "如果耳朵開始痛要跟我說喔。",
+      "ipa": "/tɛl mi ɪf jʊr ɪr stɑrts tu hɝt/",
+      "vocab": [
+        {
+          "w": "ear",
+          "pos": "n.",
+          "ipa": "/ɪr/",
+          "zh": "耳朵"
+        },
+        {
+          "w": "hurt",
+          "pos": "v.",
+          "ipa": "/hɝt/",
+          "zh": "疼痛"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-14",
+      "date": "2026-09-25",
+      "category": "relatives",
+      "en": "Your aunt is bringing mooncakes tonight.",
+      "zh": "阿姨今晚會帶月餅來喔。",
+      "ipa": "/jʊr ænt ɪz ˈbrɪŋɪŋ ˈmunˌkeks təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "aunt",
+          "pos": "n.",
+          "ipa": "/ænt/",
+          "zh": "阿姨、姑姑"
+        },
+        {
+          "w": "mooncake",
+          "pos": "n.",
+          "ipa": "/ˈmunˌkek/",
+          "zh": "月餅"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-15",
+      "date": "2026-09-25",
+      "category": "friends",
+      "en": "Let's invite your friend over for a playdate.",
+      "zh": "我們邀你的朋友來家裡玩吧。",
+      "ipa": "/lɛts ɪnˈvaɪt jʊr frɛnd ˈovɚ fɔr ə ˈpleˌdet/",
+      "vocab": [
+        {
+          "w": "invite over",
+          "pos": "phr.",
+          "ipa": "/ɪnˈvaɪt ˈovɚ/",
+          "zh": "邀請到家裡"
+        },
+        {
+          "w": "playdate",
+          "pos": "n.",
+          "ipa": "/ˈpleˌdet/",
+          "zh": "約好一起玩的時間"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-16",
+      "date": "2026-09-25",
+      "category": "manners",
+      "en": "Knock first before you open the bathroom door.",
+      "zh": "打開浴室門之前要先敲門。",
+      "ipa": "/nɑk fɝst bɪˈfɔr ju ˈopən ðə ˈbæθˌrum dɔr/",
+      "vocab": [
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲門"
+        },
+        {
+          "w": "bathroom",
+          "pos": "n.",
+          "ipa": "/ˈbæθˌrum/",
+          "zh": "浴室、廁所"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-17",
+      "date": "2026-09-25",
+      "category": "weather",
+      "en": "The moon is so round and bright tonight.",
+      "zh": "今晚的月亮好圓好亮。",
+      "ipa": "/ðə mun ɪz so raʊnd ænd braɪt təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "round",
+          "pos": "adj.",
+          "ipa": "/raʊnd/",
+          "zh": "圓的"
+        },
+        {
+          "w": "bright",
+          "pos": "adj.",
+          "ipa": "/braɪt/",
+          "zh": "明亮的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-18",
+      "date": "2026-09-25",
+      "category": "screen-time",
+      "en": "Let's look at the real moon instead of the tablet.",
+      "zh": "我們去看真的月亮，不要看平板了。",
+      "ipa": "/lɛts lʊk æt ðə ril mun ɪnˈstɛd ʌv ðə ˈtæblɪt/",
+      "vocab": [
+        {
+          "w": "instead of",
+          "pos": "phr.",
+          "ipa": "/ɪnˈstɛd ʌv/",
+          "zh": "而不是"
+        },
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-19",
+      "date": "2026-09-25",
+      "category": "celebrations",
+      "en": "Happy Moon Festival! Let's share a pomelo together.",
+      "zh": "中秋節快樂！我們一起分柚子吃。",
+      "ipa": "/ˈhæpɪ mun ˈfɛstəvəl! lɛts ʃɛr ə ˈpɑməlo təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "pomelo",
+          "pos": "n.",
+          "ipa": "/ˈpɑməlo/",
+          "zh": "柚子"
+        },
+        {
+          "w": "share",
+          "pos": "v.",
+          "ipa": "/ʃɛr/",
+          "zh": "分享、一起吃"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-20",
+      "date": "2026-09-25",
+      "category": "reading",
+      "en": "Let's read the story about the rabbit on the moon.",
+      "zh": "我們來讀月亮上兔子的故事。",
+      "ipa": "/lɛts rid ðə ˈstorɪ əˈbaʊt ðə ˈræbɪt ɑn ðə mun/",
+      "vocab": [
+        {
+          "w": "rabbit",
+          "pos": "n.",
+          "ipa": "/ˈræbɪt/",
+          "zh": "兔子"
+        },
+        {
+          "w": "moon",
+          "pos": "n.",
+          "ipa": "/mun/",
+          "zh": "月亮"
+        }
+      ]
+    }
+  ]
+}
