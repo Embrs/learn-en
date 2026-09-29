@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-27",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-27-1",
+      "date": "2026-09-27",
+      "category": "daily-routine",
+      "en": "Put your dirty clothes in the laundry basket.",
+      "zh": "把髒衣服放進洗衣籃裡。",
+      "ipa": "/pʊt jʊr ˈdɝtɪ kloz ɪn ðə ˈlɔndrɪ ˈbæskɪt/",
+      "vocab": [
+        {
+          "w": "dirty",
+          "pos": "adj.",
+          "ipa": "/ˈdɝtɪ/",
+          "zh": "髒的"
+        },
+        {
+          "w": "laundry basket",
+          "pos": "n.",
+          "ipa": "/ˈlɔndrɪ ˈbæskɪt/",
+          "zh": "洗衣籃"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-2",
+      "date": "2026-09-27",
+      "category": "meals",
+      "en": "Can you help me set the table for dinner?",
+      "zh": "你可以幫我擺碗筷準備吃晚餐嗎？",
+      "ipa": "/kæn ju hɛlp mi sɛt ðə ˈtebl̩ fɔr ˈdɪnɚ/",
+      "vocab": [
+        {
+          "w": "set the table",
+          "pos": "phr.",
+          "ipa": "/sɛt ðə ˈtebl̩/",
+          "zh": "擺餐具"
+        },
+        {
+          "w": "dinner",
+          "pos": "n.",
+          "ipa": "/ˈdɪnɚ/",
+          "zh": "晚餐"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-3",
+      "date": "2026-09-27",
+      "category": "bath-bedtime",
+      "en": "Pick one song, and then it's lights out.",
+      "zh": "選一首歌，唱完就關燈囉。",
+      "ipa": "/pɪk wʌn sɔŋ, ænd ðɛn ɪts laɪts aʊt/",
+      "vocab": [
+        {
+          "w": "pick",
+          "pos": "v.",
+          "ipa": "/pɪk/",
+          "zh": "挑選"
+        },
+        {
+          "w": "lights out",
+          "pos": "phr.",
+          "ipa": "/laɪts aʊt/",
+          "zh": "熄燈"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-4",
+      "date": "2026-09-27",
+      "category": "outings",
+      "en": "Stay right next to me in the parking lot.",
+      "zh": "在停車場要緊緊待在我旁邊。",
+      "ipa": "/ste raɪt nɛkst tə mi ɪn ðə ˈpɑrkɪŋ lɑt/",
+      "vocab": [
+        {
+          "w": "next to",
+          "pos": "phr.",
+          "ipa": "/nɛkst tə/",
+          "zh": "在…旁邊"
+        },
+        {
+          "w": "parking lot",
+          "pos": "n.",
+          "ipa": "/ˈpɑrkɪŋ lɑt/",
+          "zh": "停車場"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-5",
+      "date": "2026-09-27",
+      "category": "playground",
+      "en": "Let's see how high you can climb on the rope.",
+      "zh": "我們來看看你可以沿著繩子爬多高。",
+      "ipa": "/lɛts si haʊ haɪ ju kæn klaɪm ɑn ðə rop/",
+      "vocab": [
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "爬"
+        },
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-6",
+      "date": "2026-09-27",
+      "category": "school",
+      "en": "Which song did your class sing this morning?",
+      "zh": "你們班今天早上唱了哪首歌？",
+      "ipa": "/wɪtʃ sɔŋ dɪd jʊr klæs sɪŋ ðɪs ˈmɔrnɪŋ/",
+      "vocab": [
+        {
+          "w": "class",
+          "pos": "n.",
+          "ipa": "/klæs/",
+          "zh": "班級"
+        },
+        {
+          "w": "sing",
+          "pos": "v.",
+          "ipa": "/sɪŋ/",
+          "zh": "唱歌"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-7",
+      "date": "2026-09-27",
+      "category": "homework",
+      "en": "Let's count the apples together: one, two, three.",
+      "zh": "我們一起數蘋果：一、二、三。",
+      "ipa": "/lɛts kaʊnt ði ˈæpl̩z təˈɡɛðɚ: wʌn, tu, θri/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數、計算"
+        },
+        {
+          "w": "together",
+          "pos": "adv.",
+          "ipa": "/təˈɡɛðɚ/",
+          "zh": "一起"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-8",
+      "date": "2026-09-27",
+      "category": "toys-sharing",
+      "en": "Your sister can build the tower with you.",
+      "zh": "妹妹可以跟你一起蓋高塔。",
+      "ipa": "/jʊr ˈsɪstɚ kæn bɪld ðə ˈtaʊɚ wɪð ju/",
+      "vocab": [
+        {
+          "w": "build",
+          "pos": "v.",
+          "ipa": "/bɪld/",
+          "zh": "蓋、建造"
+        },
+        {
+          "w": "tower",
+          "pos": "n.",
+          "ipa": "/ˈtaʊɚ/",
+          "zh": "塔"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-9",
+      "date": "2026-09-27",
+      "category": "emotions",
+      "en": "Do you want a hug or some quiet time?",
+      "zh": "你想要抱抱，還是想自己安靜一下？",
+      "ipa": "/du ju wɑnt ə hʌɡ ɔr sʌm ˈkwaɪət taɪm/",
+      "vocab": [
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        },
+        {
+          "w": "quiet",
+          "pos": "adj.",
+          "ipa": "/ˈkwaɪət/",
+          "zh": "安靜的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-10",
+      "date": "2026-09-27",
+      "category": "discipline",
+      "en": "Toys go back on the shelf before we leave.",
+      "zh": "出門前，玩具要放回架子上。",
+      "ipa": "/tɔɪz ɡo bæk ɑn ðə ʃɛlf bɪˈfɔr wi liv/",
+      "vocab": [
+        {
+          "w": "shelf",
+          "pos": "n.",
+          "ipa": "/ʃɛlf/",
+          "zh": "架子"
+        },
+        {
+          "w": "go back",
+          "pos": "phr.",
+          "ipa": "/ɡo bæk/",
+          "zh": "放回、回去"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-11",
+      "date": "2026-09-27",
+      "category": "praise",
+      "en": "What a kind thing to do for your brother!",
+      "zh": "你為弟弟做了一件好貼心的事！",
+      "ipa": "/wɑt ə kaɪnd θɪŋ tə du fɔr jʊr ˈbrʌðɚ/",
+      "vocab": [
+        {
+          "w": "kind",
+          "pos": "adj.",
+          "ipa": "/kaɪnd/",
+          "zh": "體貼的、善良的"
+        },
+        {
+          "w": "brother",
+          "pos": "n.",
+          "ipa": "/ˈbrʌðɚ/",
+          "zh": "兄弟"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-12",
+      "date": "2026-09-27",
+      "category": "safety",
+      "en": "Don't touch the oven; it's still hot.",
+      "zh": "不要碰烤箱，它還很燙。",
+      "ipa": "/dont tʌtʃ ði ˈʌvən; ɪts stɪl hɑt/",
+      "vocab": [
+        {
+          "w": "oven",
+          "pos": "n.",
+          "ipa": "/ˈʌvən/",
+          "zh": "烤箱"
+        },
+        {
+          "w": "still",
+          "pos": "adv.",
+          "ipa": "/stɪl/",
+          "zh": "仍然、還"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-13",
+      "date": "2026-09-27",
+      "category": "health",
+      "en": "Sip some warm water to soothe your throat.",
+      "zh": "喝點溫水，讓喉嚨舒服一點。",
+      "ipa": "/sɪp sʌm wɔrm ˈwɔtɚ tə suð jʊr θrot/",
+      "vocab": [
+        {
+          "w": "soothe",
+          "pos": "v.",
+          "ipa": "/suð/",
+          "zh": "舒緩"
+        },
+        {
+          "w": "throat",
+          "pos": "n.",
+          "ipa": "/θrot/",
+          "zh": "喉嚨"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-14",
+      "date": "2026-09-27",
+      "category": "relatives",
+      "en": "Let's video call Grandma and say hello.",
+      "zh": "我們來跟奶奶視訊，跟她打聲招呼。",
+      "ipa": "/lɛts ˈvɪdɪˌo kɔl ˈɡrænmɑ ænd se həˈlo/",
+      "vocab": [
+        {
+          "w": "video call",
+          "pos": "phr.",
+          "ipa": "/ˈvɪdɪˌo kɔl/",
+          "zh": "視訊通話"
+        },
+        {
+          "w": "say hello",
+          "pos": "phr.",
+          "ipa": "/se həˈlo/",
+          "zh": "打招呼"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-15",
+      "date": "2026-09-27",
+      "category": "friends",
+      "en": "Your friend looks sad; maybe you can cheer her up.",
+      "zh": "你朋友看起來很難過，也許你可以逗她開心。",
+      "ipa": "/jʊr frɛnd lʊks sæd; ˈmebɪ ju kæn tʃɪr hɝ ʌp/",
+      "vocab": [
+        {
+          "w": "cheer up",
+          "pos": "phr.",
+          "ipa": "/tʃɪr ʌp/",
+          "zh": "使振作、逗開心"
+        },
+        {
+          "w": "maybe",
+          "pos": "adv.",
+          "ipa": "/ˈmebɪ/",
+          "zh": "也許"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-16",
+      "date": "2026-09-27",
+      "category": "manners",
+      "en": "Say \"excuse me\" when you need to get by.",
+      "zh": "要借過的時候，要說「不好意思」。",
+      "ipa": "/se ɪkˈskjuz mi wɛn ju nid tə ɡɛt baɪ/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "不好意思、借過"
+        },
+        {
+          "w": "get by",
+          "pos": "phr.",
+          "ipa": "/ɡɛt baɪ/",
+          "zh": "通過"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-17",
+      "date": "2026-09-27",
+      "category": "weather",
+      "en": "It's foggy outside, so we'll drive slowly.",
+      "zh": "外面起霧了，所以我們會開慢一點。",
+      "ipa": "/ɪts ˈfɑɡɪ ˈaʊtˈsaɪd, so wil draɪv ˈslolɪ/",
+      "vocab": [
+        {
+          "w": "foggy",
+          "pos": "adj.",
+          "ipa": "/ˈfɑɡɪ/",
+          "zh": "有霧的"
+        },
+        {
+          "w": "slowly",
+          "pos": "adv.",
+          "ipa": "/ˈslolɪ/",
+          "zh": "慢慢地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-18",
+      "date": "2026-09-27",
+      "category": "screen-time",
+      "en": "Let's play a board game instead of the tablet.",
+      "zh": "我們來玩桌遊，先不要玩平板。",
+      "ipa": "/lɛts ple ə bord ɡem ɪnˈstɛd əv ðə ˈtæblɪt/",
+      "vocab": [
+        {
+          "w": "board game",
+          "pos": "n.",
+          "ipa": "/bord ɡem/",
+          "zh": "桌遊"
+        },
+        {
+          "w": "instead of",
+          "pos": "phr.",
+          "ipa": "/ɪnˈstɛd əv/",
+          "zh": "代替、而不是"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-19",
+      "date": "2026-09-27",
+      "category": "celebrations",
+      "en": "Help me blow up the balloons for the party.",
+      "zh": "幫我把派對要用的氣球吹起來。",
+      "ipa": "/hɛlp mi blo ʌp ðə bəˈlunz fɔr ðə ˈpɑrtɪ/",
+      "vocab": [
+        {
+          "w": "blow up",
+          "pos": "phr.",
+          "ipa": "/blo ʌp/",
+          "zh": "吹脹"
+        },
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-20",
+      "date": "2026-09-27",
+      "category": "reading",
+      "en": "Point to the picture of the little bear.",
+      "zh": "指給我看小熊的圖在哪裡。",
+      "ipa": "/pɔɪnt tə ðə ˈpɪktʃɚ əv ðə ˈlɪtl̩ bɛr/",
+      "vocab": [
+        {
+          "w": "point to",
+          "pos": "phr.",
+          "ipa": "/pɔɪnt tə/",
+          "zh": "指向"
+        },
+        {
+          "w": "picture",
+          "pos": "n.",
+          "ipa": "/ˈpɪktʃɚ/",
+          "zh": "圖片"
+        }
+      ]
+    }
+  ]
+}

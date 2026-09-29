@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-26",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-26-1",
+      "date": "2026-09-26",
+      "category": "daily-routine",
+      "en": "Let's open the curtains and say good morning to the sun.",
+      "zh": "我們拉開窗簾，跟太陽說早安。",
+      "ipa": "/lɛts ˈopən ðə ˈkɝtn̩z ænd se ɡʊd ˈmɔrnɪŋ tə ðə sʌn/",
+      "vocab": [
+        {
+          "w": "curtain",
+          "pos": "n.",
+          "ipa": "/ˈkɝtn̩/",
+          "zh": "窗簾"
+        },
+        {
+          "w": "good morning",
+          "pos": "phr.",
+          "ipa": "/ɡʊd ˈmɔrnɪŋ/",
+          "zh": "早安"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-2",
+      "date": "2026-09-26",
+      "category": "meals",
+      "en": "Please blow on your soup before you sip it.",
+      "zh": "喝湯之前先吹一吹喔。",
+      "ipa": "/pliz blo ɑn jʊr sup bɪˈfɔr ju sɪp ɪt/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "sip",
+          "pos": "v.",
+          "ipa": "/sɪp/",
+          "zh": "小口喝、啜飲"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-3",
+      "date": "2026-09-26",
+      "category": "bath-bedtime",
+      "en": "Close your eyes and tell me your favorite part of today.",
+      "zh": "閉上眼睛，告訴我今天你最喜歡的是哪一段。",
+      "ipa": "/kloz jʊr aɪz ænd tɛl mi jʊr ˈfevərɪt pɑrt əv təˈde/",
+      "vocab": [
+        {
+          "w": "close your eyes",
+          "pos": "phr.",
+          "ipa": "/kloz jʊr aɪz/",
+          "zh": "閉上眼睛"
+        },
+        {
+          "w": "favorite",
+          "pos": "adj.",
+          "ipa": "/ˈfevərɪt/",
+          "zh": "最喜歡的"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-4",
+      "date": "2026-09-26",
+      "category": "outings",
+      "en": "Hold the shopping cart while I grab the milk.",
+      "zh": "我拿牛奶的時候，你幫忙扶著購物車。",
+      "ipa": "/hold ðə ˈʃɑpɪŋ kɑrt waɪl aɪ ɡræb ðə mɪlk/",
+      "vocab": [
+        {
+          "w": "shopping cart",
+          "pos": "n.",
+          "ipa": "/ˈʃɑpɪŋ kɑrt/",
+          "zh": "購物車"
+        },
+        {
+          "w": "grab",
+          "pos": "v.",
+          "ipa": "/ɡræb/",
+          "zh": "抓、拿"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-5",
+      "date": "2026-09-26",
+      "category": "playground",
+      "en": "Wait for the swing to stop before you get off.",
+      "zh": "等鞦韆停下來再下來喔。",
+      "ipa": "/wet fɔr ðə swɪŋ tə stɑp bɪˈfɔr ju ɡɛt ɔf/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        },
+        {
+          "w": "get off",
+          "pos": "phr.",
+          "ipa": "/ɡɛt ɔf/",
+          "zh": "下來、離開"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-6",
+      "date": "2026-09-26",
+      "category": "school",
+      "en": "Did you remember to bring your water bottle home?",
+      "zh": "你有記得把水壺帶回家嗎？",
+      "ipa": "/dɪd ju rɪˈmɛmbɚ tə brɪŋ jʊr ˈwɔtɚ ˈbɑtl̩ hom/",
+      "vocab": [
+        {
+          "w": "remember",
+          "pos": "v.",
+          "ipa": "/rɪˈmɛmbɚ/",
+          "zh": "記得"
+        },
+        {
+          "w": "water bottle",
+          "pos": "n.",
+          "ipa": "/ˈwɔtɚ ˈbɑtl̩/",
+          "zh": "水壺"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-7",
+      "date": "2026-09-26",
+      "category": "homework",
+      "en": "Sound out the word slowly, one letter at a time.",
+      "zh": "慢慢把這個字拼唸出來，一次唸一個字母。",
+      "ipa": "/saʊnd aʊt ðə wɝd ˈslolɪ, wʌn ˈlɛtɚ æt ə taɪm/",
+      "vocab": [
+        {
+          "w": "sound out",
+          "pos": "phr.",
+          "ipa": "/saʊnd aʊt/",
+          "zh": "拼讀出來"
+        },
+        {
+          "w": "letter",
+          "pos": "n.",
+          "ipa": "/ˈlɛtɚ/",
+          "zh": "字母"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-8",
+      "date": "2026-09-26",
+      "category": "toys-sharing",
+      "en": "Let's set a timer so everyone gets a turn.",
+      "zh": "我們設個計時器，讓每個人都輪得到。",
+      "ipa": "/lɛts sɛt ə ˈtaɪmɚ so ˈɛvrɪˌwʌn ɡɛts ə tɝn/",
+      "vocab": [
+        {
+          "w": "timer",
+          "pos": "n.",
+          "ipa": "/ˈtaɪmɚ/",
+          "zh": "計時器"
+        },
+        {
+          "w": "get a turn",
+          "pos": "phr.",
+          "ipa": "/ɡɛt ə tɝn/",
+          "zh": "輪到"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-9",
+      "date": "2026-09-26",
+      "category": "emotions",
+      "en": "Tell me which part feels scary, and we'll figure it out.",
+      "zh": "告訴我哪個部分讓你害怕，我們一起想辦法。",
+      "ipa": "/tɛl mi wɪtʃ pɑrt filz ˈskɛrɪ, ænd wil ˈfɪɡjɚ ɪt aʊt/",
+      "vocab": [
+        {
+          "w": "scary",
+          "pos": "adj.",
+          "ipa": "/ˈskɛrɪ/",
+          "zh": "可怕的"
+        },
+        {
+          "w": "figure out",
+          "pos": "phr.",
+          "ipa": "/ˈfɪɡjɚ aʊt/",
+          "zh": "想出辦法"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-10",
+      "date": "2026-09-26",
+      "category": "discipline",
+      "en": "We use gentle hands with the kitty.",
+      "zh": "我們摸貓咪要輕輕的。",
+      "ipa": "/wi juz ˈdʒɛntl̩ hændz wɪð ðə ˈkɪtɪ/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl̩/",
+          "zh": "溫柔的、輕柔的"
+        },
+        {
+          "w": "kitty",
+          "pos": "n.",
+          "ipa": "/ˈkɪtɪ/",
+          "zh": "小貓咪"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-11",
+      "date": "2026-09-26",
+      "category": "praise",
+      "en": "You kept trying, and now you can do it!",
+      "zh": "你一直努力嘗試，現在你做到了！",
+      "ipa": "/ju kɛpt ˈtraɪɪŋ, ænd naʊ ju kæn du ɪt/",
+      "vocab": [
+        {
+          "w": "keep trying",
+          "pos": "phr.",
+          "ipa": "/kip ˈtraɪɪŋ/",
+          "zh": "持續嘗試"
+        },
+        {
+          "w": "can do it",
+          "pos": "phr.",
+          "ipa": "/kæn du ɪt/",
+          "zh": "做得到"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-12",
+      "date": "2026-09-26",
+      "category": "safety",
+      "en": "Always hold the railing when you go downstairs.",
+      "zh": "下樓梯的時候一定要扶著欄杆。",
+      "ipa": "/ˈɔlwez hold ðə ˈrelɪŋ wɛn ju ɡo ˈdaʊnˈstɛrz/",
+      "vocab": [
+        {
+          "w": "railing",
+          "pos": "n.",
+          "ipa": "/ˈrelɪŋ/",
+          "zh": "欄杆、扶手"
+        },
+        {
+          "w": "downstairs",
+          "pos": "adv.",
+          "ipa": "/ˈdaʊnˈstɛrz/",
+          "zh": "往樓下"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-13",
+      "date": "2026-09-26",
+      "category": "health",
+      "en": "Let's put a bandage on that little scrape.",
+      "zh": "我們在那個小擦傷上貼個 OK 繃。",
+      "ipa": "/lɛts pʊt ə ˈbændɪdʒ ɑn ðæt ˈlɪtl̩ skrep/",
+      "vocab": [
+        {
+          "w": "bandage",
+          "pos": "n.",
+          "ipa": "/ˈbændɪdʒ/",
+          "zh": "OK 繃、繃帶"
+        },
+        {
+          "w": "scrape",
+          "pos": "n.",
+          "ipa": "/skrep/",
+          "zh": "擦傷"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-14",
+      "date": "2026-09-26",
+      "category": "relatives",
+      "en": "Grandpa is coming over for dinner tonight.",
+      "zh": "爺爺今天晚上要來吃晚餐喔。",
+      "ipa": "/ˈɡrænpɑ ɪz ˈkʌmɪŋ ˈovɚ fɔr ˈdɪnɚ təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "come over",
+          "pos": "phr.",
+          "ipa": "/kʌm ˈovɚ/",
+          "zh": "過來（拜訪）"
+        },
+        {
+          "w": "tonight",
+          "pos": "adv.",
+          "ipa": "/təˈnaɪt/",
+          "zh": "今晚"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-15",
+      "date": "2026-09-26",
+      "category": "friends",
+      "en": "Why don't you ask Leo if he wants to play?",
+      "zh": "你要不要問問 Leo 想不想一起玩？",
+      "ipa": "/waɪ dont ju æsk ˈlio ɪf hi wɑnts tə ple/",
+      "vocab": [
+        {
+          "w": "why don't you",
+          "pos": "phr.",
+          "ipa": "/waɪ dont ju/",
+          "zh": "你何不…"
+        },
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "問"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-16",
+      "date": "2026-09-26",
+      "category": "manners",
+      "en": "Please knock before you open the door.",
+      "zh": "開門之前請先敲門。",
+      "ipa": "/pliz nɑk bɪˈfɔr ju ˈopən ðə dor/",
+      "vocab": [
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲（門）"
+        },
+        {
+          "w": "before",
+          "pos": "conj.",
+          "ipa": "/bɪˈfɔr/",
+          "zh": "在…之前"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-17",
+      "date": "2026-09-26",
+      "category": "weather",
+      "en": "The wind is strong, so zip up your jacket.",
+      "zh": "風很大，把外套拉鍊拉起來。",
+      "ipa": "/ðə wɪnd ɪz strɔŋ, so zɪp ʌp jʊr ˈdʒækɪt/",
+      "vocab": [
+        {
+          "w": "zip up",
+          "pos": "phr.",
+          "ipa": "/zɪp ʌp/",
+          "zh": "拉上拉鍊"
+        },
+        {
+          "w": "jacket",
+          "pos": "n.",
+          "ipa": "/ˈdʒækɪt/",
+          "zh": "外套"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-18",
+      "date": "2026-09-26",
+      "category": "screen-time",
+      "en": "When the show ends, we turn off the TV.",
+      "zh": "節目一結束，我們就關電視。",
+      "ipa": "/wɛn ðə ʃo ɛndz, wi tɝn ɔf ðə ˈtiˈvi/",
+      "vocab": [
+        {
+          "w": "show",
+          "pos": "n.",
+          "ipa": "/ʃo/",
+          "zh": "節目"
+        },
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-19",
+      "date": "2026-09-26",
+      "category": "celebrations",
+      "en": "Let's make a card for Mommy's birthday.",
+      "zh": "我們來幫媽咪做一張生日卡片。",
+      "ipa": "/lɛts mek ə kɑrd fɔr ˈmɑmɪz ˈbɝθˌde/",
+      "vocab": [
+        {
+          "w": "card",
+          "pos": "n.",
+          "ipa": "/kɑrd/",
+          "zh": "卡片"
+        },
+        {
+          "w": "birthday",
+          "pos": "n.",
+          "ipa": "/ˈbɝθˌde/",
+          "zh": "生日"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-20",
+      "date": "2026-09-26",
+      "category": "reading",
+      "en": "Which animal in this story is the bravest?",
+      "zh": "這個故事裡，哪隻動物最勇敢？",
+      "ipa": "/wɪtʃ ˈænəml̩ ɪn ðɪs ˈstorɪ ɪz ðə ˈbrevɪst/",
+      "vocab": [
+        {
+          "w": "animal",
+          "pos": "n.",
+          "ipa": "/ˈænəml̩/",
+          "zh": "動物"
+        },
+        {
+          "w": "bravest",
+          "pos": "adj.",
+          "ipa": "/ˈbrevɪst/",
+          "zh": "最勇敢的"
+        }
+      ]
+    }
+  ]
+}

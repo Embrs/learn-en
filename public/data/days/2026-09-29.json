@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-29",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-29-1",
+      "date": "2026-09-29",
+      "category": "daily-routine",
+      "en": "Slippers on, please; the floor is cold.",
+      "zh": "請穿上拖鞋，地板很冰喔。",
+      "ipa": "/ˈslɪpɚz ɑn, pliz; ðə flor ɪz kold/",
+      "vocab": [
+        {
+          "w": "slippers",
+          "pos": "n.",
+          "ipa": "/ˈslɪpɚz/",
+          "zh": "室內拖鞋"
+        },
+        {
+          "w": "floor",
+          "pos": "n.",
+          "ipa": "/flor/",
+          "zh": "地板"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-2",
+      "date": "2026-09-29",
+      "category": "meals",
+      "en": "Chew slowly, and don't talk with food in your mouth.",
+      "zh": "慢慢嚼，嘴裡有東西的時候不要說話。",
+      "ipa": "/tʃu ˈslolɪ, ænd dont tɔk wɪð fud ɪn jʊr maʊθ/",
+      "vocab": [
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        },
+        {
+          "w": "mouth",
+          "pos": "n.",
+          "ipa": "/maʊθ/",
+          "zh": "嘴巴"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-3",
+      "date": "2026-09-29",
+      "category": "bath-bedtime",
+      "en": "Which stuffed animal is sleeping with you tonight?",
+      "zh": "今晚要哪一隻布偶陪你睡？",
+      "ipa": "/wɪtʃ stʌft ˈænəml̩ ɪz ˈslipɪŋ wɪð ju təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "stuffed animal",
+          "pos": "n.",
+          "ipa": "/stʌft ˈænəml̩/",
+          "zh": "絨毛玩偶"
+        },
+        {
+          "w": "sleep",
+          "pos": "v.",
+          "ipa": "/slip/",
+          "zh": "睡覺"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-4",
+      "date": "2026-09-29",
+      "category": "outings",
+      "en": "We're taking the bus to the museum today.",
+      "zh": "我們今天要搭公車去博物館。",
+      "ipa": "/wɪr ˈtekɪŋ ðə bʌs tə ðə mjuˈziəm təˈde/",
+      "vocab": [
+        {
+          "w": "take the bus",
+          "pos": "phr.",
+          "ipa": "/tek ðə bʌs/",
+          "zh": "搭公車"
+        },
+        {
+          "w": "museum",
+          "pos": "n.",
+          "ipa": "/mjuˈziəm/",
+          "zh": "博物館"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-5",
+      "date": "2026-09-29",
+      "category": "playground",
+      "en": "Fill the bucket with sand and flip it over.",
+      "zh": "把小桶子裝滿沙，再把它倒過來。",
+      "ipa": "/fɪl ðə ˈbʌkɪt wɪð sænd ænd flɪp ɪt ˈovɚ/",
+      "vocab": [
+        {
+          "w": "bucket",
+          "pos": "n.",
+          "ipa": "/ˈbʌkɪt/",
+          "zh": "桶子"
+        },
+        {
+          "w": "flip over",
+          "pos": "phr.",
+          "ipa": "/flɪp ˈovɚ/",
+          "zh": "翻過來"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-6",
+      "date": "2026-09-29",
+      "category": "school",
+      "en": "Tell your teacher if you need to use the bathroom.",
+      "zh": "想上廁所的話，要跟老師說喔。",
+      "ipa": "/tɛl jʊr ˈtitʃɚ ɪf ju nid tə juz ðə ˈbæθˌrum/",
+      "vocab": [
+        {
+          "w": "teacher",
+          "pos": "n.",
+          "ipa": "/ˈtitʃɚ/",
+          "zh": "老師"
+        },
+        {
+          "w": "bathroom",
+          "pos": "n.",
+          "ipa": "/ˈbæθˌrum/",
+          "zh": "廁所"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-7",
+      "date": "2026-09-29",
+      "category": "homework",
+      "en": "Write your name at the top of the page.",
+      "zh": "把你的名字寫在這一頁最上面。",
+      "ipa": "/raɪt jʊr nem æt ðə tɑp əv ðə pedʒ/",
+      "vocab": [
+        {
+          "w": "write",
+          "pos": "v.",
+          "ipa": "/raɪt/",
+          "zh": "寫"
+        },
+        {
+          "w": "top",
+          "pos": "n.",
+          "ipa": "/tɑp/",
+          "zh": "頂端、最上面"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-8",
+      "date": "2026-09-29",
+      "category": "toys-sharing",
+      "en": "Let's put all the blocks back in the bin.",
+      "zh": "我們把積木全部收回箱子裡。",
+      "ipa": "/lɛts pʊt ɔl ðə blɑks bæk ɪn ðə bɪn/",
+      "vocab": [
+        {
+          "w": "blocks",
+          "pos": "n.",
+          "ipa": "/blɑks/",
+          "zh": "積木"
+        },
+        {
+          "w": "bin",
+          "pos": "n.",
+          "ipa": "/bɪn/",
+          "zh": "收納箱"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-9",
+      "date": "2026-09-29",
+      "category": "emotions",
+      "en": "You can tell me when you're ready to talk.",
+      "zh": "等你準備好想說了，再告訴我就好。",
+      "ipa": "/ju kæn tɛl mi wɛn jʊr ˈrɛdɪ tə tɔk/",
+      "vocab": [
+        {
+          "w": "ready",
+          "pos": "adj.",
+          "ipa": "/ˈrɛdɪ/",
+          "zh": "準備好的"
+        },
+        {
+          "w": "talk",
+          "pos": "v.",
+          "ipa": "/tɔk/",
+          "zh": "說話"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-10",
+      "date": "2026-09-29",
+      "category": "discipline",
+      "en": "Crayons are for paper, not for the wall.",
+      "zh": "蠟筆是畫在紙上的，不是畫在牆上。",
+      "ipa": "/ˈkreənz ɑr fɔr ˈpepɚ, nɑt fɔr ðə wɔl/",
+      "vocab": [
+        {
+          "w": "crayon",
+          "pos": "n.",
+          "ipa": "/ˈkreən/",
+          "zh": "蠟筆"
+        },
+        {
+          "w": "wall",
+          "pos": "n.",
+          "ipa": "/wɔl/",
+          "zh": "牆壁"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-11",
+      "date": "2026-09-29",
+      "category": "praise",
+      "en": "You were so patient while we waited in line.",
+      "zh": "剛剛排隊的時候，你好有耐心喔。",
+      "ipa": "/ju wɝ so ˈpeʃənt waɪl wi ˈwetɪd ɪn laɪn/",
+      "vocab": [
+        {
+          "w": "patient",
+          "pos": "adj.",
+          "ipa": "/ˈpeʃənt/",
+          "zh": "有耐心的"
+        },
+        {
+          "w": "wait in line",
+          "pos": "phr.",
+          "ipa": "/wet ɪn laɪn/",
+          "zh": "排隊"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-12",
+      "date": "2026-09-29",
+      "category": "safety",
+      "en": "Put on your helmet before you ride your scooter.",
+      "zh": "騎滑板車之前，要先戴上安全帽。",
+      "ipa": "/pʊt ɑn jʊr ˈhɛlmɪt bɪˈfɔr ju raɪd jʊr ˈskutɚ/",
+      "vocab": [
+        {
+          "w": "helmet",
+          "pos": "n.",
+          "ipa": "/ˈhɛlmɪt/",
+          "zh": "安全帽"
+        },
+        {
+          "w": "scooter",
+          "pos": "n.",
+          "ipa": "/ˈskutɚ/",
+          "zh": "滑板車"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-13",
+      "date": "2026-09-29",
+      "category": "health",
+      "en": "Drink some water after running around.",
+      "zh": "跑來跑去之後，要喝點水喔。",
+      "ipa": "/drɪŋk sʌm ˈwɔtɚ ˈæftɚ ˈrʌnɪŋ əˈraʊnd/",
+      "vocab": [
+        {
+          "w": "drink",
+          "pos": "v.",
+          "ipa": "/drɪŋk/",
+          "zh": "喝"
+        },
+        {
+          "w": "run around",
+          "pos": "phr.",
+          "ipa": "/rʌn əˈraʊnd/",
+          "zh": "跑來跑去"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-14",
+      "date": "2026-09-29",
+      "category": "relatives",
+      "en": "Your cousins will sleep over this weekend.",
+      "zh": "你的表哥表姊這個週末要來家裡過夜。",
+      "ipa": "/jʊr ˈkʌzn̩z wɪl slip ˈovɚ ðɪs ˈwikˈɛnd/",
+      "vocab": [
+        {
+          "w": "cousin",
+          "pos": "n.",
+          "ipa": "/ˈkʌzn̩/",
+          "zh": "表（堂）兄弟姊妹"
+        },
+        {
+          "w": "sleep over",
+          "pos": "phr.",
+          "ipa": "/slip ˈovɚ/",
+          "zh": "在別人家過夜"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-15",
+      "date": "2026-09-29",
+      "category": "friends",
+      "en": "Let's pack an extra snack to share with your friend.",
+      "zh": "我們多帶一份點心，跟你的朋友分享。",
+      "ipa": "/lɛts pæk ən ˈɛkstrə snæk tə ʃɛr wɪð jʊr frɛnd/",
+      "vocab": [
+        {
+          "w": "extra",
+          "pos": "adj.",
+          "ipa": "/ˈɛkstrə/",
+          "zh": "額外的"
+        },
+        {
+          "w": "snack",
+          "pos": "n.",
+          "ipa": "/snæk/",
+          "zh": "點心"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-16",
+      "date": "2026-09-29",
+      "category": "manners",
+      "en": "Please use your inside voice in the library.",
+      "zh": "在圖書館裡要小小聲說話喔。",
+      "ipa": "/pliz juz jʊr ˈɪnˌsaɪd vɔɪs ɪn ðə ˈlaɪˌbrɛrɪ/",
+      "vocab": [
+        {
+          "w": "inside voice",
+          "pos": "phr.",
+          "ipa": "/ˈɪnˌsaɪd vɔɪs/",
+          "zh": "室內音量、小聲說話"
+        },
+        {
+          "w": "library",
+          "pos": "n.",
+          "ipa": "/ˈlaɪˌbrɛrɪ/",
+          "zh": "圖書館"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-17",
+      "date": "2026-09-29",
+      "category": "weather",
+      "en": "The leaves are turning yellow; autumn is here.",
+      "zh": "樹葉變黃了，秋天來囉。",
+      "ipa": "/ðə livz ɑr ˈtɝnɪŋ ˈjɛlo; ˈɔtəm ɪz hɪr/",
+      "vocab": [
+        {
+          "w": "leaves",
+          "pos": "n.",
+          "ipa": "/livz/",
+          "zh": "樹葉（複數）"
+        },
+        {
+          "w": "autumn",
+          "pos": "n.",
+          "ipa": "/ˈɔtəm/",
+          "zh": "秋天"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-18",
+      "date": "2026-09-29",
+      "category": "screen-time",
+      "en": "You can watch one cartoon after your bath.",
+      "zh": "洗完澡可以看一集卡通。",
+      "ipa": "/ju kæn wɑtʃ wʌn kɑrˈtun ˈæftɚ jʊr bæθ/",
+      "vocab": [
+        {
+          "w": "cartoon",
+          "pos": "n.",
+          "ipa": "/kɑrˈtun/",
+          "zh": "卡通"
+        },
+        {
+          "w": "watch",
+          "pos": "v.",
+          "ipa": "/wɑtʃ/",
+          "zh": "看"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-19",
+      "date": "2026-09-29",
+      "category": "celebrations",
+      "en": "Let's wrap Grandma's present with shiny paper.",
+      "zh": "我們用亮亮的包裝紙把奶奶的禮物包起來。",
+      "ipa": "/lɛts ræp ˈɡrænmɑz ˈprɛznt wɪð ˈʃaɪnɪ ˈpepɚ/",
+      "vocab": [
+        {
+          "w": "wrap",
+          "pos": "v.",
+          "ipa": "/ræp/",
+          "zh": "包裝"
+        },
+        {
+          "w": "present",
+          "pos": "n.",
+          "ipa": "/ˈprɛznt/",
+          "zh": "禮物"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-20",
+      "date": "2026-09-29",
+      "category": "reading",
+      "en": "Can you find the hidden cat on this page?",
+      "zh": "你找得到這一頁藏起來的貓咪嗎？",
+      "ipa": "/kæn ju faɪnd ðə ˈhɪdn̩ kæt ɑn ðɪs pedʒ/",
+      "vocab": [
+        {
+          "w": "hidden",
+          "pos": "adj.",
+          "ipa": "/ˈhɪdn̩/",
+          "zh": "藏起來的"
+        },
+        {
+          "w": "find",
+          "pos": "v.",
+          "ipa": "/faɪnd/",
+          "zh": "找到"
+        }
+      ]
+    }
+  ]
+}

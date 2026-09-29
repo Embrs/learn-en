@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-28",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-28-1",
+      "date": "2026-09-28",
+      "category": "daily-routine",
+      "en": "Let's make your bed together before breakfast.",
+      "zh": "早餐前我們一起把床鋪好。",
+      "ipa": "/lɛts mek jʊr bɛd təˈɡɛðɚ bɪˈfɔr ˈbrɛkfəst/",
+      "vocab": [
+        {
+          "w": "make your bed",
+          "pos": "phr.",
+          "ipa": "/mek jʊr bɛd/",
+          "zh": "整理床鋪"
+        },
+        {
+          "w": "breakfast",
+          "pos": "n.",
+          "ipa": "/ˈbrɛkfəst/",
+          "zh": "早餐"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-2",
+      "date": "2026-09-28",
+      "category": "meals",
+      "en": "Try one bite of the carrot first.",
+      "zh": "先試吃一口紅蘿蔔看看。",
+      "ipa": "/traɪ wʌn baɪt əv ðə ˈkærət fɝst/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "carrot",
+          "pos": "n.",
+          "ipa": "/ˈkærət/",
+          "zh": "紅蘿蔔"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-3",
+      "date": "2026-09-28",
+      "category": "bath-bedtime",
+      "en": "Rinse the shampoo out, and keep your chin up.",
+      "zh": "把洗髮精沖掉，下巴抬高喔。",
+      "ipa": "/rɪns ðə ʃæmˈpu aʊt, ænd kip jʊr tʃɪn ʌp/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "shampoo",
+          "pos": "n.",
+          "ipa": "/ʃæmˈpu/",
+          "zh": "洗髮精"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-4",
+      "date": "2026-09-28",
+      "category": "outings",
+      "en": "Let's buy tickets and ride the little train.",
+      "zh": "我們去買票，一起搭小火車吧。",
+      "ipa": "/lɛts baɪ ˈtɪkɪts ænd raɪd ðə ˈlɪtl̩ tren/",
+      "vocab": [
+        {
+          "w": "ticket",
+          "pos": "n.",
+          "ipa": "/ˈtɪkɪt/",
+          "zh": "票"
+        },
+        {
+          "w": "ride",
+          "pos": "v.",
+          "ipa": "/raɪd/",
+          "zh": "搭乘"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-5",
+      "date": "2026-09-28",
+      "category": "playground",
+      "en": "Take turns going down the big slide.",
+      "zh": "溜大溜滑梯要輪流喔。",
+      "ipa": "/tek tɝnz ˈɡoɪŋ daʊn ðə bɪɡ slaɪd/",
+      "vocab": [
+        {
+          "w": "take turns",
+          "pos": "phr.",
+          "ipa": "/tek tɝnz/",
+          "zh": "輪流"
+        },
+        {
+          "w": "slide",
+          "pos": "n.",
+          "ipa": "/slaɪd/",
+          "zh": "溜滑梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-6",
+      "date": "2026-09-28",
+      "category": "school",
+      "en": "Hang your backpack on the hook by the door.",
+      "zh": "把書包掛在門邊的掛鉤上。",
+      "ipa": "/hæŋ jʊr ˈbækˌpæk ɑn ðə hʊk baɪ ðə dor/",
+      "vocab": [
+        {
+          "w": "backpack",
+          "pos": "n.",
+          "ipa": "/ˈbækˌpæk/",
+          "zh": "書包、背包"
+        },
+        {
+          "w": "hook",
+          "pos": "n.",
+          "ipa": "/hʊk/",
+          "zh": "掛鉤"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-7",
+      "date": "2026-09-28",
+      "category": "homework",
+      "en": "Circle the answer you think is right.",
+      "zh": "把你覺得對的答案圈起來。",
+      "ipa": "/ˈsɝkl̩ ði ˈænsɚ ju θɪŋk ɪz raɪt/",
+      "vocab": [
+        {
+          "w": "circle",
+          "pos": "v.",
+          "ipa": "/ˈsɝkl̩/",
+          "zh": "圈起來"
+        },
+        {
+          "w": "answer",
+          "pos": "n.",
+          "ipa": "/ˈænsɚ/",
+          "zh": "答案"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-8",
+      "date": "2026-09-28",
+      "category": "toys-sharing",
+      "en": "You can trade cars if you both agree.",
+      "zh": "如果你們兩個都同意，就可以交換小汽車。",
+      "ipa": "/ju kæn tred kɑrz ɪf ju boθ əˈɡri/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "agree",
+          "pos": "v.",
+          "ipa": "/əˈɡri/",
+          "zh": "同意"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-9",
+      "date": "2026-09-28",
+      "category": "emotions",
+      "en": "I can see you're frustrated; let's try again.",
+      "zh": "我看得出來你很挫折，我們再試一次。",
+      "ipa": "/aɪ kæn si jʊr ˈfrʌstretɪd; lɛts traɪ əˈɡɛn/",
+      "vocab": [
+        {
+          "w": "frustrated",
+          "pos": "adj.",
+          "ipa": "/ˈfrʌstretɪd/",
+          "zh": "挫折的"
+        },
+        {
+          "w": "try again",
+          "pos": "phr.",
+          "ipa": "/traɪ əˈɡɛn/",
+          "zh": "再試一次"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-10",
+      "date": "2026-09-28",
+      "category": "discipline",
+      "en": "We walk inside the house, no running.",
+      "zh": "在家裡要用走的，不可以跑。",
+      "ipa": "/wi wɔk ˈɪnˈsaɪd ðə haʊs, no ˈrʌnɪŋ/",
+      "vocab": [
+        {
+          "w": "inside",
+          "pos": "prep.",
+          "ipa": "/ˈɪnˈsaɪd/",
+          "zh": "在…裡面"
+        },
+        {
+          "w": "running",
+          "pos": "n.",
+          "ipa": "/ˈrʌnɪŋ/",
+          "zh": "奔跑"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-11",
+      "date": "2026-09-28",
+      "category": "praise",
+      "en": "Look how neatly you colored inside the lines!",
+      "zh": "你看你塗色塗得好整齊，都沒有超出線！",
+      "ipa": "/lʊk haʊ ˈnitlɪ ju ˈkʌlɚd ˈɪnˈsaɪd ðə laɪnz/",
+      "vocab": [
+        {
+          "w": "neatly",
+          "pos": "adv.",
+          "ipa": "/ˈnitlɪ/",
+          "zh": "整齊地"
+        },
+        {
+          "w": "color",
+          "pos": "v.",
+          "ipa": "/ˈkʌlɚ/",
+          "zh": "塗顏色"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-12",
+      "date": "2026-09-28",
+      "category": "safety",
+      "en": "Keep your fingers away from the car door.",
+      "zh": "手指要離車門遠一點。",
+      "ipa": "/kip jʊr ˈfɪŋɡɚz əˈwe frəm ðə kɑr dor/",
+      "vocab": [
+        {
+          "w": "finger",
+          "pos": "n.",
+          "ipa": "/ˈfɪŋɡɚ/",
+          "zh": "手指"
+        },
+        {
+          "w": "away from",
+          "pos": "phr.",
+          "ipa": "/əˈwe frəm/",
+          "zh": "遠離"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-13",
+      "date": "2026-09-28",
+      "category": "health",
+      "en": "Let's check your temperature with the thermometer.",
+      "zh": "我們用體溫計量一下體溫。",
+      "ipa": "/lɛts tʃɛk jʊr ˈtɛmprətʃɚ wɪð ðə θɚˈmɑmətɚ/",
+      "vocab": [
+        {
+          "w": "temperature",
+          "pos": "n.",
+          "ipa": "/ˈtɛmprətʃɚ/",
+          "zh": "體溫、溫度"
+        },
+        {
+          "w": "thermometer",
+          "pos": "n.",
+          "ipa": "/θɚˈmɑmətɚ/",
+          "zh": "體溫計"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-14",
+      "date": "2026-09-28",
+      "category": "relatives",
+      "en": "Auntie sent you a postcard from Japan.",
+      "zh": "阿姨從日本寄了一張明信片給你喔。",
+      "ipa": "/ˈæntɪ sɛnt ju ə ˈpostˌkɑrd frəm dʒəˈpæn/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈæntɪ/",
+          "zh": "阿姨"
+        },
+        {
+          "w": "postcard",
+          "pos": "n.",
+          "ipa": "/ˈpostˌkɑrd/",
+          "zh": "明信片"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-15",
+      "date": "2026-09-28",
+      "category": "friends",
+      "en": "Would you like to invite Mia over on Saturday?",
+      "zh": "你想邀請 Mia 星期六來家裡玩嗎？",
+      "ipa": "/wʊd ju laɪk tə ɪnˈvaɪt ˈmiə ˈovɚ ɑn ˈsætɚde/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "Saturday",
+          "pos": "n.",
+          "ipa": "/ˈsætɚde/",
+          "zh": "星期六"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-16",
+      "date": "2026-09-28",
+      "category": "manners",
+      "en": "Remember to push in your chair after eating.",
+      "zh": "吃完飯記得把椅子推回去。",
+      "ipa": "/rɪˈmɛmbɚ tə pʊʃ ɪn jʊr tʃɛr ˈæftɚ ˈitɪŋ/",
+      "vocab": [
+        {
+          "w": "push in",
+          "pos": "phr.",
+          "ipa": "/pʊʃ ɪn/",
+          "zh": "推進去"
+        },
+        {
+          "w": "chair",
+          "pos": "n.",
+          "ipa": "/tʃɛr/",
+          "zh": "椅子"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-17",
+      "date": "2026-09-28",
+      "category": "weather",
+      "en": "Look at the rainbow over the rooftops!",
+      "zh": "你看，屋頂上面有一道彩虹！",
+      "ipa": "/lʊk æt ðə ˈrenˌbo ˈovɚ ðə ˈrufˌtɑps/",
+      "vocab": [
+        {
+          "w": "rainbow",
+          "pos": "n.",
+          "ipa": "/ˈrenˌbo/",
+          "zh": "彩虹"
+        },
+        {
+          "w": "rooftop",
+          "pos": "n.",
+          "ipa": "/ˈrufˌtɑp/",
+          "zh": "屋頂"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-18",
+      "date": "2026-09-28",
+      "category": "screen-time",
+      "en": "Let's put the phone away during dinner.",
+      "zh": "吃晚餐的時候，我們把手機收起來。",
+      "ipa": "/lɛts pʊt ðə fon əˈwe ˈdjʊrɪŋ ˈdɪnɚ/",
+      "vocab": [
+        {
+          "w": "put away",
+          "pos": "phr.",
+          "ipa": "/pʊt əˈwe/",
+          "zh": "收起來"
+        },
+        {
+          "w": "during",
+          "pos": "prep.",
+          "ipa": "/ˈdjʊrɪŋ/",
+          "zh": "在…期間"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-19",
+      "date": "2026-09-28",
+      "category": "celebrations",
+      "en": "Let's hang the paper lanterns for the Moon Festival.",
+      "zh": "我們來掛中秋節的紙燈籠。",
+      "ipa": "/lɛts hæŋ ðə ˈpepɚ ˈlæntɚnz fɔr ðə mun ˈfɛstəvl̩/",
+      "vocab": [
+        {
+          "w": "lantern",
+          "pos": "n.",
+          "ipa": "/ˈlæntɚn/",
+          "zh": "燈籠"
+        },
+        {
+          "w": "Moon Festival",
+          "pos": "n.",
+          "ipa": "/mun ˈfɛstəvl̩/",
+          "zh": "中秋節"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-20",
+      "date": "2026-09-28",
+      "category": "reading",
+      "en": "Let's read it again, and you turn the pages.",
+      "zh": "我們再讀一次，換你來翻頁。",
+      "ipa": "/lɛts rid ɪt əˈɡɛn, ænd ju tɝn ðə ˈpedʒɪz/",
+      "vocab": [
+        {
+          "w": "turn the page",
+          "pos": "phr.",
+          "ipa": "/tɝn ðə pedʒ/",
+          "zh": "翻頁"
+        },
+        {
+          "w": "again",
+          "pos": "adv.",
+          "ipa": "/əˈɡɛn/",
+          "zh": "再一次"
+        }
+      ]
+    }
+  ]
+}
