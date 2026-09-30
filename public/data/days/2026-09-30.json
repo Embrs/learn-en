@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-30",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-09-30-1",
+      "date": "2026-09-30",
+      "category": "daily-routine",
+      "en": "Open the curtains and let the sunshine in.",
+      "zh": "把窗簾拉開，讓陽光照進來。",
+      "ipa": "/ˈopən ðə ˈkɝtn̩z ænd lɛt ðə ˈsʌnˌʃaɪn ɪn/",
+      "vocab": [
+        {
+          "w": "curtain",
+          "pos": "n.",
+          "ipa": "/ˈkɝtn̩/",
+          "zh": "窗簾"
+        },
+        {
+          "w": "sunshine",
+          "pos": "n.",
+          "ipa": "/ˈsʌnˌʃaɪn/",
+          "zh": "陽光"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-2",
+      "date": "2026-09-30",
+      "category": "meals",
+      "en": "Would you like rice or noodles for lunch?",
+      "zh": "午餐你想吃飯還是麵？",
+      "ipa": "/wʊd ju laɪk raɪs ɔr ˈnudl̩z fɔr lʌntʃ/",
+      "vocab": [
+        {
+          "w": "noodles",
+          "pos": "n.",
+          "ipa": "/ˈnudl̩z/",
+          "zh": "麵條"
+        },
+        {
+          "w": "lunch",
+          "pos": "n.",
+          "ipa": "/lʌntʃ/",
+          "zh": "午餐"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-3",
+      "date": "2026-09-30",
+      "category": "bath-bedtime",
+      "en": "Close your eyes tight so no shampoo gets in.",
+      "zh": "眼睛閉緊，洗髮精才不會跑進去。",
+      "ipa": "/kloz jʊr aɪz taɪt so no ʃæmˈpu ɡɛts ɪn/",
+      "vocab": [
+        {
+          "w": "shampoo",
+          "pos": "n.",
+          "ipa": "/ʃæmˈpu/",
+          "zh": "洗髮精"
+        },
+        {
+          "w": "tight",
+          "pos": "adv.",
+          "ipa": "/taɪt/",
+          "zh": "緊緊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-4",
+      "date": "2026-09-30",
+      "category": "outings",
+      "en": "Hold the map and help me find the zoo entrance.",
+      "zh": "拿著地圖，幫我找動物園的入口。",
+      "ipa": "/hold ðə mæp ænd hɛlp mi faɪnd ðə zu ˈɛntrəns/",
+      "vocab": [
+        {
+          "w": "map",
+          "pos": "n.",
+          "ipa": "/mæp/",
+          "zh": "地圖"
+        },
+        {
+          "w": "entrance",
+          "pos": "n.",
+          "ipa": "/ˈɛntrəns/",
+          "zh": "入口"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-5",
+      "date": "2026-09-30",
+      "category": "playground",
+      "en": "Wait until the swing stops before you get off.",
+      "zh": "等鞦韆停下來再下來。",
+      "ipa": "/wet ənˈtɪl ðə swɪŋ stɑps bɪˈfɔr ju ɡɛt ɔf/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        },
+        {
+          "w": "get off",
+          "pos": "phr.",
+          "ipa": "/ɡɛt ɔf/",
+          "zh": "下來；離開"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-6",
+      "date": "2026-09-30",
+      "category": "school",
+      "en": "Don't forget to bring your library book back today.",
+      "zh": "今天別忘了把圖書館的書帶回去還。",
+      "ipa": "/dont fɚˈɡɛt tə brɪŋ jʊr ˈlaɪˌbrɛrɪ bʊk bæk təˈde/",
+      "vocab": [
+        {
+          "w": "forget",
+          "pos": "v.",
+          "ipa": "/fɚˈɡɛt/",
+          "zh": "忘記"
+        },
+        {
+          "w": "bring back",
+          "pos": "phr.",
+          "ipa": "/brɪŋ bæk/",
+          "zh": "帶回來；歸還"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-7",
+      "date": "2026-09-30",
+      "category": "homework",
+      "en": "Count the apples with your finger, one by one.",
+      "zh": "用手指一個一個數蘋果。",
+      "ipa": "/kaʊnt ði ˈæpl̩z wɪð jʊr ˈfɪŋɡɚ, wʌn baɪ wʌn/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數；計算"
+        },
+        {
+          "w": "one by one",
+          "pos": "phr.",
+          "ipa": "/wʌn baɪ wʌn/",
+          "zh": "一個接一個"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-8",
+      "date": "2026-09-30",
+      "category": "toys-sharing",
+      "en": "Your sister can play with the puzzle after you.",
+      "zh": "你玩完之後換妹妹玩拼圖。",
+      "ipa": "/jʊr ˈsɪstɚ kæn ple wɪð ðə ˈpʌzl̩ ˈæftɚ ju/",
+      "vocab": [
+        {
+          "w": "puzzle",
+          "pos": "n.",
+          "ipa": "/ˈpʌzl̩/",
+          "zh": "拼圖"
+        },
+        {
+          "w": "sister",
+          "pos": "n.",
+          "ipa": "/ˈsɪstɚ/",
+          "zh": "姊妹"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-9",
+      "date": "2026-09-30",
+      "category": "emotions",
+      "en": "It's okay to feel nervous on the first day.",
+      "zh": "第一天會緊張是沒關係的。",
+      "ipa": "/ɪts ˈoˈke tə fil ˈnɝvəs ɑn ðə fɝst de/",
+      "vocab": [
+        {
+          "w": "nervous",
+          "pos": "adj.",
+          "ipa": "/ˈnɝvəs/",
+          "zh": "緊張的"
+        },
+        {
+          "w": "feel",
+          "pos": "v.",
+          "ipa": "/fil/",
+          "zh": "感覺"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-10",
+      "date": "2026-09-30",
+      "category": "discipline",
+      "en": "We walk inside the store; no running, please.",
+      "zh": "在店裡我們用走的，請不要跑。",
+      "ipa": "/wi wɔk ɪnˈsaɪd ðə stor; no ˈrʌnɪŋ, pliz/",
+      "vocab": [
+        {
+          "w": "store",
+          "pos": "n.",
+          "ipa": "/stor/",
+          "zh": "商店"
+        },
+        {
+          "w": "inside",
+          "pos": "prep.",
+          "ipa": "/ɪnˈsaɪd/",
+          "zh": "在…裡面"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-11",
+      "date": "2026-09-30",
+      "category": "praise",
+      "en": "Wow, you tied your shoelaces all by yourself!",
+      "zh": "哇，你自己把鞋帶綁好了！",
+      "ipa": "/waʊ, ju taɪd jʊr ˈʃuˌlesɪz ɔl baɪ jʊrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "shoelace",
+          "pos": "n.",
+          "ipa": "/ˈʃuˌles/",
+          "zh": "鞋帶"
+        },
+        {
+          "w": "by yourself",
+          "pos": "phr.",
+          "ipa": "/baɪ jʊrˈsɛlf/",
+          "zh": "靠你自己"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-12",
+      "date": "2026-09-30",
+      "category": "safety",
+      "en": "Don't touch the stove; it's still very hot.",
+      "zh": "不要碰爐子，它還很燙。",
+      "ipa": "/dont tʌtʃ ðə stov; ɪts stɪl ˈvɛrɪ hɑt/",
+      "vocab": [
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        },
+        {
+          "w": "touch",
+          "pos": "v.",
+          "ipa": "/tʌtʃ/",
+          "zh": "碰；摸"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-13",
+      "date": "2026-09-30",
+      "category": "health",
+      "en": "Cover your mouth with your elbow when you sneeze.",
+      "zh": "打噴嚏時用手肘遮住嘴巴。",
+      "ipa": "/ˈkʌvɚ jʊr maʊθ wɪð jʊr ˈɛlbo wɛn ju sniz/",
+      "vocab": [
+        {
+          "w": "elbow",
+          "pos": "n.",
+          "ipa": "/ˈɛlbo/",
+          "zh": "手肘"
+        },
+        {
+          "w": "sneeze",
+          "pos": "v.",
+          "ipa": "/sniz/",
+          "zh": "打噴嚏"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-14",
+      "date": "2026-09-30",
+      "category": "relatives",
+      "en": "Uncle Tom is coming to fix your bike.",
+      "zh": "湯姆叔叔要來幫你修腳踏車。",
+      "ipa": "/ˈʌŋkl̩ tɑm ɪz ˈkʌmɪŋ tə fɪks jʊr baɪk/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkl̩/",
+          "zh": "叔叔；舅舅"
+        },
+        {
+          "w": "fix",
+          "pos": "v.",
+          "ipa": "/fɪks/",
+          "zh": "修理"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-15",
+      "date": "2026-09-30",
+      "category": "friends",
+      "en": "Why don't you invite Mia to play tag?",
+      "zh": "你要不要邀請米亞一起玩鬼抓人？",
+      "ipa": "/waɪ dont ju ɪnˈvaɪt ˈmiə tə ple tæɡ/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "tag",
+          "pos": "n.",
+          "ipa": "/tæɡ/",
+          "zh": "鬼抓人（遊戲）"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-16",
+      "date": "2026-09-30",
+      "category": "manners",
+      "en": "Knock on the door before you come in.",
+      "zh": "進來之前要先敲門。",
+      "ipa": "/nɑk ɑn ðə dor bɪˈfɔr ju kʌm ɪn/",
+      "vocab": [
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲"
+        },
+        {
+          "w": "come in",
+          "pos": "phr.",
+          "ipa": "/kʌm ɪn/",
+          "zh": "進來"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-17",
+      "date": "2026-09-30",
+      "category": "weather",
+      "en": "It's windy today, so hold on to your hat.",
+      "zh": "今天風很大，帽子要抓好。",
+      "ipa": "/ɪts ˈwɪndɪ təˈde, so hold ɑn tə jʊr hæt/",
+      "vocab": [
+        {
+          "w": "windy",
+          "pos": "adj.",
+          "ipa": "/ˈwɪndɪ/",
+          "zh": "風大的"
+        },
+        {
+          "w": "hold on to",
+          "pos": "phr.",
+          "ipa": "/hold ɑn tu/",
+          "zh": "抓緊"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-18",
+      "date": "2026-09-30",
+      "category": "screen-time",
+      "en": "Put the phone down; dinner is on the table.",
+      "zh": "把手機放下，晚餐已經上桌了。",
+      "ipa": "/pʊt ðə fon daʊn; ˈdɪnɚ ɪz ɑn ðə ˈtebl̩/",
+      "vocab": [
+        {
+          "w": "put down",
+          "pos": "phr.",
+          "ipa": "/pʊt daʊn/",
+          "zh": "放下"
+        },
+        {
+          "w": "dinner",
+          "pos": "n.",
+          "ipa": "/ˈdɪnɚ/",
+          "zh": "晚餐"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-19",
+      "date": "2026-09-30",
+      "category": "celebrations",
+      "en": "Let's hang the paper lanterns for the festival.",
+      "zh": "我們一起把紙燈籠掛起來過節吧。",
+      "ipa": "/lɛts hæŋ ðə ˈpepɚ ˈlæntɚnz fɔr ðə ˈfɛstəvl̩/",
+      "vocab": [
+        {
+          "w": "lantern",
+          "pos": "n.",
+          "ipa": "/ˈlæntɚn/",
+          "zh": "燈籠"
+        },
+        {
+          "w": "festival",
+          "pos": "n.",
+          "ipa": "/ˈfɛstəvl̩/",
+          "zh": "節日；節慶"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-20",
+      "date": "2026-09-30",
+      "category": "reading",
+      "en": "Guess what the bear will do on the next page.",
+      "zh": "猜猜看下一頁小熊會做什麼。",
+      "ipa": "/ɡɛs wɑt ðə bɛr wɪl du ɑn ðə nɛkst pedʒ/",
+      "vocab": [
+        {
+          "w": "guess",
+          "pos": "v.",
+          "ipa": "/ɡɛs/",
+          "zh": "猜"
+        },
+        {
+          "w": "next",
+          "pos": "adj.",
+          "ipa": "/nɛkst/",
+          "zh": "下一個的"
+        }
+      ]
+    }
+  ]
+}
