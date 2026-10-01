@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-01",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-01-1",
+      "date": "2026-10-01",
+      "category": "daily-routine",
+      "en": "Fold your pajamas and put them under the pillow.",
+      "zh": "把睡衣摺好，放在枕頭底下。",
+      "ipa": "/fold jʊr pəˈdʒæməz ænd pʊt ðɛm ˈʌndɚ ðə ˈpɪlo/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/fold/",
+          "zh": "摺、折疊"
+        },
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒæməz/",
+          "zh": "睡衣"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-2",
+      "date": "2026-10-01",
+      "category": "meals",
+      "en": "Take small bites and chew slowly, okay?",
+      "zh": "小口小口吃，慢慢嚼，好嗎？",
+      "ipa": "/tek smɔl baɪts ænd tʃu ˈsloli ˈoˈke/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-3",
+      "date": "2026-10-01",
+      "category": "bath-bedtime",
+      "en": "Pick two stories, and then it's lights out.",
+      "zh": "挑兩本故事，然後就要關燈睡覺囉。",
+      "ipa": "/pɪk tu ˈstoriz ænd ðɛn ɪts laɪts aʊt/",
+      "vocab": [
+        {
+          "w": "lights out",
+          "pos": "phr.",
+          "ipa": "/laɪts aʊt/",
+          "zh": "熄燈"
+        },
+        {
+          "w": "story",
+          "pos": "n.",
+          "ipa": "/ˈstori/",
+          "zh": "故事"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-4",
+      "date": "2026-10-01",
+      "category": "outings",
+      "en": "Stay next to the cart while I grab some milk.",
+      "zh": "我拿牛奶的時候，你要待在推車旁邊喔。",
+      "ipa": "/ste nɛkst tu ðə kɑrt hwaɪl aɪ ɡræb sʌm mɪlk/",
+      "vocab": [
+        {
+          "w": "cart",
+          "pos": "n.",
+          "ipa": "/kɑrt/",
+          "zh": "購物推車"
+        },
+        {
+          "w": "grab",
+          "pos": "v.",
+          "ipa": "/ɡræb/",
+          "zh": "（快速）拿取"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-5",
+      "date": "2026-10-01",
+      "category": "playground",
+      "en": "Climb down the ladder slowly, one step at a time.",
+      "zh": "慢慢從梯子爬下來，一次一步。",
+      "ipa": "/klaɪm daʊn ðə ˈlædɚ ˈsloli wʌn stɛp æt ə taɪm/",
+      "vocab": [
+        {
+          "w": "ladder",
+          "pos": "n.",
+          "ipa": "/ˈlædɚ/",
+          "zh": "梯子"
+        },
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "爬、攀爬"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-6",
+      "date": "2026-10-01",
+      "category": "school",
+      "en": "Put your water bottle in the side pocket.",
+      "zh": "把水壺放進旁邊的側袋裡。",
+      "ipa": "/pʊt jʊr ˈwɔtɚ ˈbɑtl̩ ɪn ðə saɪd ˈpɑkɪt/",
+      "vocab": [
+        {
+          "w": "water bottle",
+          "pos": "n.",
+          "ipa": "/ˈwɔtɚ ˈbɑtl̩/",
+          "zh": "水壺"
+        },
+        {
+          "w": "pocket",
+          "pos": "n.",
+          "ipa": "/ˈpɑkɪt/",
+          "zh": "口袋"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-7",
+      "date": "2026-10-01",
+      "category": "homework",
+      "en": "Trace the dotted letters with your pencil first.",
+      "zh": "先用鉛筆把虛線字母描一遍。",
+      "ipa": "/tres ðə ˈdɑtɪd ˈlɛtɚz wɪð jʊr ˈpɛnsl̩ fɝst/",
+      "vocab": [
+        {
+          "w": "trace",
+          "pos": "v.",
+          "ipa": "/tres/",
+          "zh": "描寫、描摹"
+        },
+        {
+          "w": "dotted",
+          "pos": "adj.",
+          "ipa": "/ˈdɑtɪd/",
+          "zh": "虛線的、點狀的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-8",
+      "date": "2026-10-01",
+      "category": "toys-sharing",
+      "en": "Let's build the tower together and share the blocks.",
+      "zh": "我們一起蓋高塔，積木大家一起用。",
+      "ipa": "/lɛts bɪld ðə ˈtaʊɚ təˈɡɛðɚ ænd ʃɛr ðə blɑks/",
+      "vocab": [
+        {
+          "w": "tower",
+          "pos": "n.",
+          "ipa": "/ˈtaʊɚ/",
+          "zh": "塔"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-9",
+      "date": "2026-10-01",
+      "category": "emotions",
+      "en": "You look upset. Do you want a hug?",
+      "zh": "你看起來不太開心，要不要抱一下？",
+      "ipa": "/ju lʊk ʌpˈsɛt du ju wɑnt ə hʌɡ/",
+      "vocab": [
+        {
+          "w": "upset",
+          "pos": "adj.",
+          "ipa": "/ʌpˈsɛt/",
+          "zh": "難過的、不開心的"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-10",
+      "date": "2026-10-01",
+      "category": "discipline",
+      "en": "If you throw the toy again, it goes on the shelf.",
+      "zh": "如果你再丟玩具，它就要被收到架子上喔。",
+      "ipa": "/ɪf ju θro ðə tɔɪ əˈɡɛn ɪt ɡoz ɑn ðə ʃɛlf/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟、扔"
+        },
+        {
+          "w": "shelf",
+          "pos": "n.",
+          "ipa": "/ʃɛlf/",
+          "zh": "架子"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-11",
+      "date": "2026-10-01",
+      "category": "praise",
+      "en": "You kept trying even when it was hard. Great job!",
+      "zh": "就算很難你還是一直努力，做得好！",
+      "ipa": "/ju kɛpt ˈtraɪɪŋ ˈivən hwɛn ɪt wəz hɑrd ɡret dʒɑb/",
+      "vocab": [
+        {
+          "w": "keep trying",
+          "pos": "phr.",
+          "ipa": "/kip ˈtraɪɪŋ/",
+          "zh": "持續努力"
+        },
+        {
+          "w": "hard",
+          "pos": "adj.",
+          "ipa": "/hɑrd/",
+          "zh": "困難的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-12",
+      "date": "2026-10-01",
+      "category": "safety",
+      "en": "Never open the door for strangers, okay?",
+      "zh": "絕對不可以幫陌生人開門，知道嗎？",
+      "ipa": "/ˈnɛvɚ ˈopən ðə dor fɔr ˈstrendʒɚz ˈoˈke/",
+      "vocab": [
+        {
+          "w": "stranger",
+          "pos": "n.",
+          "ipa": "/ˈstrendʒɚ/",
+          "zh": "陌生人"
+        },
+        {
+          "w": "never",
+          "pos": "adv.",
+          "ipa": "/ˈnɛvɚ/",
+          "zh": "絕不"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-13",
+      "date": "2026-10-01",
+      "category": "health",
+      "en": "Drink some warm water; your throat will feel better.",
+      "zh": "喝點溫開水，喉嚨會比較舒服。",
+      "ipa": "/drɪŋk sʌm wɔrm ˈwɔtɚ jʊr θrot wɪl fil ˈbɛtɚ/",
+      "vocab": [
+        {
+          "w": "throat",
+          "pos": "n.",
+          "ipa": "/θrot/",
+          "zh": "喉嚨"
+        },
+        {
+          "w": "warm",
+          "pos": "adj.",
+          "ipa": "/wɔrm/",
+          "zh": "溫的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-14",
+      "date": "2026-10-01",
+      "category": "relatives",
+      "en": "Grandma made your favorite soup; let's say thank you.",
+      "zh": "奶奶煮了你最愛的湯，我們來說謝謝。",
+      "ipa": "/ˈɡrænˌmɑ med jʊr ˈfevərɪt sup lɛts se θæŋk ju/",
+      "vocab": [
+        {
+          "w": "grandma",
+          "pos": "n.",
+          "ipa": "/ˈɡrænˌmɑ/",
+          "zh": "奶奶、外婆"
+        },
+        {
+          "w": "favorite",
+          "pos": "adj.",
+          "ipa": "/ˈfevərɪt/",
+          "zh": "最喜歡的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-15",
+      "date": "2026-10-01",
+      "category": "friends",
+      "en": "Ask Leo if he wants to build sandcastles with you.",
+      "zh": "問問 Leo 要不要跟你一起堆沙堡。",
+      "ipa": "/æsk ˈlio ɪf hi wɑnts tu bɪld ˈsændˌkæsl̩z wɪð ju/",
+      "vocab": [
+        {
+          "w": "sandcastle",
+          "pos": "n.",
+          "ipa": "/ˈsændˌkæsl̩/",
+          "zh": "沙堡"
+        },
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "問、詢問"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-16",
+      "date": "2026-10-01",
+      "category": "manners",
+      "en": "Say \"excuse me\" when you need to pass by.",
+      "zh": "要經過別人旁邊時，記得說「借過」。",
+      "ipa": "/se ɪkˈskjuz mi hwɛn ju nid tu pæs baɪ/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "不好意思、借過"
+        },
+        {
+          "w": "pass by",
+          "pos": "phr.",
+          "ipa": "/pæs baɪ/",
+          "zh": "經過"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-17",
+      "date": "2026-10-01",
+      "category": "weather",
+      "en": "The leaves are falling; autumn is here!",
+      "zh": "葉子在掉了，秋天來囉！",
+      "ipa": "/ðə livz ɑr ˈfɔlɪŋ ˈɔtəm ɪz hɪr/",
+      "vocab": [
+        {
+          "w": "leaves",
+          "pos": "n.",
+          "ipa": "/livz/",
+          "zh": "葉子（複數）"
+        },
+        {
+          "w": "autumn",
+          "pos": "n.",
+          "ipa": "/ˈɔtəm/",
+          "zh": "秋天"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-18",
+      "date": "2026-10-01",
+      "category": "screen-time",
+      "en": "One more episode, and then we turn off the TV.",
+      "zh": "再看一集，然後就要關電視囉。",
+      "ipa": "/wʌn mor ˈɛpəˌsod ænd ðɛn wi tɝn ɔf ðə ˌtiˈvi/",
+      "vocab": [
+        {
+          "w": "episode",
+          "pos": "n.",
+          "ipa": "/ˈɛpəˌsod/",
+          "zh": "（節目的）一集"
+        },
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-19",
+      "date": "2026-10-01",
+      "category": "celebrations",
+      "en": "Let's draw a pumpkin card for Halloween.",
+      "zh": "我們來畫一張萬聖節的南瓜卡片吧。",
+      "ipa": "/lɛts drɔ ə ˈpʌmpkɪn kɑrd fɔr ˌhæloˈin/",
+      "vocab": [
+        {
+          "w": "pumpkin",
+          "pos": "n.",
+          "ipa": "/ˈpʌmpkɪn/",
+          "zh": "南瓜"
+        },
+        {
+          "w": "Halloween",
+          "pos": "n.",
+          "ipa": "/ˌhæloˈin/",
+          "zh": "萬聖節"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-20",
+      "date": "2026-10-01",
+      "category": "reading",
+      "en": "Can you find the little mouse on this page?",
+      "zh": "你能在這一頁找到小老鼠嗎？",
+      "ipa": "/kæn ju faɪnd ðə ˈlɪtl̩ maʊs ɑn ðɪs pedʒ/",
+      "vocab": [
+        {
+          "w": "mouse",
+          "pos": "n.",
+          "ipa": "/maʊs/",
+          "zh": "老鼠"
+        },
+        {
+          "w": "find",
+          "pos": "v.",
+          "ipa": "/faɪnd/",
+          "zh": "找到"
+        }
+      ]
+    }
+  ]
+}
