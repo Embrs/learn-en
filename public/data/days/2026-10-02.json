@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-02",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-02-1",
+      "date": "2026-10-02",
+      "category": "daily-routine",
+      "en": "Put your slippers side by side by the bed.",
+      "zh": "把拖鞋並排放在床邊。",
+      "ipa": "/pʊt jʊr ˈslɪpɚz saɪd baɪ saɪd baɪ ðə bɛd/",
+      "vocab": [
+        {
+          "w": "slippers",
+          "pos": "n.",
+          "ipa": "/ˈslɪpɚz/",
+          "zh": "拖鞋"
+        },
+        {
+          "w": "side by side",
+          "pos": "phr.",
+          "ipa": "/saɪd baɪ saɪd/",
+          "zh": "並排、肩並肩"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-2",
+      "date": "2026-10-02",
+      "category": "meals",
+      "en": "Wipe your mouth with the napkin, please.",
+      "zh": "請用餐巾擦擦嘴巴。",
+      "ipa": "/waɪp jʊr maʊθ wɪð ðə ˈnæpkɪn pliz/",
+      "vocab": [
+        {
+          "w": "wipe",
+          "pos": "v.",
+          "ipa": "/waɪp/",
+          "zh": "擦、抹"
+        },
+        {
+          "w": "napkin",
+          "pos": "n.",
+          "ipa": "/ˈnæpkɪn/",
+          "zh": "餐巾（紙）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-3",
+      "date": "2026-10-02",
+      "category": "bath-bedtime",
+      "en": "Rinse the bubbles off your hair now.",
+      "zh": "現在把頭髮上的泡泡沖掉囉。",
+      "ipa": "/rɪns ðə ˈbʌbl̩z ɔf jʊr hɛr naʊ/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "bubble",
+          "pos": "n.",
+          "ipa": "/ˈbʌbl̩/",
+          "zh": "泡泡"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-4",
+      "date": "2026-10-02",
+      "category": "outings",
+      "en": "Let's feed the ducks at the pond with these oats.",
+      "zh": "我們用這些燕麥去池塘餵鴨子吧。",
+      "ipa": "/lɛts fid ðə dʌks æt ðə pɑnd wɪð ðiz ots/",
+      "vocab": [
+        {
+          "w": "pond",
+          "pos": "n.",
+          "ipa": "/pɑnd/",
+          "zh": "池塘"
+        },
+        {
+          "w": "feed",
+          "pos": "v.",
+          "ipa": "/fid/",
+          "zh": "餵食"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-5",
+      "date": "2026-10-02",
+      "category": "playground",
+      "en": "Sit on the seesaw facing your friend, please.",
+      "zh": "請面對朋友坐在翹翹板上。",
+      "ipa": "/sɪt ɑn ðə ˈsiˌsɔ ˈfesɪŋ jʊr frɛnd pliz/",
+      "vocab": [
+        {
+          "w": "seesaw",
+          "pos": "n.",
+          "ipa": "/ˈsiˌsɔ/",
+          "zh": "翹翹板"
+        },
+        {
+          "w": "face",
+          "pos": "v.",
+          "ipa": "/fes/",
+          "zh": "面對"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-6",
+      "date": "2026-10-02",
+      "category": "school",
+      "en": "Did you hang your jacket on your hook today?",
+      "zh": "你今天有把外套掛在自己的掛鉤上嗎？",
+      "ipa": "/dɪd ju hæŋ jʊr ˈdʒækɪt ɑn jʊr hʊk təˈde/",
+      "vocab": [
+        {
+          "w": "hang",
+          "pos": "v.",
+          "ipa": "/hæŋ/",
+          "zh": "掛"
+        },
+        {
+          "w": "hook",
+          "pos": "n.",
+          "ipa": "/hʊk/",
+          "zh": "掛鉤"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-7",
+      "date": "2026-10-02",
+      "category": "homework",
+      "en": "Count the apples and write the number here.",
+      "zh": "數一數蘋果，把數字寫在這裡。",
+      "ipa": "/kaʊnt ði ˈæpl̩z ænd raɪt ðə ˈnʌmbɚ hɪr/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數、計算"
+        },
+        {
+          "w": "number",
+          "pos": "n.",
+          "ipa": "/ˈnʌmbɚ/",
+          "zh": "數字"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-8",
+      "date": "2026-10-02",
+      "category": "toys-sharing",
+      "en": "You can play with the train after your sister.",
+      "zh": "姊姊玩完之後就換你玩火車。",
+      "ipa": "/ju kæn ple wɪð ðə tren ˈæftɚ jʊr ˈsɪstɚ/",
+      "vocab": [
+        {
+          "w": "train",
+          "pos": "n.",
+          "ipa": "/tren/",
+          "zh": "火車"
+        },
+        {
+          "w": "after",
+          "pos": "prep.",
+          "ipa": "/ˈæftɚ/",
+          "zh": "在……之後"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-9",
+      "date": "2026-10-02",
+      "category": "emotions",
+      "en": "You can squeeze my hand when you feel scared.",
+      "zh": "害怕的時候可以緊緊握我的手。",
+      "ipa": "/ju kæn skwiz maɪ hænd hwɛn ju fil skɛrd/",
+      "vocab": [
+        {
+          "w": "squeeze",
+          "pos": "v.",
+          "ipa": "/skwiz/",
+          "zh": "捏、緊握"
+        },
+        {
+          "w": "scared",
+          "pos": "adj.",
+          "ipa": "/skɛrd/",
+          "zh": "害怕的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-10",
+      "date": "2026-10-02",
+      "category": "discipline",
+      "en": "We use gentle hands with the puppy.",
+      "zh": "我們對小狗要輕輕的。",
+      "ipa": "/wi juz ˈdʒɛntl̩ hændz wɪð ðə ˈpʌpi/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl̩/",
+          "zh": "溫柔的、輕柔的"
+        },
+        {
+          "w": "puppy",
+          "pos": "n.",
+          "ipa": "/ˈpʌpi/",
+          "zh": "小狗"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-11",
+      "date": "2026-10-02",
+      "category": "praise",
+      "en": "Wow, you buttoned your shirt all by yourself!",
+      "zh": "哇，你自己把襯衫扣子扣好了！",
+      "ipa": "/waʊ ju ˈbʌtn̩d jʊr ʃɝt ɔl baɪ jʊrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "button",
+          "pos": "v.",
+          "ipa": "/ˈbʌtn̩/",
+          "zh": "扣（鈕扣）"
+        },
+        {
+          "w": "by yourself",
+          "pos": "phr.",
+          "ipa": "/baɪ jʊrˈsɛlf/",
+          "zh": "靠自己、獨自"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-12",
+      "date": "2026-10-02",
+      "category": "safety",
+      "en": "Don't touch the oven; it's very hot.",
+      "zh": "不要碰烤箱，它很燙。",
+      "ipa": "/dont tʌtʃ ði ˈʌvən ɪts ˈvɛri hɑt/",
+      "vocab": [
+        {
+          "w": "oven",
+          "pos": "n.",
+          "ipa": "/ˈʌvən/",
+          "zh": "烤箱"
+        },
+        {
+          "w": "touch",
+          "pos": "v.",
+          "ipa": "/tʌtʃ/",
+          "zh": "碰、觸摸"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-13",
+      "date": "2026-10-02",
+      "category": "health",
+      "en": "Blow your nose gently and toss the tissue.",
+      "zh": "輕輕擤鼻涕，然後把衛生紙丟掉。",
+      "ipa": "/blo jʊr noz ˈdʒɛntli ænd tɔs ðə ˈtɪʃu/",
+      "vocab": [
+        {
+          "w": "blow your nose",
+          "pos": "phr.",
+          "ipa": "/blo jʊr noz/",
+          "zh": "擤鼻涕"
+        },
+        {
+          "w": "tissue",
+          "pos": "n.",
+          "ipa": "/ˈtɪʃu/",
+          "zh": "面紙、衛生紙"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-14",
+      "date": "2026-10-02",
+      "category": "relatives",
+      "en": "Your cousins are coming over for lunch on Sunday.",
+      "zh": "你的表兄弟姊妹星期天要來吃午餐喔。",
+      "ipa": "/jʊr ˈkʌzn̩z ɑr ˈkʌmɪŋ ˈovɚ fɔr lʌntʃ ɑn ˈsʌnde/",
+      "vocab": [
+        {
+          "w": "cousin",
+          "pos": "n.",
+          "ipa": "/ˈkʌzn̩/",
+          "zh": "堂／表兄弟姊妹"
+        },
+        {
+          "w": "come over",
+          "pos": "phr.",
+          "ipa": "/kʌm ˈovɚ/",
+          "zh": "過來（拜訪）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-15",
+      "date": "2026-10-02",
+      "category": "friends",
+      "en": "Ben dropped his crayon; can you pick it up for him?",
+      "zh": "班的蠟筆掉了，你可以幫他撿起來嗎？",
+      "ipa": "/bɛn drɑpt hɪz ˈkreən kæn ju pɪk ɪt ʌp fɔr hɪm/",
+      "vocab": [
+        {
+          "w": "crayon",
+          "pos": "n.",
+          "ipa": "/ˈkreən/",
+          "zh": "蠟筆"
+        },
+        {
+          "w": "pick up",
+          "pos": "phr.",
+          "ipa": "/pɪk ʌp/",
+          "zh": "撿起"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-16",
+      "date": "2026-10-02",
+      "category": "manners",
+      "en": "Wait for everyone to sit down before you start eating.",
+      "zh": "等大家都坐好再開動喔。",
+      "ipa": "/wet fɔr ˈɛvrɪˌwʌn tu sɪt daʊn bɪˈfor ju stɑrt ˈitɪŋ/",
+      "vocab": [
+        {
+          "w": "everyone",
+          "pos": "pron.",
+          "ipa": "/ˈɛvrɪˌwʌn/",
+          "zh": "每個人、大家"
+        },
+        {
+          "w": "sit down",
+          "pos": "phr.",
+          "ipa": "/sɪt daʊn/",
+          "zh": "坐下"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-17",
+      "date": "2026-10-02",
+      "category": "weather",
+      "en": "It's chilly this morning; wear your sweater.",
+      "zh": "今天早上有點涼，穿上毛衣吧。",
+      "ipa": "/ɪts ˈtʃɪli ðɪs ˈmɔrnɪŋ wɛr jʊr ˈswɛtɚ/",
+      "vocab": [
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "涼颼颼的、冷的"
+        },
+        {
+          "w": "sweater",
+          "pos": "n.",
+          "ipa": "/ˈswɛtɚ/",
+          "zh": "毛衣"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-18",
+      "date": "2026-10-02",
+      "category": "screen-time",
+      "en": "Let's put the tablet away and play outside.",
+      "zh": "我們把平板收起來，去外面玩吧。",
+      "ipa": "/lɛts pʊt ðə ˈtæblɪt əˈwe ænd ple ˌaʊtˈsaɪd/",
+      "vocab": [
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        },
+        {
+          "w": "put away",
+          "pos": "phr.",
+          "ipa": "/pʊt əˈwe/",
+          "zh": "收起來"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-19",
+      "date": "2026-10-02",
+      "category": "celebrations",
+      "en": "Let's hang paper lanterns for the Mid-Autumn Festival.",
+      "zh": "我們來掛紙燈籠過中秋節吧。",
+      "ipa": "/lɛts hæŋ ˈpepɚ ˈlæntɚnz fɔr ðə ˌmɪdˈɔtəm ˈfɛstəvl̩/",
+      "vocab": [
+        {
+          "w": "lantern",
+          "pos": "n.",
+          "ipa": "/ˈlæntɚn/",
+          "zh": "燈籠"
+        },
+        {
+          "w": "festival",
+          "pos": "n.",
+          "ipa": "/ˈfɛstəvl̩/",
+          "zh": "節日、節慶"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-20",
+      "date": "2026-10-02",
+      "category": "reading",
+      "en": "What do you think the rabbit will do next?",
+      "zh": "你覺得兔子接下來會做什麼？",
+      "ipa": "/hwɑt du ju θɪŋk ðə ˈræbɪt wɪl du nɛkst/",
+      "vocab": [
+        {
+          "w": "rabbit",
+          "pos": "n.",
+          "ipa": "/ˈræbɪt/",
+          "zh": "兔子"
+        },
+        {
+          "w": "next",
+          "pos": "adv.",
+          "ipa": "/nɛkst/",
+          "zh": "接下來"
+        }
+      ]
+    }
+  ]
+}
