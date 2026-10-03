@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-03",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-03-1",
+      "date": "2026-10-03",
+      "category": "daily-routine",
+      "en": "Fold your pajamas and tuck them under your pillow.",
+      "zh": "把睡衣摺好，塞到枕頭底下。",
+      "ipa": "/fold jʊr pəˈdʒæməz ænd tʌk ðɛm ˈʌndɚ jʊr ˈpɪlo/",
+      "vocab": [
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒæməz/",
+          "zh": "睡衣"
+        },
+        {
+          "w": "tuck",
+          "pos": "v.",
+          "ipa": "/tʌk/",
+          "zh": "塞、塞進"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-2",
+      "date": "2026-10-03",
+      "category": "meals",
+      "en": "Blow on your soup before you take a sip.",
+      "zh": "喝湯前先吹一吹。",
+      "ipa": "/blo ɑn jʊr sup bɪˈfor ju tek ə sɪp/",
+      "vocab": [
+        {
+          "w": "blow on",
+          "pos": "phr.",
+          "ipa": "/blo ɑn/",
+          "zh": "對著吹氣"
+        },
+        {
+          "w": "sip",
+          "pos": "n.",
+          "ipa": "/sɪp/",
+          "zh": "一小口"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-3",
+      "date": "2026-10-03",
+      "category": "bath-bedtime",
+      "en": "Pick a song for me to hum while you fall asleep.",
+      "zh": "選一首歌，你睡著時我哼給你聽。",
+      "ipa": "/pɪk ə sɔŋ fɔr mi tu hʌm hwaɪl ju fɔl əˈslip/",
+      "vocab": [
+        {
+          "w": "hum",
+          "pos": "v.",
+          "ipa": "/hʌm/",
+          "zh": "哼（歌）"
+        },
+        {
+          "w": "fall asleep",
+          "pos": "phr.",
+          "ipa": "/fɔl əˈslip/",
+          "zh": "睡著"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-4",
+      "date": "2026-10-03",
+      "category": "outings",
+      "en": "Let's count the red buses we pass on the way.",
+      "zh": "我們來數數路上經過幾台紅色公車。",
+      "ipa": "/lɛts kaʊnt ðə rɛd ˈbʌsɪz wi pæs ɑn ðə we/",
+      "vocab": [
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "經過"
+        },
+        {
+          "w": "on the way",
+          "pos": "phr.",
+          "ipa": "/ɑn ðə we/",
+          "zh": "在路上"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-5",
+      "date": "2026-10-03",
+      "category": "playground",
+      "en": "Hold the rope tight when you climb the net.",
+      "zh": "爬繩網的時候要緊緊抓住繩子。",
+      "ipa": "/hold ðə rop taɪt hwɛn ju klaɪm ðə nɛt/",
+      "vocab": [
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "tight",
+          "pos": "adv.",
+          "ipa": "/taɪt/",
+          "zh": "緊緊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-6",
+      "date": "2026-10-03",
+      "category": "school",
+      "en": "Remember to bring your library book back today.",
+      "zh": "記得今天要把圖書館的書帶回去還。",
+      "ipa": "/rɪˈmɛmbɚ tu brɪŋ jʊr ˈlaɪˌbrɛri bʊk bæk təˈde/",
+      "vocab": [
+        {
+          "w": "library",
+          "pos": "n.",
+          "ipa": "/ˈlaɪˌbrɛri/",
+          "zh": "圖書館"
+        },
+        {
+          "w": "bring back",
+          "pos": "phr.",
+          "ipa": "/brɪŋ bæk/",
+          "zh": "帶回來、歸還"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-7",
+      "date": "2026-10-03",
+      "category": "homework",
+      "en": "Trace the dotted lines to finish the letter.",
+      "zh": "沿著虛線描，把這個字母寫完。",
+      "ipa": "/tres ðə ˈdɑtɪd laɪnz tu ˈfɪnɪʃ ðə ˈlɛtɚ/",
+      "vocab": [
+        {
+          "w": "trace",
+          "pos": "v.",
+          "ipa": "/tres/",
+          "zh": "描、描摹"
+        },
+        {
+          "w": "dotted",
+          "pos": "adj.",
+          "ipa": "/ˈdɑtɪd/",
+          "zh": "虛線的、有點的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-8",
+      "date": "2026-10-03",
+      "category": "toys-sharing",
+      "en": "Let's build the tower together, one block each.",
+      "zh": "我們一起蓋高塔，一人放一塊積木。",
+      "ipa": "/lɛts bɪld ðə ˈtaʊɚ təˈɡɛðɚ wʌn blɑk itʃ/",
+      "vocab": [
+        {
+          "w": "tower",
+          "pos": "n.",
+          "ipa": "/ˈtaʊɚ/",
+          "zh": "塔"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-9",
+      "date": "2026-10-03",
+      "category": "emotions",
+      "en": "Take a deep breath; your tummy butterflies will settle down.",
+      "zh": "深呼吸，肚子裡緊張的感覺會慢慢平靜下來。",
+      "ipa": "/tek ə dip brɛθ jʊr ˈtʌmi ˈbʌtɚˌflaɪz wɪl ˈsɛtl̩ daʊn/",
+      "vocab": [
+        {
+          "w": "butterflies",
+          "pos": "n.",
+          "ipa": "/ˈbʌtɚˌflaɪz/",
+          "zh": "（緊張時）心裡七上八下"
+        },
+        {
+          "w": "settle down",
+          "pos": "phr.",
+          "ipa": "/ˈsɛtl̩ daʊn/",
+          "zh": "平靜下來"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-10",
+      "date": "2026-10-03",
+      "category": "discipline",
+      "en": "Shoes come off at the door, not on the sofa.",
+      "zh": "鞋子在門口脫，不可以穿到沙發上。",
+      "ipa": "/ʃuz kʌm ɔf æt ðə dor nɑt ɑn ðə ˈsofə/",
+      "vocab": [
+        {
+          "w": "come off",
+          "pos": "phr.",
+          "ipa": "/kʌm ɔf/",
+          "zh": "脫下、取下"
+        },
+        {
+          "w": "sofa",
+          "pos": "n.",
+          "ipa": "/ˈsofə/",
+          "zh": "沙發"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-11",
+      "date": "2026-10-03",
+      "category": "praise",
+      "en": "You were so patient waiting in line!",
+      "zh": "你排隊的時候好有耐心喔！",
+      "ipa": "/ju wɝ so ˈpeʃənt ˈwetɪŋ ɪn laɪn/",
+      "vocab": [
+        {
+          "w": "patient",
+          "pos": "adj.",
+          "ipa": "/ˈpeʃənt/",
+          "zh": "有耐心的"
+        },
+        {
+          "w": "wait in line",
+          "pos": "phr.",
+          "ipa": "/wet ɪn laɪn/",
+          "zh": "排隊等候"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-12",
+      "date": "2026-10-03",
+      "category": "safety",
+      "en": "Wait for me to buckle your seat belt before we drive.",
+      "zh": "等我幫你扣好安全帶，我們再出發。",
+      "ipa": "/wet fɔr mi tu ˈbʌkl̩ jʊr sit bɛlt bɪˈfor wi draɪv/",
+      "vocab": [
+        {
+          "w": "buckle",
+          "pos": "v.",
+          "ipa": "/ˈbʌkl̩/",
+          "zh": "扣上（扣環）"
+        },
+        {
+          "w": "seat belt",
+          "pos": "n.",
+          "ipa": "/sit bɛlt/",
+          "zh": "安全帶"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-13",
+      "date": "2026-10-03",
+      "category": "health",
+      "en": "Hold the thermometer under your arm for a minute.",
+      "zh": "把體溫計夾在腋下一分鐘。",
+      "ipa": "/hold ðə θɚˈmɑmətɚ ˈʌndɚ jʊr ɑrm fɔr ə ˈmɪnɪt/",
+      "vocab": [
+        {
+          "w": "thermometer",
+          "pos": "n.",
+          "ipa": "/θɚˈmɑmətɚ/",
+          "zh": "體溫計"
+        },
+        {
+          "w": "under your arm",
+          "pos": "phr.",
+          "ipa": "/ˈʌndɚ jʊr ɑrm/",
+          "zh": "在腋下"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-14",
+      "date": "2026-10-03",
+      "category": "relatives",
+      "en": "Uncle Sam is taking us fishing tomorrow.",
+      "zh": "山姆叔叔明天要帶我們去釣魚。",
+      "ipa": "/ˈʌŋkl̩ sæm ɪz ˈtekɪŋ ʌs ˈfɪʃɪŋ təˈmɑro/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkl̩/",
+          "zh": "叔叔、舅舅"
+        },
+        {
+          "w": "go fishing",
+          "pos": "phr.",
+          "ipa": "/ɡo ˈfɪʃɪŋ/",
+          "zh": "去釣魚"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-15",
+      "date": "2026-10-03",
+      "category": "friends",
+      "en": "Ask Lily if she wants to join your game.",
+      "zh": "問問莉莉要不要一起玩你們的遊戲。",
+      "ipa": "/æsk ˈlɪli ɪf ʃi wɑnts tu dʒɔɪn jʊr ɡem/",
+      "vocab": [
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        },
+        {
+          "w": "game",
+          "pos": "n.",
+          "ipa": "/ɡem/",
+          "zh": "遊戲"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-16",
+      "date": "2026-10-03",
+      "category": "manners",
+      "en": "Say \"excuse me\" when you need to squeeze past someone.",
+      "zh": "要從別人旁邊擠過去時，記得說「借過」。",
+      "ipa": "/se ɪkˈskjuz mi hwɛn ju nid tu skwiz pæst ˈsʌmˌwʌn/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "不好意思、借過"
+        },
+        {
+          "w": "squeeze past",
+          "pos": "phr.",
+          "ipa": "/skwiz pæst/",
+          "zh": "從旁邊擠過"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-17",
+      "date": "2026-10-03",
+      "category": "weather",
+      "en": "Listen to the crunchy leaves under your boots.",
+      "zh": "聽聽靴子底下踩到落葉喀滋喀滋的聲音。",
+      "ipa": "/ˈlɪsn̩ tu ðə ˈkrʌntʃi livz ˈʌndɚ jʊr buts/",
+      "vocab": [
+        {
+          "w": "crunchy",
+          "pos": "adj.",
+          "ipa": "/ˈkrʌntʃi/",
+          "zh": "脆脆的、喀滋作響的"
+        },
+        {
+          "w": "boots",
+          "pos": "n.",
+          "ipa": "/buts/",
+          "zh": "靴子"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-18",
+      "date": "2026-10-03",
+      "category": "screen-time",
+      "en": "When the timer beeps, the cartoon is over.",
+      "zh": "計時器嗶嗶響，卡通就看完囉。",
+      "ipa": "/hwɛn ðə ˈtaɪmɚ bips ðə kɑrˈtun ɪz ˈovɚ/",
+      "vocab": [
+        {
+          "w": "timer",
+          "pos": "n.",
+          "ipa": "/ˈtaɪmɚ/",
+          "zh": "計時器"
+        },
+        {
+          "w": "beep",
+          "pos": "v.",
+          "ipa": "/bip/",
+          "zh": "發出嗶嗶聲"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-19",
+      "date": "2026-10-03",
+      "category": "celebrations",
+      "en": "Let's look for the full moon tonight together.",
+      "zh": "今晚我們一起找找圓圓的月亮。",
+      "ipa": "/lɛts lʊk fɔr ðə fʊl mun təˈnaɪt təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "full moon",
+          "pos": "phr.",
+          "ipa": "/fʊl mun/",
+          "zh": "滿月"
+        },
+        {
+          "w": "tonight",
+          "pos": "adv.",
+          "ipa": "/təˈnaɪt/",
+          "zh": "今晚"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-20",
+      "date": "2026-10-03",
+      "category": "reading",
+      "en": "Let's guess what's behind the flap before we lift it.",
+      "zh": "掀開小翻頁之前，我們先猜猜後面藏了什麼。",
+      "ipa": "/lɛts ɡɛs hwɑts bɪˈhaɪnd ðə flæp bɪˈfor wi lɪft ɪt/",
+      "vocab": [
+        {
+          "w": "flap",
+          "pos": "n.",
+          "ipa": "/flæp/",
+          "zh": "翻頁、蓋片"
+        },
+        {
+          "w": "lift",
+          "pos": "v.",
+          "ipa": "/lɪft/",
+          "zh": "掀起、抬起"
+        }
+      ]
+    }
+  ]
+}
