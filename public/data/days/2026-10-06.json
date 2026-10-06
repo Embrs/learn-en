@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-06",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-06-1",
+      "date": "2026-10-06",
+      "category": "daily-routine",
+      "en": "Put your dirty socks in the laundry basket.",
+      "zh": "把髒襪子放進洗衣籃裡。",
+      "ipa": "/pʊt jʊr ˈdɝti sɑks ɪn ðə ˈlɔndri ˈbæskɪt/",
+      "vocab": [
+        {
+          "w": "laundry basket",
+          "pos": "phr.",
+          "ipa": "/ˈlɔndri ˈbæskɪt/",
+          "zh": "洗衣籃"
+        },
+        {
+          "w": "dirty",
+          "pos": "adj.",
+          "ipa": "/ˈdɝti/",
+          "zh": "髒的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-2",
+      "date": "2026-10-06",
+      "category": "meals",
+      "en": "Try one bite of the broccoli before you decide.",
+      "zh": "先吃一口花椰菜再決定喜不喜歡。",
+      "ipa": "/traɪ wʌn baɪt əv ðə ˈbrɑkəli bɪˈfɔr ju dɪˈsaɪd/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "broccoli",
+          "pos": "n.",
+          "ipa": "/ˈbrɑkəli/",
+          "zh": "綠花椰菜"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-3",
+      "date": "2026-10-06",
+      "category": "bath-bedtime",
+      "en": "Brush your teeth in little circles, top and bottom.",
+      "zh": "刷牙要小圈圈刷，上面下面都要刷到。",
+      "ipa": "/brʌʃ jʊr tiθ ɪn ˈlɪtl̩ ˈsɝklz tɑp ænd ˈbɑtəm/",
+      "vocab": [
+        {
+          "w": "brush",
+          "pos": "v.",
+          "ipa": "/brʌʃ/",
+          "zh": "刷"
+        },
+        {
+          "w": "circle",
+          "pos": "n.",
+          "ipa": "/ˈsɝkl̩/",
+          "zh": "圓圈"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-4",
+      "date": "2026-10-06",
+      "category": "outings",
+      "en": "Stay close to me in the crowded train station.",
+      "zh": "在人很多的火車站要跟緊我。",
+      "ipa": "/ste klos tu mi ɪn ðə ˈkraʊdɪd tren ˈsteʃən/",
+      "vocab": [
+        {
+          "w": "crowded",
+          "pos": "adj.",
+          "ipa": "/ˈkraʊdɪd/",
+          "zh": "擁擠的"
+        },
+        {
+          "w": "station",
+          "pos": "n.",
+          "ipa": "/ˈsteʃən/",
+          "zh": "車站"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-5",
+      "date": "2026-10-06",
+      "category": "playground",
+      "en": "Wait at the top until the slide is clear.",
+      "zh": "在上面等，等溜滑梯下面沒人再溜。",
+      "ipa": "/wet æt ðə tɑp ənˈtɪl ðə slaɪd ɪz klɪr/",
+      "vocab": [
+        {
+          "w": "slide",
+          "pos": "n.",
+          "ipa": "/slaɪd/",
+          "zh": "溜滑梯"
+        },
+        {
+          "w": "clear",
+          "pos": "adj.",
+          "ipa": "/klɪr/",
+          "zh": "淨空的、沒有障礙的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-6",
+      "date": "2026-10-06",
+      "category": "school",
+      "en": "Put your water bottle in the side pocket of your backpack.",
+      "zh": "把水壺放在書包側邊的口袋。",
+      "ipa": "/pʊt jʊr ˈwɔtɚ ˈbɑtl̩ ɪn ðə saɪd ˈpɑkɪt əv jʊr ˈbækˌpæk/",
+      "vocab": [
+        {
+          "w": "water bottle",
+          "pos": "n.",
+          "ipa": "/ˈwɔtɚ ˈbɑtl̩/",
+          "zh": "水壺"
+        },
+        {
+          "w": "pocket",
+          "pos": "n.",
+          "ipa": "/ˈpɑkɪt/",
+          "zh": "口袋"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-7",
+      "date": "2026-10-06",
+      "category": "homework",
+      "en": "Trace the dotted lines to practice the letter B.",
+      "zh": "沿著虛線描，練習寫字母 B。",
+      "ipa": "/tres ðə ˈdɑtɪd laɪnz tu ˈpræktɪs ðə ˈlɛtɚ bi/",
+      "vocab": [
+        {
+          "w": "trace",
+          "pos": "v.",
+          "ipa": "/tres/",
+          "zh": "描摹"
+        },
+        {
+          "w": "dotted line",
+          "pos": "phr.",
+          "ipa": "/ˈdɑtɪd laɪn/",
+          "zh": "虛線"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-8",
+      "date": "2026-10-06",
+      "category": "toys-sharing",
+      "en": "When you're done with the truck, can your brother have a turn?",
+      "zh": "你玩完卡車後，可以換弟弟玩嗎？",
+      "ipa": "/hwɛn jʊr dʌn wɪð ðə trʌk kæn jʊr ˈbrʌðɚ hæv ə tɝn/",
+      "vocab": [
+        {
+          "w": "be done with",
+          "pos": "phr.",
+          "ipa": "/bi dʌn wɪð/",
+          "zh": "用完、玩完"
+        },
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪流的機會"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-9",
+      "date": "2026-10-06",
+      "category": "emotions",
+      "en": "It's okay to feel nervous on your first day.",
+      "zh": "第一天會緊張是沒關係的。",
+      "ipa": "/ɪts ˈoˈke tu fil ˈnɝvəs ɑn jʊr fɝst de/",
+      "vocab": [
+        {
+          "w": "nervous",
+          "pos": "adj.",
+          "ipa": "/ˈnɝvəs/",
+          "zh": "緊張的"
+        },
+        {
+          "w": "feel",
+          "pos": "v.",
+          "ipa": "/fil/",
+          "zh": "感覺"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-10",
+      "date": "2026-10-06",
+      "category": "discipline",
+      "en": "We don't slam doors; please close it gently.",
+      "zh": "我們不甩門，請輕輕關上。",
+      "ipa": "/wi dont slæm dɔrz pliz kloz ɪt ˈdʒɛntli/",
+      "vocab": [
+        {
+          "w": "slam",
+          "pos": "v.",
+          "ipa": "/slæm/",
+          "zh": "用力關上"
+        },
+        {
+          "w": "gently",
+          "pos": "adv.",
+          "ipa": "/ˈdʒɛntli/",
+          "zh": "輕輕地"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-11",
+      "date": "2026-10-06",
+      "category": "praise",
+      "en": "Thank you for helping me set the table!",
+      "zh": "謝謝你幫我擺碗筷！",
+      "ipa": "/θæŋk ju fɚ ˈhɛlpɪŋ mi sɛt ðə ˈtebl̩/",
+      "vocab": [
+        {
+          "w": "set the table",
+          "pos": "phr.",
+          "ipa": "/sɛt ðə ˈtebl̩/",
+          "zh": "擺餐具"
+        },
+        {
+          "w": "help",
+          "pos": "v.",
+          "ipa": "/hɛlp/",
+          "zh": "幫忙"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-12",
+      "date": "2026-10-06",
+      "category": "safety",
+      "en": "Never touch the stove, even when it's turned off.",
+      "zh": "就算關掉了，也不要碰爐子。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðə stov ˈivən hwɛn ɪts tɝnd ɔf/",
+      "vocab": [
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        },
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-13",
+      "date": "2026-10-06",
+      "category": "health",
+      "en": "Let me put a bandage on that scraped knee.",
+      "zh": "我幫你在擦傷的膝蓋貼個 OK 繃。",
+      "ipa": "/lɛt mi pʊt ə ˈbændɪdʒ ɑn ðæt skrept ni/",
+      "vocab": [
+        {
+          "w": "bandage",
+          "pos": "n.",
+          "ipa": "/ˈbændɪdʒ/",
+          "zh": "OK 繃、繃帶"
+        },
+        {
+          "w": "scraped",
+          "pos": "adj.",
+          "ipa": "/skrept/",
+          "zh": "擦傷的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-14",
+      "date": "2026-10-06",
+      "category": "relatives",
+      "en": "Let's video call Grandpa and tell him about your day.",
+      "zh": "我們跟爺爺視訊，告訴他你今天做了什麼。",
+      "ipa": "/lɛts ˈvɪdɪˌo kɔl ˈɡrænˌpɑ ænd tɛl hɪm əˈbaʊt jʊr de/",
+      "vocab": [
+        {
+          "w": "video call",
+          "pos": "phr.",
+          "ipa": "/ˈvɪdɪˌo kɔl/",
+          "zh": "視訊通話"
+        },
+        {
+          "w": "grandpa",
+          "pos": "n.",
+          "ipa": "/ˈɡrænˌpɑ/",
+          "zh": "爺爺；外公"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-15",
+      "date": "2026-10-06",
+      "category": "friends",
+      "en": "Why don't you invite Max to sit with you at lunch?",
+      "zh": "你要不要邀 Max 午餐時跟你坐一起？",
+      "ipa": "/hwaɪ dont ju ɪnˈvaɪt mæks tu sɪt wɪð ju æt lʌntʃ/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "Why don't you...?",
+          "pos": "phr.",
+          "ipa": "/hwaɪ dont ju/",
+          "zh": "你要不要……？（提議）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-16",
+      "date": "2026-10-06",
+      "category": "manners",
+      "en": "Say \"excuse me\" when you need to walk past someone.",
+      "zh": "要從別人旁邊經過時，要說「借過」。",
+      "ipa": "/se ɪkˈskjuz mi hwɛn ju nid tu wɔk pæst ˈsʌmˌwʌn/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "不好意思、借過"
+        },
+        {
+          "w": "walk past",
+          "pos": "phr.",
+          "ipa": "/wɔk pæst/",
+          "zh": "從旁經過"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-17",
+      "date": "2026-10-06",
+      "category": "weather",
+      "en": "The wind is strong today, so zip up your jacket.",
+      "zh": "今天風很大，外套拉鍊要拉起來。",
+      "ipa": "/ðə wɪnd ɪz strɔŋ təˈde so zɪp ʌp jʊr ˈdʒækɪt/",
+      "vocab": [
+        {
+          "w": "zip up",
+          "pos": "phr.",
+          "ipa": "/zɪp ʌp/",
+          "zh": "拉上拉鍊"
+        },
+        {
+          "w": "wind",
+          "pos": "n.",
+          "ipa": "/wɪnd/",
+          "zh": "風"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-18",
+      "date": "2026-10-06",
+      "category": "screen-time",
+      "en": "Let's turn off the TV and play a board game instead.",
+      "zh": "我們把電視關掉，改玩桌遊吧。",
+      "ipa": "/lɛts tɝn ɔf ðə ˌtiˈvi ænd ple ə bɔrd ɡem ɪnˈstɛd/",
+      "vocab": [
+        {
+          "w": "board game",
+          "pos": "n.",
+          "ipa": "/bɔrd ɡem/",
+          "zh": "桌遊"
+        },
+        {
+          "w": "instead",
+          "pos": "adv.",
+          "ipa": "/ɪnˈstɛd/",
+          "zh": "改為、取而代之"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-19",
+      "date": "2026-10-06",
+      "category": "celebrations",
+      "en": "Let's blow up balloons for your sister's birthday party.",
+      "zh": "我們來為姊姊的生日派對吹氣球吧。",
+      "ipa": "/lɛts blo ʌp bəˈlunz fɚ jʊr ˈsɪstɚz ˈbɝθˌde ˈpɑrti/",
+      "vocab": [
+        {
+          "w": "blow up",
+          "pos": "phr.",
+          "ipa": "/blo ʌp/",
+          "zh": "吹（氣球）"
+        },
+        {
+          "w": "balloon",
+          "pos": "n.",
+          "ipa": "/bəˈlun/",
+          "zh": "氣球"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-20",
+      "date": "2026-10-06",
+      "category": "reading",
+      "en": "Point to the word that rhymes with \"hat.\"",
+      "zh": "指出跟「hat」押韻的那個字。",
+      "ipa": "/pɔɪnt tu ðə wɝd ðæt raɪmz wɪð hæt/",
+      "vocab": [
+        {
+          "w": "rhyme",
+          "pos": "v.",
+          "ipa": "/raɪm/",
+          "zh": "押韻"
+        },
+        {
+          "w": "point to",
+          "pos": "phr.",
+          "ipa": "/pɔɪnt tu/",
+          "zh": "指向"
+        }
+      ]
+    }
+  ]
+}
