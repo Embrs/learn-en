@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-07",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-07-1",
+      "date": "2026-10-07",
+      "category": "daily-routine",
+      "en": "Hang your towel on the hook after you wash your face.",
+      "zh": "洗完臉後把毛巾掛回掛勾上。",
+      "ipa": "/hæŋ jʊr ˈtaʊəl ɑn ðə hʊk ˈæftɚ ju wɑʃ jʊr fes/",
+      "vocab": [
+        {
+          "w": "towel",
+          "pos": "n.",
+          "ipa": "/ˈtaʊəl/",
+          "zh": "毛巾"
+        },
+        {
+          "w": "hook",
+          "pos": "n.",
+          "ipa": "/hʊk/",
+          "zh": "掛勾"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-2",
+      "date": "2026-10-07",
+      "category": "meals",
+      "en": "Use your napkin to wipe the sauce off your chin.",
+      "zh": "用餐巾把下巴上的醬汁擦掉。",
+      "ipa": "/juz jʊr ˈnæpkɪn tu waɪp ðə sɔs ɔf jʊr tʃɪn/",
+      "vocab": [
+        {
+          "w": "napkin",
+          "pos": "n.",
+          "ipa": "/ˈnæpkɪn/",
+          "zh": "餐巾"
+        },
+        {
+          "w": "wipe off",
+          "pos": "phr.",
+          "ipa": "/waɪp ɔf/",
+          "zh": "擦掉"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-3",
+      "date": "2026-10-07",
+      "category": "bath-bedtime",
+      "en": "Tilt your head back so the shampoo stays out of your eyes.",
+      "zh": "頭往後仰，洗髮精才不會跑進眼睛。",
+      "ipa": "/tɪlt jʊr hɛd bæk so ðə ʃæmˈpu stez aʊt əv jʊr aɪz/",
+      "vocab": [
+        {
+          "w": "tilt",
+          "pos": "v.",
+          "ipa": "/tɪlt/",
+          "zh": "傾斜"
+        },
+        {
+          "w": "shampoo",
+          "pos": "n.",
+          "ipa": "/ʃæmˈpu/",
+          "zh": "洗髮精"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-4",
+      "date": "2026-10-07",
+      "category": "outings",
+      "en": "Let's pick out three pumpkins at the farm today.",
+      "zh": "我們今天去農場挑三顆南瓜吧。",
+      "ipa": "/lɛts pɪk aʊt θri ˈpʌmpkɪnz æt ðə fɑrm təˈde/",
+      "vocab": [
+        {
+          "w": "pick out",
+          "pos": "phr.",
+          "ipa": "/pɪk aʊt/",
+          "zh": "挑選"
+        },
+        {
+          "w": "pumpkin",
+          "pos": "n.",
+          "ipa": "/ˈpʌmpkɪn/",
+          "zh": "南瓜"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-5",
+      "date": "2026-10-07",
+      "category": "playground",
+      "en": "Hold the chains tightly while you're on the swing.",
+      "zh": "盪鞦韆的時候要緊緊抓住鐵鍊。",
+      "ipa": "/hold ðə tʃenz ˈtaɪtli waɪl jʊr ɑn ðə swɪŋ/",
+      "vocab": [
+        {
+          "w": "chain",
+          "pos": "n.",
+          "ipa": "/tʃen/",
+          "zh": "鍊子"
+        },
+        {
+          "w": "tightly",
+          "pos": "adv.",
+          "ipa": "/ˈtaɪtli/",
+          "zh": "緊緊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-6",
+      "date": "2026-10-07",
+      "category": "school",
+      "en": "Don't forget to hand your permission slip to the teacher.",
+      "zh": "別忘了把家長同意書交給老師。",
+      "ipa": "/dont fɚˈɡɛt tu hænd jʊr pɚˈmɪʃən slɪp tu ðə ˈtitʃɚ/",
+      "vocab": [
+        {
+          "w": "permission slip",
+          "pos": "phr.",
+          "ipa": "/pɚˈmɪʃən slɪp/",
+          "zh": "家長同意書"
+        },
+        {
+          "w": "hand",
+          "pos": "v.",
+          "ipa": "/hænd/",
+          "zh": "交給"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-7",
+      "date": "2026-10-07",
+      "category": "homework",
+      "en": "Count the apples on the page and write the number.",
+      "zh": "數數看這頁有幾顆蘋果，再把數字寫下來。",
+      "ipa": "/kaʊnt ði ˈæplz ɑn ðə pedʒ ænd raɪt ðə ˈnʌmbɚ/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數"
+        },
+        {
+          "w": "number",
+          "pos": "n.",
+          "ipa": "/ˈnʌmbɚ/",
+          "zh": "數字"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-8",
+      "date": "2026-10-07",
+      "category": "toys-sharing",
+      "en": "Let's set a timer so you each get five minutes.",
+      "zh": "我們來設個計時器，你們每人玩五分鐘。",
+      "ipa": "/lɛts sɛt ə ˈtaɪmɚ so ju itʃ ɡɛt faɪv ˈmɪnɪts/",
+      "vocab": [
+        {
+          "w": "timer",
+          "pos": "n.",
+          "ipa": "/ˈtaɪmɚ/",
+          "zh": "計時器"
+        },
+        {
+          "w": "each",
+          "pos": "adv.",
+          "ipa": "/itʃ/",
+          "zh": "各自"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-9",
+      "date": "2026-10-07",
+      "category": "emotions",
+      "en": "You look frustrated. Do you want a hug?",
+      "zh": "你看起來很挫折，要不要抱一下？",
+      "ipa": "/ju lʊk ˈfrʌstretɪd du ju wɑnt ə hʌɡ/",
+      "vocab": [
+        {
+          "w": "frustrated",
+          "pos": "adj.",
+          "ipa": "/ˈfrʌstretɪd/",
+          "zh": "挫折的"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-10",
+      "date": "2026-10-07",
+      "category": "discipline",
+      "en": "If you throw the blocks again, they go on the shelf.",
+      "zh": "如果你再丟積木，積木就要收到架子上。",
+      "ipa": "/ɪf ju θro ðə blɑks əˈɡɛn ðe ɡo ɑn ðə ʃɛlf/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟"
+        },
+        {
+          "w": "shelf",
+          "pos": "n.",
+          "ipa": "/ʃɛlf/",
+          "zh": "架子"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-11",
+      "date": "2026-10-07",
+      "category": "praise",
+      "en": "You kept trying even when it was hard. I'm proud of you!",
+      "zh": "就算很難你還是一直努力，我以你為榮！",
+      "ipa": "/ju kɛpt ˈtraɪɪŋ ˈivən wɛn ɪt wɑz hɑrd aɪm praʊd əv ju/",
+      "vocab": [
+        {
+          "w": "keep trying",
+          "pos": "phr.",
+          "ipa": "/kip ˈtraɪɪŋ/",
+          "zh": "持續努力"
+        },
+        {
+          "w": "proud",
+          "pos": "adj.",
+          "ipa": "/praʊd/",
+          "zh": "驕傲的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-12",
+      "date": "2026-10-07",
+      "category": "safety",
+      "en": "Always wear your helmet when you ride your scooter.",
+      "zh": "騎滑板車時一定要戴安全帽。",
+      "ipa": "/ˈɔlwez wɛr jʊr ˈhɛlmɪt wɛn ju raɪd jʊr ˈskutɚ/",
+      "vocab": [
+        {
+          "w": "helmet",
+          "pos": "n.",
+          "ipa": "/ˈhɛlmɪt/",
+          "zh": "安全帽"
+        },
+        {
+          "w": "scooter",
+          "pos": "n.",
+          "ipa": "/ˈskutɚ/",
+          "zh": "滑板車"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-13",
+      "date": "2026-10-07",
+      "category": "health",
+      "en": "Drink some warm water to help your sore throat.",
+      "zh": "喝點溫開水，喉嚨痛會舒服一點。",
+      "ipa": "/drɪŋk sʌm wɔrm ˈwɔtɚ tu hɛlp jʊr sɔr θrot/",
+      "vocab": [
+        {
+          "w": "sore throat",
+          "pos": "phr.",
+          "ipa": "/sɔr θrot/",
+          "zh": "喉嚨痛"
+        },
+        {
+          "w": "warm",
+          "pos": "adj.",
+          "ipa": "/wɔrm/",
+          "zh": "溫的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-14",
+      "date": "2026-10-07",
+      "category": "relatives",
+      "en": "Your aunt is coming to stay with us this weekend.",
+      "zh": "阿姨這個週末要來我們家住。",
+      "ipa": "/jʊr ænt ɪz ˈkʌmɪŋ tu ste wɪð ʌs ðɪs ˈwikˌɛnd/",
+      "vocab": [
+        {
+          "w": "aunt",
+          "pos": "n.",
+          "ipa": "/ænt/",
+          "zh": "阿姨；姑姑"
+        },
+        {
+          "w": "stay with",
+          "pos": "phr.",
+          "ipa": "/ste wɪð/",
+          "zh": "借住在"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-15",
+      "date": "2026-10-07",
+      "category": "friends",
+      "en": "Ask Lily if she wants to build a sandcastle with you.",
+      "zh": "去問莉莉要不要跟你一起堆沙堡。",
+      "ipa": "/æsk ˈlɪli ɪf ʃi wɑnts tu bɪld ə ˈsændˌkæsl̩ wɪð ju/",
+      "vocab": [
+        {
+          "w": "build",
+          "pos": "v.",
+          "ipa": "/bɪld/",
+          "zh": "建造"
+        },
+        {
+          "w": "sandcastle",
+          "pos": "n.",
+          "ipa": "/ˈsændˌkæsl̩/",
+          "zh": "沙堡"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-16",
+      "date": "2026-10-07",
+      "category": "manners",
+      "en": "Please knock before you open someone's door.",
+      "zh": "開別人的門之前要先敲門喔。",
+      "ipa": "/pliz nɑk bɪˈfɔr ju ˈopən ˈsʌmˌwʌnz dɔr/",
+      "vocab": [
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲門"
+        },
+        {
+          "w": "someone's",
+          "pos": "pron.",
+          "ipa": "/ˈsʌmˌwʌnz/",
+          "zh": "某人的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-17",
+      "date": "2026-10-07",
+      "category": "weather",
+      "en": "Look at all the leaves falling from the trees!",
+      "zh": "你看，好多葉子從樹上掉下來！",
+      "ipa": "/lʊk æt ɔl ðə livz ˈfɔlɪŋ frʌm ðə triz/",
+      "vocab": [
+        {
+          "w": "leaves",
+          "pos": "n.",
+          "ipa": "/livz/",
+          "zh": "葉子（複數）"
+        },
+        {
+          "w": "fall",
+          "pos": "v.",
+          "ipa": "/fɔl/",
+          "zh": "落下"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-18",
+      "date": "2026-10-07",
+      "category": "screen-time",
+      "en": "When the timer beeps, it's time to put the tablet away.",
+      "zh": "計時器嗶嗶響的時候，就要把平板收起來。",
+      "ipa": "/wɛn ðə ˈtaɪmɚ bips ɪts taɪm tu pʊt ðə ˈtæblɪt əˈwe/",
+      "vocab": [
+        {
+          "w": "beep",
+          "pos": "v.",
+          "ipa": "/bip/",
+          "zh": "發出嗶聲"
+        },
+        {
+          "w": "put away",
+          "pos": "phr.",
+          "ipa": "/pʊt əˈwe/",
+          "zh": "收起來"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-19",
+      "date": "2026-10-07",
+      "category": "celebrations",
+      "en": "Let's carve a happy face into our pumpkin for Halloween.",
+      "zh": "我們在南瓜上刻一個笑臉來過萬聖節吧。",
+      "ipa": "/lɛts kɑrv ə ˈhæpi fes ˈɪntu aʊr ˈpʌmpkɪn fɔr ˌhæloˈin/",
+      "vocab": [
+        {
+          "w": "carve",
+          "pos": "v.",
+          "ipa": "/kɑrv/",
+          "zh": "雕刻"
+        },
+        {
+          "w": "Halloween",
+          "pos": "n.",
+          "ipa": "/ˌhæloˈin/",
+          "zh": "萬聖節"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-20",
+      "date": "2026-10-07",
+      "category": "reading",
+      "en": "Can you guess what will happen on the next page?",
+      "zh": "你猜猜看下一頁會發生什麼事？",
+      "ipa": "/kæn ju ɡɛs wɑt wɪl ˈhæpən ɑn ðə nɛkst pedʒ/",
+      "vocab": [
+        {
+          "w": "guess",
+          "pos": "v.",
+          "ipa": "/ɡɛs/",
+          "zh": "猜"
+        },
+        {
+          "w": "happen",
+          "pos": "v.",
+          "ipa": "/ˈhæpən/",
+          "zh": "發生"
+        }
+      ]
+    }
+  ]
+}
