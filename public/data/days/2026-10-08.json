@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-08",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-08-1",
+      "date": "2026-10-08",
+      "category": "daily-routine",
+      "en": "Put your pajamas in the drawer after you get dressed.",
+      "zh": "穿好衣服後，把睡衣收進抽屜裡。",
+      "ipa": "/pʊt jʊr pəˈdʒɑməz ɪn ðə drɔr ˈæftɚ ju ɡɛt drɛst/",
+      "vocab": [
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒɑməz/",
+          "zh": "睡衣"
+        },
+        {
+          "w": "get dressed",
+          "pos": "phr.",
+          "ipa": "/ɡɛt drɛst/",
+          "zh": "穿衣服"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-2",
+      "date": "2026-10-08",
+      "category": "meals",
+      "en": "Take one more bite of broccoli, then you can be done.",
+      "zh": "再吃一口花椰菜，然後就可以不吃了。",
+      "ipa": "/tek wʌn mɔr baɪt əv ˈbrɑkəli ðɛn ju kæn bi dʌn/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "broccoli",
+          "pos": "n.",
+          "ipa": "/ˈbrɑkəli/",
+          "zh": "綠花椰菜"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-3",
+      "date": "2026-10-08",
+      "category": "bath-bedtime",
+      "en": "Let's pick two songs to sing before lights out.",
+      "zh": "我們選兩首歌，關燈前唱。",
+      "ipa": "/lɛts pɪk tu sɔŋz tu sɪŋ bɪˈfɔr laɪts aʊt/",
+      "vocab": [
+        {
+          "w": "song",
+          "pos": "n.",
+          "ipa": "/sɔŋ/",
+          "zh": "歌"
+        },
+        {
+          "w": "lights out",
+          "pos": "phr.",
+          "ipa": "/laɪts aʊt/",
+          "zh": "熄燈"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-4",
+      "date": "2026-10-08",
+      "category": "outings",
+      "en": "We're taking the train to the aquarium this morning.",
+      "zh": "我們今天早上要搭火車去水族館。",
+      "ipa": "/wɪr ˈtekɪŋ ðə tren tu ði əˈkwɛriəm ðɪs ˈmɔrnɪŋ/",
+      "vocab": [
+        {
+          "w": "train",
+          "pos": "n.",
+          "ipa": "/tren/",
+          "zh": "火車"
+        },
+        {
+          "w": "aquarium",
+          "pos": "n.",
+          "ipa": "/əˈkwɛriəm/",
+          "zh": "水族館"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-5",
+      "date": "2026-10-08",
+      "category": "playground",
+      "en": "Climb up the ladder slowly and hold the rails.",
+      "zh": "慢慢爬上梯子，要抓好扶手喔。",
+      "ipa": "/klaɪm ʌp ðə ˈlædɚ ˈslol̩i ænd hold ðə relz/",
+      "vocab": [
+        {
+          "w": "ladder",
+          "pos": "n.",
+          "ipa": "/ˈlædɚ/",
+          "zh": "梯子"
+        },
+        {
+          "w": "rail",
+          "pos": "n.",
+          "ipa": "/rel/",
+          "zh": "扶手；欄杆"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-6",
+      "date": "2026-10-08",
+      "category": "school",
+      "en": "Tell me one new thing you learned at school today.",
+      "zh": "跟我說一件你今天在學校學到的新事情。",
+      "ipa": "/tɛl mi wʌn nu θɪŋ ju lɝnd æt skul təˈde/",
+      "vocab": [
+        {
+          "w": "learn",
+          "pos": "v.",
+          "ipa": "/lɝn/",
+          "zh": "學習"
+        },
+        {
+          "w": "new",
+          "pos": "adj.",
+          "ipa": "/nu/",
+          "zh": "新的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-7",
+      "date": "2026-10-08",
+      "category": "homework",
+      "en": "Trace the dotted lines to finish the letter B.",
+      "zh": "沿著虛線描，把字母 B 寫完。",
+      "ipa": "/tres ðə ˈdɑtɪd laɪnz tu ˈfɪnɪʃ ðə ˈlɛtɚ bi/",
+      "vocab": [
+        {
+          "w": "trace",
+          "pos": "v.",
+          "ipa": "/tres/",
+          "zh": "描（字或圖）"
+        },
+        {
+          "w": "dotted line",
+          "pos": "phr.",
+          "ipa": "/ˈdɑtɪd laɪn/",
+          "zh": "虛線"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-8",
+      "date": "2026-10-08",
+      "category": "toys-sharing",
+      "en": "Your brother is still using that truck. Can you wait?",
+      "zh": "弟弟還在玩那台卡車，你可以等一下嗎？",
+      "ipa": "/jʊr ˈbrʌðɚ ɪz stɪl ˈjuzɪŋ ðæt trʌk kæn ju wet/",
+      "vocab": [
+        {
+          "w": "still",
+          "pos": "adv.",
+          "ipa": "/stɪl/",
+          "zh": "仍然"
+        },
+        {
+          "w": "wait",
+          "pos": "v.",
+          "ipa": "/wet/",
+          "zh": "等待"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-9",
+      "date": "2026-10-08",
+      "category": "emotions",
+      "en": "You seem worried. Do you want to talk about it?",
+      "zh": "你看起來有點擔心，想跟我聊聊嗎？",
+      "ipa": "/ju sim ˈwɝid du ju wɑnt tu tɔk əˈbaʊt ɪt/",
+      "vocab": [
+        {
+          "w": "worried",
+          "pos": "adj.",
+          "ipa": "/ˈwɝid/",
+          "zh": "擔心的"
+        },
+        {
+          "w": "talk about",
+          "pos": "phr.",
+          "ipa": "/tɔk əˈbaʊt/",
+          "zh": "談論"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-10",
+      "date": "2026-10-08",
+      "category": "discipline",
+      "en": "We use gentle hands with the cat, not grabbing.",
+      "zh": "我們摸貓咪要輕輕的，不可以用抓的。",
+      "ipa": "/wi juz ˈdʒɛntl̩ hændz wɪð ðə kæt nɑt ˈɡræbɪŋ/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl̩/",
+          "zh": "溫柔的；輕柔的"
+        },
+        {
+          "w": "grab",
+          "pos": "v.",
+          "ipa": "/ɡræb/",
+          "zh": "抓"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-11",
+      "date": "2026-10-08",
+      "category": "praise",
+      "en": "Wow, you buttoned your coat all by yourself!",
+      "zh": "哇，你自己把外套的釦子都扣好了！",
+      "ipa": "/waʊ ju ˈbʌtn̩d jʊr kot ɔl baɪ jʊrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "button",
+          "pos": "v.",
+          "ipa": "/ˈbʌtn̩/",
+          "zh": "扣釦子"
+        },
+        {
+          "w": "by yourself",
+          "pos": "phr.",
+          "ipa": "/baɪ jʊrˈsɛlf/",
+          "zh": "靠你自己"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-12",
+      "date": "2026-10-08",
+      "category": "safety",
+      "en": "Stay away from the stove. It's very hot.",
+      "zh": "離爐子遠一點，它非常燙。",
+      "ipa": "/ste əˈwe frʌm ðə stov ɪts ˈvɛri hɑt/",
+      "vocab": [
+        {
+          "w": "stay away from",
+          "pos": "phr.",
+          "ipa": "/ste əˈwe frʌm/",
+          "zh": "遠離"
+        },
+        {
+          "w": "stove",
+          "pos": "n.",
+          "ipa": "/stov/",
+          "zh": "爐子"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-13",
+      "date": "2026-10-08",
+      "category": "health",
+      "en": "Cover your cough with your elbow, please.",
+      "zh": "咳嗽時請用手肘遮住喔。",
+      "ipa": "/ˈkʌvɚ jʊr kɔf wɪð jʊr ˈɛlbo pliz/",
+      "vocab": [
+        {
+          "w": "cough",
+          "pos": "n.",
+          "ipa": "/kɔf/",
+          "zh": "咳嗽"
+        },
+        {
+          "w": "elbow",
+          "pos": "n.",
+          "ipa": "/ˈɛlbo/",
+          "zh": "手肘"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-14",
+      "date": "2026-10-08",
+      "category": "relatives",
+      "en": "Let's draw a card for Grandma's birthday.",
+      "zh": "我們來畫一張卡片送給奶奶慶生。",
+      "ipa": "/lɛts drɔ ə kɑrd fɔr ˈɡrænˌmɑz ˈbɝθˌde/",
+      "vocab": [
+        {
+          "w": "draw",
+          "pos": "v.",
+          "ipa": "/drɔ/",
+          "zh": "畫"
+        },
+        {
+          "w": "card",
+          "pos": "n.",
+          "ipa": "/kɑrd/",
+          "zh": "卡片"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-15",
+      "date": "2026-10-08",
+      "category": "friends",
+      "en": "Max is sad. Maybe you can cheer him up.",
+      "zh": "Max 很難過，也許你可以讓他開心一點。",
+      "ipa": "/mæks ɪz sæd ˈmebi ju kæn tʃɪr hɪm ʌp/",
+      "vocab": [
+        {
+          "w": "cheer up",
+          "pos": "phr.",
+          "ipa": "/tʃɪr ʌp/",
+          "zh": "使振作；逗開心"
+        },
+        {
+          "w": "maybe",
+          "pos": "adv.",
+          "ipa": "/ˈmebi/",
+          "zh": "也許"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-16",
+      "date": "2026-10-08",
+      "category": "manners",
+      "en": "Say excuse me when you need to walk past someone.",
+      "zh": "要從別人旁邊經過時，要說「借過」。",
+      "ipa": "/se ɪkˈskjuz mi wɛn ju nid tu wɔk pæst ˈsʌmˌwʌn/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "借過；不好意思"
+        },
+        {
+          "w": "walk past",
+          "pos": "phr.",
+          "ipa": "/wɔk pæst/",
+          "zh": "從旁邊走過"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-17",
+      "date": "2026-10-08",
+      "category": "weather",
+      "en": "It's windy today, so zip up your jacket.",
+      "zh": "今天風很大，把外套拉鍊拉起來。",
+      "ipa": "/ɪts ˈwɪndi təˈde so zɪp ʌp jʊr ˈdʒækɪt/",
+      "vocab": [
+        {
+          "w": "windy",
+          "pos": "adj.",
+          "ipa": "/ˈwɪndi/",
+          "zh": "颳風的"
+        },
+        {
+          "w": "zip up",
+          "pos": "phr.",
+          "ipa": "/zɪp ʌp/",
+          "zh": "拉上拉鍊"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-18",
+      "date": "2026-10-08",
+      "category": "screen-time",
+      "en": "Let's turn off the cartoon and play a board game.",
+      "zh": "我們把卡通關掉，來玩桌遊吧。",
+      "ipa": "/lɛts tɝn ɔf ðə kɑrˈtun ænd ple ə bɔrd ɡem/",
+      "vocab": [
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        },
+        {
+          "w": "board game",
+          "pos": "phr.",
+          "ipa": "/bɔrd ɡem/",
+          "zh": "桌上遊戲"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-19",
+      "date": "2026-10-08",
+      "category": "celebrations",
+      "en": "Which costume do you want to wear for Halloween?",
+      "zh": "萬聖節你想穿哪一套裝扮？",
+      "ipa": "/wɪtʃ ˈkɑstum du ju wɑnt tu wɛr fɔr ˌhæloˈin/",
+      "vocab": [
+        {
+          "w": "costume",
+          "pos": "n.",
+          "ipa": "/ˈkɑstum/",
+          "zh": "變裝服；戲服"
+        },
+        {
+          "w": "wear",
+          "pos": "v.",
+          "ipa": "/wɛr/",
+          "zh": "穿"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08-20",
+      "date": "2026-10-08",
+      "category": "reading",
+      "en": "Point to the word you know, and read it to me.",
+      "zh": "指出你認得的字，唸給我聽。",
+      "ipa": "/pɔɪnt tu ðə wɝd ju no ænd rid ɪt tu mi/",
+      "vocab": [
+        {
+          "w": "point to",
+          "pos": "phr.",
+          "ipa": "/pɔɪnt tu/",
+          "zh": "指向"
+        },
+        {
+          "w": "word",
+          "pos": "n.",
+          "ipa": "/wɝd/",
+          "zh": "字；單字"
+        }
+      ]
+    }
+  ]
+}
