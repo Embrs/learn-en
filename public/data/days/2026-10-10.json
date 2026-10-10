@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-10",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-10-1",
+      "date": "2026-10-10",
+      "category": "daily-routine",
+      "en": "Put your pajamas in the laundry basket, please.",
+      "zh": "請把睡衣放進洗衣籃裡喔。",
+      "ipa": "/pʊt jʊr pəˈdʒɑməz ɪn ðə ˈlɔndri ˈbæskɪt pliz/",
+      "vocab": [
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒɑməz/",
+          "zh": "睡衣"
+        },
+        {
+          "w": "laundry basket",
+          "pos": "n.",
+          "ipa": "/ˈlɔndri ˈbæskɪt/",
+          "zh": "洗衣籃"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-2",
+      "date": "2026-10-10",
+      "category": "meals",
+      "en": "Try one bite of the pumpkin soup first.",
+      "zh": "先喝一口南瓜湯試試看。",
+      "ipa": "/traɪ wʌn baɪt ʌv ðə ˈpʌmpkɪn sup fɝst/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "pumpkin",
+          "pos": "n.",
+          "ipa": "/ˈpʌmpkɪn/",
+          "zh": "南瓜"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-3",
+      "date": "2026-10-10",
+      "category": "bath-bedtime",
+      "en": "Lean back so the water won't get in your eyes.",
+      "zh": "頭往後仰，水才不會跑進眼睛。",
+      "ipa": "/lin bæk so ðə ˈwɔtɚ wont ɡɛt ɪn jʊr aɪz/",
+      "vocab": [
+        {
+          "w": "lean back",
+          "pos": "phr.",
+          "ipa": "/lin bæk/",
+          "zh": "往後仰"
+        },
+        {
+          "w": "eye",
+          "pos": "n.",
+          "ipa": "/aɪ/",
+          "zh": "眼睛"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-4",
+      "date": "2026-10-10",
+      "category": "outings",
+      "en": "Let's pick some apples at the farm today.",
+      "zh": "我們今天去農場摘蘋果吧。",
+      "ipa": "/lɛts pɪk sʌm ˈæpl̩z æt ðə fɑrm təˈde/",
+      "vocab": [
+        {
+          "w": "pick",
+          "pos": "v.",
+          "ipa": "/pɪk/",
+          "zh": "摘；採"
+        },
+        {
+          "w": "farm",
+          "pos": "n.",
+          "ipa": "/fɑrm/",
+          "zh": "農場"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-5",
+      "date": "2026-10-10",
+      "category": "playground",
+      "en": "Swing your legs to make the swing go higher.",
+      "zh": "腳擺一擺，鞦韆就會盪得更高。",
+      "ipa": "/swɪŋ jʊr lɛɡz tu mek ðə swɪŋ ɡo ˈhaɪɚ/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "v./n.",
+          "ipa": "/swɪŋ/",
+          "zh": "擺動；鞦韆"
+        },
+        {
+          "w": "higher",
+          "pos": "adj.",
+          "ipa": "/ˈhaɪɚ/",
+          "zh": "更高的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-6",
+      "date": "2026-10-10",
+      "category": "school",
+      "en": "Remember to bring your library book back tomorrow.",
+      "zh": "記得明天要把圖書館的書帶回去。",
+      "ipa": "/rɪˈmɛmbɚ tu brɪŋ jʊr ˈlaɪˌbrɛri bʊk bæk təˈmɑro/",
+      "vocab": [
+        {
+          "w": "remember",
+          "pos": "v.",
+          "ipa": "/rɪˈmɛmbɚ/",
+          "zh": "記得"
+        },
+        {
+          "w": "library",
+          "pos": "n.",
+          "ipa": "/ˈlaɪˌbrɛri/",
+          "zh": "圖書館"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-7",
+      "date": "2026-10-10",
+      "category": "homework",
+      "en": "Count the dots and write the number below.",
+      "zh": "數一數有幾個點，把數字寫在下面。",
+      "ipa": "/kaʊnt ðə dɑts ænd raɪt ðə ˈnʌmbɚ bəˈlo/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數"
+        },
+        {
+          "w": "below",
+          "pos": "adv.",
+          "ipa": "/bəˈlo/",
+          "zh": "在下面"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-8",
+      "date": "2026-10-10",
+      "category": "toys-sharing",
+      "en": "Let's set a timer so you each get a turn.",
+      "zh": "我們設個計時器，這樣每個人都輪得到。",
+      "ipa": "/lɛts sɛt ə ˈtaɪmɚ so ju itʃ ɡɛt ə tɝn/",
+      "vocab": [
+        {
+          "w": "timer",
+          "pos": "n.",
+          "ipa": "/ˈtaɪmɚ/",
+          "zh": "計時器"
+        },
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪流的機會"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-9",
+      "date": "2026-10-10",
+      "category": "emotions",
+      "en": "You look a little grumpy. Do you want a hug?",
+      "zh": "你看起來有點悶悶不樂，要不要抱一下？",
+      "ipa": "/ju lʊk ə ˈlɪtl̩ ˈɡrʌmpi du ju wɑnt ə hʌɡ/",
+      "vocab": [
+        {
+          "w": "grumpy",
+          "pos": "adj.",
+          "ipa": "/ˈɡrʌmpi/",
+          "zh": "不高興的；脾氣不好的"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-10",
+      "date": "2026-10-10",
+      "category": "discipline",
+      "en": "If you splash the bath water again, bath time is over.",
+      "zh": "如果再把洗澡水潑出來，就要結束洗澡囉。",
+      "ipa": "/ɪf ju splæʃ ðə bæθ ˈwɔtɚ əˈɡɛn bæθ taɪm ɪz ˈovɚ/",
+      "vocab": [
+        {
+          "w": "splash",
+          "pos": "v.",
+          "ipa": "/splæʃ/",
+          "zh": "潑（水）；濺"
+        },
+        {
+          "w": "over",
+          "pos": "adj.",
+          "ipa": "/ˈovɚ/",
+          "zh": "結束的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-11",
+      "date": "2026-10-10",
+      "category": "praise",
+      "en": "You cleaned up without being asked. Thank you!",
+      "zh": "你沒等人提醒就自己收好了，謝謝你！",
+      "ipa": "/ju klind ʌp wɪˈðaʊt ˈbiɪŋ æskt θæŋk ju/",
+      "vocab": [
+        {
+          "w": "clean up",
+          "pos": "phr.",
+          "ipa": "/klin ʌp/",
+          "zh": "收拾乾淨"
+        },
+        {
+          "w": "without",
+          "pos": "prep.",
+          "ipa": "/wɪˈðaʊt/",
+          "zh": "沒有"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-12",
+      "date": "2026-10-10",
+      "category": "safety",
+      "en": "Stay where I can see you in the store.",
+      "zh": "在店裡要待在我看得到的地方。",
+      "ipa": "/ste hwɛr aɪ kæn si ju ɪn ðə stɔr/",
+      "vocab": [
+        {
+          "w": "stay",
+          "pos": "v.",
+          "ipa": "/ste/",
+          "zh": "待著；停留"
+        },
+        {
+          "w": "store",
+          "pos": "n.",
+          "ipa": "/stɔr/",
+          "zh": "商店"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-13",
+      "date": "2026-10-10",
+      "category": "health",
+      "en": "Cough into your elbow to keep germs away.",
+      "zh": "咳嗽時用手肘遮住，細菌才不會亂跑。",
+      "ipa": "/kɔf ˈɪntu jʊr ˈɛlbo tu kip dʒɝmz əˈwe/",
+      "vocab": [
+        {
+          "w": "elbow",
+          "pos": "n.",
+          "ipa": "/ˈɛlbo/",
+          "zh": "手肘"
+        },
+        {
+          "w": "germ",
+          "pos": "n.",
+          "ipa": "/dʒɝm/",
+          "zh": "細菌"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-14",
+      "date": "2026-10-10",
+      "category": "relatives",
+      "en": "Let's make a card for Grandma's birthday.",
+      "zh": "我們來做一張奶奶的生日卡吧。",
+      "ipa": "/lɛts mek ə kɑrd fɔr ˈɡrænmɑz ˈbɝθˌde/",
+      "vocab": [
+        {
+          "w": "card",
+          "pos": "n.",
+          "ipa": "/kɑrd/",
+          "zh": "卡片"
+        },
+        {
+          "w": "birthday",
+          "pos": "n.",
+          "ipa": "/ˈbɝθˌde/",
+          "zh": "生日"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-15",
+      "date": "2026-10-10",
+      "category": "friends",
+      "en": "How about asking Mia if she wants to join?",
+      "zh": "要不要問問 Mia 想不想一起玩？",
+      "ipa": "/haʊ əˈbaʊt ˈæskɪŋ ˈmiə ɪf ʃi wɑnts tu dʒɔɪn/",
+      "vocab": [
+        {
+          "w": "how about",
+          "pos": "phr.",
+          "ipa": "/haʊ əˈbaʊt/",
+          "zh": "要不要…；…如何"
+        },
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-16",
+      "date": "2026-10-10",
+      "category": "manners",
+      "en": "Say excuse me when you need to pass by.",
+      "zh": "要從別人旁邊經過時，記得說「借過」。",
+      "ipa": "/se ɪkˈskjuz mi hwɛn ju nid tu pæs baɪ/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "不好意思；借過"
+        },
+        {
+          "w": "pass by",
+          "pos": "phr.",
+          "ipa": "/pæs baɪ/",
+          "zh": "經過"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-17",
+      "date": "2026-10-10",
+      "category": "weather",
+      "en": "The leaves are turning red and yellow.",
+      "zh": "樹葉慢慢變紅、變黃了。",
+      "ipa": "/ðə livz ɑr ˈtɝnɪŋ rɛd ænd ˈjɛlo/",
+      "vocab": [
+        {
+          "w": "leaves",
+          "pos": "n.",
+          "ipa": "/livz/",
+          "zh": "葉子（複數）"
+        },
+        {
+          "w": "turn",
+          "pos": "v.",
+          "ipa": "/tɝn/",
+          "zh": "變成"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-18",
+      "date": "2026-10-10",
+      "category": "screen-time",
+      "en": "Let's play a board game instead of watching TV.",
+      "zh": "我們來玩桌遊，不要看電視了。",
+      "ipa": "/lɛts ple ə bɔrd ɡem ɪnˈstɛd ʌv ˈwɑtʃɪŋ ˌtiˈvi/",
+      "vocab": [
+        {
+          "w": "board game",
+          "pos": "n.",
+          "ipa": "/bɔrd ɡem/",
+          "zh": "桌遊"
+        },
+        {
+          "w": "instead of",
+          "pos": "phr.",
+          "ipa": "/ɪnˈstɛd ʌv/",
+          "zh": "代替；而不是"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-19",
+      "date": "2026-10-10",
+      "category": "celebrations",
+      "en": "Help me hang the paper lanterns on the porch.",
+      "zh": "幫我把紙燈籠掛在門廊上。",
+      "ipa": "/hɛlp mi hæŋ ðə ˈpepɚ ˈlæntɚnz ɑn ðə pɔrtʃ/",
+      "vocab": [
+        {
+          "w": "hang",
+          "pos": "v.",
+          "ipa": "/hæŋ/",
+          "zh": "掛"
+        },
+        {
+          "w": "lantern",
+          "pos": "n.",
+          "ipa": "/ˈlæntɚn/",
+          "zh": "燈籠"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-20",
+      "date": "2026-10-10",
+      "category": "reading",
+      "en": "Can you find the hiding mouse on this page?",
+      "zh": "你找得到這一頁躲起來的小老鼠嗎？",
+      "ipa": "/kæn ju faɪnd ðə ˈhaɪdɪŋ maʊs ɑn ðɪs pedʒ/",
+      "vocab": [
+        {
+          "w": "hiding",
+          "pos": "adj.",
+          "ipa": "/ˈhaɪdɪŋ/",
+          "zh": "躲藏的"
+        },
+        {
+          "w": "mouse",
+          "pos": "n.",
+          "ipa": "/maʊs/",
+          "zh": "老鼠"
+        }
+      ]
+    }
+  ]
+}
