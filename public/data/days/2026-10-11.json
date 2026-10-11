@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-11",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-11-1",
+      "date": "2026-10-11",
+      "category": "daily-routine",
+      "en": "Brush your teeth in little circles, like this.",
+      "zh": "像這樣，用小圓圈的方式刷牙。",
+      "ipa": "/brʌʃ jʊr tiθ ɪn ˈlɪtl̩ ˈsɝkl̩z laɪk ðɪs/",
+      "vocab": [
+        {
+          "w": "brush",
+          "pos": "v.",
+          "ipa": "/brʌʃ/",
+          "zh": "刷"
+        },
+        {
+          "w": "circle",
+          "pos": "n.",
+          "ipa": "/ˈsɝkl̩/",
+          "zh": "圓圈"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-2",
+      "date": "2026-10-11",
+      "category": "meals",
+      "en": "Dip your carrot sticks in the hummus.",
+      "zh": "把紅蘿蔔條沾一點鷹嘴豆泥吃。",
+      "ipa": "/dɪp jʊr ˈkærət stɪks ɪn ðə ˈhʌməs/",
+      "vocab": [
+        {
+          "w": "dip",
+          "pos": "v.",
+          "ipa": "/dɪp/",
+          "zh": "沾"
+        },
+        {
+          "w": "carrot stick",
+          "pos": "n.",
+          "ipa": "/ˈkærət stɪk/",
+          "zh": "紅蘿蔔條"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-3",
+      "date": "2026-10-11",
+      "category": "bath-bedtime",
+      "en": "Rinse the bubbles off your shoulders, too.",
+      "zh": "肩膀上的泡泡也要沖乾淨喔。",
+      "ipa": "/rɪns ðə ˈbʌbl̩z ɔf jʊr ˈʃoldɚz tu/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "shoulder",
+          "pos": "n.",
+          "ipa": "/ˈʃoldɚ/",
+          "zh": "肩膀"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-4",
+      "date": "2026-10-11",
+      "category": "outings",
+      "en": "Let's ride the little train around the zoo.",
+      "zh": "我們去坐繞動物園的小火車吧。",
+      "ipa": "/lɛts raɪd ðə ˈlɪtl̩ tren əˈraʊnd ðə zu/",
+      "vocab": [
+        {
+          "w": "ride",
+          "pos": "v.",
+          "ipa": "/raɪd/",
+          "zh": "搭乘"
+        },
+        {
+          "w": "around",
+          "pos": "prep.",
+          "ipa": "/əˈraʊnd/",
+          "zh": "繞著"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-5",
+      "date": "2026-10-11",
+      "category": "playground",
+      "en": "Hold the rope tight while you climb up.",
+      "zh": "往上爬的時候要抓緊繩子。",
+      "ipa": "/hold ðə rop taɪt hwaɪl ju klaɪm ʌp/",
+      "vocab": [
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "爬"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-6",
+      "date": "2026-10-11",
+      "category": "school",
+      "en": "Did you sit next to anyone new today?",
+      "zh": "你今天有坐在新朋友旁邊嗎？",
+      "ipa": "/dɪd ju sɪt nɛkst tu ˈɛniˌwʌn nu təˈde/",
+      "vocab": [
+        {
+          "w": "next to",
+          "pos": "phr.",
+          "ipa": "/nɛkst tu/",
+          "zh": "在…旁邊"
+        },
+        {
+          "w": "anyone",
+          "pos": "pron.",
+          "ipa": "/ˈɛniˌwʌn/",
+          "zh": "任何人"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-7",
+      "date": "2026-10-11",
+      "category": "homework",
+      "en": "Trace the letters slowly along the dotted lines.",
+      "zh": "沿著虛線慢慢描字母。",
+      "ipa": "/tres ðə ˈlɛtɚz ˈsloli əˈlɔŋ ðə ˈdɑtɪd laɪnz/",
+      "vocab": [
+        {
+          "w": "trace",
+          "pos": "v.",
+          "ipa": "/tres/",
+          "zh": "描寫"
+        },
+        {
+          "w": "dotted line",
+          "pos": "n.",
+          "ipa": "/ˈdɑtɪd laɪn/",
+          "zh": "虛線"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-8",
+      "date": "2026-10-11",
+      "category": "toys-sharing",
+      "en": "Can your sister borrow your crayons for a bit?",
+      "zh": "妹妹可以借用一下你的蠟筆嗎？",
+      "ipa": "/kæn jʊr ˈsɪstɚ ˈbɑro jʊr ˈkreənz fɔr ə bɪt/",
+      "vocab": [
+        {
+          "w": "borrow",
+          "pos": "v.",
+          "ipa": "/ˈbɑro/",
+          "zh": "借用"
+        },
+        {
+          "w": "crayon",
+          "pos": "n.",
+          "ipa": "/ˈkreən/",
+          "zh": "蠟筆"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-9",
+      "date": "2026-10-11",
+      "category": "emotions",
+      "en": "It's okay to feel nervous. I'm right here.",
+      "zh": "會緊張沒關係，我就在這裡。",
+      "ipa": "/ɪts ˈoˈke tu fil ˈnɝvəs aɪm raɪt hɪr/",
+      "vocab": [
+        {
+          "w": "nervous",
+          "pos": "adj.",
+          "ipa": "/ˈnɝvəs/",
+          "zh": "緊張的"
+        },
+        {
+          "w": "right here",
+          "pos": "phr.",
+          "ipa": "/raɪt hɪr/",
+          "zh": "就在這裡"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-10",
+      "date": "2026-10-11",
+      "category": "discipline",
+      "en": "Shoes stay off the couch, please.",
+      "zh": "鞋子不可以踩到沙發上喔。",
+      "ipa": "/ʃuz ste ɔf ðə kaʊtʃ pliz/",
+      "vocab": [
+        {
+          "w": "stay off",
+          "pos": "phr.",
+          "ipa": "/ste ɔf/",
+          "zh": "不碰；遠離"
+        },
+        {
+          "w": "couch",
+          "pos": "n.",
+          "ipa": "/kaʊtʃ/",
+          "zh": "沙發"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-11",
+      "date": "2026-10-11",
+      "category": "praise",
+      "en": "You kept trying until you zipped it yourself!",
+      "zh": "你一直試，終於自己把拉鍊拉好了！",
+      "ipa": "/ju kɛpt ˈtraɪɪŋ ənˈtɪl ju zɪpt ɪt jʊrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "keep trying",
+          "pos": "phr.",
+          "ipa": "/kip ˈtraɪɪŋ/",
+          "zh": "持續嘗試"
+        },
+        {
+          "w": "zip",
+          "pos": "v.",
+          "ipa": "/zɪp/",
+          "zh": "拉上拉鍊"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-12",
+      "date": "2026-10-11",
+      "category": "safety",
+      "en": "Don't touch the oven. It's very hot.",
+      "zh": "不要碰烤箱，很燙喔。",
+      "ipa": "/dont tʌtʃ ði ˈʌvən ɪts ˈvɛri hɑt/",
+      "vocab": [
+        {
+          "w": "oven",
+          "pos": "n.",
+          "ipa": "/ˈʌvən/",
+          "zh": "烤箱"
+        },
+        {
+          "w": "hot",
+          "pos": "adj.",
+          "ipa": "/hɑt/",
+          "zh": "燙的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-13",
+      "date": "2026-10-11",
+      "category": "health",
+      "en": "Take a big sip of warm water for your throat.",
+      "zh": "喝一大口溫水，喉嚨會舒服一點。",
+      "ipa": "/tek ə bɪɡ sɪp ʌv wɔrm ˈwɔtɚ fɔr jʊr θrot/",
+      "vocab": [
+        {
+          "w": "sip",
+          "pos": "n.",
+          "ipa": "/sɪp/",
+          "zh": "一小口"
+        },
+        {
+          "w": "throat",
+          "pos": "n.",
+          "ipa": "/θrot/",
+          "zh": "喉嚨"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-14",
+      "date": "2026-10-11",
+      "category": "relatives",
+      "en": "Uncle Ben is coming over for dinner tonight.",
+      "zh": "班叔叔今晚要來家裡吃晚餐。",
+      "ipa": "/ˈʌŋkl̩ bɛn ɪz ˈkʌmɪŋ ˈovɚ fɔr ˈdɪnɚ təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkl̩/",
+          "zh": "叔叔；舅舅"
+        },
+        {
+          "w": "come over",
+          "pos": "phr.",
+          "ipa": "/kʌm ˈovɚ/",
+          "zh": "過來（拜訪）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-15",
+      "date": "2026-10-11",
+      "category": "friends",
+      "en": "Let's invite Leo to build the sandcastle with us.",
+      "zh": "我們邀請里歐一起來堆沙堡吧。",
+      "ipa": "/lɛts ɪnˈvaɪt ˈlio tu bɪld ðə ˈsændˌkæsl̩ wɪð ʌs/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "sandcastle",
+          "pos": "n.",
+          "ipa": "/ˈsændˌkæsl̩/",
+          "zh": "沙堡"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-16",
+      "date": "2026-10-11",
+      "category": "manners",
+      "en": "Please chew with your mouth closed.",
+      "zh": "吃東西時嘴巴要閉起來嚼喔。",
+      "ipa": "/pliz tʃu wɪð jʊr maʊθ klozd/",
+      "vocab": [
+        {
+          "w": "chew",
+          "pos": "v.",
+          "ipa": "/tʃu/",
+          "zh": "咀嚼"
+        },
+        {
+          "w": "closed",
+          "pos": "adj.",
+          "ipa": "/klozd/",
+          "zh": "閉上的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-17",
+      "date": "2026-10-11",
+      "category": "weather",
+      "en": "It's windy, so zip up your jacket.",
+      "zh": "今天風很大，把外套拉鍊拉上。",
+      "ipa": "/ɪts ˈwɪndi so zɪp ʌp jʊr ˈdʒækɪt/",
+      "vocab": [
+        {
+          "w": "windy",
+          "pos": "adj.",
+          "ipa": "/ˈwɪndi/",
+          "zh": "風大的"
+        },
+        {
+          "w": "zip up",
+          "pos": "phr.",
+          "ipa": "/zɪp ʌp/",
+          "zh": "拉上拉鍊"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-18",
+      "date": "2026-10-11",
+      "category": "screen-time",
+      "en": "Your eyes need a break. Let's look out the window.",
+      "zh": "眼睛需要休息，我們看看窗外吧。",
+      "ipa": "/jʊr aɪz nid ə brek lɛts lʊk aʊt ðə ˈwɪndo/",
+      "vocab": [
+        {
+          "w": "break",
+          "pos": "n.",
+          "ipa": "/brek/",
+          "zh": "休息"
+        },
+        {
+          "w": "look out",
+          "pos": "phr.",
+          "ipa": "/lʊk aʊt/",
+          "zh": "往外看"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-19",
+      "date": "2026-10-11",
+      "category": "celebrations",
+      "en": "Let's carve a funny face on the pumpkin.",
+      "zh": "我們在南瓜上刻一張好笑的臉吧。",
+      "ipa": "/lɛts kɑrv ə ˈfʌni fes ɑn ðə ˈpʌmpkɪn/",
+      "vocab": [
+        {
+          "w": "carve",
+          "pos": "v.",
+          "ipa": "/kɑrv/",
+          "zh": "雕刻"
+        },
+        {
+          "w": "funny",
+          "pos": "adj.",
+          "ipa": "/ˈfʌni/",
+          "zh": "好笑的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-20",
+      "date": "2026-10-11",
+      "category": "reading",
+      "en": "Why do you think the fox ran away?",
+      "zh": "你覺得狐狸為什麼跑掉了？",
+      "ipa": "/hwaɪ du ju θɪŋk ðə fɑks ræn əˈwe/",
+      "vocab": [
+        {
+          "w": "fox",
+          "pos": "n.",
+          "ipa": "/fɑks/",
+          "zh": "狐狸"
+        },
+        {
+          "w": "run away",
+          "pos": "phr.",
+          "ipa": "/rʌn əˈwe/",
+          "zh": "逃走"
+        }
+      ]
+    }
+  ]
+}
