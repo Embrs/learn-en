@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-12",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-12-1",
+      "date": "2026-10-12",
+      "category": "daily-routine",
+      "en": "Fold your blanket and line up your stuffed animals.",
+      "zh": "把被子摺好，再把絨毛玩偶排整齊。",
+      "ipa": "/fold jʊr ˈblæŋkɪt ænd laɪn ʌp jʊr stʌft ˈænəməlz/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/fold/",
+          "zh": "摺"
+        },
+        {
+          "w": "line up",
+          "pos": "phr.",
+          "ipa": "/laɪn ʌp/",
+          "zh": "排整齊"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-2",
+      "date": "2026-10-12",
+      "category": "meals",
+      "en": "Blow on your soup before you take a bite.",
+      "zh": "先吹一吹湯再吃喔。",
+      "ipa": "/blo ɑn jʊr sup bɪˈfor ju tek ə baɪt/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "soup",
+          "pos": "n.",
+          "ipa": "/sup/",
+          "zh": "湯"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-3",
+      "date": "2026-10-12",
+      "category": "bath-bedtime",
+      "en": "Close your eyes while I pour the water.",
+      "zh": "我倒水的時候把眼睛閉起來喔。",
+      "ipa": "/kloz jʊr aɪz hwaɪl aɪ por ðə ˈwɔtɚ/",
+      "vocab": [
+        {
+          "w": "pour",
+          "pos": "v.",
+          "ipa": "/por/",
+          "zh": "倒"
+        },
+        {
+          "w": "close",
+          "pos": "v.",
+          "ipa": "/kloz/",
+          "zh": "閉上"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-4",
+      "date": "2026-10-12",
+      "category": "outings",
+      "en": "Let's pick apples at the orchard this weekend.",
+      "zh": "這個週末我們去果園摘蘋果吧。",
+      "ipa": "/lɛts pɪk ˈæpl̩z æt ði ˈɔrtʃɚd ðɪs ˈwikˌɛnd/",
+      "vocab": [
+        {
+          "w": "pick",
+          "pos": "v.",
+          "ipa": "/pɪk/",
+          "zh": "摘"
+        },
+        {
+          "w": "orchard",
+          "pos": "n.",
+          "ipa": "/ˈɔrtʃɚd/",
+          "zh": "果園"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-5",
+      "date": "2026-10-12",
+      "category": "playground",
+      "en": "Pump your legs and the swing will go higher.",
+      "zh": "腿用力前後擺，鞦韆就會盪得更高。",
+      "ipa": "/pʌmp jʊr lɛɡz ænd ðə swɪŋ wɪl ɡo ˈhaɪɚ/",
+      "vocab": [
+        {
+          "w": "pump",
+          "pos": "v.",
+          "ipa": "/pʌmp/",
+          "zh": "（腿）用力擺動"
+        },
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-6",
+      "date": "2026-10-12",
+      "category": "school",
+      "en": "What was the funniest thing your teacher said?",
+      "zh": "今天老師說了什麼最好笑的話？",
+      "ipa": "/hwɑt wɑz ðə ˈfʌniɪst θɪŋ jʊr ˈtitʃɚ sɛd/",
+      "vocab": [
+        {
+          "w": "funniest",
+          "pos": "adj.",
+          "ipa": "/ˈfʌniɪst/",
+          "zh": "最好笑的"
+        },
+        {
+          "w": "teacher",
+          "pos": "n.",
+          "ipa": "/ˈtitʃɚ/",
+          "zh": "老師"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-7",
+      "date": "2026-10-12",
+      "category": "homework",
+      "en": "Count the apples first, then write the number.",
+      "zh": "先數一數蘋果，再寫下數字。",
+      "ipa": "/kaʊnt ði ˈæpl̩z fɝst ðɛn raɪt ðə ˈnʌmbɚ/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數"
+        },
+        {
+          "w": "number",
+          "pos": "n.",
+          "ipa": "/ˈnʌmbɚ/",
+          "zh": "數字"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-8",
+      "date": "2026-10-12",
+      "category": "toys-sharing",
+      "en": "You build the tower, and he adds the roof.",
+      "zh": "你蓋塔，他來加屋頂。",
+      "ipa": "/ju bɪld ðə ˈtaʊɚ ænd hi ædz ðə ruf/",
+      "vocab": [
+        {
+          "w": "tower",
+          "pos": "n.",
+          "ipa": "/ˈtaʊɚ/",
+          "zh": "塔"
+        },
+        {
+          "w": "roof",
+          "pos": "n.",
+          "ipa": "/ruf/",
+          "zh": "屋頂"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-9",
+      "date": "2026-10-12",
+      "category": "emotions",
+      "en": "You look disappointed. Do you want a hug?",
+      "zh": "你看起來很失望，要不要抱一下？",
+      "ipa": "/ju lʊk ˌdɪsəˈpɔɪntɪd du ju wɑnt ə hʌɡ/",
+      "vocab": [
+        {
+          "w": "disappointed",
+          "pos": "adj.",
+          "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+          "zh": "失望的"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-10",
+      "date": "2026-10-12",
+      "category": "discipline",
+      "en": "Markers are for paper, not for the wall.",
+      "zh": "彩色筆是畫在紙上的，不是畫牆壁喔。",
+      "ipa": "/ˈmɑrkɚz ɑr fɔr ˈpepɚ nɑt fɔr ðə wɔl/",
+      "vocab": [
+        {
+          "w": "marker",
+          "pos": "n.",
+          "ipa": "/ˈmɑrkɚ/",
+          "zh": "彩色筆；麥克筆"
+        },
+        {
+          "w": "wall",
+          "pos": "n.",
+          "ipa": "/wɔl/",
+          "zh": "牆壁"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-11",
+      "date": "2026-10-12",
+      "category": "praise",
+      "en": "Wow, you put every block back in the box!",
+      "zh": "哇，你把每塊積木都收回盒子裡了！",
+      "ipa": "/wa ju pʊt ˈɛvri blɑk bæk ɪn ðə bɑks/",
+      "vocab": [
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        },
+        {
+          "w": "put back",
+          "pos": "phr.",
+          "ipa": "/pʊt bæk/",
+          "zh": "放回去"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-12",
+      "date": "2026-10-12",
+      "category": "safety",
+      "en": "Stay on the sidewalk and hold my hand.",
+      "zh": "走在人行道上，牽著我的手。",
+      "ipa": "/ste ɑn ðə ˈsaɪdˌwɔk ænd hold maɪ hænd/",
+      "vocab": [
+        {
+          "w": "sidewalk",
+          "pos": "n.",
+          "ipa": "/ˈsaɪdˌwɔk/",
+          "zh": "人行道"
+        },
+        {
+          "w": "stay on",
+          "pos": "phr.",
+          "ipa": "/ste ɑn/",
+          "zh": "待在…上"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-13",
+      "date": "2026-10-12",
+      "category": "health",
+      "en": "Cover your sneeze with your elbow, sweetie.",
+      "zh": "寶貝，打噴嚏要用手肘遮住喔。",
+      "ipa": "/ˈkʌvɚ jʊr sniz wɪð jʊr ˈɛlbo ˈswiti/",
+      "vocab": [
+        {
+          "w": "sneeze",
+          "pos": "n.",
+          "ipa": "/sniz/",
+          "zh": "噴嚏"
+        },
+        {
+          "w": "elbow",
+          "pos": "n.",
+          "ipa": "/ˈɛlbo/",
+          "zh": "手肘"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-14",
+      "date": "2026-10-12",
+      "category": "relatives",
+      "en": "Let's send Auntie a photo of your drawing.",
+      "zh": "我們把你的畫拍照傳給阿姨看吧。",
+      "ipa": "/lɛts sɛnd ˈænti ə ˈfoto ʌv jʊr ˈdrɔɪŋ/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨；姑姑"
+        },
+        {
+          "w": "drawing",
+          "pos": "n.",
+          "ipa": "/ˈdrɔɪŋ/",
+          "zh": "畫"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-15",
+      "date": "2026-10-12",
+      "category": "friends",
+      "en": "Ask Mia if she wants to play tag.",
+      "zh": "去問問米亞要不要玩鬼抓人。",
+      "ipa": "/æsk ˈmiə ɪf ʃi wɑnts tu ple tæɡ/",
+      "vocab": [
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "問"
+        },
+        {
+          "w": "play tag",
+          "pos": "phr.",
+          "ipa": "/ple tæɡ/",
+          "zh": "玩鬼抓人"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-16",
+      "date": "2026-10-12",
+      "category": "manners",
+      "en": "Hold the door for the lady behind us.",
+      "zh": "幫後面的阿姨扶一下門。",
+      "ipa": "/hold ðə dor fɔr ðə ˈledi bɪˈhaɪnd ʌs/",
+      "vocab": [
+        {
+          "w": "hold the door",
+          "pos": "phr.",
+          "ipa": "/hold ðə dor/",
+          "zh": "扶著門"
+        },
+        {
+          "w": "behind",
+          "pos": "prep.",
+          "ipa": "/bɪˈhaɪnd/",
+          "zh": "在…後面"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-17",
+      "date": "2026-10-12",
+      "category": "weather",
+      "en": "The morning air feels crisp. Grab your hoodie.",
+      "zh": "早上空氣涼涼的，帶件連帽外套吧。",
+      "ipa": "/ðə ˈmɔrnɪŋ ɛr filz krɪsp ɡræb jʊr ˈhʊdi/",
+      "vocab": [
+        {
+          "w": "crisp",
+          "pos": "adj.",
+          "ipa": "/krɪsp/",
+          "zh": "涼爽清新的"
+        },
+        {
+          "w": "hoodie",
+          "pos": "n.",
+          "ipa": "/ˈhʊdi/",
+          "zh": "連帽外套"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-18",
+      "date": "2026-10-12",
+      "category": "screen-time",
+      "en": "When this song ends, the tablet goes to sleep.",
+      "zh": "這首歌結束，平板就要休息了。",
+      "ipa": "/hwɛn ðɪs sɔŋ ɛndz ðə ˈtæblɪt ɡoz tu slip/",
+      "vocab": [
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        },
+        {
+          "w": "end",
+          "pos": "v.",
+          "ipa": "/ɛnd/",
+          "zh": "結束"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-19",
+      "date": "2026-10-12",
+      "category": "celebrations",
+      "en": "What costume do you want to wear this year?",
+      "zh": "今年你想穿什麼服裝？",
+      "ipa": "/hwɑt ˈkɑstum du ju wɑnt tu wɛr ðɪs jɪr/",
+      "vocab": [
+        {
+          "w": "costume",
+          "pos": "n.",
+          "ipa": "/ˈkɑstum/",
+          "zh": "裝扮服裝"
+        },
+        {
+          "w": "wear",
+          "pos": "v.",
+          "ipa": "/wɛr/",
+          "zh": "穿"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-20",
+      "date": "2026-10-12",
+      "category": "reading",
+      "en": "Point to the word that rhymes with cat.",
+      "zh": "指出跟 cat 押韻的那個字。",
+      "ipa": "/pɔɪnt tu ðə wɝd ðæt raɪmz wɪð kæt/",
+      "vocab": [
+        {
+          "w": "point to",
+          "pos": "phr.",
+          "ipa": "/pɔɪnt tu/",
+          "zh": "指向"
+        },
+        {
+          "w": "rhyme",
+          "pos": "v.",
+          "ipa": "/raɪm/",
+          "zh": "押韻"
+        }
+      ]
+    }
+  ]
+}
