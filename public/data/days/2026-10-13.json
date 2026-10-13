@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-13",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-13-1",
+      "date": "2026-10-13",
+      "category": "daily-routine",
+      "en": "Hang your towel on the hook after you wash up.",
+      "zh": "洗好之後，把毛巾掛回掛勾上。",
+      "ipa": "/hæŋ jʊr ˈtaʊəl ɑn ðə hʊk ˈæftɚ ju wɑʃ ʌp/",
+      "vocab": [
+        {
+          "w": "towel",
+          "pos": "n.",
+          "ipa": "/ˈtaʊəl/",
+          "zh": "毛巾"
+        },
+        {
+          "w": "hook",
+          "pos": "n.",
+          "ipa": "/hʊk/",
+          "zh": "掛勾"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-2",
+      "date": "2026-10-13",
+      "category": "meals",
+      "en": "Would you like toast or pancakes this morning?",
+      "zh": "你今天早上想吃吐司還是鬆餅？",
+      "ipa": "/wʊd ju laɪk tost ɔr ˈpænˌkeks ðɪs ˈmɔrnɪŋ/",
+      "vocab": [
+        {
+          "w": "toast",
+          "pos": "n.",
+          "ipa": "/tost/",
+          "zh": "吐司"
+        },
+        {
+          "w": "pancake",
+          "pos": "n.",
+          "ipa": "/ˈpænˌkek/",
+          "zh": "鬆餅"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-3",
+      "date": "2026-10-13",
+      "category": "bath-bedtime",
+      "en": "Let's count to ten while you rinse your hair.",
+      "zh": "你沖頭髮的時候，我們一起數到十。",
+      "ipa": "/lɛts kaʊnt tu tɛn hwaɪl ju rɪns jʊr hɛr/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數數"
+        },
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-4",
+      "date": "2026-10-13",
+      "category": "outings",
+      "en": "We're taking the train to the aquarium today.",
+      "zh": "我們今天要搭火車去水族館。",
+      "ipa": "/wɪr ˈtekɪŋ ðə tren tu ði əˈkwɛriəm təˈde/",
+      "vocab": [
+        {
+          "w": "train",
+          "pos": "n.",
+          "ipa": "/tren/",
+          "zh": "火車"
+        },
+        {
+          "w": "aquarium",
+          "pos": "n.",
+          "ipa": "/əˈkwɛriəm/",
+          "zh": "水族館"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-5",
+      "date": "2026-10-13",
+      "category": "playground",
+      "en": "Let's collect the prettiest leaves under that tree.",
+      "zh": "我們去那棵樹下撿最漂亮的葉子。",
+      "ipa": "/lɛts kəˈlɛkt ðə ˈprɪtiɪst livz ˈʌndɚ ðæt tri/",
+      "vocab": [
+        {
+          "w": "collect",
+          "pos": "v.",
+          "ipa": "/kəˈlɛkt/",
+          "zh": "收集"
+        },
+        {
+          "w": "leaves",
+          "pos": "n.",
+          "ipa": "/livz/",
+          "zh": "葉子（複數）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-6",
+      "date": "2026-10-13",
+      "category": "school",
+      "en": "Did you remember to bring your library book back?",
+      "zh": "你有記得把圖書館的書帶回去還嗎？",
+      "ipa": "/dɪd ju rɪˈmɛmbɚ tu brɪŋ jʊr ˈlaɪˌbrɛri bʊk bæk/",
+      "vocab": [
+        {
+          "w": "remember",
+          "pos": "v.",
+          "ipa": "/rɪˈmɛmbɚ/",
+          "zh": "記得"
+        },
+        {
+          "w": "library",
+          "pos": "n.",
+          "ipa": "/ˈlaɪˌbrɛri/",
+          "zh": "圖書館"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-7",
+      "date": "2026-10-13",
+      "category": "homework",
+      "en": "Sound it out slowly, one letter at a time.",
+      "zh": "慢慢拼出來，一次念一個字母。",
+      "ipa": "/saʊnd ɪt aʊt ˈsloli wʌn ˈlɛtɚ æt ə taɪm/",
+      "vocab": [
+        {
+          "w": "sound out",
+          "pos": "phr.",
+          "ipa": "/saʊnd aʊt/",
+          "zh": "拼讀出來"
+        },
+        {
+          "w": "letter",
+          "pos": "n.",
+          "ipa": "/ˈlɛtɚ/",
+          "zh": "字母"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-8",
+      "date": "2026-10-13",
+      "category": "toys-sharing",
+      "en": "Your sister wants a turn on the scooter now.",
+      "zh": "妹妹現在想輪流玩滑板車了。",
+      "ipa": "/jʊr ˈsɪstɚ wɑnts ə tɝn ɑn ðə ˈskutɚ naʊ/",
+      "vocab": [
+        {
+          "w": "scooter",
+          "pos": "n.",
+          "ipa": "/ˈskutɚ/",
+          "zh": "滑板車"
+        },
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪到的機會"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-9",
+      "date": "2026-10-13",
+      "category": "emotions",
+      "en": "Let's squeeze this pillow when you feel grumpy.",
+      "zh": "覺得煩躁的時候，我們來捏捏這個枕頭。",
+      "ipa": "/lɛts skwiz ðɪs ˈpɪlo hwɛn ju fil ˈɡrʌmpi/",
+      "vocab": [
+        {
+          "w": "squeeze",
+          "pos": "v.",
+          "ipa": "/skwiz/",
+          "zh": "捏；擠"
+        },
+        {
+          "w": "grumpy",
+          "pos": "adj.",
+          "ipa": "/ˈɡrʌmpi/",
+          "zh": "煩躁的；脾氣不好的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-10",
+      "date": "2026-10-13",
+      "category": "discipline",
+      "en": "Shoes come off at the door, every single time.",
+      "zh": "進門一定要脫鞋，每一次都要。",
+      "ipa": "/ʃuz kʌm ɔf æt ðə dor ˈɛvri ˈsɪŋɡl̩ taɪm/",
+      "vocab": [
+        {
+          "w": "come off",
+          "pos": "phr.",
+          "ipa": "/kʌm ɔf/",
+          "zh": "脫下來"
+        },
+        {
+          "w": "every single time",
+          "pos": "phr.",
+          "ipa": "/ˈɛvri ˈsɪŋɡl̩ taɪm/",
+          "zh": "每一次"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-11",
+      "date": "2026-10-13",
+      "category": "praise",
+      "en": "You kept trying until you got it. Amazing!",
+      "zh": "你一直試到成功為止，太棒了！",
+      "ipa": "/ju kɛpt ˈtraɪɪŋ ənˈtɪl ju ɡɑt ɪt əˈmezɪŋ/",
+      "vocab": [
+        {
+          "w": "keep trying",
+          "pos": "phr.",
+          "ipa": "/kip ˈtraɪɪŋ/",
+          "zh": "持續嘗試"
+        },
+        {
+          "w": "amazing",
+          "pos": "adj.",
+          "ipa": "/əˈmezɪŋ/",
+          "zh": "了不起的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-12",
+      "date": "2026-10-13",
+      "category": "safety",
+      "en": "Wait until the light turns green to cross.",
+      "zh": "等燈變綠了再過馬路。",
+      "ipa": "/wet ənˈtɪl ðə laɪt tɝnz ɡrin tu krɔs/",
+      "vocab": [
+        {
+          "w": "light",
+          "pos": "n.",
+          "ipa": "/laɪt/",
+          "zh": "紅綠燈"
+        },
+        {
+          "w": "cross",
+          "pos": "v.",
+          "ipa": "/krɔs/",
+          "zh": "穿越；過（馬路）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-13",
+      "date": "2026-10-13",
+      "category": "health",
+      "en": "Let's wash the fruit before we eat it.",
+      "zh": "我們吃水果之前先洗一洗。",
+      "ipa": "/lɛts wɑʃ ðə frut bɪˈfor wi it ɪt/",
+      "vocab": [
+        {
+          "w": "wash",
+          "pos": "v.",
+          "ipa": "/wɑʃ/",
+          "zh": "清洗"
+        },
+        {
+          "w": "fruit",
+          "pos": "n.",
+          "ipa": "/frut/",
+          "zh": "水果"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-14",
+      "date": "2026-10-13",
+      "category": "relatives",
+      "en": "Grandma is coming over to bake cookies with us.",
+      "zh": "奶奶要過來跟我們一起烤餅乾。",
+      "ipa": "/ˈɡrænˌmɑ ɪz ˈkʌmɪŋ ˈovɚ tu bek ˈkʊkiz wɪð ʌs/",
+      "vocab": [
+        {
+          "w": "come over",
+          "pos": "phr.",
+          "ipa": "/kʌm ˈovɚ/",
+          "zh": "過來（拜訪）"
+        },
+        {
+          "w": "bake",
+          "pos": "v.",
+          "ipa": "/bek/",
+          "zh": "烘烤"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-15",
+      "date": "2026-10-13",
+      "category": "friends",
+      "en": "Would you like to invite Leo for a playdate?",
+      "zh": "你想邀請 Leo 來家裡玩嗎？",
+      "ipa": "/wʊd ju laɪk tu ɪnˈvaɪt ˈlio fɔr ə ˈpleˌdet/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "playdate",
+          "pos": "n.",
+          "ipa": "/ˈpleˌdet/",
+          "zh": "約玩伴一起玩"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-16",
+      "date": "2026-10-13",
+      "category": "manners",
+      "en": "Say \"excuse me\" when you need to pass.",
+      "zh": "要從別人旁邊過的時候，要說「借過」。",
+      "ipa": "/se ɪkˈskjuz mi hwɛn ju nid tu pæs/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "借過；不好意思"
+        },
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "經過"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-17",
+      "date": "2026-10-13",
+      "category": "weather",
+      "en": "Listen to the wind rustling the leaves.",
+      "zh": "你聽，風把樹葉吹得沙沙作響。",
+      "ipa": "/ˈlɪsn̩ tu ðə wɪnd ˈrʌslɪŋ ðə livz/",
+      "vocab": [
+        {
+          "w": "wind",
+          "pos": "n.",
+          "ipa": "/wɪnd/",
+          "zh": "風"
+        },
+        {
+          "w": "rustle",
+          "pos": "v.",
+          "ipa": "/ˈrʌsl̩/",
+          "zh": "沙沙作響"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-18",
+      "date": "2026-10-13",
+      "category": "screen-time",
+      "en": "Let's choose one show together, then play outside.",
+      "zh": "我們一起選一個節目，看完就去外面玩。",
+      "ipa": "/lɛts tʃuz wʌn ʃo təˈɡɛðɚ ðɛn ple ˌaʊtˈsaɪd/",
+      "vocab": [
+        {
+          "w": "choose",
+          "pos": "v.",
+          "ipa": "/tʃuz/",
+          "zh": "選擇"
+        },
+        {
+          "w": "show",
+          "pos": "n.",
+          "ipa": "/ʃo/",
+          "zh": "節目"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-19",
+      "date": "2026-10-13",
+      "category": "celebrations",
+      "en": "Let's string paper bats across the window.",
+      "zh": "我們把紙蝙蝠串起來掛在窗戶上。",
+      "ipa": "/lɛts strɪŋ ˈpepɚ bæts əˈkrɔs ðə ˈwɪndo/",
+      "vocab": [
+        {
+          "w": "string",
+          "pos": "v.",
+          "ipa": "/strɪŋ/",
+          "zh": "串起來"
+        },
+        {
+          "w": "bat",
+          "pos": "n.",
+          "ipa": "/bæt/",
+          "zh": "蝙蝠"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-20",
+      "date": "2026-10-13",
+      "category": "reading",
+      "en": "Which animal in this book is your favorite?",
+      "zh": "這本書裡你最喜歡哪一隻動物？",
+      "ipa": "/hwɪtʃ ˈænəml̩ ɪn ðɪs bʊk ɪz jʊr ˈfevərɪt/",
+      "vocab": [
+        {
+          "w": "animal",
+          "pos": "n.",
+          "ipa": "/ˈænəml̩/",
+          "zh": "動物"
+        },
+        {
+          "w": "favorite",
+          "pos": "adj.",
+          "ipa": "/ˈfevərɪt/",
+          "zh": "最喜歡的"
+        }
+      ]
+    }
+  ]
+}
