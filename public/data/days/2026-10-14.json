@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-14",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-14-1",
+      "date": "2026-10-14",
+      "category": "daily-routine",
+      "en": "Fold your blanket into a little square, like this.",
+      "zh": "把你的小被子摺成小方塊，像這樣。",
+      "ipa": "/fold jʊr ˈblæŋkɪt ˈɪntu ə ˈlɪtl skwɛr laɪk ðɪs/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/fold/",
+          "zh": "摺疊"
+        },
+        {
+          "w": "blanket",
+          "pos": "n.",
+          "ipa": "/ˈblæŋkɪt/",
+          "zh": "毯子；小被子"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-2",
+      "date": "2026-10-14",
+      "category": "meals",
+      "en": "Peel your tangerine and share a slice with me.",
+      "zh": "把你的橘子剝開，分我一瓣好嗎？",
+      "ipa": "/pil jʊr ˌtændʒəˈrin ænd ʃɛr ə slaɪs wɪð mi/",
+      "vocab": [
+        {
+          "w": "peel",
+          "pos": "v.",
+          "ipa": "/pil/",
+          "zh": "剝（皮）"
+        },
+        {
+          "w": "tangerine",
+          "pos": "n.",
+          "ipa": "/ˌtændʒəˈrin/",
+          "zh": "橘子"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-3",
+      "date": "2026-10-14",
+      "category": "bath-bedtime",
+      "en": "Tilt your head back so the soap stays out of your eyes.",
+      "zh": "頭往後仰，泡泡才不會跑進眼睛。",
+      "ipa": "/tɪlt jʊr hɛd bæk so ðə sop stez aʊt ʌv jʊr aɪz/",
+      "vocab": [
+        {
+          "w": "tilt",
+          "pos": "v.",
+          "ipa": "/tɪlt/",
+          "zh": "傾斜；仰"
+        },
+        {
+          "w": "soap",
+          "pos": "n.",
+          "ipa": "/sop/",
+          "zh": "肥皂；泡泡"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-4",
+      "date": "2026-10-14",
+      "category": "outings",
+      "en": "Let's pick apples at the orchard this afternoon.",
+      "zh": "今天下午我們去果園摘蘋果吧。",
+      "ipa": "/lɛts pɪk ˈæplz æt ði ˈɔrtʃɚd ðɪs ˌæftɚˈnun/",
+      "vocab": [
+        {
+          "w": "pick",
+          "pos": "v.",
+          "ipa": "/pɪk/",
+          "zh": "摘"
+        },
+        {
+          "w": "orchard",
+          "pos": "n.",
+          "ipa": "/ˈɔrtʃɚd/",
+          "zh": "果園"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-5",
+      "date": "2026-10-14",
+      "category": "playground",
+      "en": "Hold the chains tight while you swing higher.",
+      "zh": "盪高一點的時候，要抓緊鐵鍊喔。",
+      "ipa": "/hold ðə tʃenz taɪt hwaɪl ju swɪŋ ˈhaɪɚ/",
+      "vocab": [
+        {
+          "w": "chain",
+          "pos": "n.",
+          "ipa": "/tʃen/",
+          "zh": "鐵鍊"
+        },
+        {
+          "w": "swing",
+          "pos": "v.",
+          "ipa": "/swɪŋ/",
+          "zh": "盪鞦韆"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-6",
+      "date": "2026-10-14",
+      "category": "school",
+      "en": "Which classmate sat next to you at lunch today?",
+      "zh": "今天午餐時哪個同學坐你旁邊？",
+      "ipa": "/hwɪtʃ ˈklæsˌmet sæt nɛkst tu ju æt lʌntʃ təˈde/",
+      "vocab": [
+        {
+          "w": "classmate",
+          "pos": "n.",
+          "ipa": "/ˈklæsˌmet/",
+          "zh": "同學"
+        },
+        {
+          "w": "next to",
+          "pos": "phr.",
+          "ipa": "/nɛkst tu/",
+          "zh": "在…旁邊"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-7",
+      "date": "2026-10-14",
+      "category": "homework",
+      "en": "Draw a line to match each word with its picture.",
+      "zh": "畫線把每個字跟它的圖連起來。",
+      "ipa": "/drɔ ə laɪn tu mætʃ itʃ wɝd wɪð ɪts ˈpɪktʃɚ/",
+      "vocab": [
+        {
+          "w": "match",
+          "pos": "v.",
+          "ipa": "/mætʃ/",
+          "zh": "配對"
+        },
+        {
+          "w": "picture",
+          "pos": "n.",
+          "ipa": "/ˈpɪktʃɚ/",
+          "zh": "圖片"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-8",
+      "date": "2026-10-14",
+      "category": "toys-sharing",
+      "en": "Let's build the train track together, piece by piece.",
+      "zh": "我們一起一塊一塊把軌道拼起來吧。",
+      "ipa": "/lɛts bɪld ðə tren træk təˈɡɛðɚ pis baɪ pis/",
+      "vocab": [
+        {
+          "w": "track",
+          "pos": "n.",
+          "ipa": "/træk/",
+          "zh": "軌道"
+        },
+        {
+          "w": "piece by piece",
+          "pos": "phr.",
+          "ipa": "/pis baɪ pis/",
+          "zh": "一塊一塊地"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-9",
+      "date": "2026-10-14",
+      "category": "emotions",
+      "en": "Your tummy feels fluttery because you're excited.",
+      "zh": "你肚子裡怪怪的，是因為你很興奮喔。",
+      "ipa": "/jʊr ˈtʌmi filz ˈflʌtəri bɪˈkɔz jʊr ɪkˈsaɪtɪd/",
+      "vocab": [
+        {
+          "w": "fluttery",
+          "pos": "adj.",
+          "ipa": "/ˈflʌtəri/",
+          "zh": "（心裡）撲通撲通的"
+        },
+        {
+          "w": "excited",
+          "pos": "adj.",
+          "ipa": "/ɪkˈsaɪtɪd/",
+          "zh": "興奮的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-10",
+      "date": "2026-10-14",
+      "category": "discipline",
+      "en": "We put the sand back in the sandbox, not on the slide.",
+      "zh": "沙子要放回沙坑，不是倒在溜滑梯上。",
+      "ipa": "/wi pʊt ðə sænd bæk ɪn ðə ˈsændˌbɑks nɑt ɑn ðə slaɪd/",
+      "vocab": [
+        {
+          "w": "sandbox",
+          "pos": "n.",
+          "ipa": "/ˈsændˌbɑks/",
+          "zh": "沙坑"
+        },
+        {
+          "w": "slide",
+          "pos": "n.",
+          "ipa": "/slaɪd/",
+          "zh": "溜滑梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-11",
+      "date": "2026-10-14",
+      "category": "praise",
+      "en": "You were so patient waiting for your turn!",
+      "zh": "你剛剛很有耐心地等輪到你，好棒！",
+      "ipa": "/ju wɝ so ˈpeʃənt ˈwetɪŋ fɔr jʊr tɝn/",
+      "vocab": [
+        {
+          "w": "patient",
+          "pos": "adj.",
+          "ipa": "/ˈpeʃənt/",
+          "zh": "有耐心的"
+        },
+        {
+          "w": "turn",
+          "pos": "n.",
+          "ipa": "/tɝn/",
+          "zh": "輪流的順序"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-12",
+      "date": "2026-10-14",
+      "category": "safety",
+      "en": "Keep your fingers away from the car door hinge.",
+      "zh": "手指不要靠近車門的轉軸那邊。",
+      "ipa": "/kip jʊr ˈfɪŋɡɚz əˈwe frʌm ðə kɑr dɔr hɪndʒ/",
+      "vocab": [
+        {
+          "w": "hinge",
+          "pos": "n.",
+          "ipa": "/hɪndʒ/",
+          "zh": "鉸鏈；轉軸"
+        },
+        {
+          "w": "keep away from",
+          "pos": "phr.",
+          "ipa": "/kip əˈwe frʌm/",
+          "zh": "遠離"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-13",
+      "date": "2026-10-14",
+      "category": "health",
+      "en": "Let's put on sunscreen before we go to the beach.",
+      "zh": "去海邊之前，我們先擦防曬乳。",
+      "ipa": "/lɛts pʊt ɑn ˈsʌnˌskrin bɪˈfɔr wi ɡo tu ðə bitʃ/",
+      "vocab": [
+        {
+          "w": "sunscreen",
+          "pos": "n.",
+          "ipa": "/ˈsʌnˌskrin/",
+          "zh": "防曬乳"
+        },
+        {
+          "w": "put on",
+          "pos": "phr.",
+          "ipa": "/pʊt ɑn/",
+          "zh": "塗上；穿上"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-14",
+      "date": "2026-10-14",
+      "category": "relatives",
+      "en": "Let's send Uncle Ben a photo of your drawing.",
+      "zh": "我們把你的畫拍照傳給班叔叔看吧。",
+      "ipa": "/lɛts sɛnd ˈʌŋkl bɛn ə ˈfoto ʌv jʊr ˈdrɔɪŋ/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkl/",
+          "zh": "叔叔；舅舅"
+        },
+        {
+          "w": "drawing",
+          "pos": "n.",
+          "ipa": "/ˈdrɔɪŋ/",
+          "zh": "圖畫"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-15",
+      "date": "2026-10-14",
+      "category": "friends",
+      "en": "Ask Mia if she wants to play tag with you.",
+      "zh": "去問問米亞要不要跟你玩鬼抓人。",
+      "ipa": "/æsk ˈmiə ɪf ʃi wɑnts tu ple tæɡ wɪð ju/",
+      "vocab": [
+        {
+          "w": "play tag",
+          "pos": "phr.",
+          "ipa": "/ple tæɡ/",
+          "zh": "玩鬼抓人"
+        },
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "詢問"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-16",
+      "date": "2026-10-14",
+      "category": "manners",
+      "en": "Please pass the salt to Grandpa with both hands.",
+      "zh": "請用雙手把鹽遞給爺爺。",
+      "ipa": "/pliz pæs ðə sɔlt tu ˈɡrændˌpɑ wɪð boθ hændz/",
+      "vocab": [
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "傳遞"
+        },
+        {
+          "w": "both",
+          "pos": "adj.",
+          "ipa": "/boθ/",
+          "zh": "兩個都"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-17",
+      "date": "2026-10-14",
+      "category": "weather",
+      "en": "It's chilly this morning, so grab your sweater.",
+      "zh": "今天早上有點涼，記得帶毛衣。",
+      "ipa": "/ɪts ˈtʃɪli ðɪs ˈmɔrnɪŋ so ɡræb jʊr ˈswɛtɚ/",
+      "vocab": [
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "涼颼颼的"
+        },
+        {
+          "w": "sweater",
+          "pos": "n.",
+          "ipa": "/ˈswɛtɚ/",
+          "zh": "毛衣"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-18",
+      "date": "2026-10-14",
+      "category": "screen-time",
+      "en": "When the timer beeps, the tablet goes back on the shelf.",
+      "zh": "計時器一響，平板就要放回架子上。",
+      "ipa": "/hwɛn ðə ˈtaɪmɚ bips ðə ˈtæblɪt ɡoz bæk ɑn ðə ʃɛlf/",
+      "vocab": [
+        {
+          "w": "timer",
+          "pos": "n.",
+          "ipa": "/ˈtaɪmɚ/",
+          "zh": "計時器"
+        },
+        {
+          "w": "shelf",
+          "pos": "n.",
+          "ipa": "/ʃɛlf/",
+          "zh": "架子"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-19",
+      "date": "2026-10-14",
+      "category": "celebrations",
+      "en": "Let's carve a smiley face into our pumpkin.",
+      "zh": "我們在南瓜上刻一個笑臉吧。",
+      "ipa": "/lɛts kɑrv ə ˈsmaɪli fes ˈɪntu ˈaʊɚ ˈpʌmpkɪn/",
+      "vocab": [
+        {
+          "w": "carve",
+          "pos": "v.",
+          "ipa": "/kɑrv/",
+          "zh": "雕刻"
+        },
+        {
+          "w": "smiley face",
+          "pos": "phr.",
+          "ipa": "/ˈsmaɪli fes/",
+          "zh": "笑臉"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-20",
+      "date": "2026-10-14",
+      "category": "reading",
+      "en": "Let's make the giant's voice deep and booming.",
+      "zh": "我們把巨人的聲音唸得又低又響亮。",
+      "ipa": "/lɛts mek ðə ˈdʒaɪənts vɔɪs dip ænd ˈbumɪŋ/",
+      "vocab": [
+        {
+          "w": "giant",
+          "pos": "n.",
+          "ipa": "/ˈdʒaɪənt/",
+          "zh": "巨人"
+        },
+        {
+          "w": "booming",
+          "pos": "adj.",
+          "ipa": "/ˈbumɪŋ/",
+          "zh": "低沉響亮的"
+        }
+      ]
+    }
+  ]
+}
