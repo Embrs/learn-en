@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-15",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-15-1",
+      "date": "2026-10-15",
+      "category": "daily-routine",
+      "en": "Hang your towel on the hook so it can dry.",
+      "zh": "把毛巾掛在掛勾上，這樣才會乾喔。",
+      "ipa": "/hæŋ jʊr ˈtaʊəl ɑn ðə hʊk so ɪt kæn draɪ/",
+      "vocab": [
+        {
+          "w": "towel",
+          "pos": "n.",
+          "ipa": "/ˈtaʊəl/",
+          "zh": "毛巾"
+        },
+        {
+          "w": "hook",
+          "pos": "n.",
+          "ipa": "/hʊk/",
+          "zh": "掛勾"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-2",
+      "date": "2026-10-15",
+      "category": "meals",
+      "en": "Dip your carrot stick in the yogurt sauce.",
+      "zh": "把紅蘿蔔條沾一下優格醬。",
+      "ipa": "/dɪp jʊr ˈkærət stɪk ɪn ðə ˈjoɡɚt sɔs/",
+      "vocab": [
+        {
+          "w": "dip",
+          "pos": "v.",
+          "ipa": "/dɪp/",
+          "zh": "沾；浸"
+        },
+        {
+          "w": "sauce",
+          "pos": "n.",
+          "ipa": "/sɔs/",
+          "zh": "醬汁"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-3",
+      "date": "2026-10-15",
+      "category": "bath-bedtime",
+      "en": "Pull the plug and watch the water swirl away.",
+      "zh": "把塞子拔起來，看水轉著圈流走。",
+      "ipa": "/pʊl ðə plʌɡ ænd wɑtʃ ðə ˈwɔtɚ swɝl əˈwe/",
+      "vocab": [
+        {
+          "w": "plug",
+          "pos": "n.",
+          "ipa": "/plʌɡ/",
+          "zh": "（浴缸）塞子"
+        },
+        {
+          "w": "swirl",
+          "pos": "v.",
+          "ipa": "/swɝl/",
+          "zh": "打轉；旋轉"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-4",
+      "date": "2026-10-15",
+      "category": "outings",
+      "en": "Let's take the ferry across the river to the market.",
+      "zh": "我們搭渡輪過河去市集吧。",
+      "ipa": "/lɛts tek ðə ˈfɛri əˈkrɔs ðə ˈrɪvɚ tu ðə ˈmɑrkɪt/",
+      "vocab": [
+        {
+          "w": "ferry",
+          "pos": "n.",
+          "ipa": "/ˈfɛri/",
+          "zh": "渡輪"
+        },
+        {
+          "w": "across",
+          "pos": "prep.",
+          "ipa": "/əˈkrɔs/",
+          "zh": "越過；橫過"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-5",
+      "date": "2026-10-15",
+      "category": "playground",
+      "en": "Hop across the stepping stones without touching the grass.",
+      "zh": "跳過踏腳石，不要踩到草地喔。",
+      "ipa": "/hɑp əˈkrɔs ðə ˈstɛpɪŋ stonz wɪˈðaʊt ˈtʌtʃɪŋ ðə ɡræs/",
+      "vocab": [
+        {
+          "w": "hop",
+          "pos": "v.",
+          "ipa": "/hɑp/",
+          "zh": "單腳跳；蹦跳"
+        },
+        {
+          "w": "stepping stone",
+          "pos": "n.",
+          "ipa": "/ˈstɛpɪŋ ston/",
+          "zh": "踏腳石"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-6",
+      "date": "2026-10-15",
+      "category": "school",
+      "en": "Don't forget to put your library book in your backpack.",
+      "zh": "別忘了把圖書館的書放進書包。",
+      "ipa": "/dont fɚˈɡɛt tu pʊt jʊr ˈlaɪˌbrɛri bʊk ɪn jʊr ˈbækˌpæk/",
+      "vocab": [
+        {
+          "w": "library",
+          "pos": "n.",
+          "ipa": "/ˈlaɪˌbrɛri/",
+          "zh": "圖書館"
+        },
+        {
+          "w": "backpack",
+          "pos": "n.",
+          "ipa": "/ˈbækˌpæk/",
+          "zh": "背包；書包"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-7",
+      "date": "2026-10-15",
+      "category": "homework",
+      "en": "Count the dots and write the number in the box.",
+      "zh": "數一數有幾個點點，把數字寫在格子裡。",
+      "ipa": "/kaʊnt ðə dɑts ænd raɪt ðə ˈnʌmbɚ ɪn ðə bɑks/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數（數）"
+        },
+        {
+          "w": "dot",
+          "pos": "n.",
+          "ipa": "/dɑt/",
+          "zh": "點；圓點"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-8",
+      "date": "2026-10-15",
+      "category": "toys-sharing",
+      "en": "You can be the driver, and I'll be the passenger.",
+      "zh": "你當司機，我來當乘客。",
+      "ipa": "/ju kæn bi ðə ˈdraɪvɚ ænd aɪl bi ðə ˈpæsəndʒɚ/",
+      "vocab": [
+        {
+          "w": "driver",
+          "pos": "n.",
+          "ipa": "/ˈdraɪvɚ/",
+          "zh": "司機"
+        },
+        {
+          "w": "passenger",
+          "pos": "n.",
+          "ipa": "/ˈpæsəndʒɚ/",
+          "zh": "乘客"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-9",
+      "date": "2026-10-15",
+      "category": "emotions",
+      "en": "It's hard to say goodbye; let's wave from the window.",
+      "zh": "要說再見很難過吧，我們到窗邊揮揮手。",
+      "ipa": "/ɪts hɑrd tu se ɡʊdˈbaɪ lɛts wev frʌm ðə ˈwɪndo/",
+      "vocab": [
+        {
+          "w": "say goodbye",
+          "pos": "phr.",
+          "ipa": "/se ɡʊdˈbaɪ/",
+          "zh": "道別"
+        },
+        {
+          "w": "wave",
+          "pos": "v.",
+          "ipa": "/wev/",
+          "zh": "揮手"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-10",
+      "date": "2026-10-15",
+      "category": "discipline",
+      "en": "Crayons are for paper, not for the walls.",
+      "zh": "蠟筆是畫在紙上的，不是畫在牆上。",
+      "ipa": "/ˈkreənz ɑr fɔr ˈpepɚ nɑt fɔr ðə wɔlz/",
+      "vocab": [
+        {
+          "w": "crayon",
+          "pos": "n.",
+          "ipa": "/ˈkreən/",
+          "zh": "蠟筆"
+        },
+        {
+          "w": "wall",
+          "pos": "n.",
+          "ipa": "/wɔl/",
+          "zh": "牆壁"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-11",
+      "date": "2026-10-15",
+      "category": "praise",
+      "en": "You zipped up your jacket all by yourself!",
+      "zh": "你自己把外套拉鍊拉好了耶！",
+      "ipa": "/ju zɪpt ʌp jʊr ˈdʒækɪt ɔl baɪ jʊrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "zip up",
+          "pos": "phr.",
+          "ipa": "/zɪp ʌp/",
+          "zh": "拉上拉鍊"
+        },
+        {
+          "w": "by yourself",
+          "pos": "phr.",
+          "ipa": "/baɪ jʊrˈsɛlf/",
+          "zh": "靠你自己"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-12",
+      "date": "2026-10-15",
+      "category": "safety",
+      "en": "Wait for the green man before we cross.",
+      "zh": "等小綠人亮了我們再過馬路。",
+      "ipa": "/wet fɔr ðə ɡrin mæn bɪˈfɔr wi krɔs/",
+      "vocab": [
+        {
+          "w": "wait for",
+          "pos": "phr.",
+          "ipa": "/wet fɔr/",
+          "zh": "等待"
+        },
+        {
+          "w": "cross",
+          "pos": "v.",
+          "ipa": "/krɔs/",
+          "zh": "穿越；過（馬路）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-13",
+      "date": "2026-10-15",
+      "category": "health",
+      "en": "Sip some warm water to soothe your scratchy throat.",
+      "zh": "喝點溫開水，讓沙沙的喉嚨舒服一點。",
+      "ipa": "/sɪp sʌm wɔrm ˈwɔtɚ tu suð jʊr ˈskrætʃi θrot/",
+      "vocab": [
+        {
+          "w": "soothe",
+          "pos": "v.",
+          "ipa": "/suð/",
+          "zh": "舒緩"
+        },
+        {
+          "w": "scratchy",
+          "pos": "adj.",
+          "ipa": "/ˈskrætʃi/",
+          "zh": "（喉嚨）沙沙癢癢的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-14",
+      "date": "2026-10-15",
+      "category": "relatives",
+      "en": "Auntie Lily is coming to stay with us this weekend.",
+      "zh": "莉莉阿姨這個週末要來我們家住喔。",
+      "ipa": "/ˈænti ˈlɪli ɪz ˈkʌmɪŋ tu ste wɪð ʌs ðɪs ˈwikˌɛnd/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨；姑姑"
+        },
+        {
+          "w": "stay with",
+          "pos": "phr.",
+          "ipa": "/ste wɪð/",
+          "zh": "住在（某人家）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-15",
+      "date": "2026-10-15",
+      "category": "friends",
+      "en": "Why don't you invite Leo to build the sandcastle?",
+      "zh": "要不要邀請利奧一起堆沙堡？",
+      "ipa": "/hwaɪ dont ju ɪnˈvaɪt ˈlio tu bɪld ðə ˈsændˌkæsl/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "sandcastle",
+          "pos": "n.",
+          "ipa": "/ˈsændˌkæsl/",
+          "zh": "沙堡"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-16",
+      "date": "2026-10-15",
+      "category": "manners",
+      "en": "Knock on the door before you go in, okay?",
+      "zh": "進去之前要先敲門，好嗎？",
+      "ipa": "/nɑk ɑn ðə dɔr bɪˈfɔr ju ɡo ɪn oˈke/",
+      "vocab": [
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲（門）"
+        },
+        {
+          "w": "go in",
+          "pos": "phr.",
+          "ipa": "/ɡo ɪn/",
+          "zh": "進去"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-17",
+      "date": "2026-10-15",
+      "category": "weather",
+      "en": "Look, the leaves are turning red and yellow!",
+      "zh": "你看，葉子變紅變黃了！",
+      "ipa": "/lʊk ðə livz ɑr ˈtɝnɪŋ rɛd ænd ˈjɛlo/",
+      "vocab": [
+        {
+          "w": "leaf",
+          "pos": "n.",
+          "ipa": "/lif/",
+          "zh": "葉子"
+        },
+        {
+          "w": "turn",
+          "pos": "v.",
+          "ipa": "/tɝn/",
+          "zh": "變成"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-18",
+      "date": "2026-10-15",
+      "category": "screen-time",
+      "en": "Let's watch one episode, then we'll build a fort.",
+      "zh": "我們看一集就好，然後來搭祕密基地。",
+      "ipa": "/lɛts wɑtʃ wʌn ˈɛpəˌsod ðɛn wil bɪld ə fɔrt/",
+      "vocab": [
+        {
+          "w": "episode",
+          "pos": "n.",
+          "ipa": "/ˈɛpəˌsod/",
+          "zh": "（節目的）一集"
+        },
+        {
+          "w": "fort",
+          "pos": "n.",
+          "ipa": "/fɔrt/",
+          "zh": "堡壘；祕密基地"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-19",
+      "date": "2026-10-15",
+      "category": "celebrations",
+      "en": "Let's hang paper lanterns for the moon festival.",
+      "zh": "我們來掛紙燈籠過中秋節吧。",
+      "ipa": "/lɛts hæŋ ˈpepɚ ˈlæntɚnz fɔr ðə mun ˈfɛstəvl/",
+      "vocab": [
+        {
+          "w": "lantern",
+          "pos": "n.",
+          "ipa": "/ˈlæntɚn/",
+          "zh": "燈籠"
+        },
+        {
+          "w": "festival",
+          "pos": "n.",
+          "ipa": "/ˈfɛstəvl/",
+          "zh": "節日"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-20",
+      "date": "2026-10-15",
+      "category": "reading",
+      "en": "Can you guess what the bear will find next?",
+      "zh": "你猜猜看小熊接下來會找到什麼？",
+      "ipa": "/kæn ju ɡɛs hwɑt ðə bɛr wɪl faɪnd nɛkst/",
+      "vocab": [
+        {
+          "w": "guess",
+          "pos": "v.",
+          "ipa": "/ɡɛs/",
+          "zh": "猜"
+        },
+        {
+          "w": "next",
+          "pos": "adv.",
+          "ipa": "/nɛkst/",
+          "zh": "接下來"
+        }
+      ]
+    }
+  ]
+}
