@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-16",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-16-1",
+      "date": "2026-10-16",
+      "category": "daily-routine",
+      "en": "Flip your pillow over and fluff it up.",
+      "zh": "把枕頭翻過來，拍一拍讓它蓬鬆。",
+      "ipa": "/flɪp jʊr ˈpɪlo ˈovɚ ænd flʌf ɪt ʌp/",
+      "vocab": [
+        {
+          "w": "flip over",
+          "pos": "phr.",
+          "ipa": "/flɪp ˈovɚ/",
+          "zh": "翻過來"
+        },
+        {
+          "w": "fluff up",
+          "pos": "phr.",
+          "ipa": "/flʌf ʌp/",
+          "zh": "拍鬆"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-2",
+      "date": "2026-10-16",
+      "category": "meals",
+      "en": "Blow on your soup first; it's still steaming.",
+      "zh": "先吹一吹湯，還在冒煙呢。",
+      "ipa": "/blo ɑn jʊr sup fɝst ɪts stɪl ˈstimɪŋ/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "steaming",
+          "pos": "adj.",
+          "ipa": "/ˈstimɪŋ/",
+          "zh": "冒著熱氣的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-3",
+      "date": "2026-10-16",
+      "category": "bath-bedtime",
+      "en": "Let's count the rubber ducks before they swim away.",
+      "zh": "我們趁小鴨游走前數一數有幾隻。",
+      "ipa": "/lɛts kaʊnt ðə ˈrʌbɚ dʌks bɪˈfɔr ðe swɪm əˈwe/",
+      "vocab": [
+        {
+          "w": "rubber duck",
+          "pos": "n.",
+          "ipa": "/ˈrʌbɚ dʌk/",
+          "zh": "橡皮小鴨"
+        },
+        {
+          "w": "swim away",
+          "pos": "phr.",
+          "ipa": "/swɪm əˈwe/",
+          "zh": "游走"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-4",
+      "date": "2026-10-16",
+      "category": "outings",
+      "en": "Let's pick a pumpkin at the farm today.",
+      "zh": "我們今天去農場挑一顆南瓜吧。",
+      "ipa": "/lɛts pɪk ə ˈpʌmpkɪn æt ðə fɑrm təˈde/",
+      "vocab": [
+        {
+          "w": "pumpkin",
+          "pos": "n.",
+          "ipa": "/ˈpʌmpkɪn/",
+          "zh": "南瓜"
+        },
+        {
+          "w": "farm",
+          "pos": "n.",
+          "ipa": "/fɑrm/",
+          "zh": "農場"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-5",
+      "date": "2026-10-16",
+      "category": "playground",
+      "en": "Climb up the rope net one hand at a time.",
+      "zh": "爬繩網的時候一次移一隻手。",
+      "ipa": "/klaɪm ʌp ðə rop nɛt wʌn hænd æt ə taɪm/",
+      "vocab": [
+        {
+          "w": "rope net",
+          "pos": "n.",
+          "ipa": "/rop nɛt/",
+          "zh": "繩網"
+        },
+        {
+          "w": "one at a time",
+          "pos": "phr.",
+          "ipa": "/wʌn æt ə taɪm/",
+          "zh": "一次一個"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-6",
+      "date": "2026-10-16",
+      "category": "school",
+      "en": "Hand this permission slip to your teacher, please.",
+      "zh": "請把這張同意書交給老師。",
+      "ipa": "/hænd ðɪs pɚˈmɪʃən slɪp tə jʊr ˈtitʃɚ pliz/",
+      "vocab": [
+        {
+          "w": "permission slip",
+          "pos": "n.",
+          "ipa": "/pɚˈmɪʃən slɪp/",
+          "zh": "家長同意書"
+        },
+        {
+          "w": "hand",
+          "pos": "v.",
+          "ipa": "/hænd/",
+          "zh": "交給；遞"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-7",
+      "date": "2026-10-16",
+      "category": "homework",
+      "en": "Trace the dotted letters before you write your own.",
+      "zh": "先描虛線的字母，再自己寫。",
+      "ipa": "/tres ðə ˈdɑtɪd ˈlɛtɚz bɪˈfɔr ju raɪt jʊr on/",
+      "vocab": [
+        {
+          "w": "trace",
+          "pos": "v.",
+          "ipa": "/tres/",
+          "zh": "描；描摹"
+        },
+        {
+          "w": "dotted",
+          "pos": "adj.",
+          "ipa": "/ˈdɑtɪd/",
+          "zh": "虛線的；點狀的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-8",
+      "date": "2026-10-16",
+      "category": "toys-sharing",
+      "en": "Your brother built this, so ask before you add blocks.",
+      "zh": "這是哥哥蓋的，要加積木前先問他喔。",
+      "ipa": "/jʊr ˈbrʌðɚ bɪlt ðɪs so æsk bɪˈfɔr ju æd blɑks/",
+      "vocab": [
+        {
+          "w": "built",
+          "pos": "v.",
+          "ipa": "/bɪlt/",
+          "zh": "建造（build 的過去式）"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-9",
+      "date": "2026-10-16",
+      "category": "emotions",
+      "en": "You look frustrated; do you want a hug?",
+      "zh": "你看起來很挫折，要不要抱一下？",
+      "ipa": "/ju lʊk ˈfrʌstretɪd du ju wɑnt ə hʌɡ/",
+      "vocab": [
+        {
+          "w": "frustrated",
+          "pos": "adj.",
+          "ipa": "/ˈfrʌstretɪd/",
+          "zh": "挫折的；沮喪的"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-10",
+      "date": "2026-10-16",
+      "category": "discipline",
+      "en": "Leaves stay on the tree; we don't pull them off.",
+      "zh": "葉子要留在樹上，我們不去扯它。",
+      "ipa": "/livz ste ɑn ðə tri wi dont pʊl ðɛm ɔf/",
+      "vocab": [
+        {
+          "w": "leaves",
+          "pos": "n.",
+          "ipa": "/livz/",
+          "zh": "葉子（leaf 的複數）"
+        },
+        {
+          "w": "pull off",
+          "pos": "phr.",
+          "ipa": "/pʊl ɔf/",
+          "zh": "扯下"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-11",
+      "date": "2026-10-16",
+      "category": "praise",
+      "en": "Wow, you kept trying until the tower stood up!",
+      "zh": "哇，你一直試，塔終於站起來了！",
+      "ipa": "/waʊ ju kɛpt ˈtraɪɪŋ ənˈtɪl ðə ˈtaʊɚ stʊd ʌp/",
+      "vocab": [
+        {
+          "w": "keep trying",
+          "pos": "phr.",
+          "ipa": "/kip ˈtraɪɪŋ/",
+          "zh": "持續嘗試"
+        },
+        {
+          "w": "tower",
+          "pos": "n.",
+          "ipa": "/ˈtaʊɚ/",
+          "zh": "塔"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-12",
+      "date": "2026-10-16",
+      "category": "safety",
+      "en": "Stay away from the oven; it's very hot.",
+      "zh": "離烤箱遠一點，它很燙。",
+      "ipa": "/ste əˈwe frəm ði ˈʌvən ɪts ˈvɛri hɑt/",
+      "vocab": [
+        {
+          "w": "stay away from",
+          "pos": "phr.",
+          "ipa": "/ste əˈwe frəm/",
+          "zh": "遠離"
+        },
+        {
+          "w": "oven",
+          "pos": "n.",
+          "ipa": "/ˈʌvən/",
+          "zh": "烤箱"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-13",
+      "date": "2026-10-16",
+      "category": "health",
+      "en": "Let's put a cool cloth on your forehead.",
+      "zh": "我們在你額頭上放一條涼毛巾。",
+      "ipa": "/lɛts pʊt ə kul klɔθ ɑn jʊr ˈfɔrˌhɛd/",
+      "vocab": [
+        {
+          "w": "cloth",
+          "pos": "n.",
+          "ipa": "/klɔθ/",
+          "zh": "布；毛巾"
+        },
+        {
+          "w": "forehead",
+          "pos": "n.",
+          "ipa": "/ˈfɔrˌhɛd/",
+          "zh": "額頭"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-14",
+      "date": "2026-10-16",
+      "category": "relatives",
+      "en": "Let's video call Grandpa and show him your drawing.",
+      "zh": "我們跟爺爺視訊，給他看你的畫。",
+      "ipa": "/lɛts ˈvɪdɪo kɔl ˈɡrænpɑ ænd ʃo hɪm jʊr ˈdrɔɪŋ/",
+      "vocab": [
+        {
+          "w": "video call",
+          "pos": "v.",
+          "ipa": "/ˈvɪdɪo kɔl/",
+          "zh": "視訊通話"
+        },
+        {
+          "w": "drawing",
+          "pos": "n.",
+          "ipa": "/ˈdrɔɪŋ/",
+          "zh": "畫；圖畫"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-15",
+      "date": "2026-10-16",
+      "category": "friends",
+      "en": "Ask Mia if she'd like to join your game.",
+      "zh": "問問Mia要不要一起玩你們的遊戲。",
+      "ipa": "/æsk ˈmiə ɪf ʃid laɪk tə dʒɔɪn jʊr ɡem/",
+      "vocab": [
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        },
+        {
+          "w": "game",
+          "pos": "n.",
+          "ipa": "/ɡem/",
+          "zh": "遊戲"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-16",
+      "date": "2026-10-16",
+      "category": "manners",
+      "en": "Please wait until I finish talking, sweetie.",
+      "zh": "寶貝，請等我說完話喔。",
+      "ipa": "/pliz wet ənˈtɪl aɪ ˈfɪnɪʃ ˈtɔkɪŋ ˈswiti/",
+      "vocab": [
+        {
+          "w": "wait until",
+          "pos": "phr.",
+          "ipa": "/wet ənˈtɪl/",
+          "zh": "等到"
+        },
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "完成；結束"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-17",
+      "date": "2026-10-16",
+      "category": "weather",
+      "en": "It's windy, so hold on to your hat!",
+      "zh": "風好大，抓好你的帽子！",
+      "ipa": "/ɪts ˈwɪndi so hold ɑn tə jʊr hæt/",
+      "vocab": [
+        {
+          "w": "windy",
+          "pos": "adj.",
+          "ipa": "/ˈwɪndi/",
+          "zh": "颳風的"
+        },
+        {
+          "w": "hold on to",
+          "pos": "phr.",
+          "ipa": "/hold ɑn tu/",
+          "zh": "抓緊"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-18",
+      "date": "2026-10-16",
+      "category": "screen-time",
+      "en": "When the timer beeps, the tablet goes to sleep.",
+      "zh": "計時器一響，平板就要睡覺囉。",
+      "ipa": "/hwɛn ðə ˈtaɪmɚ bips ðə ˈtæblɪt ɡoz tə slip/",
+      "vocab": [
+        {
+          "w": "beep",
+          "pos": "v.",
+          "ipa": "/bip/",
+          "zh": "嗶嗶響"
+        },
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-19",
+      "date": "2026-10-16",
+      "category": "celebrations",
+      "en": "What costume do you want to wear for Halloween?",
+      "zh": "萬聖節你想穿什麼服裝？",
+      "ipa": "/hwɑt ˈkɑstjum du ju wɑnt tə wɛr fɚ ˌhæloˈin/",
+      "vocab": [
+        {
+          "w": "costume",
+          "pos": "n.",
+          "ipa": "/ˈkɑstjum/",
+          "zh": "裝扮服；戲服"
+        },
+        {
+          "w": "Halloween",
+          "pos": "n.",
+          "ipa": "/ˌhæloˈin/",
+          "zh": "萬聖節"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-20",
+      "date": "2026-10-16",
+      "category": "reading",
+      "en": "Let's read this page in a funny voice.",
+      "zh": "我們用好笑的聲音念這一頁吧。",
+      "ipa": "/lɛts rid ðɪs pedʒ ɪn ə ˈfʌni vɔɪs/",
+      "vocab": [
+        {
+          "w": "funny",
+          "pos": "adj.",
+          "ipa": "/ˈfʌni/",
+          "zh": "好笑的"
+        },
+        {
+          "w": "voice",
+          "pos": "n.",
+          "ipa": "/vɔɪs/",
+          "zh": "聲音"
+        }
+      ]
+    }
+  ]
+}
