@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-17",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-17-1",
+      "date": "2026-10-17",
+      "category": "daily-routine",
+      "en": "Hang your pajamas on the hook behind the door.",
+      "zh": "把睡衣掛在門後的掛鉤上。",
+      "ipa": "/hæŋ jʊr pəˈdʒæməz ɑn ðə hʊk bɪˈhaɪnd ðə dɔr/",
+      "vocab": [
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒæməz/",
+          "zh": "睡衣"
+        },
+        {
+          "w": "hook",
+          "pos": "n.",
+          "ipa": "/hʊk/",
+          "zh": "掛鉤"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-2",
+      "date": "2026-10-17",
+      "category": "meals",
+      "en": "Dip your apple slices in the yogurt.",
+      "zh": "把蘋果片沾一下優格吃。",
+      "ipa": "/dɪp jʊr ˈæpəl ˈslaɪsɪz ɪn ðə ˈjoɡɚt/",
+      "vocab": [
+        {
+          "w": "dip",
+          "pos": "v.",
+          "ipa": "/dɪp/",
+          "zh": "沾、浸"
+        },
+        {
+          "w": "slice",
+          "pos": "n.",
+          "ipa": "/slaɪs/",
+          "zh": "薄片"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-3",
+      "date": "2026-10-17",
+      "category": "bath-bedtime",
+      "en": "Close your eyes while I rinse the bubbles off.",
+      "zh": "我沖掉泡泡的時候，眼睛閉起來喔。",
+      "ipa": "/kloz jʊr aɪz hwaɪl aɪ rɪns ðə ˈbʌbəlz ɔf/",
+      "vocab": [
+        {
+          "w": "rinse off",
+          "pos": "phr.",
+          "ipa": "/rɪns ɔf/",
+          "zh": "沖掉"
+        },
+        {
+          "w": "bubble",
+          "pos": "n.",
+          "ipa": "/ˈbʌbəl/",
+          "zh": "泡泡"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-4",
+      "date": "2026-10-17",
+      "category": "outings",
+      "en": "Let's collect pretty fallen leaves on our walk.",
+      "zh": "我們散步的時候來撿漂亮的落葉吧。",
+      "ipa": "/lɛts kəˈlɛkt ˈprɪti ˈfɔlən livz ɑn ˈaʊɚ wɔk/",
+      "vocab": [
+        {
+          "w": "collect",
+          "pos": "v.",
+          "ipa": "/kəˈlɛkt/",
+          "zh": "收集"
+        },
+        {
+          "w": "fallen leaves",
+          "pos": "phr.",
+          "ipa": "/ˈfɔlən livz/",
+          "zh": "落葉"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-5",
+      "date": "2026-10-17",
+      "category": "playground",
+      "en": "Hold the chains tight while you swing high.",
+      "zh": "盪高的時候要把鐵鍊抓緊喔。",
+      "ipa": "/hold ðə tʃenz taɪt hwaɪl ju swɪŋ haɪ/",
+      "vocab": [
+        {
+          "w": "chain",
+          "pos": "n.",
+          "ipa": "/tʃen/",
+          "zh": "鍊子"
+        },
+        {
+          "w": "swing",
+          "pos": "v.",
+          "ipa": "/swɪŋ/",
+          "zh": "盪鞦韆"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-6",
+      "date": "2026-10-17",
+      "category": "school",
+      "en": "Give me a high five, then line up with your class.",
+      "zh": "跟我擊個掌，然後去跟同學一起排隊。",
+      "ipa": "/ɡɪv mi ə haɪ faɪv ðɛn laɪn ʌp wɪð jʊr klæs/",
+      "vocab": [
+        {
+          "w": "high five",
+          "pos": "n.",
+          "ipa": "/haɪ faɪv/",
+          "zh": "擊掌"
+        },
+        {
+          "w": "line up",
+          "pos": "phr.",
+          "ipa": "/laɪn ʌp/",
+          "zh": "排隊"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-7",
+      "date": "2026-10-17",
+      "category": "homework",
+      "en": "Let's use these beans to practice adding.",
+      "zh": "我們用這些豆子來練習加法。",
+      "ipa": "/lɛts juz ðiz binz tə ˈpræktɪs ˈædɪŋ/",
+      "vocab": [
+        {
+          "w": "practice",
+          "pos": "v.",
+          "ipa": "/ˈpræktɪs/",
+          "zh": "練習"
+        },
+        {
+          "w": "add",
+          "pos": "v.",
+          "ipa": "/æd/",
+          "zh": "相加"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-8",
+      "date": "2026-10-17",
+      "category": "toys-sharing",
+      "en": "You can each choose one sticker from the sheet.",
+      "zh": "你們每個人可以從這張貼紙裡選一張。",
+      "ipa": "/ju kæn itʃ tʃuz wʌn ˈstɪkɚ frəm ðə ʃit/",
+      "vocab": [
+        {
+          "w": "each",
+          "pos": "pron.",
+          "ipa": "/itʃ/",
+          "zh": "每一個"
+        },
+        {
+          "w": "sticker",
+          "pos": "n.",
+          "ipa": "/ˈstɪkɚ/",
+          "zh": "貼紙"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-9",
+      "date": "2026-10-17",
+      "category": "emotions",
+      "en": "It's okay to feel nervous about something new.",
+      "zh": "對新的事情感到緊張是沒關係的。",
+      "ipa": "/ɪts ˌoˈke tə fil ˈnɝvəs əˈbaʊt ˈsʌmθɪŋ nu/",
+      "vocab": [
+        {
+          "w": "nervous",
+          "pos": "adj.",
+          "ipa": "/ˈnɝvəs/",
+          "zh": "緊張的"
+        },
+        {
+          "w": "something new",
+          "pos": "phr.",
+          "ipa": "/ˈsʌmθɪŋ nu/",
+          "zh": "新的事物"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-10",
+      "date": "2026-10-17",
+      "category": "discipline",
+      "en": "We keep the sofa cushions on the sofa, not on the floor.",
+      "zh": "沙發靠墊要放在沙發上，不要丟在地上。",
+      "ipa": "/wi kip ðə ˈsofə ˈkʊʃənz ɑn ðə ˈsofə nɑt ɑn ðə flɔr/",
+      "vocab": [
+        {
+          "w": "cushion",
+          "pos": "n.",
+          "ipa": "/ˈkʊʃən/",
+          "zh": "靠墊、坐墊"
+        },
+        {
+          "w": "keep",
+          "pos": "v.",
+          "ipa": "/kip/",
+          "zh": "保持、放著"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-11",
+      "date": "2026-10-17",
+      "category": "praise",
+      "en": "You zipped your jacket all by yourself!",
+      "zh": "你自己把外套拉鍊拉好了耶！",
+      "ipa": "/ju zɪpt jʊr ˈdʒækɪt ɔl baɪ jʊrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "zip",
+          "pos": "v.",
+          "ipa": "/zɪp/",
+          "zh": "拉拉鍊"
+        },
+        {
+          "w": "by yourself",
+          "pos": "phr.",
+          "ipa": "/baɪ jʊrˈsɛlf/",
+          "zh": "自己、獨自"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-12",
+      "date": "2026-10-17",
+      "category": "safety",
+      "en": "Walk slowly near the pool; the floor is slippery.",
+      "zh": "泳池旁邊要慢慢走，地板很滑。",
+      "ipa": "/wɔk ˈsloli nɪr ðə pul ðə flɔr ɪz ˈslɪpəri/",
+      "vocab": [
+        {
+          "w": "slowly",
+          "pos": "adv.",
+          "ipa": "/ˈsloli/",
+          "zh": "慢慢地"
+        },
+        {
+          "w": "slippery",
+          "pos": "adj.",
+          "ipa": "/ˈslɪpəri/",
+          "zh": "滑的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-13",
+      "date": "2026-10-17",
+      "category": "health",
+      "en": "Sip some warm honey water for your scratchy throat.",
+      "zh": "喉嚨癢癢的，喝一點溫蜂蜜水吧。",
+      "ipa": "/sɪp sʌm wɔrm ˈhʌni ˈwɔtɚ fɚ jʊr ˈskrætʃi θrot/",
+      "vocab": [
+        {
+          "w": "sip",
+          "pos": "v.",
+          "ipa": "/sɪp/",
+          "zh": "小口喝"
+        },
+        {
+          "w": "scratchy",
+          "pos": "adj.",
+          "ipa": "/ˈskrætʃi/",
+          "zh": "刺癢的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-14",
+      "date": "2026-10-17",
+      "category": "relatives",
+      "en": "Your cousin is sleeping over this weekend!",
+      "zh": "你表哥這個週末要來家裡過夜喔！",
+      "ipa": "/jʊr ˈkʌzən ɪz ˈslipɪŋ ˈovɚ ðɪs ˈwikˌɛnd/",
+      "vocab": [
+        {
+          "w": "cousin",
+          "pos": "n.",
+          "ipa": "/ˈkʌzən/",
+          "zh": "堂／表兄弟姊妹"
+        },
+        {
+          "w": "sleep over",
+          "pos": "phr.",
+          "ipa": "/slip ˈovɚ/",
+          "zh": "在別人家過夜"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-15",
+      "date": "2026-10-17",
+      "category": "friends",
+      "en": "Let's make a card for Leo to say sorry.",
+      "zh": "我們做一張卡片跟 Leo 說對不起吧。",
+      "ipa": "/lɛts mek ə kɑrd fɚ ˈlio tə se ˈsɑri/",
+      "vocab": [
+        {
+          "w": "card",
+          "pos": "n.",
+          "ipa": "/kɑrd/",
+          "zh": "卡片"
+        },
+        {
+          "w": "say sorry",
+          "pos": "phr.",
+          "ipa": "/se ˈsɑri/",
+          "zh": "道歉"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-16",
+      "date": "2026-10-17",
+      "category": "manners",
+      "en": "Pass the scissors handle first, please.",
+      "zh": "遞剪刀的時候，請把握柄那端朝向對方。",
+      "ipa": "/pæs ðə ˈsɪzɚz ˈhændəl fɝst pliz/",
+      "vocab": [
+        {
+          "w": "scissors",
+          "pos": "n.",
+          "ipa": "/ˈsɪzɚz/",
+          "zh": "剪刀"
+        },
+        {
+          "w": "handle",
+          "pos": "n.",
+          "ipa": "/ˈhændəl/",
+          "zh": "把手、握柄"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-17",
+      "date": "2026-10-17",
+      "category": "weather",
+      "en": "The fog is so thick we can't see the hills.",
+      "zh": "霧好濃，我們都看不到山丘了。",
+      "ipa": "/ðə fɑɡ ɪz so θɪk wi kænt si ðə hɪlz/",
+      "vocab": [
+        {
+          "w": "fog",
+          "pos": "n.",
+          "ipa": "/fɑɡ/",
+          "zh": "霧"
+        },
+        {
+          "w": "thick",
+          "pos": "adj.",
+          "ipa": "/θɪk/",
+          "zh": "濃的、厚的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-18",
+      "date": "2026-10-17",
+      "category": "screen-time",
+      "en": "Let's watch just one show, then play outside.",
+      "zh": "我們只看一集，然後去外面玩。",
+      "ipa": "/lɛts wɑtʃ dʒʌst wʌn ʃo ðɛn ple ˌaʊtˈsaɪd/",
+      "vocab": [
+        {
+          "w": "show",
+          "pos": "n.",
+          "ipa": "/ʃo/",
+          "zh": "節目"
+        },
+        {
+          "w": "outside",
+          "pos": "adv.",
+          "ipa": "/ˌaʊtˈsaɪd/",
+          "zh": "在外面"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-19",
+      "date": "2026-10-17",
+      "category": "celebrations",
+      "en": "Let's hang paper bats on the window for Halloween.",
+      "zh": "我們在窗戶上掛紙蝙蝠來過萬聖節吧。",
+      "ipa": "/lɛts hæŋ ˈpepɚ bæts ɑn ðə ˈwɪndo fɚ ˌhæloˈin/",
+      "vocab": [
+        {
+          "w": "bat",
+          "pos": "n.",
+          "ipa": "/bæt/",
+          "zh": "蝙蝠"
+        },
+        {
+          "w": "Halloween",
+          "pos": "n.",
+          "ipa": "/ˌhæloˈin/",
+          "zh": "萬聖節"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-20",
+      "date": "2026-10-17",
+      "category": "reading",
+      "en": "Point to the little mouse hiding in the picture.",
+      "zh": "把躲在圖裡的小老鼠指出來。",
+      "ipa": "/pɔɪnt tə ðə ˈlɪtəl maʊs ˈhaɪdɪŋ ɪn ðə ˈpɪktʃɚ/",
+      "vocab": [
+        {
+          "w": "point to",
+          "pos": "phr.",
+          "ipa": "/pɔɪnt tu/",
+          "zh": "指向"
+        },
+        {
+          "w": "hide",
+          "pos": "v.",
+          "ipa": "/haɪd/",
+          "zh": "躲藏"
+        }
+      ]
+    }
+  ]
+}
