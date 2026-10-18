@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-18",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-18-1",
+      "date": "2026-10-18",
+      "category": "daily-routine",
+      "en": "Roll your wet towel up and hang it on the rail.",
+      "zh": "把濕毛巾捲好，掛到架子上。",
+      "ipa": "/rol jʊr wɛt ˈtaʊəl ʌp ænd hæŋ ɪt ɑn ðə rel/",
+      "vocab": [
+        {
+          "w": "towel",
+          "pos": "n.",
+          "ipa": "/ˈtaʊəl/",
+          "zh": "毛巾"
+        },
+        {
+          "w": "rail",
+          "pos": "n.",
+          "ipa": "/rel/",
+          "zh": "橫桿、架子"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-2",
+      "date": "2026-10-18",
+      "category": "meals",
+      "en": "Try one bite of the roasted carrots first.",
+      "zh": "先吃一口烤紅蘿蔔試試看。",
+      "ipa": "/traɪ wʌn baɪt əv ðə ˈrostɪd ˈkærəts fɝst/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "roasted",
+          "pos": "adj.",
+          "ipa": "/ˈrostɪd/",
+          "zh": "烤過的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-3",
+      "date": "2026-10-18",
+      "category": "bath-bedtime",
+      "en": "Squeeze the rubber duck and make it squirt water.",
+      "zh": "捏一捏小黃鴨，讓它噴水。",
+      "ipa": "/skwiz ðə ˈrʌbɚ dʌk ænd mek ɪt skwɝt ˈwɔtɚ/",
+      "vocab": [
+        {
+          "w": "squeeze",
+          "pos": "v.",
+          "ipa": "/skwiz/",
+          "zh": "捏、擠"
+        },
+        {
+          "w": "squirt",
+          "pos": "v.",
+          "ipa": "/skwɝt/",
+          "zh": "噴出"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-4",
+      "date": "2026-10-18",
+      "category": "outings",
+      "en": "Let's ride the bus downtown to the museum.",
+      "zh": "我們搭公車去市區的博物館吧。",
+      "ipa": "/lɛts raɪd ðə bʌs ˌdaʊnˈtaʊn tə ðə mjuˈziəm/",
+      "vocab": [
+        {
+          "w": "downtown",
+          "pos": "adv.",
+          "ipa": "/ˌdaʊnˈtaʊn/",
+          "zh": "到市區"
+        },
+        {
+          "w": "museum",
+          "pos": "n.",
+          "ipa": "/mjuˈziəm/",
+          "zh": "博物館"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-5",
+      "date": "2026-10-18",
+      "category": "playground",
+      "en": "Pump your legs to make the tire swing spin.",
+      "zh": "腳用力擺動，讓輪胎鞦韆轉起來。",
+      "ipa": "/pʌmp jʊr lɛɡz tə mek ðə taɪr swɪŋ spɪn/",
+      "vocab": [
+        {
+          "w": "pump",
+          "pos": "v.",
+          "ipa": "/pʌmp/",
+          "zh": "用力擺動"
+        },
+        {
+          "w": "tire swing",
+          "pos": "n.",
+          "ipa": "/taɪr swɪŋ/",
+          "zh": "輪胎鞦韆"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-6",
+      "date": "2026-10-18",
+      "category": "school",
+      "en": "Tell your teacher if your tummy feels funny.",
+      "zh": "如果肚子怪怪的，要跟老師說喔。",
+      "ipa": "/tɛl jʊr ˈtitʃɚ ɪf jʊr ˈtʌmi filz ˈfʌni/",
+      "vocab": [
+        {
+          "w": "tummy",
+          "pos": "n.",
+          "ipa": "/ˈtʌmi/",
+          "zh": "肚子（兒語）"
+        },
+        {
+          "w": "feel funny",
+          "pos": "phr.",
+          "ipa": "/fil ˈfʌni/",
+          "zh": "覺得不太舒服"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-7",
+      "date": "2026-10-18",
+      "category": "homework",
+      "en": "Trace the dotted letters with your pencil.",
+      "zh": "用鉛筆把虛線字母描一遍。",
+      "ipa": "/tres ðə ˈdɑtɪd ˈlɛtɚz wɪð jʊr ˈpɛnsəl/",
+      "vocab": [
+        {
+          "w": "trace",
+          "pos": "v.",
+          "ipa": "/tres/",
+          "zh": "描摹"
+        },
+        {
+          "w": "dotted",
+          "pos": "adj.",
+          "ipa": "/ˈdɑtɪd/",
+          "zh": "虛線的、點狀的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-8",
+      "date": "2026-10-18",
+      "category": "toys-sharing",
+      "en": "When the timer beeps, it's your sister's turn.",
+      "zh": "計時器一響，就換妹妹玩囉。",
+      "ipa": "/hwɛn ðə ˈtaɪmɚ bips ɪts jʊr ˈsɪstɚz tɝn/",
+      "vocab": [
+        {
+          "w": "timer",
+          "pos": "n.",
+          "ipa": "/ˈtaɪmɚ/",
+          "zh": "計時器"
+        },
+        {
+          "w": "beep",
+          "pos": "v.",
+          "ipa": "/bip/",
+          "zh": "發出嗶聲"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-9",
+      "date": "2026-10-18",
+      "category": "emotions",
+      "en": "You look disappointed; do you want a hug?",
+      "zh": "你看起來很失望，要不要抱一下？",
+      "ipa": "/ju lʊk ˌdɪsəˈpɔɪntɪd du ju wɑnt ə hʌɡ/",
+      "vocab": [
+        {
+          "w": "disappointed",
+          "pos": "adj.",
+          "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+          "zh": "失望的"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-10",
+      "date": "2026-10-18",
+      "category": "discipline",
+      "en": "Markers stay at the art table, not on the couch.",
+      "zh": "彩色筆要留在畫畫桌，不能拿到沙發上。",
+      "ipa": "/ˈmɑrkɚz ste æt ði ɑrt ˈtebəl nɑt ɑn ðə kaʊtʃ/",
+      "vocab": [
+        {
+          "w": "marker",
+          "pos": "n.",
+          "ipa": "/ˈmɑrkɚ/",
+          "zh": "彩色筆、麥克筆"
+        },
+        {
+          "w": "couch",
+          "pos": "n.",
+          "ipa": "/kaʊtʃ/",
+          "zh": "沙發"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-11",
+      "date": "2026-10-18",
+      "category": "praise",
+      "en": "You waited so patiently in line!",
+      "zh": "你排隊等得好有耐心！",
+      "ipa": "/ju ˈwetɪd so ˈpeʃəntli ɪn laɪn/",
+      "vocab": [
+        {
+          "w": "patiently",
+          "pos": "adv.",
+          "ipa": "/ˈpeʃəntli/",
+          "zh": "耐心地"
+        },
+        {
+          "w": "in line",
+          "pos": "phr.",
+          "ipa": "/ɪn laɪn/",
+          "zh": "排隊中"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-12",
+      "date": "2026-10-18",
+      "category": "safety",
+      "en": "Hold the cup with both hands; the cocoa is steaming.",
+      "zh": "兩隻手捧好杯子，熱可可還在冒煙。",
+      "ipa": "/hold ðə kʌp wɪð boθ hændz ðə ˈkoko ɪz ˈstimɪŋ/",
+      "vocab": [
+        {
+          "w": "both hands",
+          "pos": "phr.",
+          "ipa": "/boθ hændz/",
+          "zh": "雙手"
+        },
+        {
+          "w": "steaming",
+          "pos": "adj.",
+          "ipa": "/ˈstimɪŋ/",
+          "zh": "冒著熱氣的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-13",
+      "date": "2026-10-18",
+      "category": "health",
+      "en": "Let's put on a bandage so it heals faster.",
+      "zh": "我們貼個OK繃，傷口會好得比較快。",
+      "ipa": "/lɛts pʊt ɑn ə ˈbændɪdʒ so ɪt hilz ˈfæstɚ/",
+      "vocab": [
+        {
+          "w": "bandage",
+          "pos": "n.",
+          "ipa": "/ˈbændɪdʒ/",
+          "zh": "繃帶、OK繃"
+        },
+        {
+          "w": "heal",
+          "pos": "v.",
+          "ipa": "/hil/",
+          "zh": "癒合"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-14",
+      "date": "2026-10-18",
+      "category": "relatives",
+      "en": "Grandpa is teaching you how to fold paper planes.",
+      "zh": "爺爺要教你摺紙飛機喔。",
+      "ipa": "/ˈɡrænˌpɑ ɪz ˈtitʃɪŋ ju haʊ tə fold ˈpepɚ plenz/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/fold/",
+          "zh": "摺"
+        },
+        {
+          "w": "paper plane",
+          "pos": "n.",
+          "ipa": "/ˈpepɚ plen/",
+          "zh": "紙飛機"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-15",
+      "date": "2026-10-18",
+      "category": "friends",
+      "en": "Ask Mia if she wants to build a fort with you.",
+      "zh": "問問 Mia 想不想跟你一起蓋城堡。",
+      "ipa": "/æsk ˈmiə ɪf ʃi wɑnts tə bɪld ə fɔrt wɪð ju/",
+      "vocab": [
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "詢問"
+        },
+        {
+          "w": "fort",
+          "pos": "n.",
+          "ipa": "/fɔrt/",
+          "zh": "堡壘"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-16",
+      "date": "2026-10-18",
+      "category": "manners",
+      "en": "Say excuse me when you need to get by.",
+      "zh": "要從別人旁邊過去時，要說「借過」。",
+      "ipa": "/se ɪkˈskjuz mi hwɛn ju nid tə ɡɛt baɪ/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "不好意思、借過"
+        },
+        {
+          "w": "get by",
+          "pos": "phr.",
+          "ipa": "/ɡɛt baɪ/",
+          "zh": "通過"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-17",
+      "date": "2026-10-18",
+      "category": "weather",
+      "en": "It's getting chilly, so grab your sweater.",
+      "zh": "天氣變涼了，帶件毛衣吧。",
+      "ipa": "/ɪts ˈɡɛtɪŋ ˈtʃɪli so ɡræb jʊr ˈswɛtɚ/",
+      "vocab": [
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "涼颼颼的"
+        },
+        {
+          "w": "sweater",
+          "pos": "n.",
+          "ipa": "/ˈswɛtɚ/",
+          "zh": "毛衣"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-18",
+      "date": "2026-10-18",
+      "category": "screen-time",
+      "en": "The tablet needs a rest, and so do your eyes.",
+      "zh": "平板需要休息，你的眼睛也是。",
+      "ipa": "/ðə ˈtæblɪt nidz ə rɛst ænd so du jʊr aɪz/",
+      "vocab": [
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        },
+        {
+          "w": "rest",
+          "pos": "n.",
+          "ipa": "/rɛst/",
+          "zh": "休息"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-19",
+      "date": "2026-10-18",
+      "category": "celebrations",
+      "en": "Let's carve a happy face on our pumpkin.",
+      "zh": "我們在南瓜上刻一張笑臉吧。",
+      "ipa": "/lɛts kɑrv ə ˈhæpi fes ɑn ˈaʊɚ ˈpʌmpkɪn/",
+      "vocab": [
+        {
+          "w": "carve",
+          "pos": "v.",
+          "ipa": "/kɑrv/",
+          "zh": "雕刻"
+        },
+        {
+          "w": "pumpkin",
+          "pos": "n.",
+          "ipa": "/ˈpʌmpkɪn/",
+          "zh": "南瓜"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-20",
+      "date": "2026-10-18",
+      "category": "reading",
+      "en": "Which animal do you think will knock on the door next?",
+      "zh": "你覺得下一個來敲門的會是哪隻動物？",
+      "ipa": "/hwɪtʃ ˈænəməl du ju θɪŋk wɪl nɑk ɑn ðə dɔr nɛkst/",
+      "vocab": [
+        {
+          "w": "animal",
+          "pos": "n.",
+          "ipa": "/ˈænəməl/",
+          "zh": "動物"
+        },
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲"
+        }
+      ]
+    }
+  ]
+}
