@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-19",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-19-1",
+      "date": "2026-10-19",
+      "category": "daily-routine",
+      "en": "Match your shoes into pairs before you put them away.",
+      "zh": "收鞋子之前，先把它們一雙一雙配好。",
+      "ipa": "/mætʃ jʊr ʃuz ˈɪntu pɛrz bɪˈfɔr ju pʊt ðɛm əˈwe/",
+      "vocab": [
+        {
+          "w": "match",
+          "pos": "v.",
+          "ipa": "/mætʃ/",
+          "zh": "配對"
+        },
+        {
+          "w": "pair",
+          "pos": "n.",
+          "ipa": "/pɛr/",
+          "zh": "一雙；一對"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-2",
+      "date": "2026-10-19",
+      "category": "meals",
+      "en": "Spread a little butter on your toast.",
+      "zh": "在吐司上抹一點奶油。",
+      "ipa": "/sprɛd ə ˈlɪtəl ˈbʌtɚ ɑn jʊr tost/",
+      "vocab": [
+        {
+          "w": "spread",
+          "pos": "v.",
+          "ipa": "/sprɛd/",
+          "zh": "塗抹"
+        },
+        {
+          "w": "toast",
+          "pos": "n.",
+          "ipa": "/tost/",
+          "zh": "吐司"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-3",
+      "date": "2026-10-19",
+      "category": "bath-bedtime",
+      "en": "Tilt your head back so the soap won't sting.",
+      "zh": "頭往後仰，泡泡才不會刺到眼睛。",
+      "ipa": "/tɪlt jʊr hɛd bæk so ðə sop wont stɪŋ/",
+      "vocab": [
+        {
+          "w": "tilt",
+          "pos": "v.",
+          "ipa": "/tɪlt/",
+          "zh": "傾斜"
+        },
+        {
+          "w": "sting",
+          "pos": "v.",
+          "ipa": "/stɪŋ/",
+          "zh": "刺痛"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-4",
+      "date": "2026-10-19",
+      "category": "outings",
+      "en": "Let's pick our own pumpkins at the farm.",
+      "zh": "我們去農場自己挑南瓜吧。",
+      "ipa": "/lɛts pɪk ˈaʊɚ on ˈpʌmpkɪnz æt ðə fɑrm/",
+      "vocab": [
+        {
+          "w": "pick",
+          "pos": "v.",
+          "ipa": "/pɪk/",
+          "zh": "挑選；採摘"
+        },
+        {
+          "w": "farm",
+          "pos": "n.",
+          "ipa": "/fɑrm/",
+          "zh": "農場"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-5",
+      "date": "2026-10-19",
+      "category": "playground",
+      "en": "Grab the rope net and pull yourself to the top.",
+      "zh": "抓住繩網，把自己拉到最上面。",
+      "ipa": "/ɡræb ðə rop nɛt ænd pʊl jʊrˈsɛlf tə ðə tɑp/",
+      "vocab": [
+        {
+          "w": "rope net",
+          "pos": "phr.",
+          "ipa": "/rop nɛt/",
+          "zh": "繩網"
+        },
+        {
+          "w": "pull",
+          "pos": "v.",
+          "ipa": "/pʊl/",
+          "zh": "拉"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-6",
+      "date": "2026-10-19",
+      "category": "school",
+      "en": "Your class is planting tulip bulbs in the school garden today.",
+      "zh": "你們班今天要在學校花園種鬱金香球根。",
+      "ipa": "/jʊr klæs ɪz ˈplæntɪŋ ˈtulɪp bʌlbz ɪn ðə skul ˈɡɑrdən təˈde/",
+      "vocab": [
+        {
+          "w": "plant",
+          "pos": "v.",
+          "ipa": "/plænt/",
+          "zh": "種植"
+        },
+        {
+          "w": "bulb",
+          "pos": "n.",
+          "ipa": "/bʌlb/",
+          "zh": "球根；球莖"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-7",
+      "date": "2026-10-19",
+      "category": "homework",
+      "en": "Circle the words that rhyme with cat.",
+      "zh": "把跟 cat 押韻的字圈起來。",
+      "ipa": "/ˈsɝkəl ðə wɝdz ðæt raɪm wɪð kæt/",
+      "vocab": [
+        {
+          "w": "circle",
+          "pos": "v.",
+          "ipa": "/ˈsɝkəl/",
+          "zh": "圈起來"
+        },
+        {
+          "w": "rhyme",
+          "pos": "v.",
+          "ipa": "/raɪm/",
+          "zh": "押韻"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-8",
+      "date": "2026-10-19",
+      "category": "toys-sharing",
+      "en": "Let's build one big tower together with all the blocks.",
+      "zh": "我們一起用全部積木蓋一座大塔吧。",
+      "ipa": "/lɛts bɪld wʌn bɪɡ ˈtaʊɚ təˈɡɛðɚ wɪð ɔl ðə blɑks/",
+      "vocab": [
+        {
+          "w": "tower",
+          "pos": "n.",
+          "ipa": "/ˈtaʊɚ/",
+          "zh": "塔"
+        },
+        {
+          "w": "block",
+          "pos": "n.",
+          "ipa": "/blɑk/",
+          "zh": "積木"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-9",
+      "date": "2026-10-19",
+      "category": "emotions",
+      "en": "I can see you're frustrated; let's take a deep breath.",
+      "zh": "我看得出你很挫折，我們先深呼吸一下。",
+      "ipa": "/aɪ kæn si jʊr ˈfrʌstretɪd lɛts tek ə dip brɛθ/",
+      "vocab": [
+        {
+          "w": "frustrated",
+          "pos": "adj.",
+          "ipa": "/ˈfrʌstretɪd/",
+          "zh": "挫折的；沮喪的"
+        },
+        {
+          "w": "take a deep breath",
+          "pos": "phr.",
+          "ipa": "/tek ə dip brɛθ/",
+          "zh": "深呼吸"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-10",
+      "date": "2026-10-19",
+      "category": "discipline",
+      "en": "We wait for everyone to sit down before we start eating.",
+      "zh": "要等大家都坐好，我們才開動。",
+      "ipa": "/wi wet fɚ ˈɛvriˌwʌn tə sɪt daʊn bɪˈfɔr wi stɑrt ˈitɪŋ/",
+      "vocab": [
+        {
+          "w": "wait for",
+          "pos": "phr.",
+          "ipa": "/wet fɚ/",
+          "zh": "等待"
+        },
+        {
+          "w": "everyone",
+          "pos": "pron.",
+          "ipa": "/ˈɛvriˌwʌn/",
+          "zh": "每個人"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-11",
+      "date": "2026-10-19",
+      "category": "praise",
+      "en": "Wow, you remembered to flush all by yourself!",
+      "zh": "哇，你自己記得沖馬桶耶！",
+      "ipa": "/waʊ ju rɪˈmɛmbɚd tə flʌʃ ɔl baɪ jʊrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "remember",
+          "pos": "v.",
+          "ipa": "/rɪˈmɛmbɚ/",
+          "zh": "記得"
+        },
+        {
+          "w": "flush",
+          "pos": "v.",
+          "ipa": "/flʌʃ/",
+          "zh": "沖（馬桶）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-12",
+      "date": "2026-10-19",
+      "category": "safety",
+      "en": "Stay on the sidewalk and away from the curb.",
+      "zh": "走在人行道上，離路邊遠一點。",
+      "ipa": "/ste ɑn ðə ˈsaɪdˌwɔk ænd əˈwe frəm ðə kɝb/",
+      "vocab": [
+        {
+          "w": "sidewalk",
+          "pos": "n.",
+          "ipa": "/ˈsaɪdˌwɔk/",
+          "zh": "人行道"
+        },
+        {
+          "w": "curb",
+          "pos": "n.",
+          "ipa": "/kɝb/",
+          "zh": "路緣；人行道邊"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-13",
+      "date": "2026-10-19",
+      "category": "health",
+      "en": "Open wide so the doctor can check your teeth.",
+      "zh": "嘴巴張大，讓醫生檢查你的牙齒。",
+      "ipa": "/ˈopən waɪd so ðə ˈdɑktɚ kæn tʃɛk jʊr tiθ/",
+      "vocab": [
+        {
+          "w": "open wide",
+          "pos": "phr.",
+          "ipa": "/ˈopən waɪd/",
+          "zh": "張大嘴巴"
+        },
+        {
+          "w": "check",
+          "pos": "v.",
+          "ipa": "/tʃɛk/",
+          "zh": "檢查"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-14",
+      "date": "2026-10-19",
+      "category": "relatives",
+      "en": "Auntie is bringing her new puppy to visit us.",
+      "zh": "阿姨要帶她的新小狗來看我們。",
+      "ipa": "/ˈænti ɪz ˈbrɪŋɪŋ hɝ nu ˈpʌpi tə ˈvɪzɪt ʌs/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨；姑姑"
+        },
+        {
+          "w": "puppy",
+          "pos": "n.",
+          "ipa": "/ˈpʌpi/",
+          "zh": "小狗"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-15",
+      "date": "2026-10-19",
+      "category": "friends",
+      "en": "Why don't you invite Sam to sit with you at lunch?",
+      "zh": "你要不要邀山姆午餐時跟你坐一起？",
+      "ipa": "/hwaɪ dont ju ɪnˈvaɪt sæm tə sɪt wɪð ju æt lʌntʃ/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "lunch",
+          "pos": "n.",
+          "ipa": "/lʌntʃ/",
+          "zh": "午餐"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-16",
+      "date": "2026-10-19",
+      "category": "manners",
+      "en": "Please hold the elevator door for the lady with the stroller.",
+      "zh": "請幫推嬰兒車的阿姨按住電梯門。",
+      "ipa": "/pliz hold ði ˈɛləˌvetɚ dɔr fɚ ðə ˈledi wɪð ðə ˈstrolɚ/",
+      "vocab": [
+        {
+          "w": "elevator",
+          "pos": "n.",
+          "ipa": "/ˈɛləˌvetɚ/",
+          "zh": "電梯"
+        },
+        {
+          "w": "stroller",
+          "pos": "n.",
+          "ipa": "/ˈstrolɚ/",
+          "zh": "嬰兒推車"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-17",
+      "date": "2026-10-19",
+      "category": "weather",
+      "en": "It's windy today, so zip up your hoodie.",
+      "zh": "今天風很大，把連帽外套拉鍊拉起來。",
+      "ipa": "/ɪts ˈwɪndi təˈde so zɪp ʌp jʊr ˈhʊdi/",
+      "vocab": [
+        {
+          "w": "windy",
+          "pos": "adj.",
+          "ipa": "/ˈwɪndi/",
+          "zh": "風大的"
+        },
+        {
+          "w": "hoodie",
+          "pos": "n.",
+          "ipa": "/ˈhʊdi/",
+          "zh": "連帽上衣"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-18",
+      "date": "2026-10-19",
+      "category": "screen-time",
+      "en": "When the song ends, it's time to turn off the TV.",
+      "zh": "這首歌結束就要關電視囉。",
+      "ipa": "/hwɛn ðə sɔŋ ɛndz ɪts taɪm tə tɝn ɔf ðə ˌtiˈvi/",
+      "vocab": [
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        },
+        {
+          "w": "end",
+          "pos": "v.",
+          "ipa": "/ɛnd/",
+          "zh": "結束"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-19",
+      "date": "2026-10-19",
+      "category": "celebrations",
+      "en": "Which costume do you want to wear for trick-or-treating?",
+      "zh": "你想穿哪一套服裝去要糖果？",
+      "ipa": "/hwɪtʃ ˈkɑstum du ju wɑnt tə wɛr fɚ ˌtrɪkɚˈtritɪŋ/",
+      "vocab": [
+        {
+          "w": "costume",
+          "pos": "n.",
+          "ipa": "/ˈkɑstum/",
+          "zh": "（扮裝）服裝"
+        },
+        {
+          "w": "trick-or-treat",
+          "pos": "phr.",
+          "ipa": "/ˌtrɪkɚˈtrit/",
+          "zh": "（萬聖節）不給糖就搗蛋"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-20",
+      "date": "2026-10-19",
+      "category": "reading",
+      "en": "Can you turn the page and find the hidden owl?",
+      "zh": "你可以翻下一頁，找出藏起來的貓頭鷹嗎？",
+      "ipa": "/kæn ju tɝn ðə pedʒ ænd faɪnd ðə ˈhɪdən aʊl/",
+      "vocab": [
+        {
+          "w": "turn the page",
+          "pos": "phr.",
+          "ipa": "/tɝn ðə pedʒ/",
+          "zh": "翻頁"
+        },
+        {
+          "w": "owl",
+          "pos": "n.",
+          "ipa": "/aʊl/",
+          "zh": "貓頭鷹"
+        }
+      ]
+    }
+  ]
+}
