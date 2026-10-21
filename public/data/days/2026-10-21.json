@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-21",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-21-1",
+      "date": "2026-10-21",
+      "category": "daily-routine",
+      "en": "Leave your hairbrush in the drawer when you're done.",
+      "zh": "梳完頭髮後，把梳子放回抽屜裡。",
+      "ipa": "/liv jʊr ˈhɛrˌbrʌʃ ɪn ðə drɔr wɛn jʊr dʌn/",
+      "vocab": [
+        {
+          "w": "hairbrush",
+          "pos": "n.",
+          "ipa": "/ˈhɛrˌbrʌʃ/",
+          "zh": "梳子"
+        },
+        {
+          "w": "drawer",
+          "pos": "n.",
+          "ipa": "/drɔr/",
+          "zh": "抽屜"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-2",
+      "date": "2026-10-21",
+      "category": "meals",
+      "en": "Squeeze a little lemon on your fish.",
+      "zh": "在魚上擠一點檸檬汁。",
+      "ipa": "/skwiz ə ˈlɪtəl ˈlɛmən ɑn jʊr fɪʃ/",
+      "vocab": [
+        {
+          "w": "squeeze",
+          "pos": "v.",
+          "ipa": "/skwiz/",
+          "zh": "擠"
+        },
+        {
+          "w": "lemon",
+          "pos": "n.",
+          "ipa": "/ˈlɛmən/",
+          "zh": "檸檬"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-3",
+      "date": "2026-10-21",
+      "category": "bath-bedtime",
+      "en": "Let's count the glow stars on your ceiling.",
+      "zh": "我們來數天花板上的夜光星星。",
+      "ipa": "/lɛts kaʊnt ðə ɡlo stɑrz ɑn jʊr ˈsilɪŋ/",
+      "vocab": [
+        {
+          "w": "glow",
+          "pos": "v.",
+          "ipa": "/ɡlo/",
+          "zh": "發光"
+        },
+        {
+          "w": "ceiling",
+          "pos": "n.",
+          "ipa": "/ˈsilɪŋ/",
+          "zh": "天花板"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-4",
+      "date": "2026-10-21",
+      "category": "outings",
+      "en": "We're going apple picking at the farm.",
+      "zh": "我們要去農場採蘋果。",
+      "ipa": "/wɪr ˈɡoɪŋ ˈæpəl ˈpɪkɪŋ æt ðə fɑrm/",
+      "vocab": [
+        {
+          "w": "apple picking",
+          "pos": "n.",
+          "ipa": "/ˈæpəl ˈpɪkɪŋ/",
+          "zh": "採蘋果"
+        },
+        {
+          "w": "farm",
+          "pos": "n.",
+          "ipa": "/fɑrm/",
+          "zh": "農場"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-5",
+      "date": "2026-10-21",
+      "category": "playground",
+      "en": "Let's dig a tunnel under the sandcastle.",
+      "zh": "我們在沙堡下面挖一條隧道。",
+      "ipa": "/lɛts dɪɡ ə ˈtʌnəl ˈʌndɚ ðə ˈsændˌkæsəl/",
+      "vocab": [
+        {
+          "w": "tunnel",
+          "pos": "n.",
+          "ipa": "/ˈtʌnəl/",
+          "zh": "隧道"
+        },
+        {
+          "w": "dig",
+          "pos": "v.",
+          "ipa": "/dɪɡ/",
+          "zh": "挖"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-6",
+      "date": "2026-10-21",
+      "category": "school",
+      "en": "Tell me one fun thing you did at school.",
+      "zh": "跟我說一件你今天在學校做的好玩的事。",
+      "ipa": "/tɛl mi wʌn fʌn θɪŋ ju dɪd æt skul/",
+      "vocab": [
+        {
+          "w": "fun",
+          "pos": "adj.",
+          "ipa": "/fʌn/",
+          "zh": "好玩的"
+        },
+        {
+          "w": "thing",
+          "pos": "n.",
+          "ipa": "/θɪŋ/",
+          "zh": "事情"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-7",
+      "date": "2026-10-21",
+      "category": "homework",
+      "en": "Draw a circle around the biggest number.",
+      "zh": "把最大的數字圈起來。",
+      "ipa": "/drɔ ə ˈsɝkəl əˈraʊnd ðə ˈbɪɡɪst ˈnʌmbɚ/",
+      "vocab": [
+        {
+          "w": "circle",
+          "pos": "n.",
+          "ipa": "/ˈsɝkəl/",
+          "zh": "圓圈"
+        },
+        {
+          "w": "around",
+          "pos": "prep.",
+          "ipa": "/əˈraʊnd/",
+          "zh": "圍繞"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-8",
+      "date": "2026-10-21",
+      "category": "toys-sharing",
+      "en": "Let's sort the crayons so we can share them.",
+      "zh": "我們把蠟筆分一分，大家一起用。",
+      "ipa": "/lɛts sɔrt ðə ˈkreənz so wi kæn ʃɛr ðɛm/",
+      "vocab": [
+        {
+          "w": "sort",
+          "pos": "v.",
+          "ipa": "/sɔrt/",
+          "zh": "分類"
+        },
+        {
+          "w": "crayon",
+          "pos": "n.",
+          "ipa": "/ˈkreən/",
+          "zh": "蠟筆"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-9",
+      "date": "2026-10-21",
+      "category": "emotions",
+      "en": "Let's breathe in slowly like we're smelling a flower.",
+      "zh": "我們慢慢吸氣，就像在聞一朵花。",
+      "ipa": "/lɛts brið ɪn ˈsloli laɪk wɪr ˈsmɛlɪŋ ə ˈflaʊɚ/",
+      "vocab": [
+        {
+          "w": "breathe in",
+          "pos": "phr.",
+          "ipa": "/brið ɪn/",
+          "zh": "吸氣"
+        },
+        {
+          "w": "slowly",
+          "pos": "adv.",
+          "ipa": "/ˈsloli/",
+          "zh": "慢慢地"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-10",
+      "date": "2026-10-21",
+      "category": "discipline",
+      "en": "Use your walking feet inside the house.",
+      "zh": "在家裡要用走的，不要跑。",
+      "ipa": "/juz jʊr ˈwɔkɪŋ fit ˌɪnˈsaɪd ðə haʊs/",
+      "vocab": [
+        {
+          "w": "walking feet",
+          "pos": "phr.",
+          "ipa": "/ˈwɔkɪŋ fit/",
+          "zh": "慢慢走（不奔跑）"
+        },
+        {
+          "w": "inside",
+          "pos": "prep.",
+          "ipa": "/ˌɪnˈsaɪd/",
+          "zh": "在…裡面"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-11",
+      "date": "2026-10-21",
+      "category": "praise",
+      "en": "Thank you for helping me carry the groceries!",
+      "zh": "謝謝你幫我提買回來的東西！",
+      "ipa": "/θæŋk ju fɚ ˈhɛlpɪŋ mi ˈkæri ðə ˈɡrosəriz/",
+      "vocab": [
+        {
+          "w": "carry",
+          "pos": "v.",
+          "ipa": "/ˈkæri/",
+          "zh": "提；搬"
+        },
+        {
+          "w": "groceries",
+          "pos": "n.",
+          "ipa": "/ˈɡrosəriz/",
+          "zh": "食品雜貨"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-12",
+      "date": "2026-10-21",
+      "category": "safety",
+      "en": "Don't touch the oven, it's very hot.",
+      "zh": "不要碰烤箱，它很燙。",
+      "ipa": "/dont tʌtʃ ði ˈʌvən, ɪts ˈvɛri hɑt/",
+      "vocab": [
+        {
+          "w": "oven",
+          "pos": "n.",
+          "ipa": "/ˈʌvən/",
+          "zh": "烤箱"
+        },
+        {
+          "w": "touch",
+          "pos": "v.",
+          "ipa": "/tʌtʃ/",
+          "zh": "碰"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-13",
+      "date": "2026-10-21",
+      "category": "health",
+      "en": "Wiggle your loose tooth gently with your tongue.",
+      "zh": "用舌頭輕輕推那顆搖搖的牙。",
+      "ipa": "/ˈwɪɡəl jʊr lus tuθ ˈdʒɛntli wɪð jʊr tʌŋ/",
+      "vocab": [
+        {
+          "w": "loose",
+          "pos": "adj.",
+          "ipa": "/lus/",
+          "zh": "鬆動的"
+        },
+        {
+          "w": "tongue",
+          "pos": "n.",
+          "ipa": "/tʌŋ/",
+          "zh": "舌頭"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-14",
+      "date": "2026-10-21",
+      "category": "relatives",
+      "en": "Let's make a thank-you card for Auntie.",
+      "zh": "我們來做一張感謝卡給阿姨。",
+      "ipa": "/lɛts mek ə ˈθæŋk ju kɑrd fɚ ˈænti/",
+      "vocab": [
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨；姑姑"
+        },
+        {
+          "w": "card",
+          "pos": "n.",
+          "ipa": "/kɑrd/",
+          "zh": "卡片"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-15",
+      "date": "2026-10-21",
+      "category": "friends",
+      "en": "Ask Leo if he wants to play tag with you.",
+      "zh": "問問里歐要不要跟你玩鬼抓人。",
+      "ipa": "/æsk ˈlio ɪf hi wɑnts tu ple tæɡ wɪð ju/",
+      "vocab": [
+        {
+          "w": "tag",
+          "pos": "n.",
+          "ipa": "/tæɡ/",
+          "zh": "鬼抓人"
+        },
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "問"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-16",
+      "date": "2026-10-21",
+      "category": "manners",
+      "en": "Say excuse me if you need to get by.",
+      "zh": "要從別人旁邊過時，要說「借過」。",
+      "ipa": "/se ɪkˈskjuz mi ɪf ju nid tu ɡɛt baɪ/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "借過；不好意思"
+        },
+        {
+          "w": "get by",
+          "pos": "phr.",
+          "ipa": "/ɡɛt baɪ/",
+          "zh": "通過"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-17",
+      "date": "2026-10-21",
+      "category": "weather",
+      "en": "It's chilly this morning, so grab your jacket.",
+      "zh": "今天早上有點涼，記得帶外套。",
+      "ipa": "/ɪts ˈtʃɪli ðɪs ˈmɔrnɪŋ, so ɡræb jʊr ˈdʒækɪt/",
+      "vocab": [
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "涼颼颼的"
+        },
+        {
+          "w": "grab",
+          "pos": "v.",
+          "ipa": "/ɡræb/",
+          "zh": "抓；拿"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-18",
+      "date": "2026-10-21",
+      "category": "screen-time",
+      "en": "You can watch one more episode, then it's bath time.",
+      "zh": "你可以再看一集，然後就要洗澡了。",
+      "ipa": "/ju kæn wɑtʃ wʌn mɔr ˈɛpəˌsod, ðɛn ɪts bæθ taɪm/",
+      "vocab": [
+        {
+          "w": "episode",
+          "pos": "n.",
+          "ipa": "/ˈɛpəˌsod/",
+          "zh": "（節目的）一集"
+        },
+        {
+          "w": "watch",
+          "pos": "v.",
+          "ipa": "/wɑtʃ/",
+          "zh": "看"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-19",
+      "date": "2026-10-21",
+      "category": "celebrations",
+      "en": "Let's carve a smiley face on our pumpkin.",
+      "zh": "我們在南瓜上刻一個笑臉吧。",
+      "ipa": "/lɛts kɑrv ə ˈsmaɪli fes ɑn aʊr ˈpʌmpkɪn/",
+      "vocab": [
+        {
+          "w": "carve",
+          "pos": "v.",
+          "ipa": "/kɑrv/",
+          "zh": "雕刻"
+        },
+        {
+          "w": "pumpkin",
+          "pos": "n.",
+          "ipa": "/ˈpʌmpkɪn/",
+          "zh": "南瓜"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-20",
+      "date": "2026-10-21",
+      "category": "reading",
+      "en": "Let's look at the pictures before we read the words.",
+      "zh": "我們先看圖，再讀文字。",
+      "ipa": "/lɛts lʊk æt ðə ˈpɪktʃɚz bɪˈfɔr wi rid ðə wɝdz/",
+      "vocab": [
+        {
+          "w": "picture",
+          "pos": "n.",
+          "ipa": "/ˈpɪktʃɚ/",
+          "zh": "圖畫"
+        },
+        {
+          "w": "look at",
+          "pos": "phr.",
+          "ipa": "/lʊk æt/",
+          "zh": "看"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-20",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-20-1",
+      "date": "2026-10-20",
+      "category": "daily-routine",
+      "en": "Fold your blanket into a neat square each morning.",
+      "zh": "每天早上把被子摺成整齊的方塊。",
+      "ipa": "/fold jʊr ˈblæŋkɪt ˈɪntu ə nit skwɛr itʃ ˈmɔrnɪŋ/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/fold/",
+          "zh": "摺"
+        },
+        {
+          "w": "neat",
+          "pos": "adj.",
+          "ipa": "/nit/",
+          "zh": "整齊的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-2",
+      "date": "2026-10-20",
+      "category": "meals",
+      "en": "Peel your orange over the plate, please.",
+      "zh": "請在盤子上方剝橘子。",
+      "ipa": "/pil jʊr ˈɔrɪndʒ ˈovɚ ðə plet, pliz/",
+      "vocab": [
+        {
+          "w": "peel",
+          "pos": "v.",
+          "ipa": "/pil/",
+          "zh": "剝皮"
+        },
+        {
+          "w": "orange",
+          "pos": "n.",
+          "ipa": "/ˈɔrɪndʒ/",
+          "zh": "柳橙；橘子"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-3",
+      "date": "2026-10-20",
+      "category": "bath-bedtime",
+      "en": "Let's pick two songs for bedtime tonight.",
+      "zh": "我們今晚挑兩首睡前歌吧。",
+      "ipa": "/lɛts pɪk tu sɔŋz fɚ ˈbɛdˌtaɪm təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "pick",
+          "pos": "v.",
+          "ipa": "/pɪk/",
+          "zh": "挑選"
+        },
+        {
+          "w": "bedtime",
+          "pos": "n.",
+          "ipa": "/ˈbɛdˌtaɪm/",
+          "zh": "睡覺時間"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-4",
+      "date": "2026-10-20",
+      "category": "outings",
+      "en": "Let's ride the ferry across the river this afternoon.",
+      "zh": "我們今天下午搭渡輪過河吧。",
+      "ipa": "/lɛts raɪd ðə ˈfɛri əˈkrɔs ðə ˈrɪvɚ ðɪs ˌæftɚˈnun/",
+      "vocab": [
+        {
+          "w": "ferry",
+          "pos": "n.",
+          "ipa": "/ˈfɛri/",
+          "zh": "渡輪"
+        },
+        {
+          "w": "across",
+          "pos": "prep.",
+          "ipa": "/əˈkrɔs/",
+          "zh": "越過；橫過"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-5",
+      "date": "2026-10-20",
+      "category": "playground",
+      "en": "Hold the chains tight while you swing.",
+      "zh": "盪鞦韆的時候要抓緊鍊子。",
+      "ipa": "/hold ðə tʃenz taɪt waɪl ju swɪŋ/",
+      "vocab": [
+        {
+          "w": "chain",
+          "pos": "n.",
+          "ipa": "/tʃen/",
+          "zh": "鍊子"
+        },
+        {
+          "w": "swing",
+          "pos": "v.",
+          "ipa": "/swɪŋ/",
+          "zh": "盪鞦韆"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-6",
+      "date": "2026-10-20",
+      "category": "school",
+      "en": "Did you put your water bottle in your backpack?",
+      "zh": "你把水壺放進書包了嗎？",
+      "ipa": "/dɪd ju pʊt jʊr ˈwɔtɚ ˈbɑtəl ɪn jʊr ˈbækˌpæk/",
+      "vocab": [
+        {
+          "w": "water bottle",
+          "pos": "n.",
+          "ipa": "/ˈwɔtɚ ˈbɑtəl/",
+          "zh": "水壺"
+        },
+        {
+          "w": "backpack",
+          "pos": "n.",
+          "ipa": "/ˈbækˌpæk/",
+          "zh": "背包；書包"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-7",
+      "date": "2026-10-20",
+      "category": "homework",
+      "en": "Sound out the word one letter at a time.",
+      "zh": "一個字母一個字母把這個字拼讀出來。",
+      "ipa": "/saʊnd aʊt ðə wɝd wʌn ˈlɛtɚ æt ə taɪm/",
+      "vocab": [
+        {
+          "w": "sound out",
+          "pos": "phr.",
+          "ipa": "/saʊnd aʊt/",
+          "zh": "拼讀出來"
+        },
+        {
+          "w": "letter",
+          "pos": "n.",
+          "ipa": "/ˈlɛtɚ/",
+          "zh": "字母"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-8",
+      "date": "2026-10-20",
+      "category": "toys-sharing",
+      "en": "You stack the blocks, and I'll add the roof.",
+      "zh": "你來疊積木，我來加屋頂。",
+      "ipa": "/ju stæk ðə blɑks, ænd aɪl æd ðə ruf/",
+      "vocab": [
+        {
+          "w": "stack",
+          "pos": "v.",
+          "ipa": "/stæk/",
+          "zh": "堆疊"
+        },
+        {
+          "w": "roof",
+          "pos": "n.",
+          "ipa": "/ruf/",
+          "zh": "屋頂"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-9",
+      "date": "2026-10-20",
+      "category": "emotions",
+      "en": "You can tell me when something makes you jealous.",
+      "zh": "有什麼事讓你吃醋，都可以跟我說。",
+      "ipa": "/ju kæn tɛl mi wɛn ˈsʌmθɪŋ meks ju ˈdʒɛləs/",
+      "vocab": [
+        {
+          "w": "jealous",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛləs/",
+          "zh": "吃醋的；嫉妒的"
+        },
+        {
+          "w": "tell",
+          "pos": "v.",
+          "ipa": "/tɛl/",
+          "zh": "告訴"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-10",
+      "date": "2026-10-20",
+      "category": "discipline",
+      "en": "We don't throw sand, so let's try again.",
+      "zh": "我們不丟沙子喔，我們再試一次。",
+      "ipa": "/wi dont θro sænd, so lɛts traɪ əˈɡɛn/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟"
+        },
+        {
+          "w": "sand",
+          "pos": "n.",
+          "ipa": "/sænd/",
+          "zh": "沙子"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-11",
+      "date": "2026-10-20",
+      "category": "praise",
+      "en": "You zipped up your coat all by yourself!",
+      "zh": "你自己把外套拉鍊拉好了！",
+      "ipa": "/ju zɪpt ʌp jʊr kot ɔl baɪ jʊrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "zip up",
+          "pos": "phr.",
+          "ipa": "/zɪp ʌp/",
+          "zh": "拉上拉鍊"
+        },
+        {
+          "w": "by yourself",
+          "pos": "phr.",
+          "ipa": "/baɪ jʊrˈsɛlf/",
+          "zh": "靠你自己"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-12",
+      "date": "2026-10-20",
+      "category": "safety",
+      "en": "Always wait for the green light to cross.",
+      "zh": "一定要等綠燈才能過馬路。",
+      "ipa": "/ˈɔlwez wet fɚ ðə ɡrin laɪt tu krɔs/",
+      "vocab": [
+        {
+          "w": "cross",
+          "pos": "v.",
+          "ipa": "/krɔs/",
+          "zh": "穿越；過（馬路）"
+        },
+        {
+          "w": "green light",
+          "pos": "n.",
+          "ipa": "/ɡrin laɪt/",
+          "zh": "綠燈"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-13",
+      "date": "2026-10-20",
+      "category": "health",
+      "en": "Let's press a cold cloth on that bump.",
+      "zh": "我們用冷毛巾敷一下那個腫包。",
+      "ipa": "/lɛts prɛs ə kold klɔθ ɑn ðæt bʌmp/",
+      "vocab": [
+        {
+          "w": "cloth",
+          "pos": "n.",
+          "ipa": "/klɔθ/",
+          "zh": "布；毛巾"
+        },
+        {
+          "w": "bump",
+          "pos": "n.",
+          "ipa": "/bʌmp/",
+          "zh": "腫包"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-14",
+      "date": "2026-10-20",
+      "category": "relatives",
+      "en": "Grandma mailed you a postcard from her trip.",
+      "zh": "奶奶旅行時寄了一張明信片給你。",
+      "ipa": "/ˈɡrændˌmɑ meld ju ə ˈpostˌkɑrd frʌm hɚ trɪp/",
+      "vocab": [
+        {
+          "w": "postcard",
+          "pos": "n.",
+          "ipa": "/ˈpostˌkɑrd/",
+          "zh": "明信片"
+        },
+        {
+          "w": "mail",
+          "pos": "v.",
+          "ipa": "/mel/",
+          "zh": "郵寄"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-15",
+      "date": "2026-10-20",
+      "category": "friends",
+      "en": "Would you like to invite Mia to play this weekend?",
+      "zh": "你這週末想邀米亞來玩嗎？",
+      "ipa": "/wʊd ju laɪk tu ɪnˈvaɪt ˈmiə tu ple ðɪs ˈwikˌɛnd/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "weekend",
+          "pos": "n.",
+          "ipa": "/ˈwikˌɛnd/",
+          "zh": "週末"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-16",
+      "date": "2026-10-20",
+      "category": "manners",
+      "en": "Pass the bread basket to Grandpa, please.",
+      "zh": "請把麵包籃傳給爺爺。",
+      "ipa": "/pæs ðə brɛd ˈbæskɪt tu ˈɡrændˌpɑ, pliz/",
+      "vocab": [
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "傳遞"
+        },
+        {
+          "w": "basket",
+          "pos": "n.",
+          "ipa": "/ˈbæskɪt/",
+          "zh": "籃子"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-17",
+      "date": "2026-10-20",
+      "category": "weather",
+      "en": "Listen to the wind whistling through the trees.",
+      "zh": "聽，風吹過樹林發出呼呼聲。",
+      "ipa": "/ˈlɪsən tu ðə wɪnd ˈwɪsəlɪŋ θru ðə triz/",
+      "vocab": [
+        {
+          "w": "whistle",
+          "pos": "v.",
+          "ipa": "/ˈwɪsəl/",
+          "zh": "呼嘯；吹口哨"
+        },
+        {
+          "w": "wind",
+          "pos": "n.",
+          "ipa": "/wɪnd/",
+          "zh": "風"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-18",
+      "date": "2026-10-20",
+      "category": "screen-time",
+      "en": "Let's turn the tablet off and go outside.",
+      "zh": "我們把平板關掉，去外面玩吧。",
+      "ipa": "/lɛts tɝn ðə ˈtæblɪt ɔf ænd ɡo ˌaʊtˈsaɪd/",
+      "vocab": [
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        },
+        {
+          "w": "turn off",
+          "pos": "phr.",
+          "ipa": "/tɝn ɔf/",
+          "zh": "關掉"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-19",
+      "date": "2026-10-20",
+      "category": "celebrations",
+      "en": "Let's fill a little bag with treats for trick-or-treaters.",
+      "zh": "我們裝一小袋糖果，送給來要糖的小朋友。",
+      "ipa": "/lɛts fɪl ə ˈlɪtəl bæɡ wɪð trits fɚ ˌtrɪk ɚ ˈtritɚz/",
+      "vocab": [
+        {
+          "w": "treat",
+          "pos": "n.",
+          "ipa": "/trit/",
+          "zh": "點心；糖果"
+        },
+        {
+          "w": "trick-or-treater",
+          "pos": "n.",
+          "ipa": "/ˌtrɪk ɚ ˈtritɚ/",
+          "zh": "萬聖節要糖的小孩"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-20",
+      "date": "2026-10-20",
+      "category": "reading",
+      "en": "Why do you think the little fox ran away?",
+      "zh": "你覺得小狐狸為什麼跑掉了？",
+      "ipa": "/waɪ du ju θɪŋk ðə ˈlɪtəl fɑks ræn əˈwe/",
+      "vocab": [
+        {
+          "w": "fox",
+          "pos": "n.",
+          "ipa": "/fɑks/",
+          "zh": "狐狸"
+        },
+        {
+          "w": "run away",
+          "pos": "phr.",
+          "ipa": "/rʌn əˈwe/",
+          "zh": "跑走"
+        }
+      ]
+    }
+  ]
+}
