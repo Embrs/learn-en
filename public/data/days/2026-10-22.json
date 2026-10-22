@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-22",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-22-1",
+      "date": "2026-10-22",
+      "category": "daily-routine",
+      "en": "Tuck your pajamas under your pillow before breakfast.",
+      "zh": "吃早餐前把睡衣塞到枕頭下面。",
+      "ipa": "/tʌk jʊr pəˈdʒɑməz ˈʌndɚ jʊr ˈpɪlo bɪˈfɔr ˈbrɛkfəst/",
+      "vocab": [
+        {
+          "w": "tuck",
+          "pos": "v.",
+          "ipa": "/tʌk/",
+          "zh": "塞；收好"
+        },
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒɑməz/",
+          "zh": "睡衣"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-2",
+      "date": "2026-10-22",
+      "category": "meals",
+      "en": "Spread some peanut butter on your toast.",
+      "zh": "在吐司上抹一點花生醬。",
+      "ipa": "/sprɛd sʌm ˈpiˌnʌt ˈbʌtɚ ɑn jʊr tost/",
+      "vocab": [
+        {
+          "w": "spread",
+          "pos": "v.",
+          "ipa": "/sprɛd/",
+          "zh": "塗抹"
+        },
+        {
+          "w": "peanut butter",
+          "pos": "n.",
+          "ipa": "/ˈpiˌnʌt ˈbʌtɚ/",
+          "zh": "花生醬"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-3",
+      "date": "2026-10-22",
+      "category": "bath-bedtime",
+      "en": "Let's float your rubber duck and race the sailboat.",
+      "zh": "我們讓小黃鴨漂起來，跟帆船比賽。",
+      "ipa": "/lɛts flot jʊr ˈrʌbɚ dʌk ænd res ðə ˈselˌbot/",
+      "vocab": [
+        {
+          "w": "float",
+          "pos": "v.",
+          "ipa": "/flot/",
+          "zh": "漂浮"
+        },
+        {
+          "w": "sailboat",
+          "pos": "n.",
+          "ipa": "/ˈselˌbot/",
+          "zh": "帆船"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-4",
+      "date": "2026-10-22",
+      "category": "outings",
+      "en": "We're taking the ferry across the river today.",
+      "zh": "我們今天要搭渡輪過河喔。",
+      "ipa": "/wɪr ˈtekɪŋ ðə ˈfɛri əˈkrɔs ðə ˈrɪvɚ təˈde/",
+      "vocab": [
+        {
+          "w": "ferry",
+          "pos": "n.",
+          "ipa": "/ˈfɛri/",
+          "zh": "渡輪"
+        },
+        {
+          "w": "across",
+          "pos": "prep.",
+          "ipa": "/əˈkrɔs/",
+          "zh": "橫越"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-5",
+      "date": "2026-10-22",
+      "category": "playground",
+      "en": "Hold the rope tight while you climb the net.",
+      "zh": "爬網子的時候要緊緊抓住繩子。",
+      "ipa": "/hold ðə rop taɪt waɪl ju klaɪm ðə nɛt/",
+      "vocab": [
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "爬"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-6",
+      "date": "2026-10-22",
+      "category": "school",
+      "en": "Did you get to feed the class hamster today?",
+      "zh": "你今天有輪到餵班上的倉鼠嗎？",
+      "ipa": "/dɪd ju ɡɛt tu fid ðə klæs ˈhæmstɚ təˈde/",
+      "vocab": [
+        {
+          "w": "feed",
+          "pos": "v.",
+          "ipa": "/fid/",
+          "zh": "餵"
+        },
+        {
+          "w": "hamster",
+          "pos": "n.",
+          "ipa": "/ˈhæmstɚ/",
+          "zh": "倉鼠"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-7",
+      "date": "2026-10-22",
+      "category": "homework",
+      "en": "Sound out each letter before you write the word.",
+      "zh": "寫這個字之前，先把每個字母唸出來。",
+      "ipa": "/saʊnd aʊt itʃ ˈlɛtɚ bɪˈfɔr ju raɪt ðə wɝd/",
+      "vocab": [
+        {
+          "w": "sound out",
+          "pos": "phr.",
+          "ipa": "/saʊnd aʊt/",
+          "zh": "逐音唸出"
+        },
+        {
+          "w": "letter",
+          "pos": "n.",
+          "ipa": "/ˈlɛtɚ/",
+          "zh": "字母"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-8",
+      "date": "2026-10-22",
+      "category": "toys-sharing",
+      "en": "You build the tower, and your brother can add the roof.",
+      "zh": "你來蓋塔，弟弟可以加上屋頂。",
+      "ipa": "/ju bɪld ðə ˈtaʊɚ, ænd jʊr ˈbrʌðɚ kæn æd ðə ruf/",
+      "vocab": [
+        {
+          "w": "tower",
+          "pos": "n.",
+          "ipa": "/ˈtaʊɚ/",
+          "zh": "塔"
+        },
+        {
+          "w": "roof",
+          "pos": "n.",
+          "ipa": "/ruf/",
+          "zh": "屋頂"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-9",
+      "date": "2026-10-22",
+      "category": "emotions",
+      "en": "Your cheeks are red; are you feeling embarrassed?",
+      "zh": "你的臉紅紅的，是不是覺得不好意思？",
+      "ipa": "/jʊr tʃiks ɑr rɛd; ɑr ju ˈfilɪŋ ɪmˈbærəst/",
+      "vocab": [
+        {
+          "w": "cheek",
+          "pos": "n.",
+          "ipa": "/tʃik/",
+          "zh": "臉頰"
+        },
+        {
+          "w": "embarrassed",
+          "pos": "adj.",
+          "ipa": "/ɪmˈbærəst/",
+          "zh": "難為情的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-10",
+      "date": "2026-10-22",
+      "category": "discipline",
+      "en": "Please keep your feet off the couch cushions.",
+      "zh": "請不要把腳放在沙發墊上。",
+      "ipa": "/pliz kip jʊr fit ɔf ðə kaʊtʃ ˈkʊʃənz/",
+      "vocab": [
+        {
+          "w": "keep off",
+          "pos": "phr.",
+          "ipa": "/kip ɔf/",
+          "zh": "不碰；遠離"
+        },
+        {
+          "w": "cushion",
+          "pos": "n.",
+          "ipa": "/ˈkʊʃən/",
+          "zh": "坐墊"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-11",
+      "date": "2026-10-22",
+      "category": "praise",
+      "en": "You were so patient while waiting in line!",
+      "zh": "你排隊的時候好有耐心喔！",
+      "ipa": "/ju wɝ so ˈpeʃənt waɪl ˈwetɪŋ ɪn laɪn/",
+      "vocab": [
+        {
+          "w": "patient",
+          "pos": "adj.",
+          "ipa": "/ˈpeʃənt/",
+          "zh": "有耐心的"
+        },
+        {
+          "w": "wait in line",
+          "pos": "phr.",
+          "ipa": "/wet ɪn laɪn/",
+          "zh": "排隊"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-12",
+      "date": "2026-10-22",
+      "category": "safety",
+      "en": "Never open the door for a stranger.",
+      "zh": "絕對不要幫陌生人開門。",
+      "ipa": "/ˈnɛvɚ ˈopən ðə dɔr fɚ ə ˈstrendʒɚ/",
+      "vocab": [
+        {
+          "w": "stranger",
+          "pos": "n.",
+          "ipa": "/ˈstrendʒɚ/",
+          "zh": "陌生人"
+        },
+        {
+          "w": "never",
+          "pos": "adv.",
+          "ipa": "/ˈnɛvɚ/",
+          "zh": "絕不"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-13",
+      "date": "2026-10-22",
+      "category": "health",
+      "en": "Let's put a warm cloth on your sore ear.",
+      "zh": "我們在你痛痛的耳朵上敷一條溫毛巾。",
+      "ipa": "/lɛts pʊt ə wɔrm klɔθ ɑn jʊr sɔr ɪr/",
+      "vocab": [
+        {
+          "w": "cloth",
+          "pos": "n.",
+          "ipa": "/klɔθ/",
+          "zh": "布；毛巾"
+        },
+        {
+          "w": "sore",
+          "pos": "adj.",
+          "ipa": "/sɔr/",
+          "zh": "疼痛的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-14",
+      "date": "2026-10-22",
+      "category": "relatives",
+      "en": "Uncle Ben is coming to fix your bike.",
+      "zh": "班叔叔要來幫你修腳踏車。",
+      "ipa": "/ˈʌŋkəl bɛn ɪz ˈkʌmɪŋ tu fɪks jʊr baɪk/",
+      "vocab": [
+        {
+          "w": "uncle",
+          "pos": "n.",
+          "ipa": "/ˈʌŋkəl/",
+          "zh": "叔叔；舅舅"
+        },
+        {
+          "w": "fix",
+          "pos": "v.",
+          "ipa": "/fɪks/",
+          "zh": "修理"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-15",
+      "date": "2026-10-22",
+      "category": "friends",
+      "en": "Why don't you invite Mia over to bake cookies?",
+      "zh": "要不要邀米亞來家裡一起烤餅乾？",
+      "ipa": "/waɪ dont ju ɪnˈvaɪt ˈmiə ˈovɚ tu bek ˈkʊkiz/",
+      "vocab": [
+        {
+          "w": "invite over",
+          "pos": "phr.",
+          "ipa": "/ɪnˈvaɪt ˈovɚ/",
+          "zh": "邀請到家裡"
+        },
+        {
+          "w": "bake",
+          "pos": "v.",
+          "ipa": "/bek/",
+          "zh": "烘烤"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-16",
+      "date": "2026-10-22",
+      "category": "manners",
+      "en": "Pass the salt to Grandpa when he asks.",
+      "zh": "爺爺要鹽巴的時候，把它遞給他。",
+      "ipa": "/pæs ðə sɔlt tu ˈɡrænˌpɑ wɛn hi æsks/",
+      "vocab": [
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "遞"
+        },
+        {
+          "w": "salt",
+          "pos": "n.",
+          "ipa": "/sɔlt/",
+          "zh": "鹽"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-17",
+      "date": "2026-10-22",
+      "category": "weather",
+      "en": "Look at all the leaves the wind blew down!",
+      "zh": "你看，風吹下來好多葉子！",
+      "ipa": "/lʊk æt ɔl ðə livz ðə wɪnd blu daʊn/",
+      "vocab": [
+        {
+          "w": "leaves",
+          "pos": "n.",
+          "ipa": "/livz/",
+          "zh": "葉子（複數）"
+        },
+        {
+          "w": "blow down",
+          "pos": "phr.",
+          "ipa": "/blo daʊn/",
+          "zh": "吹落"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-18",
+      "date": "2026-10-22",
+      "category": "screen-time",
+      "en": "Let's turn the brightness down so it's easier on your eyes.",
+      "zh": "我們把亮度調低，眼睛比較舒服。",
+      "ipa": "/lɛts tɝn ðə ˈbraɪtnɪs daʊn so ɪts ˈiziɚ ɑn jʊr aɪz/",
+      "vocab": [
+        {
+          "w": "brightness",
+          "pos": "n.",
+          "ipa": "/ˈbraɪtnɪs/",
+          "zh": "亮度"
+        },
+        {
+          "w": "turn down",
+          "pos": "phr.",
+          "ipa": "/tɝn daʊn/",
+          "zh": "調低"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-19",
+      "date": "2026-10-22",
+      "category": "celebrations",
+      "en": "Let's hang paper bats in the front window.",
+      "zh": "我們在前面的窗戶掛上紙蝙蝠。",
+      "ipa": "/lɛts hæŋ ˈpepɚ bæts ɪn ðə frʌnt ˈwɪndo/",
+      "vocab": [
+        {
+          "w": "bat",
+          "pos": "n.",
+          "ipa": "/bæt/",
+          "zh": "蝙蝠"
+        },
+        {
+          "w": "window",
+          "pos": "n.",
+          "ipa": "/ˈwɪndo/",
+          "zh": "窗戶"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-20",
+      "date": "2026-10-22",
+      "category": "reading",
+      "en": "Let's use a funny voice for the grumpy troll.",
+      "zh": "我們用好笑的聲音來演那個愛生氣的山怪。",
+      "ipa": "/lɛts juz ə ˈfʌni vɔɪs fɔr ðə ˈɡrʌmpi trol/",
+      "vocab": [
+        {
+          "w": "grumpy",
+          "pos": "adj.",
+          "ipa": "/ˈɡrʌmpi/",
+          "zh": "脾氣暴躁的"
+        },
+        {
+          "w": "troll",
+          "pos": "n.",
+          "ipa": "/trol/",
+          "zh": "山怪；巨魔"
+        }
+      ]
+    }
+  ]
+}
