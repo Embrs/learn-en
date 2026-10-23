@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-23",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-23-1",
+      "date": "2026-10-23",
+      "category": "daily-routine",
+      "en": "Fold your blanket into a neat square, please.",
+      "zh": "請把你的毯子摺成整齊的方塊。",
+      "ipa": "/fold jʊr ˈblæŋkɪt ˈɪntu ə nit skwɛr pliz/",
+      "vocab": [
+        {
+          "w": "fold",
+          "pos": "v.",
+          "ipa": "/fold/",
+          "zh": "摺疊"
+        },
+        {
+          "w": "neat",
+          "pos": "adj.",
+          "ipa": "/nit/",
+          "zh": "整齊的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-2",
+      "date": "2026-10-23",
+      "category": "meals",
+      "en": "Do you want your apple sliced or whole?",
+      "zh": "你的蘋果要切片還是整顆？",
+      "ipa": "/du ju wɑnt jʊr ˈæpl̩ slaɪst ɔr hol/",
+      "vocab": [
+        {
+          "w": "sliced",
+          "pos": "adj.",
+          "ipa": "/slaɪst/",
+          "zh": "切片的"
+        },
+        {
+          "w": "whole",
+          "pos": "adj.",
+          "ipa": "/hol/",
+          "zh": "整個的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-3",
+      "date": "2026-10-23",
+      "category": "bath-bedtime",
+      "en": "Splash your hands to make little waves in the tub.",
+      "zh": "在浴缸裡用手拍水，做出小小的波浪。",
+      "ipa": "/splæʃ jʊr hændz tu mek ˈlɪtl̩ wevz ɪn ðə tʌb/",
+      "vocab": [
+        {
+          "w": "splash",
+          "pos": "v.",
+          "ipa": "/splæʃ/",
+          "zh": "潑水；拍水"
+        },
+        {
+          "w": "waves",
+          "pos": "n.",
+          "ipa": "/wevz/",
+          "zh": "波浪"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-4",
+      "date": "2026-10-23",
+      "category": "outings",
+      "en": "We're going to pick a pumpkin at the farm.",
+      "zh": "我們要去農場挑南瓜。",
+      "ipa": "/wɪr ˈɡoɪŋ tu pɪk ə ˈpʌmpkɪn æt ðə fɑrm/",
+      "vocab": [
+        {
+          "w": "pumpkin",
+          "pos": "n.",
+          "ipa": "/ˈpʌmpkɪn/",
+          "zh": "南瓜"
+        },
+        {
+          "w": "farm",
+          "pos": "n.",
+          "ipa": "/fɑrm/",
+          "zh": "農場"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-5",
+      "date": "2026-10-23",
+      "category": "playground",
+      "en": "Wait for the swing to stop before you jump off.",
+      "zh": "等鞦韆停下來再跳下來。",
+      "ipa": "/wet fɔr ðə swɪŋ tu stɑp bɪˈfɔr ju dʒʌmp ɔf/",
+      "vocab": [
+        {
+          "w": "swing",
+          "pos": "n.",
+          "ipa": "/swɪŋ/",
+          "zh": "鞦韆"
+        },
+        {
+          "w": "jump off",
+          "pos": "phr.",
+          "ipa": "/dʒʌmp ɔf/",
+          "zh": "跳下"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-6",
+      "date": "2026-10-23",
+      "category": "school",
+      "en": "Remember to give your teacher the permission slip.",
+      "zh": "記得把家長同意書交給老師。",
+      "ipa": "/rɪˈmɛmbɚ tu ɡɪv jʊr ˈtitʃɚ ðə pɚˈmɪʃən slɪp/",
+      "vocab": [
+        {
+          "w": "permission slip",
+          "pos": "n.",
+          "ipa": "/pɚˈmɪʃən slɪp/",
+          "zh": "家長同意書"
+        },
+        {
+          "w": "remember",
+          "pos": "v.",
+          "ipa": "/rɪˈmɛmbɚ/",
+          "zh": "記得"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-7",
+      "date": "2026-10-23",
+      "category": "homework",
+      "en": "Count the apples on the page one more time.",
+      "zh": "再數一次這頁上的蘋果。",
+      "ipa": "/kaʊnt ðə ˈæpl̩z ɑn ðə pedʒ wʌn mɔr taɪm/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數；計算"
+        },
+        {
+          "w": "one more time",
+          "pos": "phr.",
+          "ipa": "/wʌn mɔr taɪm/",
+          "zh": "再一次"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-8",
+      "date": "2026-10-23",
+      "category": "toys-sharing",
+      "en": "Can your sister borrow your crayons for a minute?",
+      "zh": "妹妹可以借用一下你的蠟筆嗎？",
+      "ipa": "/kæn jʊr ˈsɪstɚ ˈbɑro jʊr ˈkreənz fɔr ə ˈmɪnɪt/",
+      "vocab": [
+        {
+          "w": "borrow",
+          "pos": "v.",
+          "ipa": "/ˈbɑro/",
+          "zh": "借用"
+        },
+        {
+          "w": "crayons",
+          "pos": "n.",
+          "ipa": "/ˈkreənz/",
+          "zh": "蠟筆"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-9",
+      "date": "2026-10-23",
+      "category": "emotions",
+      "en": "You look worried; do you want to tell me about it?",
+      "zh": "你看起來很擔心，想跟我說說嗎？",
+      "ipa": "/ju lʊk ˈwɝɪd du ju wɑnt tu tɛl mi əˈbaʊt ɪt/",
+      "vocab": [
+        {
+          "w": "worried",
+          "pos": "adj.",
+          "ipa": "/ˈwɝɪd/",
+          "zh": "擔心的"
+        },
+        {
+          "w": "tell me about it",
+          "pos": "phr.",
+          "ipa": "/tɛl mi əˈbaʊt ɪt/",
+          "zh": "跟我說說"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-10",
+      "date": "2026-10-23",
+      "category": "discipline",
+      "en": "We don't throw sand at other kids.",
+      "zh": "我們不可以拿沙子丟別的小朋友。",
+      "ipa": "/wi dont θro sænd æt ˈʌðɚ kɪdz/",
+      "vocab": [
+        {
+          "w": "throw",
+          "pos": "v.",
+          "ipa": "/θro/",
+          "zh": "丟；扔"
+        },
+        {
+          "w": "sand",
+          "pos": "n.",
+          "ipa": "/sænd/",
+          "zh": "沙子"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-11",
+      "date": "2026-10-23",
+      "category": "praise",
+      "en": "You remembered to water the plants all by yourself!",
+      "zh": "你自己記得幫植物澆水耶！",
+      "ipa": "/ju rɪˈmɛmbɚd tu ˈwɔtɚ ðə plænts ɔl baɪ jʊrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "water",
+          "pos": "v.",
+          "ipa": "/ˈwɔtɚ/",
+          "zh": "澆水"
+        },
+        {
+          "w": "all by yourself",
+          "pos": "phr.",
+          "ipa": "/ɔl baɪ jʊrˈsɛlf/",
+          "zh": "全靠你自己"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-12",
+      "date": "2026-10-23",
+      "category": "safety",
+      "en": "Hold the scissors with the pointy end down.",
+      "zh": "拿剪刀的時候，尖的那頭要朝下。",
+      "ipa": "/hold ðə ˈsɪzɚz wɪð ðə ˈpɔɪntɪ ɛnd daʊn/",
+      "vocab": [
+        {
+          "w": "scissors",
+          "pos": "n.",
+          "ipa": "/ˈsɪzɚz/",
+          "zh": "剪刀"
+        },
+        {
+          "w": "pointy",
+          "pos": "adj.",
+          "ipa": "/ˈpɔɪntɪ/",
+          "zh": "尖的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-13",
+      "date": "2026-10-23",
+      "category": "health",
+      "en": "Blow your nose gently into the tissue.",
+      "zh": "把鼻涕輕輕擤到衛生紙裡。",
+      "ipa": "/blo jʊr noz ˈdʒɛntlɪ ˈɪntu ðə ˈtɪʃu/",
+      "vocab": [
+        {
+          "w": "blow your nose",
+          "pos": "phr.",
+          "ipa": "/blo jʊr noz/",
+          "zh": "擤鼻涕"
+        },
+        {
+          "w": "tissue",
+          "pos": "n.",
+          "ipa": "/ˈtɪʃu/",
+          "zh": "衛生紙；面紙"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-14",
+      "date": "2026-10-23",
+      "category": "relatives",
+      "en": "Grandma knitted this scarf just for you.",
+      "zh": "這條圍巾是奶奶特地為你織的。",
+      "ipa": "/ˈɡrænˌmɑ ˈnɪtɪd ðɪs skɑrf dʒʌst fɔr ju/",
+      "vocab": [
+        {
+          "w": "knit",
+          "pos": "v.",
+          "ipa": "/nɪt/",
+          "zh": "編織"
+        },
+        {
+          "w": "scarf",
+          "pos": "n.",
+          "ipa": "/skɑrf/",
+          "zh": "圍巾"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-15",
+      "date": "2026-10-23",
+      "category": "friends",
+      "en": "Ask Leo if he wants to trade stickers.",
+      "zh": "問問Leo要不要交換貼紙。",
+      "ipa": "/æsk ˈlio ɪf hi wɑnts tu tred ˈstɪkɚz/",
+      "vocab": [
+        {
+          "w": "trade",
+          "pos": "v.",
+          "ipa": "/tred/",
+          "zh": "交換"
+        },
+        {
+          "w": "stickers",
+          "pos": "n.",
+          "ipa": "/ˈstɪkɚz/",
+          "zh": "貼紙"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-16",
+      "date": "2026-10-23",
+      "category": "manners",
+      "en": "Say \"excuse me\" when you need to walk past.",
+      "zh": "要從別人旁邊經過時，要說「借過」。",
+      "ipa": "/se ɪkˈskjuz mi hwɛn ju nid tu wɔk pæst/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "不好意思；借過"
+        },
+        {
+          "w": "walk past",
+          "pos": "phr.",
+          "ipa": "/wɔk pæst/",
+          "zh": "走過去"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-17",
+      "date": "2026-10-23",
+      "category": "weather",
+      "en": "It's foggy this morning, so we'll drive slowly.",
+      "zh": "今天早上起霧了，所以我們會開慢一點。",
+      "ipa": "/ɪts ˈfɑɡɪ ðɪs ˈmɔrnɪŋ so wil draɪv ˈslolɪ/",
+      "vocab": [
+        {
+          "w": "foggy",
+          "pos": "adj.",
+          "ipa": "/ˈfɑɡɪ/",
+          "zh": "有霧的"
+        },
+        {
+          "w": "slowly",
+          "pos": "adv.",
+          "ipa": "/ˈslolɪ/",
+          "zh": "慢慢地"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-18",
+      "date": "2026-10-23",
+      "category": "screen-time",
+      "en": "When the timer beeps, it's time to log off.",
+      "zh": "計時器嗶嗶響的時候，就該登出了。",
+      "ipa": "/hwɛn ðə ˈtaɪmɚ bips ɪts taɪm tu lɔɡ ɔf/",
+      "vocab": [
+        {
+          "w": "timer",
+          "pos": "n.",
+          "ipa": "/ˈtaɪmɚ/",
+          "zh": "計時器"
+        },
+        {
+          "w": "log off",
+          "pos": "phr.",
+          "ipa": "/lɔɡ ɔf/",
+          "zh": "登出"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-19",
+      "date": "2026-10-23",
+      "category": "celebrations",
+      "en": "Let's carve a smiley face into our jack-o'-lantern.",
+      "zh": "我們在南瓜燈上刻一個笑臉吧。",
+      "ipa": "/lɛts kɑrv ə ˈsmaɪlɪ fes ˈɪntu aʊr ˈdʒækəˌlæntɚn/",
+      "vocab": [
+        {
+          "w": "carve",
+          "pos": "v.",
+          "ipa": "/kɑrv/",
+          "zh": "雕刻"
+        },
+        {
+          "w": "jack-o'-lantern",
+          "pos": "n.",
+          "ipa": "/ˈdʒækəˌlæntɚn/",
+          "zh": "南瓜燈"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-20",
+      "date": "2026-10-23",
+      "category": "reading",
+      "en": "Point to the little mouse hiding behind the tree.",
+      "zh": "指出躲在樹後面的那隻小老鼠。",
+      "ipa": "/pɔɪnt tu ðə ˈlɪtl̩ maʊs ˈhaɪdɪŋ bɪˈhaɪnd ðə tri/",
+      "vocab": [
+        {
+          "w": "point to",
+          "pos": "phr.",
+          "ipa": "/pɔɪnt tu/",
+          "zh": "指向"
+        },
+        {
+          "w": "hiding",
+          "pos": "v.",
+          "ipa": "/ˈhaɪdɪŋ/",
+          "zh": "躲藏"
+        }
+      ]
+    }
+  ]
+}
