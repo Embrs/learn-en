@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-24",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-24-1",
+      "date": "2026-10-24",
+      "category": "daily-routine",
+      "en": "Match your socks into pairs before you put them away.",
+      "zh": "收起來之前，先把襪子一雙一雙配好。",
+      "ipa": "/mætʃ jʊr sɑks ˈɪntu pɛrz bɪˈfɔr ju pʊt ðɛm əˈwe/",
+      "vocab": [
+        {
+          "w": "match",
+          "pos": "v.",
+          "ipa": "/mætʃ/",
+          "zh": "配對"
+        },
+        {
+          "w": "pairs",
+          "pos": "n.",
+          "ipa": "/pɛrz/",
+          "zh": "一雙；一對"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-2",
+      "date": "2026-10-24",
+      "category": "meals",
+      "en": "Would you like some honey on your toast?",
+      "zh": "你的吐司要不要加一點蜂蜜？",
+      "ipa": "/wʊd ju laɪk sʌm ˈhʌnɪ ɑn jʊr tost/",
+      "vocab": [
+        {
+          "w": "honey",
+          "pos": "n.",
+          "ipa": "/ˈhʌnɪ/",
+          "zh": "蜂蜜"
+        },
+        {
+          "w": "toast",
+          "pos": "n.",
+          "ipa": "/tost/",
+          "zh": "吐司"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-3",
+      "date": "2026-10-24",
+      "category": "bath-bedtime",
+      "en": "Let's rinse the bubbles off your shoulders with the cup.",
+      "zh": "我們用杯子把你肩膀上的泡泡沖掉。",
+      "ipa": "/lɛts rɪns ðə ˈbʌbl̩z ɔf jʊr ˈʃoldɚz wɪð ðə kʌp/",
+      "vocab": [
+        {
+          "w": "rinse",
+          "pos": "v.",
+          "ipa": "/rɪns/",
+          "zh": "沖洗"
+        },
+        {
+          "w": "shoulders",
+          "pos": "n.",
+          "ipa": "/ˈʃoldɚz/",
+          "zh": "肩膀"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-4",
+      "date": "2026-10-24",
+      "category": "outings",
+      "en": "Let's walk through the corn maze together.",
+      "zh": "我們一起走玉米迷宮吧。",
+      "ipa": "/lɛts wɔk θru ðə kɔrn mez təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "corn maze",
+          "pos": "n.",
+          "ipa": "/kɔrn mez/",
+          "zh": "玉米迷宮"
+        },
+        {
+          "w": "walk through",
+          "pos": "phr.",
+          "ipa": "/wɔk θru/",
+          "zh": "走過；穿越"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-5",
+      "date": "2026-10-24",
+      "category": "playground",
+      "en": "Let's kick the leaves into a big pile.",
+      "zh": "我們把落葉踢成一大堆吧。",
+      "ipa": "/lɛts kɪk ðə livz ˈɪntu ə bɪɡ paɪl/",
+      "vocab": [
+        {
+          "w": "leaves",
+          "pos": "n.",
+          "ipa": "/livz/",
+          "zh": "葉子（複數）"
+        },
+        {
+          "w": "pile",
+          "pos": "n.",
+          "ipa": "/paɪl/",
+          "zh": "一堆"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-6",
+      "date": "2026-10-24",
+      "category": "school",
+      "en": "Did your class feed the fish in the tank today?",
+      "zh": "你們班今天有餵魚缸裡的魚嗎？",
+      "ipa": "/dɪd jʊr klæs fid ðə fɪʃ ɪn ðə tæŋk təˈde/",
+      "vocab": [
+        {
+          "w": "feed",
+          "pos": "v.",
+          "ipa": "/fid/",
+          "zh": "餵"
+        },
+        {
+          "w": "tank",
+          "pos": "n.",
+          "ipa": "/tæŋk/",
+          "zh": "水族箱；魚缸"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-7",
+      "date": "2026-10-24",
+      "category": "homework",
+      "en": "Trace the dotted line slowly with your pencil.",
+      "zh": "用鉛筆慢慢描那條虛線。",
+      "ipa": "/tres ðə ˈdɑtɪd laɪn ˈslolɪ wɪð jʊr ˈpɛnsl̩/",
+      "vocab": [
+        {
+          "w": "trace",
+          "pos": "v.",
+          "ipa": "/tres/",
+          "zh": "描；描摹"
+        },
+        {
+          "w": "dotted line",
+          "pos": "n.",
+          "ipa": "/ˈdɑtɪd laɪn/",
+          "zh": "虛線"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-8",
+      "date": "2026-10-24",
+      "category": "toys-sharing",
+      "en": "Let's line up all your toy cars by color.",
+      "zh": "我們把你的玩具車按顏色排成一排。",
+      "ipa": "/lɛts laɪn ʌp ɔl jʊr tɔɪ kɑrz baɪ ˈkʌlɚ/",
+      "vocab": [
+        {
+          "w": "line up",
+          "pos": "phr.",
+          "ipa": "/laɪn ʌp/",
+          "zh": "排成一列"
+        },
+        {
+          "w": "by color",
+          "pos": "phr.",
+          "ipa": "/baɪ ˈkʌlɚ/",
+          "zh": "按照顏色"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-9",
+      "date": "2026-10-24",
+      "category": "emotions",
+      "en": "When you feel grumpy, a big hug might help.",
+      "zh": "你覺得心情不好的時候，大大的擁抱也許有用。",
+      "ipa": "/hwɛn ju fil ˈɡrʌmpɪ ə bɪɡ hʌɡ maɪt hɛlp/",
+      "vocab": [
+        {
+          "w": "grumpy",
+          "pos": "adj.",
+          "ipa": "/ˈɡrʌmpɪ/",
+          "zh": "心情不好的；脾氣差的"
+        },
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-10",
+      "date": "2026-10-24",
+      "category": "discipline",
+      "en": "Pick up the cereal you spilled on the floor.",
+      "zh": "把你灑在地上的麥片撿起來。",
+      "ipa": "/pɪk ʌp ðə ˈsɪrɪəl ju spɪld ɑn ðə flor/",
+      "vocab": [
+        {
+          "w": "cereal",
+          "pos": "n.",
+          "ipa": "/ˈsɪrɪəl/",
+          "zh": "穀片；麥片"
+        },
+        {
+          "w": "spill",
+          "pos": "v.",
+          "ipa": "/spɪl/",
+          "zh": "灑出"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-11",
+      "date": "2026-10-24",
+      "category": "praise",
+      "en": "You were so gentle with the baby kitten!",
+      "zh": "你對小貓咪好溫柔喔！",
+      "ipa": "/ju wɝ so ˈdʒɛntl̩ wɪð ðə ˈbebɪ ˈkɪtn̩/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl̩/",
+          "zh": "溫柔的；輕柔的"
+        },
+        {
+          "w": "kitten",
+          "pos": "n.",
+          "ipa": "/ˈkɪtn̩/",
+          "zh": "小貓"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-12",
+      "date": "2026-10-24",
+      "category": "safety",
+      "en": "Stay on the sidewalk and away from the cars.",
+      "zh": "走在人行道上，離車子遠一點。",
+      "ipa": "/ste ɑn ðə ˈsaɪdˌwɔk ænd əˈwe frʌm ðə kɑrz/",
+      "vocab": [
+        {
+          "w": "sidewalk",
+          "pos": "n.",
+          "ipa": "/ˈsaɪdˌwɔk/",
+          "zh": "人行道"
+        },
+        {
+          "w": "away from",
+          "pos": "phr.",
+          "ipa": "/əˈwe frʌm/",
+          "zh": "遠離"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-13",
+      "date": "2026-10-24",
+      "category": "health",
+      "en": "Let's put a warm towel on your sore tummy.",
+      "zh": "我們在你不舒服的肚子上放條暖毛巾。",
+      "ipa": "/lɛts pʊt ə wɔrm ˈtaʊəl ɑn jʊr sor ˈtʌmɪ/",
+      "vocab": [
+        {
+          "w": "sore",
+          "pos": "adj.",
+          "ipa": "/sor/",
+          "zh": "痠痛的；不舒服的"
+        },
+        {
+          "w": "tummy",
+          "pos": "n.",
+          "ipa": "/ˈtʌmɪ/",
+          "zh": "肚子（兒語）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-14",
+      "date": "2026-10-24",
+      "category": "relatives",
+      "en": "Your cousin is coming over to sleep tonight.",
+      "zh": "你表哥今晚要來家裡過夜。",
+      "ipa": "/jʊr ˈkʌzn̩ ɪz ˈkʌmɪŋ ˈovɚ tu slip təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "cousin",
+          "pos": "n.",
+          "ipa": "/ˈkʌzn̩/",
+          "zh": "表／堂兄弟姊妹"
+        },
+        {
+          "w": "come over",
+          "pos": "phr.",
+          "ipa": "/kʌm ˈovɚ/",
+          "zh": "過來（拜訪）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-15",
+      "date": "2026-10-24",
+      "category": "friends",
+      "en": "Maybe your friend wants to be the captain next.",
+      "zh": "也許你朋友下一輪想當隊長。",
+      "ipa": "/ˈmebɪ jʊr frɛnd wɑnts tu bi ðə ˈkæptɪn nɛkst/",
+      "vocab": [
+        {
+          "w": "captain",
+          "pos": "n.",
+          "ipa": "/ˈkæptɪn/",
+          "zh": "隊長；船長"
+        },
+        {
+          "w": "next",
+          "pos": "adv.",
+          "ipa": "/nɛkst/",
+          "zh": "接下來"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-16",
+      "date": "2026-10-24",
+      "category": "manners",
+      "en": "Wait until everyone is served before you eat.",
+      "zh": "等大家都拿到餐點再開動。",
+      "ipa": "/wet ənˈtɪl ˈɛvrɪˌwʌn ɪz sɝvd bɪˈfɔr ju it/",
+      "vocab": [
+        {
+          "w": "serve",
+          "pos": "v.",
+          "ipa": "/sɝv/",
+          "zh": "上菜；供應"
+        },
+        {
+          "w": "until",
+          "pos": "conj.",
+          "ipa": "/ənˈtɪl/",
+          "zh": "直到"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-17",
+      "date": "2026-10-24",
+      "category": "weather",
+      "en": "Look, the wind is blowing the clouds away!",
+      "zh": "你看，風把雲吹走了！",
+      "ipa": "/lʊk ðə wɪnd ɪz ˈbloɪŋ ðə klaʊdz əˈwe/",
+      "vocab": [
+        {
+          "w": "wind",
+          "pos": "n.",
+          "ipa": "/wɪnd/",
+          "zh": "風"
+        },
+        {
+          "w": "blow away",
+          "pos": "phr.",
+          "ipa": "/blo əˈwe/",
+          "zh": "吹走"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-18",
+      "date": "2026-10-24",
+      "category": "screen-time",
+      "en": "Let's turn off the tablet and stretch our legs.",
+      "zh": "我們把平板關掉，起來伸伸腿。",
+      "ipa": "/lɛts tɝn ɔf ðə ˈtæblɪt ænd strɛtʃ aʊr lɛɡz/",
+      "vocab": [
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        },
+        {
+          "w": "stretch",
+          "pos": "v.",
+          "ipa": "/strɛtʃ/",
+          "zh": "伸展"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-19",
+      "date": "2026-10-24",
+      "category": "celebrations",
+      "en": "Let's sort the trick-or-treat candy into two bowls.",
+      "zh": "我們把萬聖節討來的糖果分成兩碗。",
+      "ipa": "/lɛts sɔrt ðə ˌtrɪkɚˈtrit ˈkændɪ ˈɪntu tu bolz/",
+      "vocab": [
+        {
+          "w": "sort",
+          "pos": "v.",
+          "ipa": "/sɔrt/",
+          "zh": "分類"
+        },
+        {
+          "w": "trick-or-treat",
+          "pos": "adj.",
+          "ipa": "/ˌtrɪkɚˈtrit/",
+          "zh": "不給糖就搗蛋的（萬聖節討糖）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-20",
+      "date": "2026-10-24",
+      "category": "reading",
+      "en": "Whose footprints do you think these are in the snow?",
+      "zh": "你覺得雪地上這些是誰的腳印？",
+      "ipa": "/huz ˈfʊtˌprɪnts du ju θɪŋk ðiz ɑr ɪn ðə sno/",
+      "vocab": [
+        {
+          "w": "footprints",
+          "pos": "n.",
+          "ipa": "/ˈfʊtˌprɪnts/",
+          "zh": "腳印"
+        },
+        {
+          "w": "snow",
+          "pos": "n.",
+          "ipa": "/sno/",
+          "zh": "雪"
+        }
+      ]
+    }
+  ]
+}
