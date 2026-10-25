@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-25",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-25-1",
+      "date": "2026-10-25",
+      "category": "daily-routine",
+      "en": "Put your dirty shirt in the laundry basket, please.",
+      "zh": "請把髒衣服放進洗衣籃裡。",
+      "ipa": "/pʊt jʊr ˈdɝtɪ ʃɝt ɪn ðə ˈlɔndrɪ ˈbæskɪt pliz/",
+      "vocab": [
+        {
+          "w": "laundry basket",
+          "pos": "n.",
+          "ipa": "/ˈlɔndrɪ ˈbæskɪt/",
+          "zh": "洗衣籃"
+        },
+        {
+          "w": "dirty",
+          "pos": "adj.",
+          "ipa": "/ˈdɝtɪ/",
+          "zh": "髒的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-2",
+      "date": "2026-10-25",
+      "category": "meals",
+      "en": "Let's sprinkle some cheese on your pasta.",
+      "zh": "我們在你的義大利麵上撒點起司吧。",
+      "ipa": "/lɛts ˈsprɪŋkl̩ sʌm tʃiz ɑn jʊr ˈpɑstə/",
+      "vocab": [
+        {
+          "w": "sprinkle",
+          "pos": "v.",
+          "ipa": "/ˈsprɪŋkl̩/",
+          "zh": "撒"
+        },
+        {
+          "w": "pasta",
+          "pos": "n.",
+          "ipa": "/ˈpɑstə/",
+          "zh": "義大利麵"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-3",
+      "date": "2026-10-25",
+      "category": "bath-bedtime",
+      "en": "Tilt your head back so the water stays out of your eyes.",
+      "zh": "頭往後仰，水才不會流進眼睛。",
+      "ipa": "/tɪlt jʊr hɛd bæk so ðə ˈwɔtɚ stez aʊt əv jʊr aɪz/",
+      "vocab": [
+        {
+          "w": "tilt",
+          "pos": "v.",
+          "ipa": "/tɪlt/",
+          "zh": "傾斜、仰"
+        },
+        {
+          "w": "stay out of",
+          "pos": "phr.",
+          "ipa": "/ste aʊt əv/",
+          "zh": "不進入、遠離"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-4",
+      "date": "2026-10-25",
+      "category": "outings",
+      "en": "Let's pick a pumpkin from the farm patch.",
+      "zh": "我們去農場的南瓜田挑一顆南瓜吧。",
+      "ipa": "/lɛts pɪk ə ˈpʌmpkɪn frʌm ðə fɑrm pætʃ/",
+      "vocab": [
+        {
+          "w": "pumpkin",
+          "pos": "n.",
+          "ipa": "/ˈpʌmpkɪn/",
+          "zh": "南瓜"
+        },
+        {
+          "w": "patch",
+          "pos": "n.",
+          "ipa": "/pætʃ/",
+          "zh": "一小塊田地"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-5",
+      "date": "2026-10-25",
+      "category": "playground",
+      "en": "Hold on tight while I spin the tire swing.",
+      "zh": "我轉輪胎鞦韆的時候要抓緊喔。",
+      "ipa": "/hold ɑn taɪt hwaɪl aɪ spɪn ðə taɪr swɪŋ/",
+      "vocab": [
+        {
+          "w": "hold on tight",
+          "pos": "phr.",
+          "ipa": "/hold ɑn taɪt/",
+          "zh": "抓緊"
+        },
+        {
+          "w": "spin",
+          "pos": "v.",
+          "ipa": "/spɪn/",
+          "zh": "旋轉"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-6",
+      "date": "2026-10-25",
+      "category": "school",
+      "en": "Did you get to water the class plants today?",
+      "zh": "你今天有輪到幫班上的植物澆水嗎？",
+      "ipa": "/dɪd ju ɡɛt tu ˈwɔtɚ ðə klæs plænts təˈde/",
+      "vocab": [
+        {
+          "w": "get to",
+          "pos": "phr.",
+          "ipa": "/ɡɛt tu/",
+          "zh": "有機會、輪到"
+        },
+        {
+          "w": "plant",
+          "pos": "n.",
+          "ipa": "/plænt/",
+          "zh": "植物"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-7",
+      "date": "2026-10-25",
+      "category": "homework",
+      "en": "Count the apples and write the number in the box.",
+      "zh": "數一數有幾顆蘋果，把數字寫在格子裡。",
+      "ipa": "/kaʊnt ðɪ ˈæplz ænd raɪt ðə ˈnʌmbɚ ɪn ðə bɑks/",
+      "vocab": [
+        {
+          "w": "count",
+          "pos": "v.",
+          "ipa": "/kaʊnt/",
+          "zh": "數、計算"
+        },
+        {
+          "w": "number",
+          "pos": "n.",
+          "ipa": "/ˈnʌmbɚ/",
+          "zh": "數字"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-8",
+      "date": "2026-10-25",
+      "category": "toys-sharing",
+      "en": "You can build the tower, and she can add the roof.",
+      "zh": "你來蓋塔，她來加屋頂。",
+      "ipa": "/ju kæn bɪld ðə ˈtaʊɚ ænd ʃi kæn æd ðə ruf/",
+      "vocab": [
+        {
+          "w": "tower",
+          "pos": "n.",
+          "ipa": "/ˈtaʊɚ/",
+          "zh": "塔"
+        },
+        {
+          "w": "roof",
+          "pos": "n.",
+          "ipa": "/ruf/",
+          "zh": "屋頂"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-9",
+      "date": "2026-10-25",
+      "category": "emotions",
+      "en": "It's okay to feel nervous about the new class.",
+      "zh": "對新班級感到緊張是沒關係的。",
+      "ipa": "/ɪts ˈoˈke tu fil ˈnɝvəs əˈbaʊt ðə nu klæs/",
+      "vocab": [
+        {
+          "w": "nervous",
+          "pos": "adj.",
+          "ipa": "/ˈnɝvəs/",
+          "zh": "緊張的"
+        },
+        {
+          "w": "It's okay to",
+          "pos": "phr.",
+          "ipa": "/ɪts ˈoˈke tu/",
+          "zh": "……是沒關係的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-10",
+      "date": "2026-10-25",
+      "category": "discipline",
+      "en": "Please use gentle hands with the puppy.",
+      "zh": "對小狗狗要輕輕的喔。",
+      "ipa": "/pliz juz ˈdʒɛntl̩ hændz wɪð ðə ˈpʌpɪ/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl̩/",
+          "zh": "溫柔的、輕柔的"
+        },
+        {
+          "w": "puppy",
+          "pos": "n.",
+          "ipa": "/ˈpʌpɪ/",
+          "zh": "小狗"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-11",
+      "date": "2026-10-25",
+      "category": "praise",
+      "en": "You finished the whole puzzle all by yourself!",
+      "zh": "你自己一個人把整幅拼圖拼完了耶！",
+      "ipa": "/ju ˈfɪnɪʃt ðə hol ˈpʌzl̩ ɔl baɪ jʊrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "puzzle",
+          "pos": "n.",
+          "ipa": "/ˈpʌzl̩/",
+          "zh": "拼圖"
+        },
+        {
+          "w": "by yourself",
+          "pos": "phr.",
+          "ipa": "/baɪ jʊrˈsɛlf/",
+          "zh": "靠你自己"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-12",
+      "date": "2026-10-25",
+      "category": "safety",
+      "en": "Never touch the oven door, it gets very hot.",
+      "zh": "不可以碰烤箱的門，它會變得很燙。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ðɪ ˈʌvən dor ɪt ɡɛts ˈvɛrɪ hɑt/",
+      "vocab": [
+        {
+          "w": "oven",
+          "pos": "n.",
+          "ipa": "/ˈʌvən/",
+          "zh": "烤箱"
+        },
+        {
+          "w": "touch",
+          "pos": "v.",
+          "ipa": "/tʌtʃ/",
+          "zh": "碰、摸"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-13",
+      "date": "2026-10-25",
+      "category": "health",
+      "en": "Rest on the couch while your sniffles get better.",
+      "zh": "鼻子不舒服的時候，先躺在沙發上休息一下。",
+      "ipa": "/rɛst ɑn ðə kaʊtʃ hwaɪl jʊr ˈsnɪflz ɡɛt ˈbɛtɚ/",
+      "vocab": [
+        {
+          "w": "sniffles",
+          "pos": "n.",
+          "ipa": "/ˈsnɪflz/",
+          "zh": "流鼻水、鼻塞"
+        },
+        {
+          "w": "get better",
+          "pos": "phr.",
+          "ipa": "/ɡɛt ˈbɛtɚ/",
+          "zh": "好轉"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-14",
+      "date": "2026-10-25",
+      "category": "relatives",
+      "en": "Let's mail Grandpa the drawing you made for him.",
+      "zh": "我們把你畫給爺爺的圖寄給他吧。",
+      "ipa": "/lɛts mel ˈɡrændˌpɑ ðə ˈdrɔɪŋ ju med fɔr hɪm/",
+      "vocab": [
+        {
+          "w": "mail",
+          "pos": "v.",
+          "ipa": "/mel/",
+          "zh": "郵寄"
+        },
+        {
+          "w": "drawing",
+          "pos": "n.",
+          "ipa": "/ˈdrɔɪŋ/",
+          "zh": "圖畫"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-15",
+      "date": "2026-10-25",
+      "category": "friends",
+      "en": "Why don't you invite her to join your game?",
+      "zh": "你要不要邀請她一起玩你們的遊戲？",
+      "ipa": "/hwaɪ dont ju ɪnˈvaɪt hɝ tu dʒɔɪn jʊr ɡem/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "join",
+          "pos": "v.",
+          "ipa": "/dʒɔɪn/",
+          "zh": "加入"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-16",
+      "date": "2026-10-25",
+      "category": "manners",
+      "en": "Say excuse me if you need to walk past someone.",
+      "zh": "要從別人旁邊走過時，記得說「借過」。",
+      "ipa": "/se ɪkˈskjuz mi ɪf ju nid tu wɔk pæst ˈsʌmˌwʌn/",
+      "vocab": [
+        {
+          "w": "excuse me",
+          "pos": "phr.",
+          "ipa": "/ɪkˈskjuz mi/",
+          "zh": "借過、不好意思"
+        },
+        {
+          "w": "walk past",
+          "pos": "phr.",
+          "ipa": "/wɔk pæst/",
+          "zh": "從旁邊走過"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-17",
+      "date": "2026-10-25",
+      "category": "weather",
+      "en": "It's chilly this morning, so grab your hat.",
+      "zh": "今天早上有點涼，帶上你的帽子吧。",
+      "ipa": "/ɪts ˈtʃɪlɪ ðɪs ˈmɔrnɪŋ so ɡræb jʊr hæt/",
+      "vocab": [
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪlɪ/",
+          "zh": "涼颼颼的"
+        },
+        {
+          "w": "grab",
+          "pos": "v.",
+          "ipa": "/ɡræb/",
+          "zh": "拿、抓"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-18",
+      "date": "2026-10-25",
+      "category": "screen-time",
+      "en": "When the song ends, it's time to put the phone down.",
+      "zh": "這首歌結束，就要把手機放下了。",
+      "ipa": "/hwɛn ðə sɔŋ ɛndz ɪts taɪm tu pʊt ðə fon daʊn/",
+      "vocab": [
+        {
+          "w": "end",
+          "pos": "v.",
+          "ipa": "/ɛnd/",
+          "zh": "結束"
+        },
+        {
+          "w": "put down",
+          "pos": "phr.",
+          "ipa": "/pʊt daʊn/",
+          "zh": "放下"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-19",
+      "date": "2026-10-25",
+      "category": "celebrations",
+      "en": "Let's carve a silly face into our pumpkin.",
+      "zh": "我們在南瓜上刻一個搞笑的臉吧。",
+      "ipa": "/lɛts kɑrv ə ˈsɪlɪ fes ˈɪntu aʊr ˈpʌmpkɪn/",
+      "vocab": [
+        {
+          "w": "carve",
+          "pos": "v.",
+          "ipa": "/kɑrv/",
+          "zh": "雕刻"
+        },
+        {
+          "w": "silly",
+          "pos": "adj.",
+          "ipa": "/ˈsɪlɪ/",
+          "zh": "滑稽的、傻傻的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-20",
+      "date": "2026-10-25",
+      "category": "reading",
+      "en": "Can you guess what the bear will do next?",
+      "zh": "你猜得到小熊接下來會做什麼嗎？",
+      "ipa": "/kæn ju ɡɛs hwɑt ðə bɛr wɪl du nɛkst/",
+      "vocab": [
+        {
+          "w": "guess",
+          "pos": "v.",
+          "ipa": "/ɡɛs/",
+          "zh": "猜"
+        },
+        {
+          "w": "next",
+          "pos": "adv.",
+          "ipa": "/nɛkst/",
+          "zh": "接下來"
+        }
+      ]
+    }
+  ]
+}
