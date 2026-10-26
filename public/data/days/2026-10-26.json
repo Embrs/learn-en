@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-26",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-26-1",
+      "date": "2026-10-26",
+      "category": "daily-routine",
+      "en": "Let's zip up your jacket before we head out.",
+      "zh": "出門前我們把外套拉鍊拉好吧。",
+      "ipa": "/lɛts zɪp ʌp jʊr ˈdʒækɪt bɪˈfɔr wi hɛd aʊt/",
+      "vocab": [
+        {
+          "w": "zip up",
+          "pos": "phr.",
+          "ipa": "/zɪp ʌp/",
+          "zh": "拉上拉鍊"
+        },
+        {
+          "w": "head out",
+          "pos": "phr.",
+          "ipa": "/hɛd aʊt/",
+          "zh": "出門；出發"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-2",
+      "date": "2026-10-26",
+      "category": "meals",
+      "en": "Blow on your soup so it cools down a little.",
+      "zh": "吹一吹湯，讓它涼一點。",
+      "ipa": "/blo ɑn jʊr sup so ɪt kulz daʊn ə ˈlɪtl̩/",
+      "vocab": [
+        {
+          "w": "blow",
+          "pos": "v.",
+          "ipa": "/blo/",
+          "zh": "吹"
+        },
+        {
+          "w": "cool down",
+          "pos": "phr.",
+          "ipa": "/kul daʊn/",
+          "zh": "變涼"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-3",
+      "date": "2026-10-26",
+      "category": "bath-bedtime",
+      "en": "Which pajamas do you want to wear tonight?",
+      "zh": "你今晚想穿哪一套睡衣？",
+      "ipa": "/hwɪtʃ pəˈdʒɑməz du ju wɑnt tu wɛr təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "pajamas",
+          "pos": "n.",
+          "ipa": "/pəˈdʒɑməz/",
+          "zh": "睡衣"
+        },
+        {
+          "w": "tonight",
+          "pos": "adv.",
+          "ipa": "/təˈnaɪt/",
+          "zh": "今晚"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-4",
+      "date": "2026-10-26",
+      "category": "outings",
+      "en": "Stay close to me in the crowded market.",
+      "zh": "在人很多的市場裡要待在我旁邊。",
+      "ipa": "/ste klos tu mi ɪn ðə ˈkraʊdɪd ˈmɑrkɪt/",
+      "vocab": [
+        {
+          "w": "crowded",
+          "pos": "adj.",
+          "ipa": "/ˈkraʊdɪd/",
+          "zh": "擁擠的"
+        },
+        {
+          "w": "market",
+          "pos": "n.",
+          "ipa": "/ˈmɑrkɪt/",
+          "zh": "市場"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-5",
+      "date": "2026-10-26",
+      "category": "playground",
+      "en": "Wait at the bottom until your friend slides off.",
+      "zh": "在下面等朋友滑下來離開再上去。",
+      "ipa": "/wet æt ðə ˈbɑtəm ənˈtɪl jʊr frɛnd slaɪdz ɔf/",
+      "vocab": [
+        {
+          "w": "bottom",
+          "pos": "n.",
+          "ipa": "/ˈbɑtəm/",
+          "zh": "底部"
+        },
+        {
+          "w": "slide",
+          "pos": "v.",
+          "ipa": "/slaɪd/",
+          "zh": "滑"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-6",
+      "date": "2026-10-26",
+      "category": "school",
+      "en": "Your teacher said you helped clean up the classroom.",
+      "zh": "老師說你有幫忙整理教室喔。",
+      "ipa": "/jʊr ˈtitʃɚ sɛd ju hɛlpt klin ʌp ðə ˈklæsˌrum/",
+      "vocab": [
+        {
+          "w": "clean up",
+          "pos": "phr.",
+          "ipa": "/klin ʌp/",
+          "zh": "打掃；整理"
+        },
+        {
+          "w": "classroom",
+          "pos": "n.",
+          "ipa": "/ˈklæsˌrum/",
+          "zh": "教室"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-7",
+      "date": "2026-10-26",
+      "category": "homework",
+      "en": "Trace the dotted lines to finish each letter.",
+      "zh": "沿著虛線描，把每個字母寫完。",
+      "ipa": "/tres ðə ˈdɑtɪd laɪnz tu ˈfɪnɪʃ itʃ ˈlɛtɚ/",
+      "vocab": [
+        {
+          "w": "trace",
+          "pos": "v.",
+          "ipa": "/tres/",
+          "zh": "描；描摹"
+        },
+        {
+          "w": "dotted line",
+          "pos": "n.",
+          "ipa": "/ˈdɑtɪd laɪn/",
+          "zh": "虛線"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-8",
+      "date": "2026-10-26",
+      "category": "toys-sharing",
+      "en": "Ask your brother if you can borrow his dinosaur.",
+      "zh": "問問哥哥可不可以借你他的恐龍。",
+      "ipa": "/æsk jʊr ˈbrʌðɚ ɪf ju kæn ˈbɑro hɪz ˈdaɪnəˌsɔr/",
+      "vocab": [
+        {
+          "w": "borrow",
+          "pos": "v.",
+          "ipa": "/ˈbɑro/",
+          "zh": "借（入）"
+        },
+        {
+          "w": "dinosaur",
+          "pos": "n.",
+          "ipa": "/ˈdaɪnəˌsɔr/",
+          "zh": "恐龍"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-9",
+      "date": "2026-10-26",
+      "category": "emotions",
+      "en": "Do you want a hug while you calm your body down?",
+      "zh": "你要不要抱抱，讓身體慢慢冷靜下來？",
+      "ipa": "/du ju wɑnt ə hʌɡ hwaɪl ju kɑm jʊr ˈbɑdɪ daʊn/",
+      "vocab": [
+        {
+          "w": "hug",
+          "pos": "n.",
+          "ipa": "/hʌɡ/",
+          "zh": "擁抱"
+        },
+        {
+          "w": "calm down",
+          "pos": "phr.",
+          "ipa": "/kɑm daʊn/",
+          "zh": "冷靜下來"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-10",
+      "date": "2026-10-26",
+      "category": "discipline",
+      "en": "We use inside voices when the baby is sleeping.",
+      "zh": "寶寶在睡覺時，我們要小聲說話。",
+      "ipa": "/wi juz ˈɪnˌsaɪd ˈvɔɪsɪz hwɛn ðə ˈbebɪ ɪz ˈslipɪŋ/",
+      "vocab": [
+        {
+          "w": "inside voice",
+          "pos": "n.",
+          "ipa": "/ˈɪnˌsaɪd vɔɪs/",
+          "zh": "室內音量；小聲說話"
+        },
+        {
+          "w": "sleeping",
+          "pos": "v.",
+          "ipa": "/ˈslipɪŋ/",
+          "zh": "睡覺（進行式）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-11",
+      "date": "2026-10-26",
+      "category": "praise",
+      "en": "You were so patient waiting in that long line.",
+      "zh": "你在那麼長的隊伍裡等得好有耐心。",
+      "ipa": "/ju wɝ so ˈpeʃənt ˈwetɪŋ ɪn ðæt lɔŋ laɪn/",
+      "vocab": [
+        {
+          "w": "patient",
+          "pos": "adj.",
+          "ipa": "/ˈpeʃənt/",
+          "zh": "有耐心的"
+        },
+        {
+          "w": "line",
+          "pos": "n.",
+          "ipa": "/laɪn/",
+          "zh": "隊伍"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-12",
+      "date": "2026-10-26",
+      "category": "safety",
+      "en": "Always hold the railing when you go down the stairs.",
+      "zh": "下樓梯時一定要扶著欄杆。",
+      "ipa": "/ˈɔlwez hold ðə ˈrelɪŋ hwɛn ju ɡo daʊn ðə stɛrz/",
+      "vocab": [
+        {
+          "w": "railing",
+          "pos": "n.",
+          "ipa": "/ˈrelɪŋ/",
+          "zh": "欄杆；扶手"
+        },
+        {
+          "w": "stairs",
+          "pos": "n.",
+          "ipa": "/stɛrz/",
+          "zh": "樓梯"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-13",
+      "date": "2026-10-26",
+      "category": "health",
+      "en": "Cover your cough with your elbow, sweetie.",
+      "zh": "寶貝，咳嗽時用手肘遮住喔。",
+      "ipa": "/ˈkʌvɚ jʊr kɔf wɪð jʊr ˈɛlbo ˈswitɪ/",
+      "vocab": [
+        {
+          "w": "cough",
+          "pos": "n.",
+          "ipa": "/kɔf/",
+          "zh": "咳嗽"
+        },
+        {
+          "w": "elbow",
+          "pos": "n.",
+          "ipa": "/ˈɛlbo/",
+          "zh": "手肘"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-14",
+      "date": "2026-10-26",
+      "category": "relatives",
+      "en": "Your cousins are coming over for dinner on Saturday.",
+      "zh": "你的表哥表姊星期六要來吃晚餐。",
+      "ipa": "/jʊr ˈkʌzn̩z ɑr ˈkʌmɪŋ ˈovɚ fɔr ˈdɪnɚ ɑn ˈsætɚde/",
+      "vocab": [
+        {
+          "w": "cousin",
+          "pos": "n.",
+          "ipa": "/ˈkʌzn̩/",
+          "zh": "堂／表兄弟姊妹"
+        },
+        {
+          "w": "come over",
+          "pos": "phr.",
+          "ipa": "/kʌm ˈovɚ/",
+          "zh": "過來（家裡）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-15",
+      "date": "2026-10-26",
+      "category": "friends",
+      "en": "Would you like to share your crayons with your new friend?",
+      "zh": "你要不要把蠟筆分給新朋友用？",
+      "ipa": "/wʊd ju laɪk tu ʃɛr jʊr ˈkreənz wɪð jʊr nju frɛnd/",
+      "vocab": [
+        {
+          "w": "crayon",
+          "pos": "n.",
+          "ipa": "/ˈkreən/",
+          "zh": "蠟筆"
+        },
+        {
+          "w": "share",
+          "pos": "v.",
+          "ipa": "/ʃɛr/",
+          "zh": "分享"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-16",
+      "date": "2026-10-26",
+      "category": "manners",
+      "en": "Knock on the door before you go into a room.",
+      "zh": "進房間前要先敲門。",
+      "ipa": "/nɑk ɑn ðə dor bɪˈfɔr ju ɡo ˈɪntu ə rum/",
+      "vocab": [
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲（門）"
+        },
+        {
+          "w": "go into",
+          "pos": "phr.",
+          "ipa": "/ɡo ˈɪntu/",
+          "zh": "進入"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-17",
+      "date": "2026-10-26",
+      "category": "weather",
+      "en": "The fog is so thick we can barely see the trees.",
+      "zh": "霧好濃，我們幾乎看不到樹了。",
+      "ipa": "/ðə fɑɡ ɪz so θɪk wi kæn ˈbɛrlɪ si ðə triz/",
+      "vocab": [
+        {
+          "w": "fog",
+          "pos": "n.",
+          "ipa": "/fɑɡ/",
+          "zh": "霧"
+        },
+        {
+          "w": "barely",
+          "pos": "adv.",
+          "ipa": "/ˈbɛrlɪ/",
+          "zh": "幾乎不；勉強"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-18",
+      "date": "2026-10-26",
+      "category": "screen-time",
+      "en": "Let's pause the cartoon and go play outside.",
+      "zh": "我們先把卡通暫停，去外面玩吧。",
+      "ipa": "/lɛts pɔz ðə kɑrˈtun ænd ɡo ple ˌaʊtˈsaɪd/",
+      "vocab": [
+        {
+          "w": "pause",
+          "pos": "v.",
+          "ipa": "/pɔz/",
+          "zh": "暫停"
+        },
+        {
+          "w": "cartoon",
+          "pos": "n.",
+          "ipa": "/kɑrˈtun/",
+          "zh": "卡通"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-19",
+      "date": "2026-10-26",
+      "category": "celebrations",
+      "en": "Let's hang paper bats in the window for Halloween.",
+      "zh": "我們在窗戶上掛紙蝙蝠來過萬聖節吧。",
+      "ipa": "/lɛts hæŋ ˈpepɚ bæts ɪn ðə ˈwɪndo fɔr ˌhæloˈin/",
+      "vocab": [
+        {
+          "w": "hang",
+          "pos": "v.",
+          "ipa": "/hæŋ/",
+          "zh": "掛"
+        },
+        {
+          "w": "bat",
+          "pos": "n.",
+          "ipa": "/bæt/",
+          "zh": "蝙蝠"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-20",
+      "date": "2026-10-26",
+      "category": "reading",
+      "en": "Should we read the owl story or the train story tonight?",
+      "zh": "今晚我們要讀貓頭鷹的故事，還是火車的故事？",
+      "ipa": "/ʃʊd wi rid ði aʊl ˈstorɪ ɔr ðə tren ˈstorɪ təˈnaɪt/",
+      "vocab": [
+        {
+          "w": "owl",
+          "pos": "n.",
+          "ipa": "/aʊl/",
+          "zh": "貓頭鷹"
+        },
+        {
+          "w": "story",
+          "pos": "n.",
+          "ipa": "/ˈstorɪ/",
+          "zh": "故事"
+        }
+      ]
+    }
+  ]
+}
