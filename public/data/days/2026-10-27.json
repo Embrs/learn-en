@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-27",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-27-1",
+      "date": "2026-10-27",
+      "category": "daily-routine",
+      "en": "Put your dirty socks in the laundry basket, please.",
+      "zh": "請把髒襪子放進洗衣籃裡。",
+      "ipa": "/pʊt jʊr ˈdɝti sɑks ɪn ðə ˈlɔndri ˈbæskɪt pliz/",
+      "vocab": [
+        {
+          "w": "dirty",
+          "pos": "adj.",
+          "ipa": "/ˈdɝti/",
+          "zh": "髒的"
+        },
+        {
+          "w": "laundry basket",
+          "pos": "n.",
+          "ipa": "/ˈlɔndri ˈbæskɪt/",
+          "zh": "洗衣籃"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-2",
+      "date": "2026-10-27",
+      "category": "meals",
+      "en": "Try one bite of the pumpkin before you decide.",
+      "zh": "先吃一口南瓜再決定喜不喜歡。",
+      "ipa": "/traɪ wʌn baɪt əv ðə ˈpʌmpkɪn bɪˈfɔr ju dɪˈsaɪd/",
+      "vocab": [
+        {
+          "w": "bite",
+          "pos": "n.",
+          "ipa": "/baɪt/",
+          "zh": "一口"
+        },
+        {
+          "w": "pumpkin",
+          "pos": "n.",
+          "ipa": "/ˈpʌmpkɪn/",
+          "zh": "南瓜"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-3",
+      "date": "2026-10-27",
+      "category": "bath-bedtime",
+      "en": "Let's squeeze the rubber duck and make it squirt.",
+      "zh": "我們來捏捏小鴨子，讓它噴水。",
+      "ipa": "/lɛts skwiz ðə ˈrʌbɚ dʌk ænd mek ɪt skwɝt/",
+      "vocab": [
+        {
+          "w": "squeeze",
+          "pos": "v.",
+          "ipa": "/skwiz/",
+          "zh": "捏；擠"
+        },
+        {
+          "w": "squirt",
+          "pos": "v.",
+          "ipa": "/skwɝt/",
+          "zh": "噴出"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-4",
+      "date": "2026-10-27",
+      "category": "outings",
+      "en": "We can feed the ducks at the pond after lunch.",
+      "zh": "吃完午餐我們可以去池塘餵鴨子。",
+      "ipa": "/wi kæn fid ðə dʌks æt ðə pɑnd ˈæftɚ lʌntʃ/",
+      "vocab": [
+        {
+          "w": "feed",
+          "pos": "v.",
+          "ipa": "/fid/",
+          "zh": "餵"
+        },
+        {
+          "w": "pond",
+          "pos": "n.",
+          "ipa": "/pɑnd/",
+          "zh": "池塘"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-5",
+      "date": "2026-10-27",
+      "category": "playground",
+      "en": "Kick your legs out to make the swing go up.",
+      "zh": "腳往前踢，鞦韆就會盪上去。",
+      "ipa": "/kɪk jʊr lɛɡz aʊt tu mek ðə swɪŋ ɡo ʌp/",
+      "vocab": [
+        {
+          "w": "kick",
+          "pos": "v.",
+          "ipa": "/kɪk/",
+          "zh": "踢"
+        },
+        {
+          "w": "leg",
+          "pos": "n.",
+          "ipa": "/lɛɡ/",
+          "zh": "腿"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-6",
+      "date": "2026-10-27",
+      "category": "school",
+      "en": "Did you remember to hand in your library book?",
+      "zh": "你有記得把圖書館的書還回去嗎？",
+      "ipa": "/dɪd ju rɪˈmɛmbɚ tu hænd ɪn jʊr ˈlaɪˌbrɛri bʊk/",
+      "vocab": [
+        {
+          "w": "hand in",
+          "pos": "phr.",
+          "ipa": "/hænd ɪn/",
+          "zh": "繳交；交回"
+        },
+        {
+          "w": "library",
+          "pos": "n.",
+          "ipa": "/ˈlaɪˌbrɛri/",
+          "zh": "圖書館"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-7",
+      "date": "2026-10-27",
+      "category": "homework",
+      "en": "Circle the animal that starts with the letter B.",
+      "zh": "把開頭是字母 B 的動物圈起來。",
+      "ipa": "/ˈsɝkl̩ ði ˈænəml̩ ðæt stɑrts wɪð ðə ˈlɛtɚ bi/",
+      "vocab": [
+        {
+          "w": "circle",
+          "pos": "v.",
+          "ipa": "/ˈsɝkl̩/",
+          "zh": "圈起來"
+        },
+        {
+          "w": "start with",
+          "pos": "phr.",
+          "ipa": "/stɑrt wɪð/",
+          "zh": "以…開頭"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-8",
+      "date": "2026-10-27",
+      "category": "toys-sharing",
+      "en": "Let's take turns stacking one block at a time.",
+      "zh": "我們輪流一次疊一塊積木吧。",
+      "ipa": "/lɛts tek tɝnz ˈstækɪŋ wʌn blɑk æt ə taɪm/",
+      "vocab": [
+        {
+          "w": "stack",
+          "pos": "v.",
+          "ipa": "/stæk/",
+          "zh": "堆疊"
+        },
+        {
+          "w": "one at a time",
+          "pos": "phr.",
+          "ipa": "/wʌn æt ə taɪm/",
+          "zh": "一次一個"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-9",
+      "date": "2026-10-27",
+      "category": "emotions",
+      "en": "It's okay to feel nervous about trying something new.",
+      "zh": "嘗試新事物會緊張是沒關係的。",
+      "ipa": "/ɪts ˌoˈke tu fil ˈnɝvəs əˈbaʊt ˈtraɪɪŋ ˈsʌmθɪŋ nu/",
+      "vocab": [
+        {
+          "w": "nervous",
+          "pos": "adj.",
+          "ipa": "/ˈnɝvəs/",
+          "zh": "緊張的"
+        },
+        {
+          "w": "try",
+          "pos": "v.",
+          "ipa": "/traɪ/",
+          "zh": "嘗試"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-10",
+      "date": "2026-10-27",
+      "category": "discipline",
+      "en": "Ask before you take food from someone's plate.",
+      "zh": "拿別人盤子裡的食物前要先問。",
+      "ipa": "/æsk bɪˈfɔr ju tek fud frəm ˈsʌmˌwʌnz plet/",
+      "vocab": [
+        {
+          "w": "ask",
+          "pos": "v.",
+          "ipa": "/æsk/",
+          "zh": "詢問"
+        },
+        {
+          "w": "plate",
+          "pos": "n.",
+          "ipa": "/plet/",
+          "zh": "盤子"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-11",
+      "date": "2026-10-27",
+      "category": "praise",
+      "en": "You tied your shoes all by yourself!",
+      "zh": "你自己把鞋帶綁好了耶！",
+      "ipa": "/ju taɪd jʊr ʃuz ɔl baɪ jʊrˈsɛlf/",
+      "vocab": [
+        {
+          "w": "tie",
+          "pos": "v.",
+          "ipa": "/taɪ/",
+          "zh": "綁；繫"
+        },
+        {
+          "w": "by yourself",
+          "pos": "phr.",
+          "ipa": "/baɪ jʊrˈsɛlf/",
+          "zh": "靠你自己"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-12",
+      "date": "2026-10-27",
+      "category": "safety",
+      "en": "Never touch the oven door when it's hot.",
+      "zh": "烤箱門熱的時候絕對不要碰。",
+      "ipa": "/ˈnɛvɚ tʌtʃ ði ˈʌvən dɔr wɛn ɪts hɑt/",
+      "vocab": [
+        {
+          "w": "oven",
+          "pos": "n.",
+          "ipa": "/ˈʌvən/",
+          "zh": "烤箱"
+        },
+        {
+          "w": "touch",
+          "pos": "v.",
+          "ipa": "/tʌtʃ/",
+          "zh": "觸碰"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-13",
+      "date": "2026-10-27",
+      "category": "health",
+      "en": "Let's put on some lotion so your hands aren't dry.",
+      "zh": "我們擦點乳液，手才不會乾乾的。",
+      "ipa": "/lɛts pʊt ɑn səm ˈloʃən so jʊr hændz ɑrnt draɪ/",
+      "vocab": [
+        {
+          "w": "lotion",
+          "pos": "n.",
+          "ipa": "/ˈloʃən/",
+          "zh": "乳液"
+        },
+        {
+          "w": "dry",
+          "pos": "adj.",
+          "ipa": "/draɪ/",
+          "zh": "乾燥的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-14",
+      "date": "2026-10-27",
+      "category": "relatives",
+      "en": "Let's draw a card to mail to Auntie May.",
+      "zh": "我們畫張卡片寄給美阿姨吧。",
+      "ipa": "/lɛts drɔ ə kɑrd tu mel tu ˈænti me/",
+      "vocab": [
+        {
+          "w": "mail",
+          "pos": "v.",
+          "ipa": "/mel/",
+          "zh": "郵寄"
+        },
+        {
+          "w": "auntie",
+          "pos": "n.",
+          "ipa": "/ˈænti/",
+          "zh": "阿姨；姑姑"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-15",
+      "date": "2026-10-27",
+      "category": "friends",
+      "en": "Why don't you invite Leo to play tag with you?",
+      "zh": "你要不要邀請里歐一起玩鬼抓人？",
+      "ipa": "/waɪ dont ju ɪnˈvaɪt ˈlio tu ple tæɡ wɪð ju/",
+      "vocab": [
+        {
+          "w": "invite",
+          "pos": "v.",
+          "ipa": "/ɪnˈvaɪt/",
+          "zh": "邀請"
+        },
+        {
+          "w": "play tag",
+          "pos": "phr.",
+          "ipa": "/ple tæɡ/",
+          "zh": "玩鬼抓人"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-16",
+      "date": "2026-10-27",
+      "category": "manners",
+      "en": "Please wait until Grandpa finishes talking.",
+      "zh": "請等爺爺說完話再說。",
+      "ipa": "/pliz wet ənˈtɪl ˈɡrænpɑ ˈfɪnɪʃɪz ˈtɔkɪŋ/",
+      "vocab": [
+        {
+          "w": "wait until",
+          "pos": "phr.",
+          "ipa": "/wet ənˈtɪl/",
+          "zh": "等到…"
+        },
+        {
+          "w": "finish",
+          "pos": "v.",
+          "ipa": "/ˈfɪnɪʃ/",
+          "zh": "完成；結束"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-17",
+      "date": "2026-10-27",
+      "category": "weather",
+      "en": "The leaves are crunchy because it's been so dry.",
+      "zh": "因為最近很乾燥，葉子踩起來脆脆的。",
+      "ipa": "/ðə livz ɑr ˈkrʌntʃi bɪˈkɔz ɪts bɪn so draɪ/",
+      "vocab": [
+        {
+          "w": "leaves",
+          "pos": "n.",
+          "ipa": "/livz/",
+          "zh": "葉子（複數）"
+        },
+        {
+          "w": "crunchy",
+          "pos": "adj.",
+          "ipa": "/ˈkrʌntʃi/",
+          "zh": "脆脆的；嘎吱響的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-18",
+      "date": "2026-10-27",
+      "category": "screen-time",
+      "en": "When the timer beeps, it's time to turn off the tablet.",
+      "zh": "計時器一響，就要把平板關掉囉。",
+      "ipa": "/wɛn ðə ˈtaɪmɚ bips ɪts taɪm tu tɝn ɔf ðə ˈtæblɪt/",
+      "vocab": [
+        {
+          "w": "timer",
+          "pos": "n.",
+          "ipa": "/ˈtaɪmɚ/",
+          "zh": "計時器"
+        },
+        {
+          "w": "tablet",
+          "pos": "n.",
+          "ipa": "/ˈtæblɪt/",
+          "zh": "平板電腦"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-19",
+      "date": "2026-10-27",
+      "category": "celebrations",
+      "en": "Let's scoop the seeds out of our jack-o'-lantern.",
+      "zh": "我們來把南瓜燈裡的籽挖出來。",
+      "ipa": "/lɛts skup ðə sidz aʊt əv aʊr ˈdʒækəˌlæntɚn/",
+      "vocab": [
+        {
+          "w": "scoop",
+          "pos": "v.",
+          "ipa": "/skup/",
+          "zh": "挖；舀"
+        },
+        {
+          "w": "jack-o'-lantern",
+          "pos": "n.",
+          "ipa": "/ˈdʒækəˌlæntɚn/",
+          "zh": "南瓜燈"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-20",
+      "date": "2026-10-27",
+      "category": "reading",
+      "en": "Point to the hedgehog hiding under the leaves.",
+      "zh": "指出躲在葉子底下的刺蝟。",
+      "ipa": "/pɔɪnt tu ðə ˈhɛdʒˌhɑɡ ˈhaɪdɪŋ ˈʌndɚ ðə livz/",
+      "vocab": [
+        {
+          "w": "point to",
+          "pos": "phr.",
+          "ipa": "/pɔɪnt tu/",
+          "zh": "指向"
+        },
+        {
+          "w": "hedgehog",
+          "pos": "n.",
+          "ipa": "/ˈhɛdʒˌhɑɡ/",
+          "zh": "刺蝟"
+        }
+      ]
+    }
+  ]
+}
