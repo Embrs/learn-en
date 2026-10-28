@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-28",
+  "theme": "家庭生活・20種情境",
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2026-10-28-1",
+      "date": "2026-10-28",
+      "category": "daily-routine",
+      "en": "Hang your wet towel on the hook after your shower.",
+      "zh": "洗完澡後把濕毛巾掛在掛鉤上。",
+      "ipa": "/hæŋ jʊr wɛt ˈtaʊəl ɑn ðə hʊk ˈæftɚ jʊr ˈʃaʊɚ/",
+      "vocab": [
+        {
+          "w": "towel",
+          "pos": "n.",
+          "ipa": "/ˈtaʊəl/",
+          "zh": "毛巾"
+        },
+        {
+          "w": "hook",
+          "pos": "n.",
+          "ipa": "/hʊk/",
+          "zh": "掛鉤"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-2",
+      "date": "2026-10-28",
+      "category": "meals",
+      "en": "Can you pass me the bowl of mashed potatoes?",
+      "zh": "可以把那碗馬鈴薯泥遞給我嗎？",
+      "ipa": "/kæn ju pæs mi ðə bol əv mæʃt pəˈtetoz/",
+      "vocab": [
+        {
+          "w": "pass",
+          "pos": "v.",
+          "ipa": "/pæs/",
+          "zh": "傳遞；遞給"
+        },
+        {
+          "w": "mashed potatoes",
+          "pos": "n.",
+          "ipa": "/mæʃt pəˈtetoz/",
+          "zh": "馬鈴薯泥"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-3",
+      "date": "2026-10-28",
+      "category": "bath-bedtime",
+      "en": "Pick one more song, then it's lights out.",
+      "zh": "再選一首歌，然後就要關燈囉。",
+      "ipa": "/pɪk wʌn mɔr sɔŋ ðɛn ɪts laɪts aʊt/",
+      "vocab": [
+        {
+          "w": "pick",
+          "pos": "v.",
+          "ipa": "/pɪk/",
+          "zh": "挑選"
+        },
+        {
+          "w": "lights out",
+          "pos": "phr.",
+          "ipa": "/laɪts aʊt/",
+          "zh": "熄燈"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-4",
+      "date": "2026-10-28",
+      "category": "outings",
+      "en": "Let's pick a big pumpkin at the farm today.",
+      "zh": "我們今天去農場挑一顆大南瓜吧。",
+      "ipa": "/lɛts pɪk ə bɪɡ ˈpʌmpkɪn æt ðə fɑrm təˈde/",
+      "vocab": [
+        {
+          "w": "pumpkin",
+          "pos": "n.",
+          "ipa": "/ˈpʌmpkɪn/",
+          "zh": "南瓜"
+        },
+        {
+          "w": "farm",
+          "pos": "n.",
+          "ipa": "/fɑrm/",
+          "zh": "農場"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-5",
+      "date": "2026-10-28",
+      "category": "playground",
+      "en": "Hold the rope tight while you climb up the net.",
+      "zh": "爬網子的時候要緊緊抓住繩子。",
+      "ipa": "/hold ðə rop taɪt waɪl ju klaɪm ʌp ðə nɛt/",
+      "vocab": [
+        {
+          "w": "rope",
+          "pos": "n.",
+          "ipa": "/rop/",
+          "zh": "繩子"
+        },
+        {
+          "w": "climb",
+          "pos": "v.",
+          "ipa": "/klaɪm/",
+          "zh": "攀爬"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-6",
+      "date": "2026-10-28",
+      "category": "school",
+      "en": "Tell me one new thing your teacher showed you today.",
+      "zh": "跟我說一件老師今天教你的新東西。",
+      "ipa": "/tɛl mi wʌn nu θɪŋ jʊr ˈtitʃɚ ʃod ju təˈde/",
+      "vocab": [
+        {
+          "w": "teacher",
+          "pos": "n.",
+          "ipa": "/ˈtitʃɚ/",
+          "zh": "老師"
+        },
+        {
+          "w": "show",
+          "pos": "v.",
+          "ipa": "/ʃo/",
+          "zh": "展示；教"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-7",
+      "date": "2026-10-28",
+      "category": "homework",
+      "en": "Trace the dotted line from the bee to the flower.",
+      "zh": "沿著虛線把小蜜蜂連到花朵。",
+      "ipa": "/tres ðə ˈdɑtɪd laɪn frəm ðə bi tu ðə ˈflaʊɚ/",
+      "vocab": [
+        {
+          "w": "trace",
+          "pos": "v.",
+          "ipa": "/tres/",
+          "zh": "描；沿線描畫"
+        },
+        {
+          "w": "dotted line",
+          "pos": "n.",
+          "ipa": "/ˈdɑtɪd laɪn/",
+          "zh": "虛線"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-8",
+      "date": "2026-10-28",
+      "category": "toys-sharing",
+      "en": "Your cousin can drive the fire truck for five minutes.",
+      "zh": "讓表弟開消防車玩五分鐘。",
+      "ipa": "/jʊr ˈkʌzn̩ kæn draɪv ðə faɪr trʌk fɔr faɪv ˈmɪnɪts/",
+      "vocab": [
+        {
+          "w": "cousin",
+          "pos": "n.",
+          "ipa": "/ˈkʌzn̩/",
+          "zh": "堂／表兄弟姊妹"
+        },
+        {
+          "w": "fire truck",
+          "pos": "n.",
+          "ipa": "/faɪr trʌk/",
+          "zh": "消防車"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-9",
+      "date": "2026-10-28",
+      "category": "emotions",
+      "en": "I can see you're frustrated. Let's take a deep breath.",
+      "zh": "我看得出你很挫折，我們先深呼吸一下。",
+      "ipa": "/aɪ kæn si jʊr ˈfrʌsˌtretɪd lɛts tek ə dip brɛθ/",
+      "vocab": [
+        {
+          "w": "frustrated",
+          "pos": "adj.",
+          "ipa": "/ˈfrʌsˌtretɪd/",
+          "zh": "挫折的；沮喪的"
+        },
+        {
+          "w": "deep breath",
+          "pos": "phr.",
+          "ipa": "/dip brɛθ/",
+          "zh": "深呼吸"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-10",
+      "date": "2026-10-28",
+      "category": "discipline",
+      "en": "We use gentle hands with the kitty, not grabbing.",
+      "zh": "摸小貓要輕輕的，不可以用抓的。",
+      "ipa": "/wi juz ˈdʒɛntl̩ hændz wɪð ðə ˈkɪti nɑt ˈɡræbɪŋ/",
+      "vocab": [
+        {
+          "w": "gentle",
+          "pos": "adj.",
+          "ipa": "/ˈdʒɛntl̩/",
+          "zh": "溫柔的；輕柔的"
+        },
+        {
+          "w": "grab",
+          "pos": "v.",
+          "ipa": "/ɡræb/",
+          "zh": "抓；搶"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-11",
+      "date": "2026-10-28",
+      "category": "praise",
+      "en": "You kept trying until you got it. That's amazing!",
+      "zh": "你一直試到成功為止，太棒了！",
+      "ipa": "/ju kɛpt ˈtraɪɪŋ ənˈtɪl ju ɡɑt ɪt ðæts əˈmezɪŋ/",
+      "vocab": [
+        {
+          "w": "keep trying",
+          "pos": "phr.",
+          "ipa": "/kip ˈtraɪɪŋ/",
+          "zh": "持續嘗試"
+        },
+        {
+          "w": "amazing",
+          "pos": "adj.",
+          "ipa": "/əˈmezɪŋ/",
+          "zh": "了不起的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-12",
+      "date": "2026-10-28",
+      "category": "safety",
+      "en": "Wait for the little green man before we cross.",
+      "zh": "等小綠人亮了我們再過馬路。",
+      "ipa": "/wet fɔr ðə ˈlɪtl̩ ɡrin mæn bɪˈfɔr wi krɔs/",
+      "vocab": [
+        {
+          "w": "green man",
+          "pos": "n.",
+          "ipa": "/ɡrin mæn/",
+          "zh": "（行人號誌的）小綠人"
+        },
+        {
+          "w": "cross",
+          "pos": "v.",
+          "ipa": "/krɔs/",
+          "zh": "穿越；過（馬路）"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-13",
+      "date": "2026-10-28",
+      "category": "health",
+      "en": "Let me feel your forehead to see if you're warm.",
+      "zh": "讓我摸摸你的額頭，看看有沒有發燒。",
+      "ipa": "/lɛt mi fil jʊr ˈfɔrˌhɛd tu si ɪf jʊr wɔrm/",
+      "vocab": [
+        {
+          "w": "forehead",
+          "pos": "n.",
+          "ipa": "/ˈfɔrˌhɛd/",
+          "zh": "額頭"
+        },
+        {
+          "w": "warm",
+          "pos": "adj.",
+          "ipa": "/wɔrm/",
+          "zh": "溫熱的；（身體）發熱的"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-14",
+      "date": "2026-10-28",
+      "category": "relatives",
+      "en": "Uncle Ben is coming over to fix your bike.",
+      "zh": "班叔叔要過來幫你修腳踏車。",
+      "ipa": "/ˈʌŋkl̩ bɛn ɪz ˈkʌmɪŋ ˈovɚ tu fɪks jʊr baɪk/",
+      "vocab": [
+        {
+          "w": "come over",
+          "pos": "phr.",
+          "ipa": "/kʌm ˈovɚ/",
+          "zh": "過來（拜訪）"
+        },
+        {
+          "w": "fix",
+          "pos": "v.",
+          "ipa": "/fɪks/",
+          "zh": "修理"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-15",
+      "date": "2026-10-28",
+      "category": "friends",
+      "en": "Maybe you and Mia can build the sandcastle together.",
+      "zh": "也許你和米亞可以一起堆沙堡。",
+      "ipa": "/ˈmebi ju ænd ˈmiə kæn bɪld ðə ˈsændˌkæsl̩ təˈɡɛðɚ/",
+      "vocab": [
+        {
+          "w": "sandcastle",
+          "pos": "n.",
+          "ipa": "/ˈsændˌkæsl̩/",
+          "zh": "沙堡"
+        },
+        {
+          "w": "together",
+          "pos": "adv.",
+          "ipa": "/təˈɡɛðɚ/",
+          "zh": "一起"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-16",
+      "date": "2026-10-28",
+      "category": "manners",
+      "en": "Remember to knock before you open the bathroom door.",
+      "zh": "開浴室門之前記得先敲門。",
+      "ipa": "/rɪˈmɛmbɚ tu nɑk bɪˈfɔr ju ˈopən ðə ˈbæθˌrum dɔr/",
+      "vocab": [
+        {
+          "w": "knock",
+          "pos": "v.",
+          "ipa": "/nɑk/",
+          "zh": "敲門"
+        },
+        {
+          "w": "bathroom",
+          "pos": "n.",
+          "ipa": "/ˈbæθˌrum/",
+          "zh": "浴室"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-17",
+      "date": "2026-10-28",
+      "category": "weather",
+      "en": "It's chilly this morning, so grab your scarf.",
+      "zh": "今天早上有點冷，記得拿圍巾。",
+      "ipa": "/ɪts ˈtʃɪli ðɪs ˈmɔrnɪŋ so ɡræb jʊr skɑrf/",
+      "vocab": [
+        {
+          "w": "chilly",
+          "pos": "adj.",
+          "ipa": "/ˈtʃɪli/",
+          "zh": "寒冷的；涼颼颼的"
+        },
+        {
+          "w": "scarf",
+          "pos": "n.",
+          "ipa": "/skɑrf/",
+          "zh": "圍巾"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-18",
+      "date": "2026-10-28",
+      "category": "screen-time",
+      "en": "Let's choose one short show and then play outside.",
+      "zh": "我們選一個短短的節目，看完就去外面玩。",
+      "ipa": "/lɛts tʃuz wʌn ʃɔrt ʃo ænd ðɛn ple ˌaʊtˈsaɪd/",
+      "vocab": [
+        {
+          "w": "choose",
+          "pos": "v.",
+          "ipa": "/tʃuz/",
+          "zh": "選擇"
+        },
+        {
+          "w": "outside",
+          "pos": "adv.",
+          "ipa": "/ˌaʊtˈsaɪd/",
+          "zh": "在外面"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-19",
+      "date": "2026-10-28",
+      "category": "celebrations",
+      "en": "Let's bake spooky ghost cookies for the Halloween party.",
+      "zh": "我們來為萬聖節派對烤幽靈造型餅乾吧。",
+      "ipa": "/lɛts bek ˈspuki ɡost ˈkʊkiz fɔr ðə ˌhæloˈin ˈpɑrti/",
+      "vocab": [
+        {
+          "w": "spooky",
+          "pos": "adj.",
+          "ipa": "/ˈspuki/",
+          "zh": "陰森的；嚇人的"
+        },
+        {
+          "w": "ghost",
+          "pos": "n.",
+          "ipa": "/ɡost/",
+          "zh": "鬼；幽靈"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-20",
+      "date": "2026-10-28",
+      "category": "reading",
+      "en": "Can you guess what the little owl will do next?",
+      "zh": "你猜得到小貓頭鷹接下來會做什麼嗎？",
+      "ipa": "/kæn ju ɡɛs wɑt ðə ˈlɪtl̩ aʊl wɪl du nɛkst/",
+      "vocab": [
+        {
+          "w": "guess",
+          "pos": "v.",
+          "ipa": "/ɡɛs/",
+          "zh": "猜"
+        },
+        {
+          "w": "owl",
+          "pos": "n.",
+          "ipa": "/aʊl/",
+          "zh": "貓頭鷹"
+        }
+      ]
+    }
+  ]
+}
